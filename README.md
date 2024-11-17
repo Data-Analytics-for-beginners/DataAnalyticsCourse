@@ -77,3 +77,8 @@
 
 Цей курс був створений командою спеціалістів з аналізу даних для підвищення кваліфікації в області Data Analytics. 
 
+
+
+[Earthquake Data Analysis and Visualization (1995 - 2023)](https://github.com/arahulina/da_project)
+
+
