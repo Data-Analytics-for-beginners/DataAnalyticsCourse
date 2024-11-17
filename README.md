@@ -79,6 +79,8 @@
 
 
 
+##Приклади проектів:
+
 [Earthquake Data Analysis and Visualization (1995 - 2023)](https://github.com/arahulina/da_project)
 
 
