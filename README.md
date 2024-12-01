@@ -83,5 +83,7 @@
 
 [Earthquake Data Analysis and Visualization (1995 - 2023)](https://github.com/arahulina/danewmultiapp)
 
+[Spoty Most Streammed Songs](https://github.com/VolodymyrBozhynskyi/DA-MyNewProject09_10_2024)
+
 
 
