@@ -85,5 +85,7 @@
 
 [Spoty Most Streammed Songs](https://github.com/VolodymyrBozhynskyi/DA-MyNewProject09_10_2024)
 
+[Фактори успішності студентів](https://github.com/volkowladys/StundentPerformanceFactors?tab=readme-ov-file)
+
 
 
