@@ -84,9 +84,13 @@
 ## DA1
 
 [Аналіз волатильності ринку](https://github.com/yanina-r/stock-market-app )
+
 [Прогнозування продажів відеоігор](https://github.com/KarynaVyl/Video-Game-Sales-Forecasting)
+
 [Аналіз результатів команди Edmonton Oilers у сезоні 2023-2024](https://github.com/serhii9227/EO2023-2024)
+
 [Прогнозування дозволів на тераси у громадських місцях Барселони](https://github.com/Zeremhok/BCN-Open-Data/blob/main/README.md)
+
 [Дослідження фінансової допомоги громадами Київської області для ЗСУ]()
 
 ## DA2
