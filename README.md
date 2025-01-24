@@ -102,4 +102,9 @@
 [Фактори успішності студентів](https://github.com/volkowladys/StundentPerformanceFactors?tab=readme-ov-file)
 
 
+# ПОСИЛАННЯ
+1) 
+
+
+
 
