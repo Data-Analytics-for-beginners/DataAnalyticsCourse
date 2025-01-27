@@ -103,7 +103,26 @@
 
 
 # ПОСИЛАННЯ
-1) 
+
+# Python
+1)  Beginner level Python course, https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
+
+# API 
+2)  Introduction to APIs in Python, https://app.datacamp.com/learn/courses/introduction-to-apis-in-python
+
+# AI 
+3)  AI Fundamentals Skills Track, https://app.datacamp.com/learn/skill-tracks/ai-fundamentals
+4)  Introduction to ChatGPT,  https://app.datacamp.com/learn/courses/introduction-to-chatgpt
+5)  LLM Concepts, https://app.datacamp.com/learn/courses/large-language-models-llms-concepts
+6)  Understanding ML, https://app.datacamp.com/learn/courses/understanding-machine-learning
+7)  AI Business Fundamentals,  https://app.datacamp.com/learn/skill-tracks/ai-business-fundamentals
+8)  Gen AI for Business,  https://app.datacamp.com/learn/courses/generative-ai-for-business
+9)  AI Strategy, https://app.datacamp.com/learn/courses/artificial-intelligence-ai-strategy
+10)  Developing AI Applications, https://app.datacamp.com/learn/skill-tracks/developing-ai-applications
+11)  How to work with APIs and build complete systems,  https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api
+12)  Working with Hugging Face, https://app.datacamp.com/learn/courses/working-with-hugging-face?irclickid
+13)  Developing applications with LangChain, https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
+14)  Project with LLMs,  https://app.datacamp.com/learn/projects/1849
 
 
 
