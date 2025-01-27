@@ -123,6 +123,7 @@
 12)  Working with Hugging Face, https://app.datacamp.com/learn/courses/working-with-hugging-face?irclickid
 13)  Developing applications with LangChain, https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
 14)  Project with LLMs,  https://app.datacamp.com/learn/projects/1849
+15)  Skills track for developing LLMs,  https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
 
 
 
