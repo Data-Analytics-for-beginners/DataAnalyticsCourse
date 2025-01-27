@@ -102,15 +102,15 @@
 [Фактори успішності студентів](https://github.com/volkowladys/StundentPerformanceFactors?tab=readme-ov-file)
 
 
-# ПОСИЛАННЯ
+## ПОСИЛАННЯ
 
-# Python
+### Python
 1)  Beginner level Python course, https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
 
-# API 
+### API 
 2)  Introduction to APIs in Python, https://app.datacamp.com/learn/courses/introduction-to-apis-in-python
 
-# AI 
+### AI 
 3)  AI Fundamentals Skills Track, https://app.datacamp.com/learn/skill-tracks/ai-fundamentals
 4)  Introduction to ChatGPT,  https://app.datacamp.com/learn/courses/introduction-to-chatgpt
 5)  LLM Concepts, https://app.datacamp.com/learn/courses/large-language-models-llms-concepts
