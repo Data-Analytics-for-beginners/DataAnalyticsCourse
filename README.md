@@ -79,7 +79,7 @@
 
 
 
-## Приклади проектів:
+## Приклади проектів студентів:
 
 ## DA1
 
@@ -100,6 +100,18 @@
 [Spoty Most Streammed Songs](https://github.com/VolodymyrBozhynskyi/DA-MyNewProject09_10_2024)
 
 [Фактори успішності студентів](https://github.com/volkowladys/StundentPerformanceFactors?tab=readme-ov-file)
+
+
+## DA 3 
+
+[1](https://github.com/SviatoslavaF/Demo-Streaml)
+[2](https://github.com/Maryna090/data-premium-alcohol)
+[3]()
+
+-------------------------------------------------------------------------------------------------------------
+## Навчальні проекти:
+[1. Інтерактивна візуалізація інструментів Data Science](https://github.com/Data-Analytics-for-beginners/datascience-graph-demo)
+
 
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
