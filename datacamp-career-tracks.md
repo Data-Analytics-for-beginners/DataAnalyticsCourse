@@ -475,5 +475,5 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 ### 📚 BONUS: How to Install PostgreSQL on Windows and Mac OS X
 Навчальний посібник з встановлення PostgreSQL
 
-## 🎯 BONUS: Analyzing Students' Mental Health
+### 🎯 BONUS: Analyzing Students' Mental Health
 
