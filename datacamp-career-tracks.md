@@ -452,7 +452,7 @@ https://app.datacamp.com/learn/courses/data-warehousing-concepts
 3. Data Warehouse Data Modeling (850 XP)
 4. Implementation and Data Prep (950 XP)
 
-## 8. Introduction to Snowflake 
+### 8. Introduction to Snowflake 
 https://app.datacamp.com/learn/courses/introduction-to-snowflake 
 
 1. Introduction to Snowflake: Architecture, Competitors, and SnowflakeSQL (950 XP)
