@@ -266,7 +266,7 @@ https://app.datacamp.com/learn/courses/hypothesis-testing-in-python
 3. The color and the shape (700 XP)
 4. 99 problems but a plot ain't one of them (500 XP)
 
-# 11. Data Communication Concepts
+## 11. Data Communication Concepts
 1. Розповідь історій за допомогою даних (Storytelling with Data) (750 XP)   
 2. Підготовка до комунікації даних (Preparing to Communicate the Data) (1050 XP)  
 3. Структурування письмових звітів (Structuring Written Reports) (900 XP)   
