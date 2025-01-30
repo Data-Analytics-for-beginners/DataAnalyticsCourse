@@ -123,30 +123,31 @@
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
 
-1. DataCamp Career tracks (Data Analyst with Python, Associate Data Analyst in SQL)], https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/datacamp-career-tracks.md
+#### 1. DataCamp Career tracks (Data Analyst with Python, Associate Data Analyst in SQL)
+     https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/datacamp-career-tracks.md
 
 
-### Analytial Quetions
-1) Forming Analytical Quetions, https://app.datacamp.com/learn/courses/forming-analytical-questions
+#### Analytial Quetions
+     Forming Analytical Quetions, https://app.datacamp.com/learn/courses/forming-analytical-questions
    
 ### API 
-2)  Introduction to APIs in Python, https://app.datacamp.com/learn/courses/introduction-to-apis-in-python
+     Introduction to APIs in Python, https://app.datacamp.com/learn/courses/introduction-to-apis-in-python
 
 ### AI 
     Undertanding Promt Engineering, https://app.datacamp.com/learn/courses/understanding-prompt-engineering
-3)  AI Fundamentals Skills Track, https://app.datacamp.com/learn/skill-tracks/ai-fundamentals
-4)  Introduction to ChatGPT,  https://app.datacamp.com/learn/courses/introduction-to-chatgpt
-5)  LLM Concepts, https://app.datacamp.com/learn/courses/large-language-models-llms-concepts
-6)  Understanding ML, https://app.datacamp.com/learn/courses/understanding-machine-learning
-7)  AI Business Fundamentals,  https://app.datacamp.com/learn/skill-tracks/ai-business-fundamentals
-8)  Gen AI for Business,  https://app.datacamp.com/learn/courses/generative-ai-for-business
-9)  AI Strategy, https://app.datacamp.com/learn/courses/artificial-intelligence-ai-strategy
-10)  Developing AI Applications, https://app.datacamp.com/learn/skill-tracks/developing-ai-applications
-11)  How to work with APIs and build complete systems,  https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api
-12)  Working with Hugging Face, https://app.datacamp.com/learn/courses/working-with-hugging-face?irclickid
-13)  Developing applications with LangChain, https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
-14)  Project with LLMs,  https://app.datacamp.com/learn/projects/1849
-15)  Skills track for developing LLMs,  https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
+    AI Fundamentals Skills Track, https://app.datacamp.com/learn/skill-tracks/ai-fundamentals
+    Introduction to ChatGPT,  https://app.datacamp.com/learn/courses/introduction-to-chatgpt
+    LLM Concepts, https://app.datacamp.com/learn/courses/large-language-models-llms-concepts
+    Understanding ML, https://app.datacamp.com/learn/courses/understanding-machine-learning
+    AI Business Fundamentals,  https://app.datacamp.com/learn/skill-tracks/ai-business-fundamentals
+    Gen AI for Business,  https://app.datacamp.com/learn/courses/generative-ai-for-business
+    AI Strategy, https://app.datacamp.com/learn/courses/artificial-intelligence-ai-strategy
+    Developing AI Applications, https://app.datacamp.com/learn/skill-tracks/developing-ai-applications
+    How to work with APIs and build complete systems,  https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api
+    Working with Hugging Face, https://app.datacamp.com/learn/courses/working-with-hugging-face?irclickid
+    Developing applications with LangChain, https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
+    Project with LLMs,  https://app.datacamp.com/learn/projects/1849
+    Skills track for developing LLMs,  https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
 
 
 
