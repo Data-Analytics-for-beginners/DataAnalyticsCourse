@@ -313,7 +313,75 @@ https://app.datacamp.com/learn/courses/deploying-and-maintaining-assets-in-power
 3. Enabling Users in Power BI (600 XP)
 
 -------------------------------------------------------------------------------------------------------------------------------
+## Data Analyst in Tableau
+https://app.datacamp.com/learn/career-tracks/data-analyst-in-tableau
+
+### 1. Introduction to Tableau
+https://app.datacamp.com/learn/courses/introduction-to-tableau
+
+1. Getting Started with Tableau (1000 XP)
+2. Building and Customizing Visualizations (1600 XP)
+3. Digging Deeper (1500 XP)
+4. Presenting Your Data (1000 XP)
+
+### 2. Analyzing Data in Tableau
+https://app.datacamp.com/learn/courses/analyzing-data-in-tableau
+
+1. Preparing for Analysis (1450 XP)
+2. Exploring Visualizations (1350 XP)
+3. Mapping Analysis (1400 XP)
+4. Groups, Sets, and Parameters (1350 XP)
+
+## 3. Creating Dashboards in Tableau
+https://app.datacamp.com/learn/courses/creating-dashboards-in-tableau
+
+1. Getting Started With Dashboards (1500 XP)
+2. Sharing Data Insights (1200 XP)
+
+### 4. Case Study: Analyzing Customer Churn in Tableau
+https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-tableau
+
+1. Exploratory analysis (650 XP)
+2. Investigating churn patterns (800 XP)
+3. Visualizing your analysis (750 XP)
 
 
+### 5. Connecting Data in Tableau
+https://app.datacamp.com/learn/courses/connecting-data-in-tableau
 
+1. Combining and Saving Data (1300 XP)
+2. Managing and Connecting Data (1400 XP)
+
+### 6. Data Visualization in Tableau
+https://app.datacamp.com/learn/courses/data-visualization-in-tableau 
+
+1. Start to Visualize (1200 XP)
+2. Best Practices in Data Visualization (1150 XP)
+3. Maps and Spatial Visualizations (1200 XP)
+4. Information Is Beautiful - Expanding your Charting Toolbox (1150 XP)
+
+
+### 7. Calculations in Tableau
+https://app.datacamp.com/learn/courses/calculations-in-tableau 
+
+1. Start to Calculate! (1000 XP)
+2. Level of Detail Expressions (1000 XP)
+3. Table Calculations and Parameters (950 XP)
+4. Time Series Analysis (950 XP)
+
+### 8. Case Study: Analyzing Job Market Data in Tableau
+https://app.datacamp.com/learn/courses/case-study-analyzing-job-market-data-in-tableau 
+
+1. Exploratory Analysis (750 XP)
+2. Analyzing Market Trends (650 XP)
+3. Dashboards and Insights (650 XP)
+
+
+### 9. Statistical Techniques in Tableau
+https://app.datacamp.com/learn/courses/statistical-techniques-in-tableau 
+
+1. Univariate exploratory data analysis (1050 XP)
+2. Measures of spread and confidence intervals (1100 XP)
+3. Bivariate exploratory data analysis (1000 XP)
+4. Forecasting and clustering (1150 XP)
 
