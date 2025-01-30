@@ -121,6 +121,80 @@
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
 
+# Data Analyst with Python
+https://app.datacamp.com/learn/career-tracks/data-analyst-with-python
+
+## 1. Introduction to Python
+1. Python Basics (700 XP)
+2. Python Lists (1150 XP) 
+3. Functions and Packages (950 XP)
+4. NumPy (1100 XP)
+
+## 2. Intermediate Python
+1. Matplotlib (1550 XP)
+2. Dictionaries & Pandas (1700 XP)
+3. Logic, Control Flow and Filtering (1500 XP)
+4. Loops (1450 XP)
+5. Case Study: Hacker Statistics (1200 XP)
+
+## 3. Data Manipulation with pandas
+1. Transforming DataFrames (950 XP)
+2. Aggregating DataFrames (1300 XP)
+3. Slicing and Indexing DataFrames (1250 XP)
+4. Creating and Visualizing DataFrames (1350 XP)
+
+## 4. Joining Data with pandas
+1. Data Merging Basics (900 XP)
+2. Merging Tables With Different Join Types (1100 XP)
+3. Advanced Merging and Concatenating (800 XP)
+4. Merging Ordered and Time-Series Data (1250 XP)
+
+## 5. Introduction to Statistics in Python
+1. Summary Statistics (850 XP)
+2. Random Numbers and Probability (1300 XP)
+3. More Distributions and the Central Limit Theorem (1250 XP)
+4. Correlation and Experimental Design (850 XP)
+
+## 6. Introduction to Data Visualization with Seaborn
+1. Introduction to Seaborn (750 XP)
+2. Visualizing Two Quantitative Variables (850 XP)
+3. Visualizing a Categorical and a Quantitative Variable (950 XP)
+4. Customizing Seaborn Plots (1150 XP)
+
+
+## 7. Exploratory Data Analysis in Python
+1. Getting to Know a Dataset (1050 XP)
+2. Data Cleaning and Imputation (1300 XP)
+3. Relationships in Data (900 XP)
+4. Turning Exploratory Analysis into Action (900 XP)
+
+## 8.Sampling in Python
+1. Introduction to Sampling (800 XP)
+2. Sampling Methods (1250 XP)
+3. Sampling Distributions (950 XP)
+4. Bootstrap Distributions (1000 XP)
+
+# 9. Hypothesis Testing in Python
+1. Hypothesis Testing Fundamentals (900 XP)
+2. Two-Sample and ANOVA Tests (1200 XP)
+3. Proportion Tests (950 XP)
+4. Non-Parametric Tests (700 XP)
+
+Основні концепції та практичне застосування статистичного тестування гіпотез у Python. 
+- Розуміти фундаментальні принципи тестування гіпотез
+- Проводити різні типи статистичних тестів
+- Інтерпретувати результати тестів
+- Вибирати відповідний тест для конкретної ситуації
+
+Кожен розділ включає практичні завдання та нараховує бали досвіду (XP) за їх виконання, що дозволяє відстежувати прогрес у навчанні.
+
+Кожен модуль включає практичні завдання та нараховує певну кількість балів досвіду (XP) за їх виконання. Курси побудовані так, щоб поступово розвивати навички від базових операцій до складних маніпуляцій з даними.
+
+
+Кожен розділ має свою кількість балів досвіду (XP), які можна отримати після його завершення. Курс структурований від базових понять до більш складних концепцій та включає практичний кейс для закріплення отриманих навичок.
+
+
+
 ### Analytial Quetions
 1) Forming Analytical Quetions, https://app.datacamp.com/learn/courses/forming-analytical-questions
    
@@ -133,6 +207,7 @@
 2)  Introduction to APIs in Python, https://app.datacamp.com/learn/courses/introduction-to-apis-in-python
 
 ### AI 
+    Undertanding Promt Engineering, https://app.datacamp.com/learn/courses/understanding-prompt-engineering
 3)  AI Fundamentals Skills Track, https://app.datacamp.com/learn/skill-tracks/ai-fundamentals
 4)  Introduction to ChatGPT,  https://app.datacamp.com/learn/courses/introduction-to-chatgpt
 5)  LLM Concepts, https://app.datacamp.com/learn/courses/large-language-models-llms-concepts
