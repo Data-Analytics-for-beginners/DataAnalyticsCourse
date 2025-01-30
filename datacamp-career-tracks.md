@@ -394,3 +394,86 @@ https://app.datacamp.com/learn/courses/statistical-techniques-in-tableau
 3. Bivariate exploratory data analysis (1000 XP)
 4. Forecasting and clustering (1150 XP)
 
+---------------------------------------------------------------------------------------------------
+## Associate Data Engineer in SQL
+
+### 1. Understanding Data Engineering
+https://app.datacamp.com/learn/courses/understanding-data-engineering
+
+1. What is data engineering? (750 XP)
+2. Storing data (650 XP)
+3. Moving and processing data (900 XP)
+
+### 2. Introduction to SQL
+https://app.datacamp.com/learn/courses/introduction-to-sql
+
+1. Relational Databases (650 XP)
+2. Querying (1000 XP)
+
+
+### 3. Intermediate SQL
+https://app.datacamp.com/learn/courses/intermediate-sql 
+
+1. Selecting Data (850 XP)
+2. Filtering Records (1200 XP)
+3. Aggregate Functions (900 XP)
+4. Sorting and Grouping (1000 XP)
+
+### 4. Joining Data in SQL
+https://app.datacamp.com/learn/courses/joining-data-in-sql
+
+1. Introducing Inner Joins (850 XP)
+2. Outer Joins, Cross Joins and Self Joins (1200 XP)
+3. Set Theory for SQL Joins (800 XP)
+4. Subqueries (1100 XP)
+
+### 5. Introduction to Relational Databases in SQL
+https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql
+
+1. Your first database (800 XP)
+2. Enforce data consistency with attribute constraints (850 XP)
+3. Uniquely identify records with key constraints (800 XP)
+4. Glue together tables with foreign keys (1150 XP)
+
+### 6. Database Design
+https://app.datacamp.com/learn/courses/database-design 
+
+1. Processing, Storing, and Organizing Data (850 XP)
+2. Database Schemas and Normalization (1100 XP)
+3. Database Views (1050 XP)
+4. Database Management (1150 XP)
+
+
+### 7. Data Warehousing Concepts
+https://app.datacamp.com/learn/courses/data-warehousing-concepts
+
+1. Data Warehouse Basics (700 XP)
+2. Warehouse Architectures and Properties (950 XP)
+3. Data Warehouse Data Modeling (850 XP)
+4. Implementation and Data Prep (950 XP)
+
+## 8. Introduction to Snowflake 
+https://app.datacamp.com/learn/courses/introduction-to-snowflake 
+
+1. Introduction to Snowflake: Architecture, Competitors, and SnowflakeSQL (950 XP)
+2. Snowflake SQL and key concepts (1000 XP)
+3. Advance Snowflake SQL Concepts (1300 XP)
+
+
+### 9. Understanding Data Visualization
+https://app.datacamp.com/learn/courses/understanding-data-visualization 
+
+1. Visualizing distributions (600 XP)
+2. Visualizing two variables (750 XP)
+3. The color and the shape (700 XP)
+4. 99 problems but a plot ain't one of them (500 XP)
+
+
+### 🎯 BONUS: Exploring London's Travel Network
+Проект з аналізу транспортної мережі Лондона
+
+### 📚 BONUS: How to Install PostgreSQL on Windows and Mac OS X
+Навчальний посібник з встановлення PostgreSQL
+
+## 🎯 BONUS: Analyzing Students' Mental Health
+
