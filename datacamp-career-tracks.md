@@ -180,49 +180,63 @@ https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi
 
 
 ## 1. Introduction to Power BI
+https://app.datacamp.com/learn/courses/introduction-to-power-bi
+
 1. Getting Started with Power BI (850 XP)
 2. Transforming Data (700 XP)
 3. Visualizing Data (700 XP)
 4. Filtering (750 XP)
 
 ## 2. Introduction to DAX in Power BI
+https://app.datacamp.com/learn/courses/introduction-to-dax-in-power-bi
+
 1. Getting Started with DAX (500 XP)
 2. Context in DAX Formulas (500 XP)
 3. Working with Dates (550 XP)
 
-# Поглиблені курси Power BI
-
 ## 3. Data Visualization in Power BI
+https://app.datacamp.com/learn/courses/data-visualization-in-power-bi
+
 1. The Audience is King (500 XP)
 2. Getting an Emotional Response (600 XP)
 3. Reducing Cognitive Load (500 XP)
 4. Less is More (650 XP)
 
 ## 4. Case Study: Analyzing Customer Churn in Power BI
+https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-power-bi
+
 1. Exploratory Analysis (700 XP)
 2. Investigating Churn Patterns (800 XP)
 3. Visualizing your Analysis (650 XP)
 
 
 ## 5. Data Preparation in Power BI
+https://app.datacamp.com/learn/courses/data-preparation-in-power-bi
+
 1. Profiling your Data and Introduction to Power Query (450 XP)
 2. Data Preview features in Power Query (600 XP)
 3. Data Manipulation (450 XP)
 4. Numerical transformations in Power Query (550 XP)
 
 ## 6. Data Transformation in Power BI
+https://app.datacamp.com/learn/courses/data-transformation-in-power-bi
+
 1. Reshaping Data (450 XP)
 2. Combining Data in Power Query (550 XP)
 3. Custom Columns (450 XP)
 4. Advanced Editor (700 XP)
 
 ## 7. Data Modeling in Power BI
+https://app.datacamp.com/learn/courses/data-modeling-in-power-bi
+
 1. Defining Tables (550 XP)
 2. Shaping Tables (500 XP)
 3. Dimensional Modeling (500 XP)
 4. Star and Snowflake schemas (500 XP)
 
 ## 8. Intermediate Data Modeling in Power BI
+https://app.datacamp.com/learn/courses/intermediate-data-modeling-in-power-bi
+
 1. Date Dimensions and Relationships (450 XP)
 2. Granularity, Measures, and Hierarchies (500 XP)
 3. Advanced Data Modeling (350 XP)
@@ -230,53 +244,76 @@ https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi
 
 
 ## 9. Case Study: HR Analytics in Power BI
+https://app.datacamp.com/learn/courses/case-study-hr-analytics-in-power-bi 
+
 1. Data Modeling and EDA (650 XP)
 2. Analyzing Demographics and Performance (500 XP)
 3. Bringing it all together (650 XP)
 
 
 ## 10. DAX Functions in Power BI
+https://app.datacamp.com/learn/courses/dax-functions-in-power-bi
+
 1. Setting up Data Models with DAX (600 XP)
 2. DAX and Measures (500 XP)
 3. Filtering and Counting with DAX (400 XP)
 4. Iterating Functions (550 XP)
 
 ## 11. Intermediate DAX in Power BI
+https://app.datacamp.com/learn/courses/intermediate-dax-in-power-bi
+
 1. Logical Functions (450 XP)
 2. Row-level Security (450 XP)
 3. Table Manipulation Functions (350 XP)
 4. Time Intelligence Functions (650 XP)
 
 ## 12. Exploratory Data Analysis in Power BI
+https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi
+
 1. Initial Exploratory Data Analysis in Power BI (500 XP)
 2. Distributions and Outliers (450 XP)
 3. EDA with Categorical Variables (600 XP)
 4. Relationships between Continuous Variables (500 XP)
 
 ## 13. Trend Analysis in Power BI
+https://app.datacamp.com/learn/courses/trend-analysis-in-power-bi
+
 1. Exploring Time Series Data (450 XP)
 2. Analyzing Time Series in Power BI (500 XP)
 3. Decomposition Trees (450 XP)
 4. Key Influencers (550 XP)
 
 ## 14. Reports in Power BI
+https://app.datacamp.com/learn/courses/reports-in-power-bi
+
 1. Power BI Reports (500 XP)
 2. Bookmarks, Buttons and Navigation (600 XP)
 3. Customizing the Experience (600 XP)
 4. Customize a Report with Q&A (650 XP)
 
 ## 15. Report Design in Power BI
+https://app.datacamp.com/learn/courses/report-design-in-power-bi
+
 1. Progressive Disclosure (500 XP)
 2. Customizing the View (500 XP)
 3. Design for Mobile Devices (550 XP)
 
 ## 16. Data Connections in Power BI
+https://app.datacamp.com/learn/courses/data-connections-in-power-bi
+
 1. Data Connections in Power BI (700 XP)
 2. Databases and More (450 XP)
 3. Data Source Settings (600 XP)
 
 ## 17. Deploying and Maintaining Assets in Power BI
+https://app.datacamp.com/learn/courses/deploying-and-maintaining-assets-in-power-bi
+
 1. Workspaces and Applications (500 XP)
 2. Securing Content in Power BI Service (750 XP)
 3. Enabling Users in Power BI (600 XP)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
