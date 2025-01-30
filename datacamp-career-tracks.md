@@ -83,6 +83,7 @@ https://app.datacamp.com/learn/courses/hypothesis-testing-in-python
 
 
 ## Associate Data Analyst in SQL
+https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql
 
 ### 1. Introduction to SQL
 https://app.datacamp.com/learn/courses/introduction-to-sql
