@@ -123,18 +123,12 @@
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
 
-[ 1. DataCamp Career tracks (Data Analyst with Python, Associate Data Analyst in SQL)]()
-
+1. DataCamp Career tracks (Data Analyst with Python, Associate Data Analyst in SQL)], https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/datacamp-career-tracks.md
 
 
 ### Analytial Quetions
 1) Forming Analytical Quetions, https://app.datacamp.com/learn/courses/forming-analytical-questions
    
-
-
-### Python
-1)  Beginner level Python course, https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
-
 ### API 
 2)  Introduction to APIs in Python, https://app.datacamp.com/learn/courses/introduction-to-apis-in-python
 
