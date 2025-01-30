@@ -121,7 +121,7 @@
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
 
-# Dataamp Career track: Data Analyst with Python
+# DataCamp Career track: Data Analyst with Python
 https://app.datacamp.com/learn/career-tracks/data-analyst-with-python
 
 ### 1. Introduction to Python
