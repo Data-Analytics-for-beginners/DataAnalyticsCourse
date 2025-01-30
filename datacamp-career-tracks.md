@@ -176,6 +176,45 @@ https://app.datacamp.com/learn/courses/data-communication-concepts
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Data Analyst in Power BI
+https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi
 
- 
+
+## 1. Introduction to Power BI
+1. Getting Started with Power BI (850 XP)
+2. Transforming Data (700 XP)
+3. Visualizing Data (700 XP)
+4. Filtering (750 XP)
+
+## 2. Introduction to DAX in Power BI
+1. Getting Started with DAX (500 XP)
+2. Context in DAX Formulas (500 XP)
+3. Working with Dates (550 XP)
+
+# Поглиблені курси Power BI
+
+## 3. Data Visualization in Power BI
+1. The Audience is King (500 XP)
+2. Getting an Emotional Response (600 XP)
+3. Reducing Cognitive Load (500 XP)
+4. Less is More (650 XP)
+
+## 4. Case Study: Analyzing Customer Churn in Power BI
+1. Exploratory Analysis (700 XP)
+2. Investigating Churn Patterns (800 XP)
+3. Visualizing your Analysis (650 XP)
+
+
+## 5. Data Preparation in Power BI
+1. Profiling your Data and Introduction to Power Query (450 XP)
+2. Data Preview features in Power Query (600 XP)
+3. Data Manipulation (450 XP)
+4. Numerical transformations in Power Query (550 XP)
+
+## 6. Data Transformation in Power BI
+1. Reshaping Data (450 XP)
+2. Combining Data in Power Query (550 XP)
+3. Custom Columns (450 XP)
+4. Advanced Editor (700 XP)
+
+
 
