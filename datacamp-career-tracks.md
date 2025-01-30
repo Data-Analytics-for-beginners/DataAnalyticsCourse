@@ -1,6 +1,15 @@
 
 
-# Datacamp career tracks
+
+# DataCamp Career Tracks
+
+## Професійні напрямки
+
+1. [Data Analyst with Python](#data-analyst-with-python)
+2. [Associate Data Analyst in SQL](#associate-data-analyst-in-sql)
+3. [Data Analyst in Power BI](#data-analyst-in-power-bi)
+4. [Data Analyst in Tableau](#data-analyst-in-tableau)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Analyst with Python
