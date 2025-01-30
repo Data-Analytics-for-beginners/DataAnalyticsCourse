@@ -2,6 +2,7 @@
 
 # DataCamp Career tracks
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data Analyst with Python
 
 https://app.datacamp.com/learn/career-tracks/data-analyst-with-python
@@ -80,7 +81,7 @@ https://app.datacamp.com/learn/courses/hypothesis-testing-in-python
 3. Proportion Tests (950 XP)
 4. Non-Parametric Tests (700 XP)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Associate Data Analyst in SQL
 https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql
@@ -171,5 +172,10 @@ https://app.datacamp.com/learn/courses/data-communication-concepts
 2. Підготовка до комунікації даних (Preparing to Communicate the Data) (1050 XP)  
 3. Структурування письмових звітів (Structuring Written Reports) (900 XP)   
 4. Створення переконливих усних презентацій (Building Compelling Oral Presentations) (1050 XP)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Data Analyst in Power BI
+
  
 
