@@ -84,23 +84,23 @@ https://app.datacamp.com/learn/courses/hypothesis-testing-in-python
 
 ## Associate Data Analyst in SQL
 
-## 1. Introduction to SQL
+### 1. Introduction to SQL
 1. Relational Databases (650 XP)
 2. Querying (1000 XP)
 
-## 2. Intermediate SQL
+### 2. Intermediate SQL
 1. Selecting Data (850 XP)
 2. Filtering Records (1200 XP)
 3. Aggregate Functions (900 XP)
 4. Sorting and Grouping (1000 XP)
 
-## 3. Joining Data in SQL
+### 3. Joining Data in SQL
 1. Introducing Inner Joins (850 XP)
 2. Outer Joins, Cross Joins and Self Joins (1200 XP)
 3. Set Theory for SQL Joins (800 XP)
 4. Subqueries (1100 XP)
 
-## 4. Data Manipulation in SQL
+### 4. Data Manipulation in SQL
 1. We'll take the CASE (950 XP)
 2. Short and Simple Subqueries (1200 XP)
 3. Correlated Queries, Nested Queries, and Common Table Expressions (1250 XP)
@@ -113,37 +113,37 @@ https://app.datacamp.com/learn/courses/hypothesis-testing-in-python
 3. Aggregate window functions and frames (950 XP)
 4. Beyond window functions (750 XP)
 
-## 6. Functions for Manipulating Data in PostgreSQL
+### 6. Functions for Manipulating Data in PostgreSQL
 1. Overview of Common Data Types (850 XP)
 2. Working with DATE/TIME Functions and Operators (1000 XP)
 3. Parsing and Manipulating Text (1150 XP)
 4. Full-text Search and PostgreSQL Extensions (1200 XP)
 
-## 7. Introduction to Statistics
+### 7. Introduction to Statistics
 1. Summary Statistics (750 XP)
 2. Probability and distributions (750 XP)
 3. More Distributions and the Central Limit Theorem (1000 XP)
 4. Correlation and Hypothesis Testing (950 XP)
 
-## 8. Exploratory Data Analysis in SQL
+### 8. Exploratory Data Analysis in SQL
 1. What's in the Database? (850 XP)
 2. Summarizing and Aggregating Numeric Data (1300 XP)
 3. Exploring Categorical Data and Unstructured Text (1100 XP)
 4. Working with Dates and Timestamps (1400 XP)
 
-## 9. Data-Driven Decision Making in SQL
+### 9. Data-Driven Decision Making in SQL
 1. Introduction to business Intelligence for an online movie rental database (900 XP)
 2. Decision Making with simple SQL queries (1300 XP)
 3. Data Driven Decision Making with advanced SQL queries (1200 XP)
 4. Data Driven Decision Making with OLAP SQL queries (1150 XP)
 
-## 10. Understanding Data Visualization
+### 10. Understanding Data Visualization
 1. Visualizing distributions (600 XP)
 2. Visualizing two variables (750 XP)
 3. The color and the shape (700 XP)
 4. 99 problems but a plot ain't one of them (500 XP)
 
-## 11. Data Communication Concepts
+### 11. Data Communication Concepts
 1. Розповідь історій за допомогою даних (Storytelling with Data) (750 XP)   
 2. Підготовка до комунікації даних (Preparing to Communicate the Data) (1050 XP)  
 3. Структурування письмових звітів (Structuring Written Reports) (900 XP)   
