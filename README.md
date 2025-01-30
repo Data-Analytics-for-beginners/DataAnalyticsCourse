@@ -121,6 +121,11 @@
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
 
+### Analytial Quetions
+1) Forming Analytical Quetions, https://app.datacamp.com/learn/courses/forming-analytical-questions
+   
+
+
 ### Python
 1)  Beginner level Python course, https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
 
