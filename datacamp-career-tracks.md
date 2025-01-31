@@ -502,3 +502,95 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 
 Завершивши цей курс, ви не тільки отримаєте **поглиблені навички** для розв’язання складних завдань у сфері **інженерії даних**, а й **впевненість** у їх застосуванні у **реальному світі**! 🚀
 
+
+
+
+### 1. Understanding Modern Data Architecture
+1. Introduction to Modern Data Architecture (750 XP)
+2. Modern Data Architecture Components (1050 XP)
+3. Transversal Components of Data Architectures (950 XP)
+4. Putting It All Together (800 XP)
+
+### 2. Introduction to Shell
+1. Manipulating files and directories (1000 XP)
+2. Manipulating data (1000 XP)
+3. Combining tools (1100 XP)
+4. Batch processing (750 XP)
+5. Creating new tools (800 XP)
+
+
+### 3. Containerization and Virtualization Concepts
+1. Foundations of Containerization and Virtualization (750 XP)
+2. Applications of Containerization (1050 XP)
+
+### 4. Introduction to dbt
+1. Welcome to dbt (900 XP)
+2. dbt Models (1250 XP)
+3. Testing & Documentation (1350 XP)
+4. Implementing dbt In Production (1250 XP)
+
+
+### 5. Introduction to Object-Oriented Programming in Python
+1. OOP Fundamentals (1000 XP)
+2. Inheritance and Polymorphism (1200 XP)
+3. Integrating with Standard Python (900 XP)
+
+### 6. Introduction to NoSQL
+1. Introduction to NoSQL databases (900 XP)
+2. Column-oriented Databases (1150 XP)
+3. Document Databases (1450 XP)
+4. Key-value and Graph Databases (950 XP)
+
+
+### 7. DevOps Concepts
+1. Introduction to DevOps (800 XP)
+2. DevOps Architecture (950 XP)
+3. Implementation of DevOps for Data Engineering (1000 XP)
+4. Accurate, Predictive, and Unbiased Data With DevOps (1000 XP)
+
+### 8. Introduction to Testing in Python
+1. Creating Tests with pytest (850 XP)
+2. Pytest Fixtures (1050 XP)
+3. Basic Testing Types (1200 XP)
+4. Writing tests with unittest (1250 XP)
+
+
+### 9. Introduction to Testing in Python
+1. Creating Tests with pytest (850 XP)
+2. Pytest Fixtures (1050 XP)
+3. Basic Testing Types (1200 XP)
+4. Writing tests with unittest (1250 XP)
+
+### 10. BONUS PROJECT: Debugging a Sales Data Workflow
+
+### 11 Introduction to Docker
+1. Using Docker Containers (900 XP)
+2. Writing Your Own Docker Images (1450 XP)
+3. Creating Secure Docker Images (1050 XP)
+
+
+17. Downloading Data on the Command Line
+18. Data Pipeline on the Command Line
+
+BONUS: Impactful Data Engineering—with Datadog's Wouter de Bie
+
+
+Programming in PySpark RDD's
+
+
+PySpark SQL & DataFrames
+
+
+BONUS PROJECT: Cleaning an Orders Dataset with PySpark
+
+
+### Getting to know PySpark
+
+### Manipulating data
+
+### Introduction to Big Data analysis with Spark
+
+
+
+
+
