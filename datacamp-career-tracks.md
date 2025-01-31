@@ -518,7 +518,6 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 4. Batch processing (750 XP)
 5. Creating new tools (800 XP)
 
-
 ### 3. Containerization and Virtualization Concepts
 1. Foundations of Containerization and Virtualization (750 XP)
 2. Applications of Containerization (1050 XP)
@@ -528,7 +527,6 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 2. dbt Models (1250 XP)
 3. Testing & Documentation (1350 XP)
 4. Implementing dbt In Production (1250 XP)
-
 
 ### 5. Introduction to Object-Oriented Programming in Python
 1. OOP Fundamentals (1000 XP)
@@ -540,7 +538,6 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 2. Column-oriented Databases (1150 XP)
 3. Document Databases (1450 XP)
 4. Key-value and Graph Databases (950 XP)
-
 
 ### 7. DevOps Concepts
 1. Introduction to DevOps (800 XP)
@@ -554,43 +551,76 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 3. Basic Testing Types (1200 XP)
 4. Writing tests with unittest (1250 XP)
 
+### 9. BONUS PROJECT: Debugging a Sales Data Workflow
 
-### 9. Introduction to Testing in Python
-1. Creating Tests with pytest (850 XP)
-2. Pytest Fixtures (1050 XP)
-3. Basic Testing Types (1200 XP)
-4. Writing tests with unittest (1250 XP)
-
-### 10. BONUS PROJECT: Debugging a Sales Data Workflow
-
-### 11 Introduction to Docker
+### 10 Introduction to Docker
 1. Using Docker Containers (900 XP)
 2. Writing Your Own Docker Images (1450 XP)
 3. Creating Secure Docker Images (1050 XP)
 
-
-17. Downloading Data on the Command Line
-18. Data Pipeline on the Command Line
-
 BONUS: Impactful Data Engineering—with Datadog's Wouter de Bie
-
-
 Programming in PySpark RDD's
-
-
 PySpark SQL & DataFrames
-
-
 BONUS PROJECT: Cleaning an Orders Dataset with PySpark
-
 
 ### Getting to know PySpark
 
 ### Manipulating data
-
 ### Introduction to Big Data analysis with Spark
 
+### 17. Downloading Data on the Command Line
+### 18. Data Pipeline on the Command Line
+
+### 19. Streaming Concepts
+1. Methods for Processing Data (650 XP)
+2. Intro to Streaming (1000 XP)
+3. Streaming Systems (1050 XP)
+4. Real-World Use Cases (1050 XP)
+
+### 20. Introduction to Apache Kafka
+1. Kafka components (850 XP)
+2. Kafka details (1150 XP)
+
+### 21. Introduction to Kubernetes
+1. Introduction to Kubernetes (K8s) (700 XP)
+2. Deploying Software on K8s (1300 XP)
+3. Data Engineering and MLOps (900 XP)
 
 
+---------------------------------------------------------------------------------------------------------------------
+
+## Associate AI Engineer for Data Scientists
+
+### 1. Supervised Learning with scikit-learn
+1. Classification (800 XP)
+2. Regression (1100 XP)
+3. Fine-Tuning Your Model (800 XP)
+4. Preprocessing and Pipelines (1350 XP)
+
+### 2. Unsupervised Learning in Python
+1. Clustering for Dataset Exploration (1000 XP)
+2. Visualization with Hierarchical Clustering and t-SNE (900 XP)
+3. Decorrelating Your Data and Dimension Reduction (1050 XP)
+4. Discovering Interpretable Features (1200 XP)
+
+### 3. Introduction to Deep Learning with PyTorch
+1. Introduction to PyTorch, a Deep Learning Library (700 XP) ✓
+2. Training Our First Neural Network with PyTorch (1100 XP) ✓
+3. Neural Network Architecture and Hyperparameters (1150 XP) ✓
+4. Evaluating and Improving Models (900 XP) ✓
+
+### 4. Explainable AI in Python
+1. Foundations of Explainable AI (700 XP)
+2. Model-Agnostic Explainability (1200 XP)
+3. Local Explainability (750 XP)
+4. Advanced topics in explainable AI (800 XP)
+
+### 5. Intermediate Deep Learning with PyTorch
+1. Training Robust Neural Networks (1050 XP) ✓
+2. Images & Convolutional Neural Networks (1050 XP) ✓
+3. Sequences & Recurrent Neural Networks (1050 XP) ✓
+4. Multi-Input & Multi-Output Architectures (900 XP) ✓
+
+BONUS PROJECT: Developing Multi-Input Models For OCR
 
 
