@@ -125,9 +125,10 @@
 
 #### [1. DataCamp Career tracks (Data Analyst with Python, Associate Data Analyst in SQL)](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/datacamp-career-tracks.md)
 
-
 #### 2. Datacamp Courses
-      [Forming Analytical Quetions](https://app.datacamp.com/learn/courses/forming-analytical-questions)   
+
+      [Forming Analytical Quetions](https://app.datacamp.com/learn/courses/forming-analytical-questions) 
+      
       [Introduction to APIs in Python](https://app.datacamp.com/learn/courses/introduction-to-apis-in-python)
 
 #### AI 
