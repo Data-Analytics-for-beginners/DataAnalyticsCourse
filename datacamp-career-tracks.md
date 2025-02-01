@@ -11,6 +11,8 @@
 4. [Data Analyst in Tableau](#data-analyst-in-tableau)
 5. [Associate Data Engineer in SQL](#associate-data-engineer-in-sql)
 6. [Professional Data Engineer in Python](#professional-data-engineer-in-python)
+7. [Associate AI Engineer for Data Scientists](#associate-AI-engineer-for-data-scientists)
+8. [Associate AI Engineer for Developers](#associate-AI-engineer-for-developers)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -730,14 +732,14 @@ https://app.datacamp.com/learn/courses/introduction-to-testing-in-python
 https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers
 
 
-## 1. Working with the OpenAI API
+### 1. Working with the OpenAI API
 https://app.datacamp.com/learn/courses/working-with-the-openai-api
 
 1. Introduction to the OpenAI API (450 XP) ✓
 2. OpenAI's Text and Chat Capabilities (1100 XP) ✓
 3. Going Beyond Text Completions (1100 XP) ✓
 
-## 2. ChatGPT Prompt Engineering for Developers
+### 2. ChatGPT Prompt Engineering for Developers
 https://app.datacamp.com/learn/courses/chatgpt-prompt-engineering-for-developers
 
 1. Introduction to Prompt Engineering Best Practices (1050 XP)
@@ -745,10 +747,10 @@ https://app.datacamp.com/learn/courses/chatgpt-prompt-engineering-for-developers
 3. Prompt Engineering for Business Applications (1400 XP)
 4. Prompt Engineering for Chatbot Development (900 XP)
 
-## 3. BONUS PROJECT: Planning a Trip to Paris with the OpenAI API
+### 3. BONUS PROJECT: Planning a Trip to Paris with the OpenAI API
 
 
-## 4. Working with Hugging Face
+### 4. Working with Hugging Face
 https://app.datacamp.com/learn/courses/working-with-hugging-face
 
 1. Getting Started with Hugging Face (850 XP)
@@ -756,39 +758,39 @@ https://app.datacamp.com/learn/courses/working-with-hugging-face
 3. Building Pipelines for Image and Audio (1250 XP)
 4. Fine-tuning and Embeddings (1250 XP)
 
-## 5. LLMOps Concepts
+### 5. LLMOps Concepts
 https://app.datacamp.com/learn/courses/llmops-concepts
 
 1. Introduction to LLMOps & Ideation Phase (650 XP)
 2. Development Phase (850 XP)
 3. Operational Phase (850 XP)
 
-## 6. Developing AI Systems with the OpenAI API
+### 6. Developing AI Systems with the OpenAI API
 https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api
 
 1. Structuring End-to-End Applications (800 XP)
 2. Function Calling (1250 XP)
 3. Best Practices for Production Applications (750 XP)
 
-## 7. BONUS PROJECT: Organizing Medical Transcriptions with the OpenAI API
+### 7. BONUS PROJECT: Organizing Medical Transcriptions with the OpenAI API
 
-## 8. Introduction to Embeddings with the OpenAI API
+### 8. Introduction to Embeddings with the OpenAI API
 https://app.datacamp.com/learn/courses/introduction-to-embeddings-with-the-openai-api
 
 1. What are Embeddings? (950 XP)
 2. Embeddings for AI Applications (950 XP)
 3. Vector Databases (1100 XP)
 
-## 9. BONUS PROJECT: Topic Analysis of Clothing Reviews with Embeddings
+### 9. BONUS PROJECT: Topic Analysis of Clothing Reviews with Embeddings
 
-## 10. Vector Databases for Embeddings with Pinecone
+### 10. Vector Databases for Embeddings with Pinecone
 https://app.datacamp.com/learn/courses/vector-databases-for-embeddings-with-pinecone
 
 1. Introduction to Pinecone (850 XP)
 2. Pinecone Vector Manipulation in Python (1100 XP)
 3. Performance Tuning and AI Applications (1350 XP)
 
-## 11. Developing LLM Applications with LangChain
+### 11. Developing LLM Applications with LangChain
 https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
 
 1. Introduction to LangChain & Chatbot Mechanics (850 XP)
