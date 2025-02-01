@@ -133,35 +133,3 @@
       
 ####  [Introduction to APIs in Python](https://app.datacamp.com/learn/courses/introduction-to-apis-in-python)
 
-#### AI 
-    Undertanding Promt Engineering, https://app.datacamp.com/learn/courses/understanding-prompt-engineering
-    
-    AI Fundamentals Skills Track, https://app.datacamp.com/learn/skill-tracks/ai-fundamentals
-    
-    Introduction to ChatGPT,  https://app.datacamp.com/learn/courses/introduction-to-chatgpt
-    
-    LLM Concepts, https://app.datacamp.com/learn/courses/large-language-models-llms-concepts
-    
-    Understanding ML, https://app.datacamp.com/learn/courses/understanding-machine-learning
-    
-    AI Business Fundamentals,  https://app.datacamp.com/learn/skill-tracks/ai-business-fundamentals
-    
-    Gen AI for Business,  https://app.datacamp.com/learn/courses/generative-ai-for-business
-    
-    AI Strategy, https://app.datacamp.com/learn/courses/artificial-intelligence-ai-strategy
-    
-    Developing AI Applications, https://app.datacamp.com/learn/skill-tracks/developing-ai-applications
-    
-    How to work with APIs and build complete systems,  https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api
-    
-    Working with Hugging Face, https://app.datacamp.com/learn/courses/working-with-hugging-face?irclickid
-    
-    Developing applications with LangChain, https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
-    
-    Project with LLMs,  https://app.datacamp.com/learn/projects/1849
-    
-    Skills track for developing LLMs,  https://app.datacamp.com/learn/skill-tracks/developing-large-language-models
-
-
-
-
