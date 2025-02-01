@@ -398,6 +398,75 @@ https://app.datacamp.com/learn/courses/statistical-techniques-in-tableau
 3. Bivariate exploratory data analysis (1000 XP)
 4. Forecasting and clustering (1150 XP)
 
+
+--------------------------------------------------------------------------------------------------
+## Data Engineer
+
+### 1. Understanding Data Engineering
+https://app.datacamp.com/learn/courses/understanding-data-engineering
+
+1. What is data engineering? (750 XP)
+2. Storing data (650 XP)
+3. Moving and processing data (900 XP)
+
+### 2. Introduction to SQL
+https://app.datacamp.com/learn/courses/introduction-to-sql
+
+1. Relational Databases (650 XP)
+2. Querying (1000 XP)
+
+
+### 3. Intermediate SQL
+https://app.datacamp.com/learn/courses/intermediate-sql 
+
+1. Selecting Data (850 XP)
+2. Filtering Records (1200 XP)
+3. Aggregate Functions (900 XP)
+4. Sorting and Grouping (1000 XP)
+
+### 4. Joining Data in SQL
+https://app.datacamp.com/learn/courses/joining-data-in-sql
+
+1. Introducing Inner Joins (850 XP)
+2. Outer Joins, Cross Joins and Self Joins (1200 XP)
+3. Set Theory for SQL Joins (800 XP)
+4. Subqueries (1100 XP)
+
+### 5. Introduction to Relational Databases in SQL
+https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql
+
+1. Your first database (800 XP)
+2. Enforce data consistency with attribute constraints (850 XP)
+3. Uniquely identify records with key constraints (800 XP)
+4. Glue together tables with foreign keys (1150 XP)
+
+### 6. Database Design
+https://app.datacamp.com/learn/courses/database-design 
+
+1. Processing, Storing, and Organizing Data (850 XP)
+2. Database Schemas and Normalization (1100 XP)
+3. Database Views (1050 XP)
+4. Database Management (1150 XP)
+
+### 7. Introduction to Python
+https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
+
+1. Python Basics (700 XP)
+2. Python Lists (1150 XP) 
+3. Functions and Packages (950 XP)
+4. NumPy (1100 XP)
+
+### 8. Intermediate Python
+https://app.datacamp.com/learn/courses/intermediate-python
+
+1. Matplotlib (1550 XP)
+2. Dictionaries & Pandas (1700 XP)
+3. Logic, Control Flow and Filtering (1500 XP)
+4. Loops (1450 XP)
+5. Case Study: Hacker Statistics (1200 XP)
+
+
+
 ---------------------------------------------------------------------------------------------------
 ## Associate Data Engineer in SQL
 
