@@ -9,6 +9,7 @@
 2. [Associate Data Analyst in SQL](#associate-data-analyst-in-sql)
 3. [Data Analyst in Power BI](#data-analyst-in-power-bi)
 4. [Data Analyst in Tableau](#data-analyst-in-tableau)
+5. [Associate Data Engineer in SQL](#associate-data-engineer-in-sql)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -483,6 +484,7 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Professional Data Engineer in Python
+https://app.datacamp.com/learn/career-tracks/professional-data-engineer
 
 Підніміть свої навички на новий рівень з нашим курсом **"Професійний інженер даних"**!  
 
@@ -506,12 +508,16 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 
 
 ### 1. Understanding Modern Data Architecture
+https://app.datacamp.com/learn/courses/understanding-modern-data-architecture
+
 1. Introduction to Modern Data Architecture (750 XP)
 2. Modern Data Architecture Components (1050 XP)
 3. Transversal Components of Data Architectures (950 XP)
 4. Putting It All Together (800 XP)
 
 ### 2. Introduction to Shell
+https://app.datacamp.com/learn/courses/introduction-to-shell
+
 1. Manipulating files and directories (1000 XP)
 2. Manipulating data (1000 XP)
 3. Combining tools (1100 XP)
@@ -519,33 +525,45 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 5. Creating new tools (800 XP)
 
 ### 3. Containerization and Virtualization Concepts
+https://app.datacamp.com/learn/courses/containerization-and-virtualization-concepts
+
 1. Foundations of Containerization and Virtualization (750 XP)
 2. Applications of Containerization (1050 XP)
 
 ### 4. Introduction to dbt
+https://app.datacamp.com/learn/courses/introduction-to-dbt
+
 1. Welcome to dbt (900 XP)
 2. dbt Models (1250 XP)
 3. Testing & Documentation (1350 XP)
 4. Implementing dbt In Production (1250 XP)
 
 ### 5. Introduction to Object-Oriented Programming in Python
+https://app.datacamp.com/learn/courses/introduction-to-object-oriented-programming-in-python
+
 1. OOP Fundamentals (1000 XP)
 2. Inheritance and Polymorphism (1200 XP)
 3. Integrating with Standard Python (900 XP)
 
 ### 6. Introduction to NoSQL
+https://app.datacamp.com/learn/courses/introduction-to-nosql
+
 1. Introduction to NoSQL databases (900 XP)
 2. Column-oriented Databases (1150 XP)
 3. Document Databases (1450 XP)
 4. Key-value and Graph Databases (950 XP)
 
 ### 7. DevOps Concepts
+https://app.datacamp.com/learn/courses/devops-concepts
+
 1. Introduction to DevOps (800 XP)
 2. DevOps Architecture (950 XP)
 3. Implementation of DevOps for Data Engineering (1000 XP)
 4. Accurate, Predictive, and Unbiased Data With DevOps (1000 XP)
 
 ### 8. Introduction to Testing in Python
+https://app.datacamp.com/learn/courses/introduction-to-testing-in-python
+
 1. Creating Tests with pytest (850 XP)
 2. Pytest Fixtures (1050 XP)
 3. Basic Testing Types (1200 XP)
@@ -554,6 +572,8 @@ https://app.datacamp.com/learn/courses/understanding-data-visualization
 ### 9. BONUS PROJECT: Debugging a Sales Data Workflow
 
 ### 10 Introduction to Docker
+https://app.datacamp.com/learn/courses/introduction-to-docker
+
 1. Using Docker Containers (900 XP)
 2. Writing Your Own Docker Images (1450 XP)
 3. Creating Secure Docker Images (1050 XP)
@@ -564,24 +584,37 @@ PySpark SQL & DataFrames
 BONUS PROJECT: Cleaning an Orders Dataset with PySpark
 
 ### Getting to know PySpark
+https://app.datacamp.com/learn/courses/introduction-to-pyspark
 
 ### Manipulating data
+https://app.datacamp.com/learn/courses/introduction-to-pyspark
+
 ### Introduction to Big Data analysis with Spark
+https://app.datacamp.com/learn/courses/big-data-fundamentals-with-pyspark
 
 ### 17. Downloading Data on the Command Line
+https://app.datacamp.com/learn/courses/data-processing-in-shell
+
 ### 18. Data Pipeline on the Command Line
+https://app.datacamp.com/learn/courses/data-processing-in-shell
 
 ### 19. Streaming Concepts
+https://app.datacamp.com/learn/courses/streaming-concepts
+
 1. Methods for Processing Data (650 XP)
 2. Intro to Streaming (1000 XP)
 3. Streaming Systems (1050 XP)
 4. Real-World Use Cases (1050 XP)
 
 ### 20. Introduction to Apache Kafka
+https://app.datacamp.com/learn/courses/introduction-to-apache-kafka
+
 1. Kafka components (850 XP)
 2. Kafka details (1150 XP)
 
 ### 21. Introduction to Kubernetes
+https://app.datacamp.com/learn/courses/introduction-to-kubernetes
+
 1. Introduction to Kubernetes (K8s) (700 XP)
 2. Deploying Software on K8s (1300 XP)
 3. Data Engineering and MLOps (900 XP)
@@ -590,37 +623,176 @@ BONUS PROJECT: Cleaning an Orders Dataset with PySpark
 ---------------------------------------------------------------------------------------------------------------------
 
 ## Associate AI Engineer for Data Scientists
+https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists
 
 ### 1. Supervised Learning with scikit-learn
+https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn
+
 1. Classification (800 XP)
 2. Regression (1100 XP)
 3. Fine-Tuning Your Model (800 XP)
 4. Preprocessing and Pipelines (1350 XP)
 
 ### 2. Unsupervised Learning in Python
+https://app.datacamp.com/learn/courses/unsupervised-learning-in-python
+
 1. Clustering for Dataset Exploration (1000 XP)
 2. Visualization with Hierarchical Clustering and t-SNE (900 XP)
 3. Decorrelating Your Data and Dimension Reduction (1050 XP)
 4. Discovering Interpretable Features (1200 XP)
 
 ### 3. Introduction to Deep Learning with PyTorch
+https://app.datacamp.com/learn/courses/unsupervised-learning-in-python
+
 1. Introduction to PyTorch, a Deep Learning Library (700 XP) ✓
 2. Training Our First Neural Network with PyTorch (1100 XP) ✓
 3. Neural Network Architecture and Hyperparameters (1150 XP) ✓
 4. Evaluating and Improving Models (900 XP) ✓
 
 ### 4. Explainable AI in Python
+https://app.datacamp.com/learn/courses/unsupervised-learning-in-python
+
 1. Foundations of Explainable AI (700 XP)
 2. Model-Agnostic Explainability (1200 XP)
 3. Local Explainability (750 XP)
 4. Advanced topics in explainable AI (800 XP)
 
 ### 5. Intermediate Deep Learning with PyTorch
+https://app.datacamp.com/learn/courses/intermediate-deep-learning-with-pytorch
+
 1. Training Robust Neural Networks (1050 XP) ✓
 2. Images & Convolutional Neural Networks (1050 XP) ✓
 3. Sequences & Recurrent Neural Networks (1050 XP) ✓
 4. Multi-Input & Multi-Output Architectures (900 XP) ✓
 
-BONUS PROJECT: Developing Multi-Input Models For OCR
+### 6. BONUS PROJECT: Developing Multi-Input Models For OCR
+
+### 7. Responsible AI Data Management
+https://app.datacamp.com/learn/courses/responsible-ai-data-management
+
+1. Introduction to Responsible AI Data Management (700 XP)
+2. Regulation Compliance and Licensing (950 XP)
+3. Data Acquisition (800 XP)
+4. Data Validation and Bias Mitigation Strategies (1050 XP)
+
+
+### 8. Introduction to LLMs in Python
+https://app.datacamp.com/learn/courses/introduction-to-llms-in-python
+
+1. Getting Started with Large Language Models (LLMs) (650 XP)
+2. Fine-tuning LLMs (800 XP)
+3. Evaluating LLM performance (1250 XP)
+
+### 9. BONUS PROJECT: Analyzing Car Reviews with LLMs
+
+### 10. Working with Llama 3
+https://app.datacamp.com/learn/courses/working-with-llama-3
+
+1. Understanding LLMs and Llama (750 XP)
+2. Using Llama Locally (900 XP)
+
+### 11. MLOps Concepts
+https://app.datacamp.com/learn/courses/mlops-concepts
+
+1. Introduction to MLOps (600 XP) ✓
+2. Design and Development (750 XP) ✓
+3. Deploying Machine Learning Into Production (750 XP) ✓
+4. Maintaining Machine Learning In Production (850 XP) ✓
+
+### 12. Software Engineering Principles in Python
+https://app.datacamp.com/learn/courses/introduction-to-git
+
+1. Software Engineering & Data Science (750 XP) ✓
+2. Writing a Python Module (950 XP) ✓
+3. Utilizing Classes (1200 XP) ✓
+4. Maintainability (1200 XP) ✓
+
+
+### 13. Introduction to Git
+https://app.datacamp.com/learn/courses/introduction-to-git
+
+1. Introduction to Git (750 XP)
+2. Version history (900 XP)
+
+### 14. Introduction to Testing in Python
+https://app.datacamp.com/learn/courses/introduction-to-testing-in-python
+
+1. Creating Tests with pytest (850 XP)
+2. Pytest Fixtures (1050 XP) 
+3. Basic Testing Types (1200 XP)
+4. Writing tests with unittest (1250 XP)
+   
+
+--------------------------------------------------------------------------------------------------
+
+## Associate AI Engineer for Developers
+https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers
+
+
+## 1. Working with the OpenAI API
+https://app.datacamp.com/learn/courses/working-with-the-openai-api
+
+1. Introduction to the OpenAI API (450 XP) ✓
+2. OpenAI's Text and Chat Capabilities (1100 XP) ✓
+3. Going Beyond Text Completions (1100 XP) ✓
+
+## 2. ChatGPT Prompt Engineering for Developers
+https://app.datacamp.com/learn/courses/chatgpt-prompt-engineering-for-developers
+
+1. Introduction to Prompt Engineering Best Practices (1050 XP)
+2. Advanced Prompt Engineering Strategies (1400 XP)
+3. Prompt Engineering for Business Applications (1400 XP)
+4. Prompt Engineering for Chatbot Development (900 XP)
+
+## 3. BONUS PROJECT: Planning a Trip to Paris with the OpenAI API
+
+
+## 4. Working with Hugging Face
+https://app.datacamp.com/learn/courses/working-with-hugging-face
+
+1. Getting Started with Hugging Face (850 XP)
+2. Building Pipelines with Hugging Face (1300 XP)
+3. Building Pipelines for Image and Audio (1250 XP)
+4. Fine-tuning and Embeddings (1250 XP)
+
+## 5. LLMOps Concepts
+https://app.datacamp.com/learn/courses/llmops-concepts
+
+1. Introduction to LLMOps & Ideation Phase (650 XP)
+2. Development Phase (850 XP)
+3. Operational Phase (850 XP)
+
+## 6. Developing AI Systems with the OpenAI API
+https://app.datacamp.com/learn/courses/developing-ai-systems-with-the-openai-api
+
+1. Structuring End-to-End Applications (800 XP)
+2. Function Calling (1250 XP)
+3. Best Practices for Production Applications (750 XP)
+
+## 7. BONUS PROJECT: Organizing Medical Transcriptions with the OpenAI API
+
+## 8. Introduction to Embeddings with the OpenAI API
+https://app.datacamp.com/learn/courses/introduction-to-embeddings-with-the-openai-api
+
+1. What are Embeddings? (950 XP)
+2. Embeddings for AI Applications (950 XP)
+3. Vector Databases (1100 XP)
+
+## 9. BONUS PROJECT: Topic Analysis of Clothing Reviews with Embeddings
+
+## 10. Vector Databases for Embeddings with Pinecone
+https://app.datacamp.com/learn/courses/vector-databases-for-embeddings-with-pinecone
+
+1. Introduction to Pinecone (850 XP)
+2. Pinecone Vector Manipulation in Python (1100 XP)
+3. Performance Tuning and AI Applications (1350 XP)
+
+## 11. Developing LLM Applications with LangChain
+https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain
+
+1. Introduction to LangChain & Chatbot Mechanics (850 XP)
+2. Chains and Agents (800 XP)
+3. Retrieval Augmented Generation (RAG) (1100 XP)
+
 
 
