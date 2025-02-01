@@ -9,10 +9,11 @@
 2. [Associate Data Analyst in SQL](#associate-data-analyst-in-sql)
 3. [Data Analyst in Power BI](#data-analyst-in-power-bi)
 4. [Data Analyst in Tableau](#data-analyst-in-tableau)
-5. [Associate Data Engineer in SQL](#associate-data-engineer-in-sql)
-6. [Professional Data Engineer in Python](#professional-data-engineer-in-python)
-7. [Associate AI Engineer for Data Scientists](#associate-AI-engineer-for-data-scientists)
-8. [Associate AI Engineer for Developers](#associate-AI-engineer-for-developers)
+5. [Data Engineer](#data-engineer)
+6. [Associate Data Engineer in SQL](#associate-data-engineer-in-sql)
+7. [Professional Data Engineer in Python](#professional-data-engineer-in-python)
+8. [Associate AI Engineer for Data Scientists](#associate-AI-engineer-for-data-scientists)
+9. [Associate AI Engineer for Developers](#associate-AI-engineer-for-developers)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -465,6 +466,77 @@ https://app.datacamp.com/learn/courses/intermediate-python
 4. Loops (1450 XP)
 5. Case Study: Hacker Statistics (1200 XP)
 
+### 9. Introduction to Importing Data in Python
+https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python
+
+1. Introduction and flat files (1150 XP) ✓
+2. Importing data from other file types (1400 XP) ✓
+3. Working with relational databases in Python (1350 XP) ✓
+
+### 10. Intermediate Importing Data in Python
+https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python
+
+1. Importing data from the Internet (1050 XP) ✓
+2. Interacting with APIs to import data from the web (650 XP) ✓
+3. Diving deep into the Twitter API (600 XP) ✓
+
+### 11. Understanding Cloud Computing
+https://app.datacamp.com/learn/courses/understanding-cloud-computing
+
+1. Introduction to Cloud Computing (850 XP) ✓
+2. Cloud Deployment (600 XP) ✓
+3. Cloud Providers and Case Studies (900 XP) ✓
+
+### 12. Cleaning Data in Python
+https://app.datacamp.com/learn/courses/cleaning-data-in-python
+
+1. Common data problems (900 XP) ✓
+2. Text and categorical data problems (850 XP) ✓
+3. Advanced data problems (850 XP) ✓
+4. Record linkage (900 XP) ✓
+
+### 13. Writing Efficient Python Code
+https://app.datacamp.com/learn/courses/writing-efficient-python-code
+
+1. Foundations for efficiencies (850 XP) ✓
+2. Timing and profiling code (800 XP) ✓
+3. Gaining efficiencies (1300 XP) ✓
+4. Basic pandas optimizations (1050 XP) ✓
+
+### 13. Streamlined Data Ingestion with pandas
+https://app.datacamp.com/learn/courses/streamlined-data-ingestion-with-pandas
+
+1. Importing Data from Flat Files (850 XP) ✓
+2. Importing Data From Excel Files (1200 XP) ✓
+3. Importing Data from Databases (1300 XP) ✓
+4. Importing JSON Data and Working with APIs (1150 XP) ✓
+
+
+### 14. BONUS PROJECT: Cleaning Bank Marketing Campaign Data
+
+### 15. Understanding Data Visualization
+https://app.datacamp.com/learn/courses/understanding-data-visualization
+
+1. Visualizing distributions (600 XP) ✓
+2. Visualizing two variables (750 XP) ✓
+3. The color and the shape (700 XP) ✓
+4. 99 problems but a plot ain't one of them (500 XP) ✓
+
+### 16. Foundations of Git
+https://app.datacamp.com/learn/courses/foundations-of-git
+
+1. Introduction to Git (850 XP) ✓
+2. Making changes (1150 XP) ✓
+3. Git workflows (1100 XP) ✓
+4. Collaborating with Git (1050 XP) ✓
+
+### 17. Software Engineering Principles in Python
+https://app.datacamp.com/learn/courses/software-engineering-principles-in-python
+
+1. Software Engineering & Data Science (750 XP) ✓
+2. Writing a Python Module (950 XP) ✓
+3. Utilizing Classes (1200 XP) ✓
+4. Maintainability (1200 XP) ✓
 
 
 ---------------------------------------------------------------------------------------------------
