@@ -127,7 +127,7 @@
 ##### Data Analyst with Python
 ##### Associate Data Analyst in SQL
 
-#### 2. Datacamp Courses
+### 2. Datacamp Courses
 
 ####  [Forming Analytical Quetions](https://app.datacamp.com/learn/courses/forming-analytical-questions) 
       
