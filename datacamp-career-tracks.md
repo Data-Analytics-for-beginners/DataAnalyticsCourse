@@ -10,6 +10,7 @@
 3. [Data Analyst in Power BI](#data-analyst-in-power-bi)
 4. [Data Analyst in Tableau](#data-analyst-in-tableau)
 5. [Associate Data Engineer in SQL](#associate-data-engineer-in-sql)
+6. [Professional Data Engineer in Python](#professional-data-engineer-in-python)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
