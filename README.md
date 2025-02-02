@@ -128,7 +128,7 @@
 ##### [Associate Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql)
 ##### [Data Engineer](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python)
 ##### [Associate Data Engineer in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql)
-##### [Professional Data Engineer in Python]()
+##### [Professional Data Engineer in Python](https://app.datacamp.com/learn/career-tracks/professional-data-engineer)
 
 ### 2. Datacamp Courses
 
