@@ -124,7 +124,7 @@
 ## ПОСИЛАННЯ
 
 #### 1. DataCamp Career tracks 
-##### [Data Analyst with Python]()
+##### [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python)
 ##### [Associate Data Analyst in SQL]()
 ##### [Data Engineer]()
 ##### [Associate Data Engineer in SQL]()
