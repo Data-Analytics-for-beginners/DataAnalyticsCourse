@@ -123,9 +123,12 @@
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
 
-#### [1. DataCamp Career tracks ](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/datacamp-career-tracks.md)
-##### Data Analyst with Python
-##### Associate Data Analyst in SQL
+#### 1. DataCamp Career tracks 
+##### [Data Analyst with Python]()
+##### [Associate Data Analyst in SQL]()
+##### [Data Engineer]()
+##### [Associate Data Engineer in SQL]()
+##### [Professional Data Engineer in Python]()
 
 ### 2. Datacamp Courses
 
