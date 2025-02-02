@@ -138,6 +138,8 @@
 #####  [The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) 
 #####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced)
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) 
+#####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x)
+
 
 
      
