@@ -126,10 +126,10 @@
 #### 1. DataCamp Career tracks [(link)](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/datacamp-career-tracks.md)
 
 ##### [Data Analyst with Python](https://app.datacamp.com/learn/career-tracks/data-analyst-with-python) (36 hours)
-##### [Associate Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql)
-##### [Data Engineer](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python)
-##### [Associate Data Engineer in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql)
-##### [Professional Data Engineer in Python](https://app.datacamp.com/learn/career-tracks/professional-data-engineer)
+##### [Associate Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql) (39 hours)
+##### [Data Engineer](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python) (57 hours)
+##### [Associate Data Engineer in SQL](https://app.datacamp.com/learn/career-tracks/associate-data-engineer-in-sql) (30 hours)
+##### [Professional Data Engineer in Python](https://app.datacamp.com/learn/career-tracks/professional-data-engineer) 
 
 ### 2. Datacamp Courses
 
