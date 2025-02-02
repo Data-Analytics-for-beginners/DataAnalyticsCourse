@@ -135,8 +135,10 @@
 
 ### 3. Udemy Courses  
 
-#####  [The Data Literacy Course: Learn How to Work With Data](https://ua.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) 
-#####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://ua.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced)
+#####  [The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) 
+#####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced)
+#####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) 
+
 
      
 
