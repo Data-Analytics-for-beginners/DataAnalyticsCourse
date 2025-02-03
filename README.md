@@ -163,6 +163,9 @@
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x)
 
 
+Data Analytics, Ironhack, https://www.ironhack.com/ww/data-analytics
+
+
 
      
 
