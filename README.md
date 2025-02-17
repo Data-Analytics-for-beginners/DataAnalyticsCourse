@@ -137,6 +137,9 @@
 
 [2. GDP Dashboard: Візуалізація світових економічних даних](https://github.com/Data-Analytics-for-beginners/gdp-dahboard)
 
+[3. Розробка інтерактивного дашборду на Python з використанням Streamlit](https://github.com/Data-Analytics-for-beginners/us-population-streamlit)
+
+
 
 --------------------------------------------------------------------------------------------------------------
 ## ПОСИЛАННЯ
