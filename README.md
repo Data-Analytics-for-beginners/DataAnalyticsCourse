@@ -150,7 +150,7 @@
 
 [4. Створення веб-додатка для дослідницького аналізу даних за допомогою Python та Streamlit](https://github.com/Data-Analytics-for-beginners/streamlit-eda-demo)
 
-[5. Огляд візуалізаційних можливостей Streamlit: Інтерактивний посібник]()
+[5. Огляд візуалізаційних можливостей Streamlit: Інтерактивний посібник](https://github.com/Data-Analytics-for-beginners/streamlit-visualization-demo)
 
 
 
