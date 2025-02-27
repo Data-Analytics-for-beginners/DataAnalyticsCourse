@@ -1,13 +1,6 @@
 
 
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-8-result-of-creation-objects-script.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-9-examine-the-tables.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-10-open-sql-script-file-to-create-objects-Copy.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-11-open-sql-script-file-to-load-data.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-13-result-of-the-data-load-script.png)
-
-
 # Що таке SQL Server
 
 SQL Server — це система управління реляційними базами даних (РСУБД), розроблена та випущена на ринок компанією Microsoft.
@@ -459,22 +452,33 @@ CREATE TABLE production.stocks (
 
 ### Крок 7
 Натисніть кнопку **Виконати**, щоб виконати SQL-скрипт.
+
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-7-execute-the-creation-objects-script.png)
 
 Ви повинні побачити наступний результат, який вказує на те, що запит було успішно виконано.
+
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-8-result-of-creation-objects-script.png)
 
 Якщо ви розгорнете **BikeStores > Таблиці**, ви побачите, що схеми та їхні таблиці створені, як показано нижче:
+
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-9-examine-the-tables.png)
 
 ### Крок 8
 Відкрийте файл для завантаження даних у таблиці.
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-10-open-sql-script-file-to-create-objects-Copy.png)
+
+
 ### Крок 9
 Виберіть файл **BikeStores Sample Database – load data.sql** і натисніть кнопку Відкрити.
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-11-open-sql-script-file-to-load-data.png)
+
+
 ### Крок 10
 Натисніть кнопку **Виконати**, щоб завантажити дані в таблиці.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-13-result-of-the-data-load-script.png)
+
 
 Ви повинні побачити наступне повідомлення, яке вказує на те, що всі оператори в скрипті були успішно виконані.
 
