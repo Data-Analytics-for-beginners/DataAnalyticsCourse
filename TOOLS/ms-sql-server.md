@@ -1,10 +1,6 @@
 
 
 
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-5-open-sql-script-file-to-create-objects.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-6-open-sql-script-file-to-create-objects.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-7-execute-the-creation-objects-script.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-8-result-of-creation-objects-script.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-9-examine-the-tables.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-10-open-sql-script-file-to-create-objects-Copy.png)
@@ -455,16 +451,21 @@ CREATE TABLE production.stocks (
 
 ### Крок 5
 У меню Файл виберіть пункт Відкрити > Файл..., щоб відкрити файл скрипту.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-5-open-sql-script-file-to-create-objects.png)
 
 ### Крок 6
 Виберіть файл **BikeStores Sample Database – create objects.sql** і натисніть кнопку `Відкрити`.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-6-open-sql-script-file-to-create-objects.png)
 
 ### Крок 7
 Натисніть кнопку **Виконати**, щоб виконати SQL-скрипт.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-7-execute-the-creation-objects-script.png)
 
 Ви повинні побачити наступний результат, який вказує на те, що запит було успішно виконано.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-8-result-of-creation-objects-script.png)
 
 Якщо ви розгорнете **BikeStores > Таблиці**, ви побачите, що схеми та їхні таблиці створені, як показано нижче:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-9-examine-the-tables.png)
 
 ### Крок 8
 Відкрийте файл для завантаження даних у таблиці.
