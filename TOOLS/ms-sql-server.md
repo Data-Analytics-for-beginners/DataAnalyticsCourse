@@ -1,5 +1,22 @@
 
 
+New-Query.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/New-Query.png
+
+Open-the-Connection-Dialog.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Open-the-Connection-Dialog.png
+
+SSMS-connect-to-SQL-Server.png
+
+SSMS-Execute-a-Query.png
+Connect-Microsoft-SQL-Server-Management-Studio.png
+Connect-to-Local-Server-Server.png
+
+
+
+
+
+
 
 # Що таке SQL Server
 
