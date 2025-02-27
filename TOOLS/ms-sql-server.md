@@ -1,9 +1,7 @@
 
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-1-login-to-the-SQL-Server.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-2-create-a-new-database.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-3-enter-the-database-information.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-4-new-database-created.png)
+
+
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-5-open-sql-script-file-to-create-objects.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-6-open-sql-script-file-to-create-objects.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-7-execute-the-creation-objects-script.png)
@@ -441,15 +439,19 @@ CREATE TABLE production.stocks (
 
 ### Крок 1
 Підключіться до SQL Server, (1) вибравши ім'я сервера, (2) ввівши користувача та (3) пароль і (4) натиснувши кнопку **Підключитися**.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-1-login-to-the-SQL-Server.png)
 
 ### Крок 2
 Клацніть правою кнопкою миші на вузлі **Бази даних** у вікні **Оглядач об'єктів** та виберіть пункт меню **Нова база даних...**
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-2-create-a-new-database.png)
 
 ### Крок 3
 (1) Введіть **Ім'я бази даних** як BikeStores та (2) натисніть кнопку **OK**, щоб створити нову базу даних.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-3-enter-the-database-information.png)
 
 ### Крок 4
 Якщо все добре, ви побачите базу даних **BikeStores** під вузлом Бази даних, як показано на знімку екрана нижче:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-4-new-database-created.png)
 
 ### Крок 5
 У меню Файл виберіть пункт Відкрити > Файл..., щоб відкрити файл скрипту.
