@@ -1,4 +1,19 @@
 
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-1-login-to-the-SQL-Server.png)
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-2-create-a-new-database.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-3-enter-the-database-information.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-4-new-database-created.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-5-open-sql-script-file-to-create-objects.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-6-open-sql-script-file-to-create-objects.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-7-execute-the-creation-objects-script.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-8-result-of-creation-objects-script.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-9-examine-the-tables.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-10-open-sql-script-file-to-create-objects-Copy.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-11-open-sql-script-file-to-load-data.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-13-result-of-the-data-load-script.png
+
+
 # Що таке SQL Server
 
 SQL Server — це система управління реляційними базами даних (РСУБД), розроблена та випущена на ринок компанією Microsoft.
