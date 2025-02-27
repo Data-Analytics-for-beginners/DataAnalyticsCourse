@@ -85,6 +85,10 @@ SQL Server протягом понад 20 років був доступний �
 
 На наступній схемі показана архітектура SQL Server:
 
+
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/sql-server-architecture.png
+
+
 SQL Server складається з двох основних компонентів:
 * Ядро бази даних (Database Engine)
 * SQLOS
