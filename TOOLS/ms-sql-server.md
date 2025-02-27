@@ -210,3 +210,208 @@ select @@version;
 Тепер ви знаєте, як підключитися до SQL Server та виконати запит за допомогою SQL Server Management Studio. Це базові навички, які дозволять вам працювати з базами даних SQL Server і виконувати різноманітні операції.
 
 В наступних розділах ми розглянемо більш складні запити та операції з базами даних SQL Server.
+
+
+
+# Зразкова база даних SQL Server: BikeStores
+
+## Резюме
+У цьому розділі ви дізнаєтеся про зразкову базу даних SQL Server під назвою BikeStores.
+
+## Структура бази даних
+
+На діаграмі нижче зображена структура бази даних BikeStores:
+
+```
+[На оригінальному матеріалі тут знаходиться діаграма бази даних]
+```
+
+Як бачите з діаграми, зразкова база даних BikeStores має дві схеми: `sales` (продажі) та `production` (виробництво), які містять дев'ять таблиць.
+
+## Таблиці бази даних
+
+### Таблиця sales.stores
+Таблиця `sales.stores` містить інформацію про магазини. Кожен магазин має назву, контактну інформацію, таку як телефон та електронна пошта, а також адресу, що включає вулицю, місто, штат та поштовий індекс.
+
+```sql
+CREATE TABLE sales.stores (
+	store_id INT IDENTITY (1, 1) PRIMARY KEY,
+	store_name VARCHAR (255) NOT NULL,
+	phone VARCHAR (25),
+	email VARCHAR (255),
+	street VARCHAR (255),
+	city VARCHAR (255),
+	state VARCHAR (10),
+	zip_code VARCHAR (5)
+);
+```
+
+### Таблиця sales.staffs
+Таблиця `sales.staffs` зберігає основну інформацію про співробітників, включаючи ім'я та прізвище. Вона також містить контактну інформацію, таку як електронна пошта та телефон.
+
+Співробітник працює в магазині, визначеному значенням у стовпці `store_id`. У магазині може працювати один або кілька співробітників.
+
+Співробітник звітує менеджеру магазину, визначеному значенням у стовпці `manager_id`. Якщо значення в `manager_id` є null, то цей співробітник є головним менеджером.
+
+Якщо співробітник більше не працює в жодному магазині, значення в стовпці `active` встановлюється на нуль.
+
+```sql
+CREATE TABLE sales.staffs (
+	staff_id INT IDENTITY (1, 1) PRIMARY KEY,
+	first_name VARCHAR (50) NOT NULL,
+	last_name VARCHAR (50) NOT NULL,
+	email VARCHAR (255) NOT NULL UNIQUE,
+	phone VARCHAR (25),
+	active tinyint NOT NULL,
+	store_id INT NOT NULL,
+	manager_id INT,
+	FOREIGN KEY (store_id) 
+        REFERENCES sales.stores (store_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (manager_id) 
+        REFERENCES sales.staffs (staff_id) 
+        ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+```
+
+### Таблиця production.categories
+Таблиця `production.categories` зберігає категорії велосипедів, такі як дитячі велосипеди, комфортні велосипеди та електровелосипеди.
+
+```sql
+CREATE TABLE production.categories (
+	category_id INT IDENTITY (1, 1) PRIMARY KEY,
+	category_name VARCHAR (255) NOT NULL
+);
+```
+
+### Таблиця production.brands
+Таблиця `production.brands` зберігає інформацію про бренди велосипедів, наприклад, Electra, Haro та Heller.
+
+```sql
+CREATE TABLE production.brands (
+	brand_id INT IDENTITY (1, 1) PRIMARY KEY,
+	brand_name VARCHAR (255) NOT NULL
+);
+```
+
+### Таблиця production.products
+Таблиця `production.products` зберігає інформацію про продукти, таку як назва, бренд, категорія, рік моделі та прейскурантна ціна.
+
+Кожен продукт належить до бренду, визначеного стовпцем `brand_id`. Отже, бренд може мати нуль або багато продуктів.
+
+Кожен продукт також належить до категорії, визначеної стовпцем `category_id`. Також кожна категорія може мати нуль або багато продуктів.
+
+```sql
+CREATE TABLE production.products (
+	product_id INT IDENTITY (1, 1) PRIMARY KEY,
+	product_name VARCHAR (255) NOT NULL,
+	brand_id INT NOT NULL,
+	category_id INT NOT NULL,
+	model_year SMALLINT NOT NULL,
+	list_price DECIMAL (10, 2) NOT NULL,
+	FOREIGN KEY (category_id) 
+        REFERENCES production.categories (category_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (brand_id) 
+        REFERENCES production.brands (brand_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE
+);
+```
+
+### Таблиця sales.customers
+Таблиця `sales.customers` зберігає інформацію про клієнтів, включаючи ім'я, прізвище, телефон, електронну пошту, вулицю, місто, штат та поштовий індекс.
+
+```sql
+CREATE TABLE sales.customers (
+	customer_id INT IDENTITY (1, 1) PRIMARY KEY,
+	first_name VARCHAR (255) NOT NULL,
+	last_name VARCHAR (255) NOT NULL,
+	phone VARCHAR (25),
+	email VARCHAR (255) NOT NULL,
+	street VARCHAR (255),
+	city VARCHAR (50),
+	state VARCHAR (25),
+	zip_code VARCHAR (5)
+);
+```
+
+### Таблиця sales.orders
+Таблиця `sales.orders` зберігає інформацію заголовка замовлення на продаж, включаючи клієнта, статус замовлення, дату замовлення, необхідну дату, дату відправлення.
+
+Вона також зберігає інформацію про те, де було створено транзакцію продажу (магазин) і хто її створив (співробітник).
+
+Кожне замовлення на продаж має рядок у таблиці `sales.orders`. Замовлення на продаж має один або кілька рядків елементів, що зберігаються в таблиці `sales.order_items`.
+
+```sql
+CREATE TABLE sales.orders (
+	order_id INT IDENTITY (1, 1) PRIMARY KEY,
+	customer_id INT,
+	order_status tinyint NOT NULL,
+	-- Order status: 1 = Pending; 2 = Processing; 3 = Rejected; 4 = Completed
+	order_date DATE NOT NULL,
+	required_date DATE NOT NULL,
+	shipped_date DATE,
+	store_id INT NOT NULL,
+	staff_id INT NOT NULL,
+	FOREIGN KEY (customer_id) 
+        REFERENCES sales.customers (customer_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (store_id) 
+        REFERENCES sales.stores (store_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (staff_id) 
+        REFERENCES sales.staffs (staff_id) 
+        ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+```
+
+### Таблиця sales.order_items
+Таблиця `sales.order_items` зберігає елементи замовлення на продаж. Кожен елемент належить до замовлення на продаж, визначеного стовпцем `order_id`.
+
+Елемент замовлення на продаж включає продукт, кількість замовлення, прейскурантну ціну та знижку.
+
+```sql
+CREATE TABLE sales.order_items(
+	order_id INT,
+	item_id INT,
+	product_id INT NOT NULL,
+	quantity INT NOT NULL,
+	list_price DECIMAL (10, 2) NOT NULL,
+	discount DECIMAL (4, 2) NOT NULL DEFAULT 0,
+	PRIMARY KEY (order_id, item_id),
+	FOREIGN KEY (order_id) 
+        REFERENCES sales.orders (order_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (product_id) 
+        REFERENCES production.products (product_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE
+);
+```
+
+### Таблиця production.stocks
+Таблиця `production.stocks` зберігає інформацію про запаси, тобто кількість конкретного продукту в певному магазині.
+
+```sql
+CREATE TABLE production.stocks (
+	store_id INT,
+	product_id INT,
+	quantity INT,
+	PRIMARY KEY (store_id, product_id),
+	FOREIGN KEY (store_id) 
+        REFERENCES sales.stores (store_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE,
+	FOREIGN KEY (product_id) 
+        REFERENCES production.products (product_id) 
+        ON DELETE CASCADE ON UPDATE CASCADE
+);
+```
+
+## Завантаження зразкової бази даних
+
+Натисніть на наступне посилання, щоб завантажити скрипт зразкової бази даних:
+
+Завантажити зразкову базу даних SQL Server
+
+Тепер ви повинні бути ознайомлені з зразковою базою даних BikeStores і готові завантажити її в SQL Server.
+
+
