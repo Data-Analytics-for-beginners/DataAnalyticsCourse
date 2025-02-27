@@ -477,6 +477,7 @@ CREATE TABLE production.stocks (
 
 ### Крок 10
 Натисніть кнопку **Виконати**, щоб завантажити дані в таблиці.
+
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/step-13-result-of-the-data-load-script.png)
 
 
