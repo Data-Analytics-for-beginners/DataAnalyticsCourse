@@ -222,9 +222,8 @@ select @@version;
 
 На діаграмі нижче зображена структура бази даних BikeStores:
 
-```
-[На оригінальному матеріалі тут знаходиться діаграма бази даних]
-```
+![Діаграма бази даних BikeStores](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/sql-server-architecture.png)
+
 
 Як бачите з діаграми, зразкова база даних BikeStores має дві схеми: `sales` (продажі) та `production` (виробництво), які містять дев'ять таблиць.
 
