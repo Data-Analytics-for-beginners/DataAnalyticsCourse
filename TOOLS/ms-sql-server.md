@@ -1,25 +1,5 @@
 
 
-New-Query.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/New-Query.png
-
-Open-the-Connection-Dialog.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Open-the-Connection-Dialog.png
-
-SSMS-connect-to-SQL-Server.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/SSMS-connect-to-SQL-Server.png
-
-
-SSMS-Execute-a-Query.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/SSMS-Execute-a-Query.png
-
-Connect-Microsoft-SQL-Server-Management-Studio.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Connect-Microsoft-SQL-Server-Management-Studio.png
-
-Connect-to-Local-Server-Server.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Connect-to-Local-Server-Server.png
-
-
 
 
 
