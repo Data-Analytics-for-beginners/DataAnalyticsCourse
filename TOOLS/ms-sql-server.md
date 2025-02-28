@@ -215,7 +215,11 @@ SQL Server Management Studio — це програмне забезпеченн�
 
 Натисніть кнопку **Connect** (Підключитися), щоб підключитися до SQL Server.
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Connect-to-Local-Server-Server.png)
+
 Якщо підключення пройшло успішно, ви побачите панель **Object Explorer** з вашим сервером.
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Connect-Microsoft-SQL-Server-Management-Studio.png)
 
 ## Виконання запиту
 
@@ -223,6 +227,8 @@ SQL Server Management Studio — це програмне забезпеченн�
 
 ### Крок 1. Створення нового запиту
 Клацніть правою кнопкою миші на вузлі **localhost (SQL Server ...)** і виберіть пункт меню **New Query** (Новий запит).
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/New-Query.png)
 
 ### Крок 2. Введення запиту
 Введіть наступний запит у вікні редактора:
@@ -237,6 +243,9 @@ select @@version;
 Натисніть кнопку **Execute** (Виконати) або використайте клавішу **F5** для швидкого виконання.
 
 У вікні **Results** (Результати) буде показана версія вашого SQL Server, як показано на знімку екрана вище.
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/SSMS-Execute-a-Query.png)
+
 
 ## Висновок
 
