@@ -7,10 +7,18 @@ Open-the-Connection-Dialog.png
 https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Open-the-Connection-Dialog.png
 
 SSMS-connect-to-SQL-Server.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/SSMS-connect-to-SQL-Server.png
+
 
 SSMS-Execute-a-Query.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/SSMS-Execute-a-Query.png
+
 Connect-Microsoft-SQL-Server-Management-Studio.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Connect-Microsoft-SQL-Server-Management-Studio.png
+
 Connect-to-Local-Server-Server.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Connect-to-Local-Server-Server.png
+
 
 
 
@@ -184,6 +192,9 @@ SQL Server Management Studio — це програмне забезпеченн�
 ### Крок 1. Запустіть Microsoft SQL Server Management Studio
 
 Знайдіть програму у меню "Пуск" або на робочому столі та запустіть її.
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/SSMS-connect-to-SQL-Server.png)
+
 
 ### Крок 2. Виберіть **Database Engine** з меню **Connect** у розділі **Object Explorer**
 
