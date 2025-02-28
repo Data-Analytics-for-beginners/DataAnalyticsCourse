@@ -1,5 +1,22 @@
 
 
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/1-Install-SQL-Server-Server-Installation-Center.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/2-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/3-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/4-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/5-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/6-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/7-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/8-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/9-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/11-SQL-Server-2022-Setup.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/12-SQL-Server-2022-Setup.png
+
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-1.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-2.png
+https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-3.png
+
+
 
 
 
@@ -95,10 +112,13 @@ SQL Server має чотири основні редакції, кожна з я
 Microsoft пропонує кілька редакцій SQL Server. Для навчальних цілей ви можете завантажити редакцію Developer.
 
 **Крок 1.** Завантажувач запитає вас вибрати тип встановлення. Виберіть опцію **Download Media**, яка дозволяє спочатку завантажити файли налаштування, а потім встановити SQL Server:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Download-SQL-Server-Installer-1.png)
 
 **Крок 2.** Виберіть папку для зберігання файлів встановлення, а потім натисніть кнопку **Download**:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Download-SQL-Server-Installer-2.png)
 
 **Крок 3.** Завантажувач почне завантажувати файли встановлення. Цей процес може зайняти кілька хвилин, залежно від швидкості вашого інтернет-з'єднання.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Download-SQL-Server-Installer-3.png)
 
 **Крок 4.** Після завершення завантаження відкрийте папку, де зберігається завантажений файл:
 
