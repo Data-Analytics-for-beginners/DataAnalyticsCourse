@@ -1,17 +1,5 @@
 
 
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/1-Install-SQL-Server-Server-Installation-Center.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/2-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/3-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/4-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/5-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/6-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/7-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/8-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/9-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/11-SQL-Server-2022-Setup.png
-https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/12-SQL-Server-2022-Setup.png
-
 https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-1.png
 https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-2.png
 https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-3.png
@@ -128,29 +116,44 @@ Microsoft пропонує кілька редакцій SQL Server. Для на
 
 **Крок 1.** Після запуску інсталятора з'явиться вікно SQL Server Installation Center; виберіть опцію **Installation** ліворуч:
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/1-Install-SQL-Server-Server-Installation-Center.png)
+
 **Крок 2.** Виберіть редакцію Developer для встановлення та натисніть кнопку Next:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/2-SQL-Server-2022-Setup.png)
 
 **Крок 3.** Позначте "I accept the license terms." та натисніть кнопку Next:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/3-SQL-Server-2022-Setup.png)
 
 **Крок 4.** Якщо ви не хочете отримувати оновлення для SQL Server, зніміть позначку "Use Microsoft Update to check for updates (recommended)" та натисніть кнопку **Next**:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/4-SQL-Server-2022-Setup.png)
+
 
 **Крок 5.** Встановлення перевірить передумови перед продовженням. Якщо помилок немає, натисніть кнопку Next:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/5-SQL-Server-2022-Setup.png)
 
 **Крок 6.** Зніміть позначку з Azure extension for SQL Server:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/6-SQL-Server-2022-Setup.png)
 
 **Крок 7.** Виберіть функції, які ви хочете встановити. Для навчальних цілей вам потрібні Database Engine Services, натисніть кнопку Next, щоб продовжити:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/7-SQL-Server-2022-Setup.png)
 
 **Крок 8.** Введіть ID екземпляра SQL Server і натисніть кнопку Next. ID екземпляра за замовчуванням `MSSQLServer`:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/8-SQL-Server-2022-Setup.png)
 
 **Крок 9.** Вкажіть облікові записи служб та конфігурацію сортування. Використовуйте налаштування за замовчуванням та натисніть кнопку Next:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/9-SQL-Server-2022-Setup.png)
 
 **Крок 10.** Вкажіть режим безпеки автентифікації ядра бази даних. Виберіть **Mixed Mode** (1) і введіть пароль для облікового запису системного адміністратора (`sa`) (2 і 3), та додайте поточного користувача як адміністратора SQL Server (4):
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/10-SQL-Server-2022-Setup.png)
 
 Обов'язково зберігайте цей пароль у безпечному місці, оскільки він знадобиться вам для підключення до SQL Server пізніше.
 
 **Крок 11.** Переконайтеся, що функції SQL Server 2022 встановлені.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/11-SQL-Server-2022-Setup.png)
+
 
 **Крок 12.** Натисніть кнопку **Close**, щоб завершити встановлення.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/12-SQL-Server-2022-Setup.png)
 
 Вітаємо! Ви успішно встановили SQL Server 2022 Developer Edition.
 
@@ -171,9 +174,13 @@ SQL Server Management Studio — це програмне забезпеченн�
 
 **Крок 1.** Натисніть кнопку **Install**:
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-1.png)
+
 **Крок 2.** Зачекайте кілька хвилин, поки інсталятор налаштовує програмне забезпечення:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-2.png)
 
 **Крок 3.** Після завершення налаштування натисніть кнопку **Close**:
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Install-SSMS-3.png)
 
 Тепер у вас повинні бути встановлені SQL Server 2022 та SQL Server Management Studio на вашому комп'ютері. Далі ви дізнаєтеся, як підключитися до SQL Server з SQL Server Management Studio.
 
