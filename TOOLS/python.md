@@ -1,7 +1,7 @@
 
 
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Download-SQL-Server-Installer-2.png)
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_1.webp)
 
 
 
