@@ -1,6 +1,9 @@
 
 
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/Download-SQL-Server-Installer-2.png)
+
+
 
 # Організація робочого середовища Python з використанням віртуальних середовищ: Повний посібник
 
