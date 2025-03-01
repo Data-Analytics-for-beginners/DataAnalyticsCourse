@@ -1,31 +1,6 @@
 
 
 
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_1.webp)
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_2.webp)
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_3.webp)
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_4.webp)
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_5.webp)
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_6.webp)
-
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_7.webp)
-
-
-
-
-
-
-
-
-
-
-
 # Організація робочого середовища Python з використанням віртуальних середовищ: Повний посібник
 
 ## Розуміння віртуальних середовищ
@@ -49,6 +24,8 @@ Visual Studio Code (VS Code) — це потужний редактор вихі
 Переконайтеся, що Python встановлено на вашій системі. Якщо його не встановлено, ви можете завантажити останню версію з офіційного веб-сайту Python. Під час встановлення відмітьте опцію додавання Python до системного PATH, що полегшує запуск Python з терміналу.
 
 Інший метод — завантажити безпосередньо з Microsoft потрібну вам версію, яка автоматично виконає всі конфігурації PATH.
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_2.webp)
 
 Більшість сучасних дистрибутивів GNU/Linux постачаються з попередньо встановленим Python як частиною операційної системи. Щоб перевірити наявність та розташування стандартної інсталяції Python, можна використати таку команду в терміналі:
 
@@ -79,6 +56,8 @@ Python 3.10.6
 
 Інший метод — також завантажити з Microsoft Store.
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_3.webp)
+
 ### Крок 3: Встановлення розширення Python у VS Code
 
 Коли VS Code та Python вже встановлені, наступним кроком є встановлення розширення Python для VS Code. Це розширення пропонує потужні функції, такі як автодоповнення коду, лінтинг, налагодження та підтримку віртуальних середовищ. Для встановлення:
@@ -87,8 +66,12 @@ Python 3.10.6
 2. Перейдіть до значка розширень на бічній панелі або натисніть Ctrl+Shift+X.
 3. Знайдіть "Python" і шукайте розширення, опубліковане Microsoft.
 4. Натисніть "Встановити", щоб додати розширення до вашого VS Code.
-5. Знайдіть "Jupyter" і шукайте розширення, опубліковане Microsoft.
-6. Натисніть "Встановити", щоб додати розширення до вашого VS Code.
+   
+   ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_4.webp)
+   
+6. Знайдіть "Jupyter" і шукайте розширення, опубліковане Microsoft.
+7. Натисніть "Встановити", щоб додати розширення до вашого VS Code.
+   ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_5.webp)
 
 ### Крок 4: Встановлення бібліотеки Virtualenv та налаштування віртуальних середовищ
 
@@ -128,9 +111,13 @@ pip install virtualenvwrapper-win
 - Розширення
 - Бібліотеки для управління середовищем, такі як virtualenv та wrapper у випадку Windows.
 
+  ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_6.webp)
+
 ## Організація робочого простору та управління віртуальними середовищами
 
 Організація робочого простору є важливою для успіху та ефективності в розробці програмного забезпечення. У контексті програмування на Python це включає правильне управління віртуальними середовищами, які є вирішальними для підтримки сумісності та незалежності залежностей кожного проєкту. Цікава стратегія полягає у створенні двох окремих папок: одна для зберігання каталогів проєктів, а інша виключно для virtualenvs. Цей підхід не лише допомагає підтримувати порядок, але й полегшує управління кількома середовищами та проєктами чітко та окремо.
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/python_7.webp)
 
 ### Важливість організації
 
