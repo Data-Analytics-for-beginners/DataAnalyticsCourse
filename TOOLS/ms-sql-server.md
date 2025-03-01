@@ -534,7 +534,7 @@ CREATE TABLE production.stocks (
 
 # 6 Налаштування Microsoft SQL Server RDS на платформі AWS
 
-# Налаштування Microsoft SQL Server RDS на платформі AWS
+
 
 Amazon RDS (Relational Database Services) — це керований сервіс від Amazon, який дозволяє легко налаштовувати, конфігурувати та масштабувати бази даних у хмарі. Використовуючи RDS, вам не потрібно турбуватися про резервне копіювання, оновлення серверів чи додатковий дисковий простір — Amazon автоматично подбає про всі ці аспекти.
 
@@ -635,8 +635,9 @@ Amazon RDS (Relational Database Services) — це керований серві
 
 
 Посиланнння:
-1) How To Create a RDS SQL Server | AWS RDS Tutorial, https://www.youtube.com/watch?v=Vk61PZqe5lM
-2) Connect Microsoft SQL database to AWS RDS | AWS Tutorial for beginners 2022, https://www.youtube.com/watch?v=Qt43du1WwmI
-3) S3CloudHub, https://www.youtube.com/@S3CloudHub
+1) AWS RDS For SQL Server | Amazon | SQL For Developers, https://www.youtube.com/watch?v=GDPenK6EJco
+2) How To Create a RDS SQL Server | AWS RDS Tutorial, https://www.youtube.com/watch?v=Vk61PZqe5lM
+3) Connect Microsoft SQL database to AWS RDS | AWS Tutorial for beginners 2022, https://www.youtube.com/watch?v=Qt43du1WwmI
+4) S3CloudHub, https://www.youtube.com/@S3CloudHub
 
 
