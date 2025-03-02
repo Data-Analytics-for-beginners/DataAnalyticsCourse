@@ -177,6 +177,8 @@
 #####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced)
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) 
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x)
+#####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)
+
 
 
 Data Analytics, Ironhack, https://www.ironhack.com/ww/data-analytics
