@@ -178,8 +178,8 @@
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) 
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x)
 #####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)  (2 hours)
-#####  [ MS SQL Server: Learn MS SQL Server from Scratch]()  (2 hours)
-#####  [MS SQL Server: Learn MS SQL Server from Scratch](https://ua.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch) (5 hours)
+
+#####  [MS SQL Server: Learn MS SQL Server from Scratch](https://www.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch) (5 hours)
 
 
 
