@@ -1,4 +1,67 @@
 
+# Зміст курсу Microsoft SQL Server
+
+## Вступ і основи
+- [Вступ до курсу Microsoft SQL Server](#вступ-до-курсу-microsoft-sql-server)
+- [Вступ до баз даних та SQL](#вступ-до-баз-даних-та-sql)
+- [Встановлення Microsoft SQL Server](#встановлення-microsoft-sql-server)
+
+## Основи SQL
+- [SQL SELECT: Основи роботи з запитами](#sql-select-основи-роботи-з-запитами)
+- [SQL DISTINCT: Робота з унікальними значеннями](#sql-distinct-робота-з-унікальними-значеннями)
+- [Тимчасові таблиці в SQL Server](#тимчасові-таблиці-в-sql-server)
+- [Використання WHERE в SQL](#використання-where-в-sql)
+- [Використання ORDER BY в SQL](#використання-order-by-в-sql)
+- [Оператори ORDER BY, AND та OR в SQL](#оператори-order-by-and-та-or-в-sql)
+- [Оператори NOT, BETWEEN та IN в SQL](#оператори-not-between-та-in-в-sql)
+
+## Маніпуляція даними
+- [Оператор INSERT INTO в SQL](#оператор-insert-into-в-sql)
+- [Робота з NULL значеннями в SQL](#робота-з-null-значеннями-в-sql)
+- [Оператор UPDATE в SQL](#оператор-update-в-sql)
+- [Оператори DELETE, DROP та TRUNCATE в SQL](#оператори-delete-drop-та-truncate-в-sql)
+- [Коментарі та вибірка TOP записів в SQL](#коментарі-та-вибірка-top-записів-в-sql)
+
+## Агрегатні функції
+- [Агрегатні функції SQL - MAX та GROUP BY](#агрегатні-функції-sql---max-та-group-by)
+- [Функція MIN в SQL](#функція-min-в-sql)
+- [Агрегатні функції SQL - SUM, AVG та COUNT](#агрегатні-функції-sql---sum-avg-та-count)
+- [Оператор GROUP BY в SQL](#оператор-group-by-в-sql)
+- [Практичне використання GROUP BY в SQL](#практичне-використання-group-by-в-sql)
+- [Оператор HAVING в SQL](#оператор-having-в-sql)
+- [Порівняння WHERE та HAVING в SQL](#порівняння-where-та-having-в-sql)
+
+## Об'єднання таблиць
+- [INNER JOIN в SQL](#inner-join-в-sql)
+- [Практичне використання INNER JOIN в SQL Server](#практичне-використання-inner-join-в-sql-server)
+- [LEFT JOIN в SQL](#left-join-в-sql)
+- [Практичне використання LEFT JOIN в SQL Server](#практичне-використання-left-join-в-sql-server)
+- [RIGHT JOIN в SQL](#right-join-в-sql)
+- [Практичне використання RIGHT JOIN в SQL Server](#практичне-використання-right-join-в-sql-server)
+- [LEFT ANTI JOIN та RIGHT ANTI JOIN в SQL](#left-anti-join-та-right-anti-join-в-sql)
+- [Практичне застосування LEFT та RIGHT ANTI JOIN в SQL](#практичне-застосування-left-та-right-anti-join-в-sql)
+- [FULL OUTER JOIN в SQL](#full-outer-join-в-sql)
+- [SELF JOIN в SQL](#self-join-в-sql)
+- [Оператори UNION та UNION ALL в SQL](#оператори-union-та-union-all-в-sql)
+
+## Розширені запити
+- [Оператор LIKE та шаблони пошуку в SQL](#оператор-like-та-шаблони-пошуку-в-sql)
+- [Оператор CASE в SQL](#оператор-case-в-sql)
+- [Вкладені оператори CASE в SQL](#вкладені-оператори-case-в-sql)
+- [Підзапити в SQL](#підзапити-в-sql)
+
+## Типи даних і обмеження
+- [Типи даних в SQL Server](#типи-даних-в-sql-server)
+- [Створення таблиць та вставка даних в SQL](#створення-таблиць-та-вставка-даних-в-sql)
+- [Вставка множинних записів в SQL](#вставка-множинних-записів-в-sql)
+- [Обмеження типів даних при вставці в SQL](#обмеження-типів-даних-при-вставці-в-sql)
+- [Копіювання даних між таблицями в SQL](#копіювання-даних-між-таблицями-в-sql)
+- [Обмеження NOT NULL в SQL](#обмеження-not-null-в-sql)
+- [Обмеження UNIQUE в SQL](#обмеження-unique-в-sql)
+- [Обмеження CHECK в SQL](#обмеження-check-в-sql)
+
+
+
 
 
 # SQL: Course Introduction & Overview 
