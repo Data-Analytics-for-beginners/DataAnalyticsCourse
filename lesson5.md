@@ -1,7 +1,7 @@
 
-# Зміст курсу Microsoft SQL Server
+# Microsoft SQL Server
 
-## Вступ і основи
+## Основи
 - [Вступ до курсу Microsoft SQL Server](#вступ-до-курсу-microsoft-sql-server)
 - [Вступ до баз даних та SQL](#вступ-до-баз-даних-та-sql)
 - [Встановлення Microsoft SQL Server](#встановлення-microsoft-sql-server)
