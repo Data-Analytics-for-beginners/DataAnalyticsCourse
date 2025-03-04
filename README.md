@@ -152,6 +152,8 @@
 
 [5. Огляд візуалізаційних можливостей Streamlit: Інтерактивний посібник](https://github.com/Data-Analytics-for-beginners/streamlit-visualization-demo)
 
+[6. Класифікатор хот-догів: веб-додаток на основі Streamlit для розпізнавання хот-догів на зображеннях із використанням моделі машинного навчання.](https://github.com/Data-Analytics-for-beginners/hotdogclassifier-huggingface)
+
 
 
 --------------------------------------------------------------------------------------------------------------
