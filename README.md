@@ -177,7 +177,7 @@
 
 #####  [The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) (4 hours)
 #####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced) (71.5 hours)
-#####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) 
+#####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) (4 hours)
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x)
 #####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)  (2 hours)
 
