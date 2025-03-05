@@ -175,7 +175,7 @@
 
 ### 3. Udemy Courses  
 
-#####  [The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) 
+#####  [The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) (4 hours)
 #####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced) (71.5 hours)
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) 
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x)
