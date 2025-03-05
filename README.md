@@ -148,7 +148,7 @@
 
 [3. Розробка інтерактивного дашборду на Python з використанням Streamlit](https://github.com/Data-Analytics-for-beginners/us-population-streamlit)
 
-[4. Створення веб-додатка для дослідницького аналізу даних за допомогою Python та Streamlit](https://github.com/Data-Analytics-for-beginners/streamlit-eda-demo)
+[4. Створення веб-додатка для дослідницького аналізу даних за допомогою Python та Streamlit](https://github.com/Data-Analytics-for-beginners/interactive-exploratory-data-analysis)
 
 [5. Огляд візуалізаційних можливостей Streamlit: Інтерактивний посібник](https://github.com/Data-Analytics-for-beginners/streamlit-visualization-demo)
 
