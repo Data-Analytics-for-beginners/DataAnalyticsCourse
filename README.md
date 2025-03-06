@@ -179,8 +179,6 @@
 
 #####  [Business and Data Analytics: Turning Insights into Action](https://www.udemy.com/course/business-and-data-analytics-turning-insights-into-action) (1 h 48m )
 #####  [Business and Data Analytics in Python](https://www.udemy.com/course/business-and-data-analytics-turning-insights-into-action) (27 hours 43 min)
-
-https://www.udemy.com/course/business-analytics-in-python-mastering-data-driven-insights
 #####  [The Data Literacy Course: Learn How to Work With Data](https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data) (4 hours)
 #####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced) (71.5 hours)
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) (4 hours)
