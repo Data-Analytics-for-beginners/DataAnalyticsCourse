@@ -184,6 +184,7 @@
 #####  [Generative AI for beginners](https://www.udemy.com/course/generative-ai-for-beginners-b) (3.5 hours)
 
 #####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)  (2 hours)
+#####  [Zero to Hero in SQL: SQL for Data Analytics](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics) (9.5 hours)
 
 #####  [MS SQL Server: Learn MS SQL Server from Scratch](https://www.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch) (5 hours)
 
