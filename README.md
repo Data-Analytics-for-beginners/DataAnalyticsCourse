@@ -181,6 +181,8 @@
 #####  [Complete Data Analyst Bootcamp From Basics To Advanced](https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced) (71.5 hours)
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) (4 hours)
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x) (4.5 hours)
+#####  [Generative AI for Beginners](https://www.udemy.com/course/generative-ai-for-beginners-b) (4.5 hours)
+
 #####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)  (2 hours)
 
 #####  [MS SQL Server: Learn MS SQL Server from Scratch](https://www.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch) (5 hours)
