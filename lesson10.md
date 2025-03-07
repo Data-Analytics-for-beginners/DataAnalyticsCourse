@@ -107,6 +107,8 @@ Real-time аналітика особливо цінна в ситуаціях, 
 3) How to use FlinkSQL with Kafka, Streamlit, and the Alpaca API, https://github.com/confluentinc/demo-scene/tree/master/flink-streamlit
 4) How to Use Flink SQL, Streamlit, and Kafka: Part 1, https://www.confluent.io/blog/how-to-use-flinksql-streamlit-kafka-part-1/
 5) How to Use Flink SQL, Streamlit, and Kafka: Part 2, https://www.confluent.io/blog/how-use-flinksql-streamlit-kafka-part-2/
+6) Apache Kafka® and Apache Flink® Tutorials, https://developer.confluent.io/tutorials
+7) 
 
 
 
