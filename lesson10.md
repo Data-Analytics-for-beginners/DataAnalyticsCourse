@@ -101,7 +101,6 @@ Real-time аналітика особливо цінна в ситуаціях, 
 
 # Confluent Cloud
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img4.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img5.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img6.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img7.png)
@@ -119,8 +118,10 @@ Real-time аналітика особливо цінна в ситуаціях, 
    
 3. Натисніть 'Додати хмарне середовище'.
 4. Введіть назву середовища: stocks_environment
-5. Натисніть 'Створити'.
-6. Пропустіть будь-які підказки чи опції для управління потоком.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img4.png)
+
+6. Натисніть 'Створити'.
+7. Пропустіть будь-які підказки чи опції для управління потоком.
 
 ### Потім створіть кластер у своєму середовищі:
 1. Натисніть 'Додати кластер'.
