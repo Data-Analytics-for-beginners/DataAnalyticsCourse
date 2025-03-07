@@ -101,11 +101,6 @@ Real-time аналітика особливо цінна в ситуаціях, 
 
 # Confluent Cloud
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img5.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img6.png)
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img7.png)
-
-
 ## Крок 1: Налаштування в Confluent Cloud
 
 Зареєструйтеся в Confluent Cloud.
@@ -125,11 +120,17 @@ Real-time аналітика особливо цінна в ситуаціях, 
 
 ### Потім створіть кластер у своєму середовищі:
 1. Натисніть 'Додати кластер'.
-2. На сторінці 'Створити кластер' для 'Базового' кластера виберіть 'Почати налаштування'.
-3. Коли вам буде запропоновано вибрати провайдера та розташування, виберіть us-east-2 від AWS.
-4. Виберіть 'Продовжити'.
-5. Вкажіть назву кластера, перегляньте інформацію про конфігурацію та вартість, а потім виберіть 'Запустити кластер'.
-6. Залежно від обраного хмарного провайдера та інших налаштувань, забезпечення кластера може зайняти кілька хвилин, але після цього з'явиться сторінка 'Огляд кластера'.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img5.png)
+
+3. На сторінці 'Створити кластер' для 'Базового' кластера виберіть 'Почати налаштування'.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img6.png)
+
+5. Коли вам буде запропоновано вибрати провайдера та розташування, виберіть us-east-2 від AWS.
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img7.png)
+
+7. Виберіть 'Продовжити'.
+8. Вкажіть назву кластера, перегляньте інформацію про конфігурацію та вартість, а потім виберіть 'Запустити кластер'.
+9. Залежно від обраного хмарного провайдера та інших налаштувань, забезпечення кластера може зайняти кілька хвилин, але після цього з'явиться сторінка 'Огляд кластера'.
 
 ### Створіть ключ API Confluent Cloud і збережіть його:
 **Примітка:** якщо у вас більше одного середовища, дотримуйтесь другого набору інструкцій нижче.
