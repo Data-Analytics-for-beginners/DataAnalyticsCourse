@@ -104,7 +104,9 @@ Real-time аналітика особливо цінна в ситуаціях, 
 # Посилання:
 1) (real-time)²: Real-time data for real-time analytics with Kafka and ClickHouse, https://www.youtube.com/watch?v=bwK0WmADFEg
 2) IoT demo with Grafana, Kafka, and ClickHouse, https://www.youtube.com/watch?v=AmEYNdU_340
-3) 
+3) How to use FlinkSQL with Kafka, Streamlit, and the Alpaca API, https://github.com/confluentinc/demo-scene/tree/master/flink-streamlit
+4) How to Use Flink SQL, Streamlit, and Kafka: Part 1, https://www.confluent.io/blog/how-to-use-flinksql-streamlit-kafka-part-1/
+5) How to Use Flink SQL, Streamlit, and Kafka: Part 2, https://www.confluent.io/blog/how-use-flinksql-streamlit-kafka-part-2/
 
 
 
