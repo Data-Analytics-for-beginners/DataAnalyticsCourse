@@ -102,6 +102,8 @@ Real-time аналітика особливо цінна в ситуаціях, 
 # Confluent Cloud
 
 
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img0.png)
+
 
 https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img0.png
 https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img1.png
