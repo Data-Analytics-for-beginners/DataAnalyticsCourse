@@ -101,7 +101,6 @@ Real-time аналітика особливо цінна в ситуаціях, 
 
 # Confluent Cloud
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img3.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img4.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img5.png)
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img6.png)
@@ -115,7 +114,7 @@ Real-time аналітика особливо цінна в ситуаціях, 
 
 ### Щоб додати середовище:
 1. Відкрийте консоль Confluent Cloud і перейдіть на сторінку середовищ за адресою https://confluent.cloud/environments.
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img2.png)
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img3.png)
 
    
 3. Натисніть 'Додати хмарне середовище'.
