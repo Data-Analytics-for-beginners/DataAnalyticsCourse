@@ -95,3 +95,17 @@ Real-time аналітика особливо цінна в ситуаціях, 
 - **Apache Airflow** — платформа для оркестрації робочих потоків
 
 Вибір конкретних компонентів стеку залежить від специфічних потреб бізнесу, очікуваних обсягів даних, вимог до латентності та наявної інфраструктури.
+
+
+
+
+
+
+# Посилання:
+1) (real-time)²: Real-time data for real-time analytics with Kafka and ClickHouse, https://www.youtube.com/watch?v=bwK0WmADFEg
+2) IoT demo with Grafana, Kafka, and ClickHouse, https://www.youtube.com/watch?v=AmEYNdU_340
+3) 
+
+
+
+
