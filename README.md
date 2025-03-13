@@ -185,12 +185,20 @@
 #####  [Introduction to Data Analytics and AI](https://www.udemy.com/course/applied-business-analytics/) (4 hours)
 #####  [Generative AI for data analytics](https://www.udemy.com/course/chatgpt4datascience_x) (4.5 hours)
 #####  [Generative AI for beginners](https://www.udemy.com/course/generative-ai-for-beginners-b) (3.5 hours)
+#####  [Claude AI Pro - The Ultimate Course ](https://www.udemy.com/course/claude-ai-training-the-ultimate-course) (2 hours) 
+#####  [Intro to Claude 3 & 3.5 Sonnet: Business Applications & API](https://ua.udemy.com/course/intro-to-claude-3-35-4-sonnet-business-applications-api) (1.5 hours) 
+#####  [LLM Engineering in Practice with Streamlit and OpenAI](https://www.udemy.com/course/llm-engineering-in-practice-with-streamlit-and-openai/) (2.5 hours) 
+#####  [Complete Gemini Course: Build GenAI Apps with Streamlit](https://www.udemy.com/course/complete-gemini-course-build-genai-apps-with-streamlit/) (3.5 hours)
+#####  [30 Projects in 30 days of AI Development Bootcamp](https://www.udemy.com/course/25-projects-in-25-days-of-ai-development-bootcamp/) (5.5 hours)
+
+
 
 #####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)  (2 hours)
 #####  [Zero to Hero in SQL: SQL for Data Analytics](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics) (9.5 hours)
 #####  [ Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/)(5 hours)
 
 #####  [MS SQL Server: Learn MS SQL Server from Scratch](https://www.udemy.com/course/ms-sql-server-learn-ms-sql-server-from-scratch) (5 hours)
+
 
 
 
