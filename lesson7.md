@@ -279,3 +279,10 @@ https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary
 3. Повідомлення, яке ви хочете передати
 
 Обравши правильний тип діаграми, ви можете ефективно комунікувати складні дані, виявляти приховані закономірності та допомагати вашій аудиторії приймати обґрунтовані рішення.
+
+
+
+# Посилання:
+
+Data Visualization for Exploratory Data Analysis (EDA) in Python, https://medium.com/@pythonfundamentals/data-visualization-for-exploratory-data-analysis-eda-in-python-4aea402648e7
+
