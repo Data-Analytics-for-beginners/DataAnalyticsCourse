@@ -190,6 +190,9 @@ Confluent Cloud особливо корисний для організацій,
 4) How to Use Flink SQL, Streamlit, and Kafka: Part 1, https://www.confluent.io/blog/how-to-use-flinksql-streamlit-kafka-part-1/
 5) How to Use Flink SQL, Streamlit, and Kafka: Part 2, https://www.confluent.io/blog/how-use-flinksql-streamlit-kafka-part-2/
 6) Apache Kafka® and Apache Flink® Tutorials, https://developer.confluent.io/tutorials
-7) 
+7) Apache Kafka Fundamentals You Should Know, https://www.youtube.com/watch?v=-RDyEFvnTXI
+8) DEVOPS ЗА 15 МИНУТ, https://www.youtube.com/watch?v=NAytfPVJR34
+9) System Design: Why Is Docker Important?, https://www.youtube.com/watch?v=QEzbZKtLi-g
+10) 
 
 
