@@ -162,7 +162,7 @@ Confluent Cloud особливо корисний для організацій,
 1. У меню 'Адміністрування' натисніть 'Ключі Cloud API' або перейдіть за посиланням https://confluent.cloud/settings/api-keys.
 2. Натисніть 'Додати ключ'.
 
-![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img10.png)
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img11.png)
    
 3. Виберіть створення ключа, пов'язаного з вашим обліковим записом.
 4. Будуть створені та показані ключ та секрет API.
