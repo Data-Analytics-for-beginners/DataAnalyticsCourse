@@ -163,6 +163,10 @@ Confluent Cloud особливо корисний для організацій,
 2. Натисніть 'Додати ключ'.
 
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img11.png)
+
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/lesson10_img12.png)
+
+
    
 3. Виберіть створення ключа, пов'язаного з вашим обліковим записом.
 4. Будуть створені та показані ключ та секрет API.
