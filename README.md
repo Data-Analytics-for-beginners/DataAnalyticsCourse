@@ -191,6 +191,8 @@
 #####  [Complete Gemini Course: Build GenAI Apps with Streamlit](https://www.udemy.com/course/complete-gemini-course-build-genai-apps-with-streamlit/) (3.5 hours)
 #####  [30 Projects in 30 days of AI Development Bootcamp](https://www.udemy.com/course/25-projects-in-25-days-of-ai-development-bootcamp/) (5.5 hours)
 
+#####  [Learn & Deploy Data Science Web Apps with Streamlit](https://ua.udemy.com/course/streamlit-for-datascience) (5.5 hours)
+
 
 
 #####  [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin)  (2 hours)
