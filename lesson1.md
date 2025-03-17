@@ -563,7 +563,9 @@ print(bmi)  # Виведе: 23.157829031553323
 
 -  Jupyter Notebook Intelligence, https://medium.com/codefile/jupyter-notebook-intelligence-5f404d2cba6b
 -  UV or Conda for Virtual Environments, https://medium.com/codefile/uv-or-conda-for-virtual-environments-7372a258c7d5
--   
+-  From Traditional BI to GenBI: Embracing a Smarter, More Human Approach, https://medium.com/wrenai/from-traditional-bi-to-genbi-embracing-a-smarter-more-human-approach-d4c166ee5c10
+-  Introducing Wren AI’s New AI-Powered Spreadsheets & Pre-built 100+ Cross-Platform Metrics, https://medium.com/wrenai/introducing-wren-ais-new-ai-powered-spreadsheets-pre-built-100-cross-platform-metrics-4ef99970390a
+-    
 
 
 
