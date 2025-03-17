@@ -557,3 +557,14 @@ print(bmi)  # Виведе: 23.157829031553323
 
 ---
 *Примітка: Цей матеріал є частиною курсу з аналітики даних та може оновлюватися.*
+
+
+### Посилання:
+
+-  Jupyter Notebook Intelligence, https://medium.com/codefile/jupyter-notebook-intelligence-5f404d2cba6b
+-  UV or Conda for Virtual Environments, https://medium.com/codefile/uv-or-conda-for-virtual-environments-7372a258c7d5
+-   
+
+
+
+
