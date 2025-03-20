@@ -261,6 +261,20 @@ Power BI загалом має п'ять компонентів, але ми р�
 
 Тепер ви маєте безкоштовний обліковий запис Power BI, і ви можете використовувати його для публікації своїх звітів у Power BI Service. У наступних сесіях ми розглянемо, як це зробити.
 
+# Посилання:
 
+- Power BI In 2025: Latest Power BI Features in 2025, https://medium.com/microsoft-power-bi/power-bi-in-2025-latest-power-bi-features-in-2025-6fc1b368dce3
+- Creating a Venn Diagram Style Sales KPI in Power BI, https://medium.com/microsoft-power-bi/creating-a-venn-diagram-style-sales-kpi-in-power-bi-7b8b407872ae
+- Building a Segmented Sales KPI in Power BI, https://medium.com/microsoft-power-bi/building-a-segmented-sales-kpi-in-power-bi-2d8b89d141bc
+- Microsoft Power BI Masterclass, https://linktr.ee/powerbi.masterclass
+- Creating a Circular Sales KPI with a Gauge in Power BI, https://medium.com/microsoft-power-bi/creating-a-circular-sales-kpi-with-a-gauge-in-power-bi-99b5c496458b
+- Creating a very Professional looking KPI in Power BI, https://medium.com/microsoft-power-bi/creating-a-very-professional-looking-kpi-in-power-bi-10dce582f6bc
+- How to Design Data Dashboards for Non-Technical Users, https://medium.com/microsoft-power-bi/how-to-design-data-dashboards-for-non-technical-users-963bb08b2d50
+- Tracking Inventory in Real-Time: Power BI for Small Retail Businesses, https://medium.com/microsoft-power-bi/tracking-inventory-in-real-time-power-bi-for-small-retail-businesses-ae3c66b672c9
+- Predictive Analytics Using Power BI and Co-Pilot, https://medium.com/microsoft-power-bi/predictive-analytics-using-power-bi-and-co-pilot-8682a2e1c8d7
+- Figma Meets Power BI: Revolutionizing Report Design, https://medium.com/microsoft-power-bi/figma-meets-power-bi-revolutionizing-report-design-420cce760aa7
+- How to Build a Dynamic Calendar Visual in Power BI, https://medium.com/the-bi-corner/how-to-build-a-dynamic-calendar-visual-in-power-bi-c08d9866c8bb
+- How to Integrate ChatGPT with Power BI Using Power Automate, https://medium.com/@giulio_91720/how-to-integrate-chatgpt-with-power-bi-using-power-automate-8c8611c93408
+- 
 
 
