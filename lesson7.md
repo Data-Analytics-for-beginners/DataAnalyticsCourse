@@ -454,6 +454,9 @@ https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-s
 - Create Brilliant AI Visualizations from any CSV file, https://medium.com/codefile/create-brilliant-ai-visualizations-from-any-csv-file-7197e0c17df3
 - Create Your Own House Style for Matplotlib Plots and Charts, https://medium.com/codefile/create-your-own-house-style-for-matplotlib-plots-and-charts-64e0b260a586
 - LLM for Data Visualization: How AI Shapes the Future of Analytics, https://medium.com/data-science/llm-for-data-visualization-how-ai-shapes-the-future-of-analytics-f0c2d181725d
+- How to Make Your Data Visualizations Tell a Story, https://medium.com/@sdbutalla/how-to-make-your-data-visualizations-tell-a-story-58472d40fa2d
+- The 15 Principles of Data Visualization, https://medium.com/codex/the-15-principles-of-data-visualization-to-powerful-bi-dashboards-6271ba33b27c
+- 7 Visualizations with Python to Handle Multivariate Categorical Data, https://medium.com/data-science/7-visualizations-with-python-to-handle-multivariate-categorical-data-63158db0911d
 - 
 
 
