@@ -2445,3 +2445,14 @@ Cov(X,Y) = Σ((x_i - x̄)(y_i - ȳ)) / (n-1)
    - Аналіз залежностей
    - Виявлення прихованих зв'язків
 
+
+
+# Посилання:
+
+- Why “Statistical Significance” Is Pointless, https://medium.com/data-science/why-statistical-significance-is-pointless-a7644be30266
+- 
+
+
+
+
+
