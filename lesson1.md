@@ -566,7 +566,10 @@ print(bmi)  # Виведе: 23.157829031553323
 -  From Traditional BI to GenBI: Embracing a Smarter, More Human Approach, https://medium.com/wrenai/from-traditional-bi-to-genbi-embracing-a-smarter-more-human-approach-d4c166ee5c10
 -  Introducing Wren AI’s New AI-Powered Spreadsheets & Pre-built 100+ Cross-Platform Metrics, https://medium.com/wrenai/introducing-wren-ais-new-ai-powered-spreadsheets-pre-built-100-cross-platform-metrics-4ef99970390a
 -  Should you switch from VSCode to Cursor?, https://medium.com/data-science/should-you-switch-from-vscode-to-cursor-45b1a0320d07
--  12 Python Libraries in 2025 for AI Engineers or Data Scientists, https://medium.com/@sarowar.saurav10/12-python-libraries-in-2025-for-ai-engineers-or-data-scientists-aeb023fecd09  
+-  12 Python Libraries in 2025 for AI Engineers or Data Scientists, https://medium.com/@sarowar.saurav10/12-python-libraries-in-2025-for-ai-engineers-or-data-scientists-aeb023fecd09
+-  10 Must-Visit Websites for Data Analysts, https://analystuttam.medium.com/10-must-visit-websites-for-data-analysts-5cfe2e731e55
+-  The 3 Best Python Frameworks To Build UIs for AI Apps, https://medium.com/@amosgyamfi/the-3-best-python-frameworks-to-build-uis-for-ai-apps-08619d53d281
+-  
 
 
 
