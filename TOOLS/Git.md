@@ -87,3 +87,12 @@
 
 ### Підсумок:
 Тепер ви маєте повністю встановлений і налаштований Git на вашій Windows-машині. Ви можете використовувати **Git Bash** для командного рядка, **Git GUI** для графічного інтерфейсу або ж **Command Prompt** для доступу до Git через стандартний Windows інтерфейс.
+
+
+- Scrum with GitHub No Jira Required!, https://www.youtube.com/watch?v=Is9KZFkHmpk
+- Creating a Product Backlog of User Stories for Agile Development using GitHub, https://www.youtube.com/watch?v=m8ZxTHSKSKE
+- 
+
+
+
+
