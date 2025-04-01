@@ -764,3 +764,14 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Ollama - https://ollama.com/ ( Программа дял скачивания топ моделей) 
 - Docker - https://www.docker.com/ ( Docker создаст виртуальный контейнер, в котором будут работать веб-интерфейс и модели. ) 
 - Интерфейс - https://github.com/open-webui/open-webui ( Готовый код с GitHub, чтобы работать с моделями через удобный веб-интерфейс (как в ChatGPT), а не в терминале.
+
+
+# ПОСИЛАННЯ
+
+- Vibe coding with Cursor Ai with examples, https://medium.com/@chrisdunlop_37984/vibe-coding-with-cursor-ai-with-examples-869e1003d919
+- My First Look at OWL: A Fresh Approach to AI Automation, https://ai.gopubby.com/my-first-look-at-owl-a-fresh-approach-to-ai-automation-dc84091fa733
+- 
+
+
+
+
