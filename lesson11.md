@@ -311,6 +311,6 @@ GROUP BY
 7) Apache Kafka Fundamentals You Should Know, https://www.youtube.com/watch?v=-RDyEFvnTXI
 8) DEVOPS ЗА 15 МИНУТ, https://www.youtube.com/watch?v=NAytfPVJR34
 9) System Design: Why Is Docker Important?, https://www.youtube.com/watch?v=QEzbZKtLi-g
-10) 
+10) Building a Meal Planning Agent with Apache Kafka and Apache Flink, https://seanfalconer.medium.com/building-a-meal-planning-agent-with-apache-kafka-and-apache-flink-254bc5a8d7c5
 
 
