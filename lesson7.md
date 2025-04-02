@@ -450,6 +450,7 @@ https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-s
 # Посилання:
 
 - Data Visualization for Exploratory Data Analysis (EDA) in Python, https://medium.com/@pythonfundamentals/data-visualization-for-exploratory-data-analysis-eda-in-python-4aea402648e7
+- Using Visualizations for Your Exploratory Data Analysis, https://medium.com/@nathanrosidi/using-visualizations-for-your-exploratory-data-analysis-d111aa422954
 - The Perfect Plotting Guide For Data Science Practitioners, https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-science-practitioners-7d22f7ba3f85
 - Create Brilliant AI Visualizations from any CSV file, https://medium.com/codefile/create-brilliant-ai-visualizations-from-any-csv-file-7197e0c17df3
 - Create Your Own House Style for Matplotlib Plots and Charts, https://medium.com/codefile/create-your-own-house-style-for-matplotlib-plots-and-charts-64e0b260a586
