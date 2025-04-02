@@ -571,6 +571,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  The 3 Best Python Frameworks To Build UIs for AI Apps, https://medium.com/@amosgyamfi/the-3-best-python-frameworks-to-build-uis-for-ai-apps-08619d53d281
 -  Data Analysis with Python in Obsidian, https://medium.com/@lennart.dde/data-analysis-with-python-in-obsidian-4190a40d7702
 -  How to Become a Top 1% Data Analyst in 2025, https://analystuttam.medium.com/how-to-become-a-top-1-data-analyst-in-2025-cf33c0009b31
+-  Transforming VS Code into a Powerful SQL IDE, https://levelup.gitconnected.com/transforming-vs-code-into-a-powerful-sql-ide-26286a2726bf
 -  
 
 
