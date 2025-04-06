@@ -276,5 +276,6 @@ Power BI загалом має п'ять компонентів, але ми р�
 - How to Build a Dynamic Calendar Visual in Power BI, https://medium.com/the-bi-corner/how-to-build-a-dynamic-calendar-visual-in-power-bi-c08d9866c8bb
 - How to Integrate ChatGPT with Power BI Using Power Automate, https://medium.com/@giulio_91720/how-to-integrate-chatgpt-with-power-bi-using-power-automate-8c8611c93408
 - Forecasting with Power BI: How to Make Forecasts and Predictions, https://medium.com/microsoft-power-bi/forecasting-with-power-bi-how-to-make-forecasts-and-predictions-c994c383a53d
-
+- How to Become a Top 1% Data Analyst Using Power BI in 2025, https://medium.com/microsoft-power-bi/how-to-become-a-top-1-data-analyst-using-power-bi-in-2025-b9325ee99745
+- 
 
