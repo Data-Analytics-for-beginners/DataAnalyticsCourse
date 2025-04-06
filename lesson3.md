@@ -2453,6 +2453,7 @@ Cov(X,Y) = Σ((x_i - x̄)(y_i - ȳ)) / (n-1)
 - Analysis of Variance(ANOVA) in Data Science and Analytics!, https://medium.com/@sarowar.saurav10/analysis-of-variance-anova-in-data-science-and-analytics-0247e6c74f51
 - Best Machine Learning Books & Courses to Get a Job, https://medium.com/data-science-collective/best-machine-learning-books-courses-to-get-a-job-835f100d98db
 - Confidence Interval vs. Prediction Interval, https://medium.com/data-science/confidence-interval-vs-prediction-interval-a6b0c4816a92
+- Bayes’ Theorem: Understanding Business Outcomes with Evidence, https://medium.com/data-science/bayes-theorem-understanding-outcomes-with-evidence-9e23e18b0912
 - 
 
 
