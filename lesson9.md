@@ -279,4 +279,7 @@ Power BI загалом має п'ять компонентів, але ми р�
 - edictions, https://medium.com/microsoft-power-bi/forecasting-with-power-bi-how-to-make-forecasts-and-predictions-c994c383a53d
 - How to Become a Top 1% Data Analyst Using Power BI in 2025, https://medium.com/microsoft-power-bi/how-to-become-a-top-1-data-analyst-using-power-bi-in-2025-b9325ee99745
 - Making Your Power BI Report Interactive in Presentations, https://levelup.gitconnected.com/diy-ai-ml-the-k-means-algorithm-441c5a47914f
+- How to Reduce Power BI File Size, https://medium.com/microsoft-power-bi/how-to-reduce-power-bi-file-size-fd2267627ac9
+- 
+- 
 
