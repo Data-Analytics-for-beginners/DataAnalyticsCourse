@@ -575,7 +575,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  8 Confusing Python Concepts That Frustrate Most Developers, https://medium.com/coding-nexus/8-confusing-python-concepts-that-frustrate-most-developers-with-simple-examples-469a49c92462
 -  Must-Know Python Data Analysis Tools to Learn in 2025, https://medium.com/gitconnected/must-know-python-data-analysis-tools-to-learn-in-2025-edf1467649a0
 -  The evolution of business intelligence from monolithic to composable architecture, https://alirezasadeghi1.medium.com/the-evolution-of-business-intelligence-from-monolithic-to-composable-architecture-7a46d42374e9
--  
+-  The Future of Business Intelligence: The Generative BI (GenBI), https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f
 
 
 
