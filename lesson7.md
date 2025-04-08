@@ -458,6 +458,7 @@ https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-s
 - How to Make Your Data Visualizations Tell a Story, https://medium.com/@sdbutalla/how-to-make-your-data-visualizations-tell-a-story-58472d40fa2d
 - The 15 Principles of Data Visualization, https://medium.com/codex/the-15-principles-of-data-visualization-to-powerful-bi-dashboards-6271ba33b27c
 - 7 Visualizations with Python to Handle Multivariate Categorical Data, https://medium.com/data-science/7-visualizations-with-python-to-handle-multivariate-categorical-data-63158db0911d
+- I Automated Data Visualization by Building an AI-Powered Auto Dashboard Generator for Free, https://levelup.gitconnected.com/i-automated-data-visualization-by-building-an-ai-powered-auto-dashboard-generator-for-free-13028b12d1c1
 - 
 
 
