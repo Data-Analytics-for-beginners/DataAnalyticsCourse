@@ -576,6 +576,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Must-Know Python Data Analysis Tools to Learn in 2025, https://medium.com/gitconnected/must-know-python-data-analysis-tools-to-learn-in-2025-edf1467649a0
 -  The evolution of business intelligence from monolithic to composable architecture, https://alirezasadeghi1.medium.com/the-evolution-of-business-intelligence-from-monolithic-to-composable-architecture-7a46d42374e9
 -  The Future of Business Intelligence: The Generative BI (GenBI), https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f
+-  From Excel to Power BI: The Complete Beginner’s Roadmap to Data Analysis (2025), https://analystuttam.medium.com/from-excel-to-power-bi-the-complete-beginners-roadmap-to-data-analysis-2025-c56ddde66b8f
+-  
 
 
 
