@@ -773,7 +773,10 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Top 10 Open-Source AI Projects That Blew My Mind as a Developer, https://medium.com/lets-code-future/top-10-open-source-ai-projects-that-blew-my-mind-as-a-developer-49ee2c7307f8
 - Top 15 AI Tools You Need to Know, https://levelup.gitconnected.com/top-15-ai-tools-you-need-to-know-e036219fc590
 - Realworld Example of Cursor AI — A system to help run my company’s finances, https://medium.com/realworld-ai-use-cases/realworld-example-of-cursor-ai-a-system-to-help-run-my-companys-finances-c42144f1ea81
+- Pydantic AI + MCP + Advanced Web Scraping = The Key To Powerful Agentic AI, https://medium.com/data-science-collective/pydantic-ai-mcp-advanced-web-scraping-the-key-to-powerful-agentic-ai-e1aced88a831
+- Build a Document AI Pipeline for Any Type of PDF with Gemini, https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db
 - 
+
 
 
 
