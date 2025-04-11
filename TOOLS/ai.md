@@ -775,6 +775,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Realworld Example of Cursor AI — A system to help run my company’s finances, https://medium.com/realworld-ai-use-cases/realworld-example-of-cursor-ai-a-system-to-help-run-my-companys-finances-c42144f1ea81
 - Pydantic AI + MCP + Advanced Web Scraping = The Key To Powerful Agentic AI, https://medium.com/data-science-collective/pydantic-ai-mcp-advanced-web-scraping-the-key-to-powerful-agentic-ai-e1aced88a831
 - Build a Document AI Pipeline for Any Type of PDF with Gemini, https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db
+- Building a GPT-4o Like Multi-Modal from Scratch Using Python, https://levelup.gitconnected.com/building-a-gpt-4o-like-multi-modal-from-scratch-using-python-ad0fa9c213d3
 - 
 
 
