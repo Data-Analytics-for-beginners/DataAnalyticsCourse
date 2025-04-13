@@ -777,7 +777,9 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Build a Document AI Pipeline for Any Type of PDF with Gemini, https://medium.com/data-science/build-a-document-ai-pipeline-for-any-type-of-pdf-with-gemini-9221c8e143db
 - Building a GPT-4o Like Multi-Modal from Scratch Using Python, https://levelup.gitconnected.com/building-a-gpt-4o-like-multi-modal-from-scratch-using-python-ad0fa9c213d3
 - What It Takes to be the Most Accurate , Secure, and Trusted AI Data Analytics Platform,   https://medium.com/basejump-ai/what-it-takes-to-be-the-most-accurate-secure-and-trusted-ai-data-analytics-platform-438bee63cc9e
-
+- Navigating Security Risks in LLM-Driven Multi-Agent Systems: A Developer’s Guide, https://medium.com/data-science-collective/security-vulnerabilities-in-llm-powered-multi-agent-systems-what-developers-need-to-know-a5a9eb4b3289
+- Is Your LLM Application Safe?, https://generativeai.pub/is-your-llm-application-safe-8a3c08ddb197
+- 
 
 
 
