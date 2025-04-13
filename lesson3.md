@@ -2456,6 +2456,7 @@ Cov(X,Y) = Σ((x_i - x̄)(y_i - ȳ)) / (n-1)
 - Bayes’ Theorem: Understanding Business Outcomes with Evidence, https://medium.com/data-science/bayes-theorem-understanding-outcomes-with-evidence-9e23e18b0912
 - 20 Cutting-Edge Statistical Techniques Every Data Scientist Should Master in 2025, https://medium.com/@thedatabeast/20-cutting-edge-statistical-techniques-every-data-scientist-should-master-in-2025-4fbcef24b373
 - How to Find the Best Theoretical Distribution for Your Data, https://medium.com/data-science/how-to-find-the-best-theoretical-distribution-for-your-data-a26e5673b4bd
+- Statistics for people in a hurry, https://kozyrkov.medium.com/statistics-for-people-in-a-hurry-7c3910b4ca9a
 - 
 
 
