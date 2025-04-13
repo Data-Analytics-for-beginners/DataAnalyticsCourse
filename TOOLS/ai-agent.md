@@ -7,4 +7,5 @@
 - Building an AI Agent is a Nightmare for the Middle-Class, https://medium.com/everyday-ai/building-an-ai-agent-is-a-nightmare-for-the-middle-class-1822bd820905
 - LangGraph + MCP + Ollama: The Key To Powerful Agentic AI, https://medium.com/data-science-collective/langgraph-mcp-ollama-the-key-to-powerful-agentic-ai-e1881f43cf63
 - AI Agents: Architectures (Part-6), https://medium.com/@vipra_singh/ai-agents-architectures-part-6-538812b1e17d
+- Fixing the Agent Handoff Problem in LlamaIndex’s AgentWorkflow System, https://medium.com/data-science-collective/fixing-the-agent-handoff-problem-in-llamaindexs-agentworkflow-system-2420f146ff70
 - 
