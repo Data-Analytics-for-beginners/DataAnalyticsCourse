@@ -779,6 +779,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - What It Takes to be the Most Accurate , Secure, and Trusted AI Data Analytics Platform,   https://medium.com/basejump-ai/what-it-takes-to-be-the-most-accurate-secure-and-trusted-ai-data-analytics-platform-438bee63cc9e
 - Navigating Security Risks in LLM-Driven Multi-Agent Systems: A Developer’s Guide, https://medium.com/data-science-collective/security-vulnerabilities-in-llm-powered-multi-agent-systems-what-developers-need-to-know-a5a9eb4b3289
 - Is Your LLM Application Safe?, https://generativeai.pub/is-your-llm-application-safe-8a3c08ddb197
+- Part 1: Chatting with My Company’s Brain: How I Built My AI Knowledge Buddy, https://ai.plainenglish.io/part-1-chatting-with-my-companys-brain-how-i-built-my-ai-knowledge-buddy-dce25b4696ba
 - 
 
 
