@@ -785,6 +785,9 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Cursor vs Windsurf Review — Detailed Breakdown, https://medium.com/realworld-ai-use-cases/cursor-vs-windsurf-review-i-love-windsurf-but-its-too-expensive-ee36bb6d5723
 - Windsurf vs Cursor — Direct Cost & Time Comparison building the same app, https://medium.com/realworld-ai-use-cases/windsurf-vs-cursor-direct-cost-time-comparison-building-the-same-app-aa74cbff8e6e
 - Cursor tip — use Augmentcode when you get stuck, https://medium.com/realworld-ai-use-cases/cursor-tip-use-augmentcode-when-you-get-stuck-26c2ee2a4f56
+- How to Build a Reliable RAG Pipeline with Langfuse and RAGAS in Python, https://medium.com/data-science-collective/building-a-robust-rag-system-with-langfuse-and-ragas-a-complete-implementation-guide-with-pyhton-64dd73fb0657#:~:text=How%20to%20Build%20a%20Reliable%20RAG%20Pipeline%20with%20Langfuse%20and%20RAGAS%20in%20Python
+- The 3-Level Prompting System That Makes AI Insanely Useful, https://medium.com/age-of-awareness/the-3-level-prompting-system-that-makes-ai-insanely-useful-c37f9e64d547
+- Latent Spaces: The Bridge Between Minds and Machines, https://medium.com/@thiago.hirano/latent-spaces-the-bridge-between-minds-and-machines-2bea981c4215
 - 
 
 
