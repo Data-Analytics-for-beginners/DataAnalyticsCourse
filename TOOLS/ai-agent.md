@@ -12,4 +12,5 @@
 - Meet Google A2A: The Protocol That will Revolutionize Multi-Agent AI Systems, https://medium.com/@the_manoj_desai/meet-google-a2a-the-protocol-that-will-revolutionize-multi-agent-ai-systems-80d55a4583ed
 - Model Context Protocol (MCP) Clearly Explained, https://medium.com/@the_manoj_desai/model-context-protocol-mcp-clearly-explained-7b94e692001c
 - Chain of Draft — AI That Thinks Fast, Not Fancy, https://medium.com/@the_manoj_desai/chain-of-draft-ai-that-thinks-fast-not-fancy-3e46786adf4a
+- Talking to Data: How Multi-Agent AI is Finally Unlocking Text-to-SQL, https://blog.gopenai.com/talking-to-data-how-multi-agent-ai-is-finally-unlocking-text-to-sql-64aa4d6cbe9b
 - 
