@@ -784,6 +784,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - LLM Workflows: From Automation to AI Agents, https://shawhin.medium.com/llm-workflows-from-automation-to-ai-agents-a62f96a0f89a
 - Cursor vs Windsurf Review — Detailed Breakdown, https://medium.com/realworld-ai-use-cases/cursor-vs-windsurf-review-i-love-windsurf-but-its-too-expensive-ee36bb6d5723
 - Windsurf vs Cursor — Direct Cost & Time Comparison building the same app, https://medium.com/realworld-ai-use-cases/windsurf-vs-cursor-direct-cost-time-comparison-building-the-same-app-aa74cbff8e6e
+- Cursor tip — use Augmentcode when you get stuck, https://medium.com/realworld-ai-use-cases/cursor-tip-use-augmentcode-when-you-get-stuck-26c2ee2a4f56
 - 
 
 
