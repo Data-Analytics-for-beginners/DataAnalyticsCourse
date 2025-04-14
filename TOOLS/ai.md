@@ -783,6 +783,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - OpenLLM 101: How to Deploy LLMs with a Real API, Not Just a Toy, https://ai.plainenglish.io/part-1-chatting-with-my-companys-brain-how-i-built-my-ai-knowledge-buddy-dce25b4696ba
 - LLM Workflows: From Automation to AI Agents, https://shawhin.medium.com/llm-workflows-from-automation-to-ai-agents-a62f96a0f89a
 - Cursor vs Windsurf Review — Detailed Breakdown, https://medium.com/realworld-ai-use-cases/cursor-vs-windsurf-review-i-love-windsurf-but-its-too-expensive-ee36bb6d5723
+- Windsurf vs Cursor — Direct Cost & Time Comparison building the same app, https://medium.com/realworld-ai-use-cases/windsurf-vs-cursor-direct-cost-time-comparison-building-the-same-app-aa74cbff8e6e
 - 
 
 
