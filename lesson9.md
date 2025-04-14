@@ -281,6 +281,7 @@ Power BI загалом має п'ять компонентів, але ми р�
 - Making Your Power BI Report Interactive in Presentations, https://levelup.gitconnected.com/diy-ai-ml-the-k-means-algorithm-441c5a47914f
 - How to Reduce Power BI File Size, https://medium.com/microsoft-power-bi/how-to-reduce-power-bi-file-size-fd2267627ac9
 - Making Your Power BI Report Interactive in Presentations, https://medium.com/microsoft-power-bi/making-your-power-bi-report-interactive-in-presentations-727af97a25f5
+- Advanced Data Cleaning for Business Intelligence, https://medium.com/microsoft-power-bi/advanced-data-cleaning-for-business-intelligence-1afdf86524ac
 - 
 - 
 
