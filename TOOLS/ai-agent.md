@@ -13,4 +13,7 @@
 - Model Context Protocol (MCP) Clearly Explained, https://medium.com/@the_manoj_desai/model-context-protocol-mcp-clearly-explained-7b94e692001c
 - Chain of Draft — AI That Thinks Fast, Not Fancy, https://medium.com/@the_manoj_desai/chain-of-draft-ai-that-thinks-fast-not-fancy-3e46786adf4a
 - Talking to Data: How Multi-Agent AI is Finally Unlocking Text-to-SQL, https://blog.gopenai.com/talking-to-data-how-multi-agent-ai-is-finally-unlocking-text-to-sql-64aa4d6cbe9b
+- Building AI Agents with Google’s Agent Development Kit (ADK) as MCP Client — A Deep Dive (Full Code), https://medium.com/google-cloud/building-ai-agents-with-googles-agent-development-kit-adk-as-mcp-client-a-deep-dive-full-54d683713afe
+- AI Agents: Multi-Agent Architectures ( Part-7), https://medium.com/@vipra_singh/ai-agents-multi-agent-architectures-part-7-0f0e185bb083
+- Google ADK + OpenAI Agent = Innovations in AI Agent Framework, https://mychen76.medium.com/google-adk-openai-agent-innovations-in-ai-agent-framework-d67a3fd3acd2
 - 
