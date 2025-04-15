@@ -768,6 +768,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 
 # ПОСИЛАННЯ
 
+- How to Build a Boring AI Startup That Quietly Hits $10M ARR, https://medium.com/swlh/how-to-build-a-boring-ai-startup-that-quietly-hits-10m-arr-1a92285f0cf8
 - Vibe coding with Cursor Ai with examples, https://medium.com/@chrisdunlop_37984/vibe-coding-with-cursor-ai-with-examples-869e1003d919
 - My First Look at OWL: A Fresh Approach to AI Automation, https://ai.gopubby.com/my-first-look-at-owl-a-fresh-approach-to-ai-automation-dc84091fa733
 - Top 10 Open-Source AI Projects That Blew My Mind as a Developer, https://medium.com/lets-code-future/top-10-open-source-ai-projects-that-blew-my-mind-as-a-developer-49ee2c7307f8
@@ -789,6 +790,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - The 3-Level Prompting System That Makes AI Insanely Useful, https://medium.com/age-of-awareness/the-3-level-prompting-system-that-makes-ai-insanely-useful-c37f9e64d547
 - Latent Spaces: The Bridge Between Minds and Machines, https://medium.com/@thiago.hirano/latent-spaces-the-bridge-between-minds-and-machines-2bea981c4215
 - Fine-Tuning a Text-to-SQL LLM for Reasoning Using GRPO, https://blog.gopenai.com/fine-tuning-a-text-to-sql-llm-for-reasoning-using-grpo-ec2c1b55278f
+- How Google Quietly Took the Lead in the AI Race with Gemini 2.5, https://medium.com/artificial-corner/how-google-quietly-took-the-lead-in-the-ai-race-with-gemini-2-5-c98dfb58b6a1
 - 
 
 
