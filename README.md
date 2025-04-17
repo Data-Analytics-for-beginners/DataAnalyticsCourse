@@ -206,8 +206,31 @@
 
 
 
+# 4. Microsoft  Learning. 
+### Learning Path, Beginners level
+- Microsoft Azure Data Fundamentals: Explore core data concepts, https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/
+- Microsoft Azure Data Fundamentals: Explore relational data in Azure, https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/
+- Microsoft Azure Data Fundamentals: Explore non-relational data in Azure, https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-non-relational-data/
+- Microsoft Azure Data Fundamentals: Explore data analytics in Azure (2 h 7 min), https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/
+- Model data with Power BI (5h 57 min), https://learn.microsoft.com/en-us/training/paths/model-data-power-bi/
+- Get started with Microsoft Fabric (9 hr 56 min), https://learn.microsoft.com/en-us/training/paths/get-started-fabric/
+- Implement a data warehouse with Microsoft Fabric (5 hr 48 min), https://learn.microsoft.com/en-us/training/paths/work-with-data-warehouses-using-microsoft-fabric/
+- Implement Real-Time Intelligence with Microsoft Fabric (5 hr 15 min), https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/
+- Create and use analytics reports with Power BI (5 hr 56 min), https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/
+- Prepare and visualize data with Microsoft Power BI (7 hr 56 min), https://learn.microsoft.com/en-us/training/paths/prepare-visualize-data-power-bi/
+- Implement a Data Streaming Solution with Azure Stream Analytics (3 hr 2 min), https://learn.microsoft.com/en-us/training/paths/implement-data-streaming-with-asa/
+- Get Started Querying with Transact-SQL (5 hr 40 min), https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/
+- Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint (7 hr 40 min), https://learn.microsoft.com/en-us/training/paths/modern-analytics/ 
+- Empower your workforce with Microsoft 365 Copilot Use Cases (6 hr 38 min), https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/
+- Implement a data science and machine learning solution for AI in Microsoft Fabric (5 hr 27 min), https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/
+- Data analysis with Kusto Query Language (2 hr 34 min), https://learn.microsoft.com/en-us/training/paths/kusto-query-language/
+- Analyze monitoring data with Kusto Query Language (3 hr 49 min), https://learn.microsoft.com/en-us/training/paths/analyze-monitoring-data-with-kql/
+- Data analysis in Azure Data Explorer with Kusto Query Language (4 hr 2 min), https://learn.microsoft.com/en-us/training/paths/data-analysis-data-explorer-kusto-query-language/
+- Implement Azure Arc-enabled SQL Managed Instance in your hybrid environment (3 hr 41 min), https://learn.microsoft.com/en-us/training/paths/get-started-azure-arc-sql-managed-instance/
 
-Data Analytics, Ironhack, https://www.ironhack.com/ww/data-analytics
+  
+# 5 Others
+- Data Analytics, Ironhack, https://www.ironhack.com/ww/data-analytics
 
 
 
