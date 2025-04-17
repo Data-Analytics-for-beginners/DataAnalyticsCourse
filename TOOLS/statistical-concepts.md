@@ -104,5 +104,9 @@
 - Оцінка достовірності досліджень
 
 
+## Посилання:
+
+- Every Data Scientist Should Know About Bayesian Networks, https://levelup.gitconnected.com/every-data-scientist-should-know-about-bayesian-networks-cf623ecc97ca
+
 
 
