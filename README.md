@@ -208,9 +208,9 @@
 
 # 4. Microsoft  Learning. 
 ### Learning Path, Beginners level
-- Microsoft Azure Data Fundamentals: Explore core data concepts, https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/
-- Microsoft Azure Data Fundamentals: Explore relational data in Azure, https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/
-- Microsoft Azure Data Fundamentals: Explore non-relational data in Azure, https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-non-relational-data/
+- Microsoft Azure Data Fundamentals: Explore core data concepts (45 min), https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-core-data-concepts/
+- Microsoft Azure Data Fundamentals: Explore relational data in Azure (1 hr 13 min), https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-relational-data/
+- Microsoft Azure Data Fundamentals: Explore non-relational data in Azure (1 hr 12 min), https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-non-relational-data/
 - Microsoft Azure Data Fundamentals: Explore data analytics in Azure (2 h 7 min), https://learn.microsoft.com/en-us/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/
 - Model data with Power BI (5h 57 min), https://learn.microsoft.com/en-us/training/paths/model-data-power-bi/
 - Get started with Microsoft Fabric (9 hr 56 min), https://learn.microsoft.com/en-us/training/paths/get-started-fabric/
