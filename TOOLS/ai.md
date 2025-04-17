@@ -791,6 +791,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Latent Spaces: The Bridge Between Minds and Machines, https://medium.com/@thiago.hirano/latent-spaces-the-bridge-between-minds-and-machines-2bea981c4215
 - Fine-Tuning a Text-to-SQL LLM for Reasoning Using GRPO, https://blog.gopenai.com/fine-tuning-a-text-to-sql-llm-for-reasoning-using-grpo-ec2c1b55278f
 - How Google Quietly Took the Lead in the AI Race with Gemini 2.5, https://medium.com/artificial-corner/how-google-quietly-took-the-lead-in-the-ai-race-with-gemini-2-5-c98dfb58b6a1
+- A Comprehensive Guide to Vibe Coding Tools, https://madhukarkumar.medium.com/a-comprehensive-guide-to-vibe-coding-tools-2bd35e2d7b4f
 - 
 
 
