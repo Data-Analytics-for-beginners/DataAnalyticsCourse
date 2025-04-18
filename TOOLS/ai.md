@@ -792,6 +792,8 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Fine-Tuning a Text-to-SQL LLM for Reasoning Using GRPO, https://blog.gopenai.com/fine-tuning-a-text-to-sql-llm-for-reasoning-using-grpo-ec2c1b55278f
 - How Google Quietly Took the Lead in the AI Race with Gemini 2.5, https://medium.com/artificial-corner/how-google-quietly-took-the-lead-in-the-ai-race-with-gemini-2-5-c98dfb58b6a1
 - A Comprehensive Guide to Vibe Coding Tools, https://madhukarkumar.medium.com/a-comprehensive-guide-to-vibe-coding-tools-2bd35e2d7b4f
+- 7 AI Tools Every Developer Should Know in 2025!, https://levelup.gitconnected.com/7-ai-tools-every-developer-should-know-in-2025-f33b375e93ca
+- I got Cursor to be 31% more efficient — and made you a template, https://medium.com/realworld-ai-use-cases/i-got-cursor-to-be-31-more-efficient-and-made-you-a-template-e1c749efc4af
 - 
 
 
