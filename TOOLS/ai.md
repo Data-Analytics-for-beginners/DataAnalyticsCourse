@@ -795,6 +795,8 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - 7 AI Tools Every Developer Should Know in 2025!, https://levelup.gitconnected.com/7-ai-tools-every-developer-should-know-in-2025-f33b375e93ca
 - I got Cursor to be 31% more efficient — and made you a template, https://medium.com/realworld-ai-use-cases/i-got-cursor-to-be-31-more-efficient-and-made-you-a-template-e1c749efc4af
 - The Power Duo: How A2A + MCP Let You Build Practical AI Systems Today, https://medium.com/@the_manoj_desai/the-power-duo-how-a2a-mcp-let-you-build-practical-ai-systems-today-9c19064b027b
+- How to choose the right LLM Evaluation Metrics for your LLM App?, https://levelup.gitconnected.com/how-to-choose-the-right-llm-evaluation-metrics-for-your-llm-app-6ae4cc3555b1
+- Getting more creative designs with Cursor, https://medium.com/realworld-ai-use-cases/getting-more-creative-designs-with-cursor-bb58a092fcb8
 - 
 
 
