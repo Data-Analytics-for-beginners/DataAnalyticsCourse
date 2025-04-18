@@ -107,6 +107,8 @@
 ## Посилання:
 
 - Every Data Scientist Should Know About Bayesian Networks, https://levelup.gitconnected.com/every-data-scientist-should-know-about-bayesian-networks-cf623ecc97ca
+- Data-Driven LLM Evaluation with Statistical Testing, https://pub.towardsai.net/data-driven-llm-evaluation-with-statistical-testing-004b1561793f
+- 
 
 
 
