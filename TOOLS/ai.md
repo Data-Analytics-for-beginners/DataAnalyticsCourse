@@ -794,6 +794,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - A Comprehensive Guide to Vibe Coding Tools, https://madhukarkumar.medium.com/a-comprehensive-guide-to-vibe-coding-tools-2bd35e2d7b4f
 - 7 AI Tools Every Developer Should Know in 2025!, https://levelup.gitconnected.com/7-ai-tools-every-developer-should-know-in-2025-f33b375e93ca
 - I got Cursor to be 31% more efficient — and made you a template, https://medium.com/realworld-ai-use-cases/i-got-cursor-to-be-31-more-efficient-and-made-you-a-template-e1c749efc4af
+- The Power Duo: How A2A + MCP Let You Build Practical AI Systems Today, https://medium.com/@the_manoj_desai/the-power-duo-how-a2a-mcp-let-you-build-practical-ai-systems-today-9c19064b027b
 - 
 
 
