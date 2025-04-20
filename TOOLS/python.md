@@ -198,4 +198,5 @@ source environment_name/bin/activate
 
 1) How to Organize Your Python Study Environment with Virtual Environments: A Complete Guide, https://medium.com/@lucasmassucci/how-to-organize-your-python-study-environment-with-virtual-environments-a-complete-guide-d388a26afa9e
 2) I Tried Writing Python in VS Code and PyCharm — Here’s What I Found, https://medium.com/pythonic-af/i-tried-writing-python-in-vs-code-and-pycharm-heres-what-i-found-e041becf6900
-3) 
+3) VS Code’s New AI Did My Job for 30 Minutes. The Results? Honestly Shocking!, https://medium.com/mr-plan-publication/vs-codes-new-ai-did-my-job-for-30-minutes-the-results-honestly-shocking-33b490a5afde
+4) 
