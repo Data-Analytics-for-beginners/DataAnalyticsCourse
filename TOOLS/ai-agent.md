@@ -1,6 +1,8 @@
 
 
 - Model Context Protocol — A Simple Introduction, https://medium.com/data-science-collective/model-context-protocol-a-simplest-introduction-26efd535e27b
+- Model Context Protocol (MCP): An End-To-End Tutorial With Hands-On Project with Python, https://medium.com/data-science-collective/model-context-protocol-mcp-an-end-to-end-tutorial-with-hands-on-project-c6b9ffee03d7
+- Google Agent Development Kit (ADK): A Technical Overview, https://medium.com/@danushidk507/google-agent-development-kit-adk-a-technical-overview-03ba8a159c28
 - Building Your First AI Agent (That Will Actually Improve You As An AI Engineer, https://levelup.gitconnected.com/building-your-first-ai-agent-that-will-actually-improve-you-as-an-ai-engineer-4cb99e590d30
 - MCP Servers [Explained] Python and Agentic AI Tool Integration, https://medium.com/microsoft-power-bi/forecasting-with-power-bi-how-to-make-forecasts-and-predictions-c994c383a53d
 - MCP Servers: A Comprehensive Guide — Another way to explain, https://generativeai.pub/mcp-servers-explained-python-and-agentic-ai-tool-integration-aa2ddca6cbe5
@@ -21,4 +23,5 @@
 - Understanding LangGraph: Creating Agentic AI Systems for Enterprise Applications, https://medium.com/data-science-collective/understanding-langgraph-creating-agentic-ai-systems-enterprise-applications-7862f147b517
 - Building A LinkedIn Content Creation Agency Using Google’s Agent Development Kit, https://levelup.gitconnected.com/building-a-linkedin-content-creation-agency-using-googles-agent-development-kit-f057e309a05f
 - How to Use FastAPI MCP Server: A Comprehensive Guide, https://medium.com/towards-agi/how-to-use-fastapi-mcp-server-a-comprehensive-guide-fbb308fd7937
+- From Zero to Agent: Get Started with CrewAI in Minutes, https://medium.com/data-science-collective/from-zero-to-agent-get-started-with-crewai-inuse-crewai-to-build-a-useful-ai-agent-with-just-a-b451cdd5a9c6
 - 
