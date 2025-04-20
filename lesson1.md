@@ -579,7 +579,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  The Future of Business Intelligence: The Generative BI (GenBI), https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f
 -  From Excel to Power BI: The Complete Beginner’s Roadmap to Data Analysis (2025), https://analystuttam.medium.com/from-excel-to-power-bi-the-complete-beginners-roadmap-to-data-analysis-2025-c56ddde66b8f
 -  Microsoft Fabric for Business Intelligence: A New Era of Data and BI, https://medium.com/microsoft-power-bi/microsoft-fabric-for-business-intelligence-a-new-era-of-data-and-bi-ad59629a07c7
--  
+-  Building a modern Data Warehouse from scratch, h
+-  ttps://rihab-feki.medium.com/building-a-modern-data-warehouse-from-scratch-d18d346a7118
 
 
 
