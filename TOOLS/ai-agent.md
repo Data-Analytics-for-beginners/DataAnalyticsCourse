@@ -20,3 +20,5 @@
 - Google ADK + OpenAI Agent = Innovations in AI Agent Framework, https://mychen76.medium.com/google-adk-openai-agent-innovations-in-ai-agent-framework-d67a3fd3acd2
 - Understanding LangGraph: Creating Agentic AI Systems for Enterprise Applications, https://medium.com/data-science-collective/understanding-langgraph-creating-agentic-ai-systems-enterprise-applications-7862f147b517
 - Building A LinkedIn Content Creation Agency Using Google’s Agent Development Kit, https://levelup.gitconnected.com/building-a-linkedin-content-creation-agency-using-googles-agent-development-kit-f057e309a05f
+- How to Use FastAPI MCP Server: A Comprehensive Guide, https://medium.com/towards-agi/how-to-use-fastapi-mcp-server-a-comprehensive-guide-fbb308fd7937
+- 
