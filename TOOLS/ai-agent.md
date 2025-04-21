@@ -17,11 +17,14 @@
 - Chain of Draft — AI That Thinks Fast, Not Fancy, https://medium.com/@the_manoj_desai/chain-of-draft-ai-that-thinks-fast-not-fancy-3e46786adf4a
 - Talking to Data: How Multi-Agent AI is Finally Unlocking Text-to-SQL, https://blog.gopenai.com/talking-to-data-how-multi-agent-ai-is-finally-unlocking-text-to-sql-64aa4d6cbe9b
 - Building AI Agents with Google’s Agent Development Kit (ADK) as MCP Client — A Deep Dive (Full Code), https://medium.com/google-cloud/building-ai-agents-with-googles-agent-development-kit-adk-as-mcp-client-a-deep-dive-full-54d683713afe
-- AI Agents: Multi-Agent Architectures ( Part-7), https://medium.com/@vipra_singh/ai-age
-- nts-multi-agent-architectures-part-7-0f0e185bb083
+- AI Agents: Multi-Agent Architectures ( Part-7), https://medium.com/@vipra_singh/ai-age-nts-multi-agent-architectures-part-7-0f0e185bb083
 - Google ADK + OpenAI Agent = Innovations in AI Agent Framework, https://mychen76.medium.com/google-adk-openai-agent-innovations-in-ai-agent-framework-d67a3fd3acd2
 - Understanding LangGraph: Creating Agentic AI Systems for Enterprise Applications, https://medium.com/data-science-collective/understanding-langgraph-creating-agentic-ai-systems-enterprise-applications-7862f147b517
 - Building A LinkedIn Content Creation Agency Using Google’s Agent Development Kit, https://levelup.gitconnected.com/building-a-linkedin-content-creation-agency-using-googles-agent-development-kit-f057e309a05f
 - How to Use FastAPI MCP Server: A Comprehensive Guide, https://medium.com/towards-agi/how-to-use-fastapi-mcp-server-a-comprehensive-guide-fbb308fd7937
 - From Zero to Agent: Get Started with CrewAI in Minutes, https://medium.com/data-science-collective/from-zero-to-agent-get-started-with-crewai-inuse-crewai-to-build-a-useful-ai-agent-with-just-a-b451cdd5a9c6
+- Building Advanced Reasoning Agent Teams with Centralized Prompt Management using Agno and mlflow, https://medium.com/@manthapavankumar11/building-advanced-reasoning-agent-teams-with-centralized-prompt-management-using-agno-and-mlflow-1a3118ad9bfb
+- Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, https://seanfalconer.medium.com/wiring-the-ai-nervous-system-agents-flink-jobs-and-stream-processing-aaadf7bf0138
+- Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
 - 
+  
