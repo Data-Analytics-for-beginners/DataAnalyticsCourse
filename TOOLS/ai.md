@@ -798,6 +798,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - How to choose the right LLM Evaluation Metrics for your LLM App?, https://levelup.gitconnected.com/how-to-choose-the-right-llm-evaluation-metrics-for-your-llm-app-6ae4cc3555b1
 - Getting more creative designs with Cursor, https://medium.com/realworld-ai-use-cases/getting-more-creative-designs-with-cursor-bb58a092fcb8
 - Kling AI 2.0 Is Here — The Best AI Video Generator, https://generativeai.pub/kling-ai-2-0-is-here-the-best-ai-video-generator-89f510009da9
+- How to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AIHow to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AI, https://medium.com/data-science-collective/how-to-run-large-language-models-llms-locally-a-beginners-guide-to-offline-ai-50e89dadcafd
 - 
 
 
