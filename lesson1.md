@@ -593,11 +593,21 @@ print(bmi)  # Виведе: 23.157829031553323
 -  End to End Tableau Project: Sales Data Analysis, https://medium.com/@rihab-feki/end-to-end-tableau-project-how-to-build-a-sales-performance-dashboard-a6aa464c0eab
 
 
+# Tableau
+[Part I] Tableau Features— The Complete Learning Guide, https://medium.com/@rihab-feki/part-i-tableau-the-ultimate-guide-a8ff2cf97fea
+[Part II] Tableau Features— Filters, Parameters, Actions & Calculations, https://medium.com/@rihab-feki/part-ii-tableau-features-filters-parameters-actions-calculations-de3e5d4f1e32
+
+
+
 # Microsoft Fabric
+- Data Architecture — Exploring the Interior Walls of Modern Data Platforms: Episode I (Fabric Case Study), https://medium.com/@karetech/data-architecture-the-interior-walls-of-modern-data-platforms-episode-i-fabric-mini-case-study-fbffb8a63f06
+- Data Architecture — The Interior Walls of Modern Data Platforms Episode V: Green Architectures, https://medium.com/@karetech/data-architecture-the-interior-walls-of-modern-data-platforms-episode-v-green-architectures-5c1504e33d25  
 - Microsoft Fabric: A detailed fundamentals guide with examples, https://medium.com/@rihab-feki/microsoft-fabric-a-detailed-fundamentals-guide-with-examples-7fad59da60f4
 - Azure End-to-End Data Engineering Project: Medallion Architecture with Databricks [Part 2], https://medium.com/@rihab-feki/azure-end-to-end-data-engineering-project-medallion-architecture-with-databricks-part-2-9abf1ab3dba0
 - Microsoft Fabric — Hands On Project, https://medium.com/@rihab-feki/microsoft-fabric-hands-on-project-b4323b6ac550
 - Exploring Microsoft Fabric Workspaces, https://medium.com/@rihab-feki/exploring-microsoft-fabric-workspaces-b32e33e3d49f
+- Data Warehousing (DWH) best practices, https://medium.com/@rihab-feki/data-warehousing-dwh-best-practices-ef9c61cf657d
+- 
 
 
 
