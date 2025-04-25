@@ -579,8 +579,25 @@ print(bmi)  # Виведе: 23.157829031553323
 -  The Future of Business Intelligence: The Generative BI (GenBI), https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f
 -  From Excel to Power BI: The Complete Beginner’s Roadmap to Data Analysis (2025), https://analystuttam.medium.com/from-excel-to-power-bi-the-complete-beginners-roadmap-to-data-analysis-2025-c56ddde66b8f
 -  Microsoft Fabric for Business Intelligence: A New Era of Data and BI, https://medium.com/microsoft-power-bi/microsoft-fabric-for-business-intelligence-a-new-era-of-data-and-bi-ad59629a07c7
--  Building a modern Data Warehouse from scratch, h
--  ttps://rihab-feki.medium.com/building-a-modern-data-warehouse-from-scratch-d18d346a7118
+-  Building a modern Data Warehouse from scratch, https://rihab-feki.medium.com/building-a-modern-data-warehouse-from-scratch-d18d346a7118
+-  A Step-by-Step Guide to Descriptive Data Analytics, https://medium.com/@themathlab/a-step-by-step-guide-to-descriptive-data-analytics-4ac91253a31e
+-  How to Perform Exploratory Data Analysis Using Python, https://medium.com/@themathlab/how-to-perform-exploratory-data-analysis-using-python-564461c67be2
+-  Exploratory Data Analysis (EDA) Using SQL: A Step-by-Step Guide, https://medium.com/@vishnutr/exploratory-data-analysis-eda-using-sql-a-step-by-step-guide-1450ddac23b9
+-  Data Analysis, https://medium.com/@priteshlathiya/data-analysis-part-intro-638f2259e9c3
+-  Cluster Analysis, https://medium.com/@priteshlathiya/cluster-analysis-eb48bfb41d6b
+-  Factor Analysis in Python, https://medium.com/@priteshlathiya/factor-analysis-in-python-93fa5a6a2f8c
+-  Looker, Tableau, and Power BI: A Comparative Analysis, https://medium.com/@vishnutr/looker-tableau-and-power-bi-a-comparative-analysis-f3be7f0e0e54
+-  [Part III] The Complete List of Tableau Charts — with example Dashboard project, https://medium.com/@rihab-feki/part-iii-the-complete-list-of-tableau-charts-with-example-dashboard-1d64c1aa8e80
+-  Medallion Architecture in Power BI, https://medium.com/modernizing-maintenance/medallion-architecture-in-power-bi-ee60d21feca5
+-  Tableau vs Power BI, https://medium.com/@analystuttam/tableau-vs-power-bi-93301d47675a
+-  End to End Tableau Project: Sales Data Analysis, https://medium.com/@rihab-feki/end-to-end-tableau-project-how-to-build-a-sales-performance-dashboard-a6aa464c0eab
+
+
+# Microsoft Fabric
+- Microsoft Fabric: A detailed fundamentals guide with examples, https://medium.com/@rihab-feki/microsoft-fabric-a-detailed-fundamentals-guide-with-examples-7fad59da60f4
+- Azure End-to-End Data Engineering Project: Medallion Architecture with Databricks [Part 2], https://medium.com/@rihab-feki/azure-end-to-end-data-engineering-project-medallion-architecture-with-databricks-part-2-9abf1ab3dba0
+- Microsoft Fabric — Hands On Project, https://medium.com/@rihab-feki/microsoft-fabric-hands-on-project-b4323b6ac550
+- Exploring Microsoft Fabric Workspaces, https://medium.com/@rihab-feki/exploring-microsoft-fabric-workspaces-b32e33e3d49f
 
 
 
