@@ -611,4 +611,7 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+- Why Data Engineering is Harder Than Software Engineering!, https://medium.com/@shenoy.shashwath/why-data-engineering-is-harder-than-software-engineering-c4bf34cc4888
+- Building a Data Lakehouse with Iceberg, Spark, and AWS Glue, https://medium.com/towards-data-engineering/building-a-data-lakehouse-with-iceberg-spark-and-aws-glue-d96e6e081c4f
+- 
 
