@@ -768,6 +768,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 
 # ПОСИЛАННЯ
 
+- AI Tools I Use Daily as a Data Analyst, https://analystuttam.medium.com/ai-tools-for-data-analysts-2025-bed154a9f587
 - How to Build a Boring AI Startup That Quietly Hits $10M ARR, https://medium.com/swlh/how-to-build-a-boring-ai-startup-that-quietly-hits-10m-arr-1a92285f0cf8
 - Vibe coding with Cursor Ai with examples, https://medium.com/@chrisdunlop_37984/vibe-coding-with-cursor-ai-with-examples-869e1003d919
 - My First Look at OWL: A Fresh Approach to AI Automation, https://ai.gopubby.com/my-first-look-at-owl-a-fresh-approach-to-ai-automation-dc84091fa733
