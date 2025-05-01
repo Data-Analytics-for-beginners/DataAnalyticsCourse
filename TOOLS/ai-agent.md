@@ -35,3 +35,5 @@
 
 
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/agentic_AI_1.webp)
+
+Fig. 1: Agentic AI evolution (Image by Author)
