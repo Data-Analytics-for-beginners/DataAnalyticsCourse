@@ -28,7 +28,8 @@
 - Building Advanced Reasoning Agent Teams with Centralized Prompt Management using Agno and mlflow, https://medium.com/@manthapavankumar11/building-advanced-reasoning-agent-teams-with-centralized-prompt-management-using-agno-and-mlflow-1a3118ad9bfb
 - Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, https://seanfalconer.medium.com/wiring-the-ai-nervous-system-agents-flink-jobs-and-stream-processing-aaadf7bf0138
 - Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
-- 
+- Powering AI Agents with Real-Time Data Using Anthropic’s MCP and Confluent, https://seanfalconer.medium.com/powering-ai-agents-with-real-time-data-using-anthropics-mcp-and-confluent-c7a873b881b0
+-  
   
 
 
