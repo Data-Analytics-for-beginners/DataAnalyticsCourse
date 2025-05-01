@@ -30,3 +30,8 @@
 - Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
 - 
   
+
+
+
+
+![..](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/sql-server-architecture.png)
