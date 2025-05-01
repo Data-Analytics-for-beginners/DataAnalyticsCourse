@@ -34,4 +34,4 @@
 
 
 
-![..](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/sql-server-architecture.png)
+![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/agentic_AI_1.webp)
