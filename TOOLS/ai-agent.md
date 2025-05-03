@@ -1,5 +1,6 @@
 
 
+- Understanding LLM Agents: Concepts, Patterns & Frameworks, https://medium.com/towards-artificial-intelligence/understanding-llm-agents-concepts-patterns-frameworks-8c57661f3ff1
 - Agentic AI for Customer Service Desk, https://medium.com/data-science-collective/reinventing-the-customer-service-desk-with-autonomous-ai-agents-ca5a0c00ba3f- 
 - Agent Explainability: The Foundation for Trust in the Agent Ecosystem, https://medium.com/data-science-collective/agent-explainability-the-foundation-for-trust-in-the-agent-ecosystem-2da0643ddda9
 - Model Context Protocol — A Simple Introduction, https://medium.com/data-science-collective/model-context-protocol-a-simplest-introduction-26efd535e27b
