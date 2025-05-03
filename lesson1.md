@@ -615,3 +615,9 @@ print(bmi)  # Виведе: 23.157829031553323
 - Building a Data Lakehouse with Iceberg, Spark, and AWS Glue, https://medium.com/towards-data-engineering/building-a-data-lakehouse-with-iceberg-spark-and-aws-glue-d96e6e081c4f
 - 
 
+
+
+ # AI
+ 
+- AI Tools I Use Daily as a Data Analyst, https://analystuttam.medium.com/ai-tools-for-data-analysts-2025-bed154a9f587
+-  
