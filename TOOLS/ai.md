@@ -768,6 +768,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 
 # ПОСИЛАННЯ
 
+- Building a Subscription-Based AI Web App from Scratch Using Python, https://medium.com/gitconnected/building-a-subscription-based-ai-web-app-from-scratch-using-python-4dc2f6715805 
 - 5 Steps to Building with AI: What It Can Do Reliably (and How to Start), https://seanfalconer.medium.com/5-steps-to-building-with-ai-what-it-can-do-reliably-and-how-to-start-a94bb7847a53
 - AI Tools I Use Daily as a Data Analyst, https://analystuttam.medium.com/ai-tools-for-data-analysts-2025-bed154a9f587
 - How to Build a Boring AI Startup That Quietly Hits $10M ARR, https://medium.com/swlh/how-to-build-a-boring-ai-startup-that-quietly-hits-10m-arr-1a92285f0cf8
