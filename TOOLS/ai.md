@@ -771,7 +771,9 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - Enterprise AI Strategy: AI Automation Playbook, https://ai.gopubby.com/enterprise-ai-strategy-ai-automation-playbook-d5d54efcbb77
 - Enterprise AI Strategy: AI Agents vs AI Models, https://ai.gopubby.com/enterprise-ai-strategy-ai-agents-vs-ai-models-f92fa1a22823
 - Enterprise AI Strategy: What the Industry Is Missing, https://ai.gopubby.com/enterprise-ai-strategy-what-the-industry-is-missing-25a17202e3b7
+- The 6-Step Framework for Mastering Strategic Decisions Using AI and PEST, https://medium.com/publishous/the-6-step-framework-for-mastering-strategic-decisions-using-ai-and-pest-7fd76224dcfa
 - Solving 6 Types of Hallucinations in Small LLMs: A Hands‑On Guide, https://levelup.gitconnected.com/solving-6-types-of-hallucinations-in-small-llms-a-hands-on-guide-8d15c11650d3
+- The Large Language Model Course, https://medium.com/data-science/the-large-language-model-course-b6663cd57ceb
 - Building a Subscription-Based AI Web App from Scratch Using Python, https://medium.com/gitconnected/building-a-subscription-based-ai-web-app-from-scratch-using-python-4dc2f6715805
 - Building LLaMA 4 from Scratch with Python, https://medium.com/gitconnected/building-llama-4-from-scratch-with-python-6056aae738a1
 - Building a GPT-4o Like Multi-Modal from Scratch Using Python, https://medium.com/gitconnected/building-a-gpt-4o-like-multi-modal-from-scratch-using-python-ad0fa9c213d3  
