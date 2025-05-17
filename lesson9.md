@@ -264,6 +264,7 @@ Power BI загалом має п'ять компонентів, але ми р�
 # Посилання:
 
 - Что такое Power BI?, https://learn.microsoft.com/ru-ru/power-bi/fundamentals/power-bi-overview
+- Using Power BI to Monitor your Azure Data Platform (with Dave Ruijter), https://www.youtube.com/watch?v=t-ek4ZgnoFk
 - Power BI In 2025: Latest Power BI Features in 2025, https://medium.com/microsoft-power-bi/power-bi-in-2025-latest-power-bi-features-in-2025-6fc1b368dce3
 - Creating a Venn Diagram Style Sales KPI in Power BI, https://medium.com/microsoft-power-bi/creating-a-venn-diagram-style-sales-kpi-in-power-bi-7b8b407872ae
 - Building a Segmented Sales KPI in Power BI, https://medium.com/microsoft-power-bi/building-a-segmented-sales-kpi-in-power-bi-2d8b89d141bc
