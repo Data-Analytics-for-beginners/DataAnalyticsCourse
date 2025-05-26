@@ -314,7 +314,9 @@ GROUP BY
 10) Building a Meal Planning Agent with Apache Kafka and Apache Flink, https://seanfalconer.medium.com/building-a-meal-planning-agent-with-apache-kafka-and-apache-flink-254bc5a8d7c5
 11) How to Build a Multi-Agent Orchestrator Using Flink and Kafka, https://seanfalconer.medium.com/how-to-build-a-multi-agent-orchestrator-using-flink-and-kafka-4ee079351161
 12) Kafka-MCP and Qdrant-MCP: Creating and Integrating MCP Servers with Claude for Desktop, https://towardsdev.com/kafka-mcp-and-qdrant-mcp-creating-and-integrating-mcp-servers-with-claude-for-desktop-2da1ef7727bf
-13) Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, 
+13) How Kafka, Flink, Databricks, and Neon Power the Modern Data Stack for AI Agents, https://seanfalconer.medium.com/how-kafka-flink-databricks-and-neon-power-the-modern-stack-for-ai-agents-6c7e4599567f
+14) Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, 
 https://seanfalconer.medium.com/wiring-the-ai-nervous-system-agents-flink-jobs-and-stream-processing-aaadf7bf0138
+
 
 
