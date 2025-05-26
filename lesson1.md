@@ -562,6 +562,7 @@ print(bmi)  # Виведе: 23.157829031553323
 ### Посилання:
 
 -  Top 10 Programming Languages & Frameworks to Master in 2025 (Based on Real-World Demand), https://medium.com/readers-club/top-10-programming-languages-frameworks-to-master-in-2025-based-on-real-world-demand-ad8089208db7
+-  9 Modern Python Libraries You Must Know in 2025!, https://medium.com/@Aashish..kumar/9-modern-python-libraries-you-must-know-in-2025-4b213b21a4f5
 -  Jupyter Notebook Intelligence, https://medium.com/codefile/jupyter-notebook-intelligence-5f404d2cba6b
 -  UV or Conda for Virtual Environments, https://medium.com/codefile/uv-or-conda-for-virtual-environments-7372a258c7d5
 -  From Traditional BI to GenBI: Embracing a Smarter, More Human Approach, https://medium.com/wrenai/from-traditional-bi-to-genbi-embracing-a-smarter-more-human-approach-d4c166ee5c10
