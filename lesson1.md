@@ -621,4 +621,7 @@ print(bmi)  # Виведе: 23.157829031553323
  # AI
  
 - AI Tools I Use Daily as a Data Analyst, https://analystuttam.medium.com/ai-tools-for-data-analysts-2025-bed154a9f587
+- Auto-Analyst 3.0 — AI Data Scientist. New Web UI and more reliable system, https://medium.com/firebird-technologies/auto-analyst-3-0-ai-data-scientist-new-web-ui-and-more-reliable-system-c194cced2e93
+- Deep Analysis — the analytics analogue to deep research, https://www.firebird-technologies.com/p/deep-analysis-the-analytics-analogue?source=post_page-----c194cced2e93---------------------------------------
+-  Building Production-Ready AI Agents & LLM programs with DSPy: Tips and Code Snippets, https://www.firebird-technologies.com/p/building-production-ready-ai-agents
 -  
