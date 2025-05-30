@@ -625,3 +625,9 @@ print(bmi)  # Виведе: 23.157829031553323
 - Deep Analysis — the analytics analogue to deep research, https://www.firebird-technologies.com/p/deep-analysis-the-analytics-analogue?source=post_page-----c194cced2e93---------------------------------------
 -  Building Production-Ready AI Agents & LLM programs with DSPy: Tips and Code Snippets, https://www.firebird-technologies.com/p/building-production-ready-ai-agents
 -  
+
+# Python
+
+- Why Python Shiny Is Your New Killer Data Storytelling Tool, https://medium.com/data-storytelling-corner/why-python-shiny-is-your-new-killer-data-storytelling-tool-a4c24f0e376b
+- 
+
