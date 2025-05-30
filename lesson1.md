@@ -631,5 +631,10 @@ print(bmi)  # Виведе: 23.157829031553323
 
 -  Visual Studio Code Settings for Python Development, https://medium.com/towardsdev/visual-studio-code-settings-for-python-development-025b3d5ff4fe
 -  Why Python Shiny Is Your New Killer Data Storytelling Tool, https://medium.com/data-storytelling-corner/why-python-shiny-is-your-new-killer-data-storytelling-tool-a4c24f0e376b
--  
+
+
+- Bridging the Gap Between Business Intelligence and Data Intelligence in 2025, https://medium.com/microsoft-power-bi/bridging-the-gap-between-business-intelligence-and-data-intelligence-in-2025-0bf699d42b05
+- How to Combine Excel and SQL for Better Data Analysis, https://medium.com/@sahilpalshetkar8822/how-to-combine-excel-and-sql-for-better-data-analysis-3ebf38c636aa
+- How to Build Compliant BI Systems in Highly Regulated Industries, https://medium.com/microsoft-power-bi/how-to-build-compliant-bi-systems-in-highly-regulated-industries-6126756d7002
+
 
