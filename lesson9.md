@@ -284,6 +284,8 @@ Power BI загалом має п'ять компонентів, але ми р�
 - How to Reduce Power BI File Size, https://medium.com/microsoft-power-bi/how-to-reduce-power-bi-file-size-fd2267627ac9
 - Making Your Power BI Report Interactive in Presentations, https://medium.com/microsoft-power-bi/making-your-power-bi-report-interactive-in-presentations-727af97a25f5
 - Advanced Data Cleaning for Business Intelligence, https://medium.com/microsoft-power-bi/advanced-data-cleaning-for-business-intelligence-1afdf86524ac
+- Integrating Python with Power BI for Advanced Data Analysis, https://medium.com/learning-data/integrating-python-with-power-bi-for-advanced-data-analysis-c7e50ca935ae
+- 20 Power BI DAX Functions That Actually Matter, https://medium.com/@swethaboddu09/20-power-bi-dax-functions-that-actually-matter-d0fd7a2332e7
 - 
 - 
 
