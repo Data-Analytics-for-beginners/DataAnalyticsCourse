@@ -201,4 +201,10 @@ SELECT L_ORDERKEY, L_PARTKEY FROM lineitem
    - Допомагає в аутентифікації та контролі доступу
 
 
+# Посилання:
+
+- Modern SQL in Snowflake: Designed for Simplicity for Complex Tasks, https://medium.com/snowflake/modern-sql-in-snowflake-designed-for-simplicity-for-complex-tasks-cbbe568a18dd
+- 
+
+
 
