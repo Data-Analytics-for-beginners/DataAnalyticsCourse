@@ -1,6 +1,8 @@
 
 
 - ИИ-агенты за 7 минут: как это работает, https://www.youtube.com/watch?v=PiW9UDTKDx8
+- Building an Agent for Data Visualization (Plotly), https://medium.com/firebird-technologies/building-an-agent-for-data-visualization-plotly-39310034c4e9
+- Creating an AI-Powered Researcher: A Step-by-Step Guide, https://medium.com/firebird-technologies/creating-an-ai-powered-researcher-a-step-by-step-guide-465c8ff4dfa5
 - Build a Data Analyst AI Agent from Scratch with dbt Catalog Metadata, https://medium.com/@DanielH_Takes/build-a-data-analyst-ai-agent-from-scratch-with-dbt-catalog-metadata-7be719990d63
 - Understanding LLM Agents: Concepts, Patterns & Frameworks, https://medium.com/towards-artificial-intelligence/understanding-llm-agents-concepts-patterns-frameworks-8c57661f3ff1
 - Agentic AI for Customer Service Desk, https://medium.com/data-science-collective/reinventing-the-customer-service-desk-with-autonomous-ai-agents-ca5a0c00ba3f- 
