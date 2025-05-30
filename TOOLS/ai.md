@@ -816,4 +816,9 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 
 
 
+### LLM
+
+- An LLM Evaluation Framework for AI Systems Performance, https://medium.com/leading-edje/an-llm-evaluation-framework-for-ai-systems-performance-766f769c10fa
+- 
+
 
