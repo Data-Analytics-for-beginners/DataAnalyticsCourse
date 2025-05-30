@@ -464,6 +464,15 @@ https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-s
 - Designing Executive Dashboards: What Really Matters? Making dashboards that leaders actually use., https://medium.com/microsoft-power-bi/designing-executive-dashboards-what-really-matters-making-dashboards-that-leaders-actually-use-f9fd53342a6c
 - Top 7 Data Visualisation Tools, https://medium.com/@ilaria_encord/top-7-data-visualisation-tools-dcffb1842f66
 - Infographic vs. Dashboard: What Works Better and When?, https://medium.com/microsoft-power-bi/infographic-vs-dashboard-what-works-better-and-when-fa955635bcfb
+- Change Over Time Charts, https://medium.com/@antonioneto_17307/change-over-time-charts-91d7a10ae1cd
+- Dashboards in 2025: What knowledge should you study besides Design?, https://medium.com/@antonioneto_17307/dashboards-in-2025-what-knowledge-should-you-study-besides-design-3e62bd5bf279
+- The Ultimate Cheat Sheet for Power BI Slicer Panels Mastery, https://medium.com/cub3d/the-ultimate-cheat-sheet-for-power-bi-slicer-panels-mastery-dfec7ca519cb
+- The Different Types of Dashboards, https://medium.com/@antonioneto_17307/the-different-types-of-dashboards-b0e09f6d4294
+- Data Visualization Design Process: A 4-step Journey presented by Andy Kirk, https://medium.com/@antonioneto_17307/data-visualization-design-process-a-4-step-journey-presented-by-andy-kirk-b66673642157
+- Dashboards and Data Visualization in 2025, https://medium.com/@antonioneto_17307/dashboards-and-data-visualization-in-2025-e088259ba7a9
+- Is a dashboard necessary?, https://medium.com/@antonioneto_17307/is-a-dashboard-necessary-a3153db47219
+- Data Visualization and Dashboard Design Case Study, https://medium.com/design-bootcamp/data-visualization-and-dashboard-design-case-study-c639da21e4c9
+- 
   
 
 
