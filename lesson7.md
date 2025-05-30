@@ -449,6 +449,7 @@ https://medium.com/data-science-collective/the-perfect-plotting-guide-for-data-s
 
 # Посилання:
 
+- The Ultimate Data Visualization Handbook for Designers, https://medium.com/@jgulsen_97727/the-ultimate-data-visualization-handbook-for-designers-96dfb1e2dc08
 - Data Analysis and Visualization with Gemini and Google Colab, https://ai.gopubby.com/data-analysis-and-visualization-with-gemini-and-google-colab-df29f32d3fd5
 - Data Visualization for Exploratory Data Analysis (EDA) in Python, https://medium.com/@pythonfundamentals/data-visualization-for-exploratory-data-analysis-eda-in-python-4aea402648e7
 - Using Visualizations for Your Exploratory Data Analysis, https://medium.com/@nathanrosidi/using-visualizations-for-your-exploratory-data-analysis-d111aa422954
