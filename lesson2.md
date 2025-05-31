@@ -1602,3 +1602,10 @@ finally:
 - Надавати зрозумілі повідомлення користувачам
 - Правильно керувати ресурсами системи
 
+
+# Посилання:
+
+1) Time Series Linear Regression Explained, https://medium.com/data-science-collective/time-series-linear-regression-explained-e37ef4e3da84
+2) 
+
+
