@@ -640,5 +640,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Bridging the Gap Between Business Intelligence and Data Intelligence in 2025, https://medium.com/microsoft-power-bi/bridging-the-gap-between-business-intelligence-and-data-intelligence-in-2025-0bf699d42b05
 - How to Combine Excel and SQL for Better Data Analysis, https://medium.com/@sahilpalshetkar8822/how-to-combine-excel-and-sql-for-better-data-analysis-3ebf38c636aa
 - How to Build Compliant BI Systems in Highly Regulated Industries, https://medium.com/microsoft-power-bi/how-to-build-compliant-bi-systems-in-highly-regulated-industries-6126756d7002
+- Design Patterns: Practical Tools for Everyday Coding, https://python.plainenglish.io/design-patterns-practical-tools-for-everyday-coding-f593cf1076a8
+- 
 
 
