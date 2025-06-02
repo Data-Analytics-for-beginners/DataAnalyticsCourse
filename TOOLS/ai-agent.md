@@ -2,7 +2,7 @@
 
 - ИИ-агенты за 7 минут: как это работает, https://www.youtube.com/watch?v=PiW9UDTKDx8
 - The 5 AI Agent Frameworks Developers Should Watch in 2025, https://medium.com/lets-code-future/the-5-ai-agent-frameworks-developers-should-watch-in-2025-d3afdf92adde
-- 
+- Ranking Matters: An Experimental Dive into Advanced RAG with Re-Rankers using LlamaIndex & Qdrant, https://medium.com/@manthapavankumar11/ranking-matters-an-experimental-dive-into-advanced-rag-with-re-rankers-using-llamaindex-qdrant-1a8c16625813
 - Building an Agent for Data Visualization (Plotly), https://medium.com/firebird-technologies/building-an-agent-for-data-visualization-plotly-39310034c4e9
 - Creating an AI-Powered Researcher: A Step-by-Step Guide, https://medium.com/firebird-technologies/creating-an-ai-powered-researcher-a-step-by-step-guide-465c8ff4dfa5
 - Build a Data Analyst AI Agent from Scratch with dbt Catalog Metadata, https://medium.com/@DanielH_Takes/build-a-data-analyst-ai-agent-from-scratch-with-dbt-catalog-metadata-7be719990d63
@@ -36,7 +36,8 @@
 - Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, https://seanfalconer.medium.com/wiring-the-ai-nervous-system-agents-flink-jobs-and-stream-processing-aaadf7bf0138
 - Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
 - Powering AI Agents with Real-Time Data Using Anthropic’s MCP and Confluent, https://seanfalconer.medium.com/powering-ai-agents-with-real-time-data-using-anthropics-mcp-and-confluent-c7a873b881b0
--  
+- 8 Key Agentic Protocols Driving LLM & AI Agent Communication (2025), https://medium.com/demohub-tutorials/8-protocols-competing-to-be-the-language-of-ai-agents-internet-of-agents-e7ad88a5b528
+- 
   
 
 
