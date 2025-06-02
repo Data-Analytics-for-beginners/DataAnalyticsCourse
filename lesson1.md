@@ -635,6 +635,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  99% of AI Startups Will Be Dead by 2026 — Here’s Why, https://medium.com/@skooloflife/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968
 -  We’re Finally Starting to Understand How AI Works, https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61
 -  AI Slop: The Future of Software Engineering, https://medium.com/@davidkcaudill/ai-slop-the-future-of-software-engineering-0eb0d2570a7a
+-  Claude 4 Just Changed Everything, Here’s What It Can Do That ChatGPT and Gemini Can’t, https://ai.plainenglish.io/claude-4-just-changed-everything-heres-what-it-can-do-that-chatgpt-and-gemini-can-t-8d60e45d0872
 
 # Python
 
@@ -642,6 +643,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Why Python Shiny Is Your New Killer Data Storytelling Tool, https://medium.com/data-storytelling-corner/why-python-shiny-is-your-new-killer-data-storytelling-tool-a4c24f0e376b
 -  A Free 17-Hour Course to Learn Python for Data Science (for Beginners), https://thepycoach.com/a-free-17-hour-course-to-learn-python-for-data-science-for-beginners-29112d5705ca
 -  How I’d Learn Python Faster Using AI, https://medium.com/artificial-corner/how-id-learn-python-faster-using-ai-584b385f3fbf
+-  🤯 The Best Programming Languages to Learn in 2025 (No, It’s Not Just Python… Again 🙄), https://medium.com/javarevisited/the-best-programming-languages-to-learn-in-2025-no-its-not-just-python-again-4f827eecd0bb
 -  
 
 
