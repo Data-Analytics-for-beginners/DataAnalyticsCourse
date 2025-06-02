@@ -620,7 +620,10 @@ print(bmi)  # Виведе: 23.157829031553323
 - Building a Data Lakehouse with Iceberg, Spark, and AWS Glue, https://medium.com/towards-data-engineering/building-a-data-lakehouse-with-iceberg-spark-and-aws-glue-d96e6e081c4f
 - 
 
+# Vibe coding
 
+- A Simple Guide to Vibe Coding for Beginners, https://medium.com/artificial-corner/a-simple-guide-to-vibe-coding-for-beginners-0932fc565f59
+- 
 
  # AI
  
@@ -629,12 +632,17 @@ print(bmi)  # Виведе: 23.157829031553323
 - Auto-Analyst 3.0 — AI Data Scientist. New Web UI and more reliable system, https://medium.com/firebird-technologies/auto-analyst-3-0-ai-data-scientist-new-web-ui-and-more-reliable-system-c194cced2e93
 - Deep Analysis — the analytics analogue to deep research, https://www.firebird-technologies.com/p/deep-analysis-the-analytics-analogue?source=post_page-----c194cced2e93---------------------------------------
 -  Building Production-Ready AI Agents & LLM programs with DSPy: Tips and Code Snippets, https://www.firebird-technologies.com/p/building-production-ready-ai-agents
--  
+-  99% of AI Startups Will Be Dead by 2026 — Here’s Why, https://medium.com/@skooloflife/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968
+-  We’re Finally Starting to Understand How AI Works, https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61
+-  AI Slop: The Future of Software Engineering, https://medium.com/@davidkcaudill/ai-slop-the-future-of-software-engineering-0eb0d2570a7a
 
 # Python
 
 -  Visual Studio Code Settings for Python Development, https://medium.com/towardsdev/visual-studio-code-settings-for-python-development-025b3d5ff4fe
 -  Why Python Shiny Is Your New Killer Data Storytelling Tool, https://medium.com/data-storytelling-corner/why-python-shiny-is-your-new-killer-data-storytelling-tool-a4c24f0e376b
+-  A Free 17-Hour Course to Learn Python for Data Science (for Beginners), https://thepycoach.com/a-free-17-hour-course-to-learn-python-for-data-science-for-beginners-29112d5705ca
+-  How I’d Learn Python Faster Using AI, https://medium.com/artificial-corner/how-id-learn-python-faster-using-ai-584b385f3fbf
+-  
 
 
 - Bridging the Gap Between Business Intelligence and Data Intelligence in 2025, https://medium.com/microsoft-power-bi/bridging-the-gap-between-business-intelligence-and-data-intelligence-in-2025-0bf699d42b05
