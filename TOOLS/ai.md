@@ -812,6 +812,7 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - How to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AIHow to Run Large Language Models (LLMs) Locally: A Beginner’s Guide to Offline AI, https://medium.com/data-science-collective/how-to-run-large-language-models-llms-locally-a-beginners-guide-to-offline-ai-50e89dadcafd
 - Claude 4.0 Is Finally Here, https://generativeai.pub/claude-4-0-is-finally-here-127103aa934f
 - How I Built 18 MVPs in 6 Months Using Cursor AI, https://medium.com/coding-nexus/how-i-built-18-mvps-in-6-months-using-cursor-ai-d3021252824a
+- Top 10 Open Source Python AI Projects — Build Your Own ChatGPT!, https://medium.com/ask-with-ai/top-10-open-source-python-ai-projects-build-your-own-chatgpt-e388ce5242f0
 - 
 
 
