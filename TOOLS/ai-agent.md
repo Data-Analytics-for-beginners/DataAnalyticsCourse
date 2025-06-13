@@ -46,3 +46,11 @@
 ![](https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse/blob/main/IMAGES/agentic_AI_1.webp)
 
 Fig. 1: Agentic AI evolution (Image by Author)
+
+
+- Multi Agent Solution for Marketing Analytics, https://medium.com/@nayan.j.paul/building-a-multi-agent-marketing-analytics-agentic-solution-71a76df16de3
+- Agentic GraphRAG for Commercial Contracts, https://medium.com/neo4j/agentic-graphrag-for-commercial-contracts-7c7adb5dfafe
+- How GraphRAG Works Step-by-Step, https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
+- 
+
+
