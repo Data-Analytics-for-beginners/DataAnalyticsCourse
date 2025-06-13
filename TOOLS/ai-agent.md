@@ -51,6 +51,7 @@ Fig. 1: Agentic AI evolution (Image by Author)
 - Multi Agent Solution for Marketing Analytics, https://medium.com/@nayan.j.paul/building-a-multi-agent-marketing-analytics-agentic-solution-71a76df16de3
 - Agentic GraphRAG for Commercial Contracts, https://medium.com/neo4j/agentic-graphrag-for-commercial-contracts-7c7adb5dfafe
 - How GraphRAG Works Step-by-Step, https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
+- Top 10 Open-Source Tools To Build Powerful AI Agents (It’s Crazy), https://generativeai.pub/top-10-open-source-tools-to-build-powerful-ai-agents-its-crazy-4acd9378bb64
 - 
 
 
