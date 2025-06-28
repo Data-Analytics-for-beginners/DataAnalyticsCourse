@@ -647,6 +647,17 @@ print(bmi)  # Виведе: 23.157829031553323
 -  
 
 
+# Jupyter Notebook
+- Best Jupyter Notebook Alternatives in 2025, https://medium.com/pathway-to-data-analysis/best-jupyter-notebook-alternatives-in-2025-4086532c8a46
+- 
+
+
+
+# Insights
+ - Gain Insights from Your Apple Watch — Sleep Data Extraction, https://medium.com/pathway-to-data-analysis/gain-insights-from-your-apple-watch-sleep-data-extraction-0edda4c3fcfc
+ - 
+
+
 - Bridging the Gap Between Business Intelligence and Data Intelligence in 2025, https://medium.com/microsoft-power-bi/bridging-the-gap-between-business-intelligence-and-data-intelligence-in-2025-0bf699d42b05
 - How to Combine Excel and SQL for Better Data Analysis, https://medium.com/@sahilpalshetkar8822/how-to-combine-excel-and-sql-for-better-data-analysis-3ebf38c636aa
 - How to Build Compliant BI Systems in Highly Regulated Industries, https://medium.com/microsoft-power-bi/how-to-build-compliant-bi-systems-in-highly-regulated-industries-6126756d7002
