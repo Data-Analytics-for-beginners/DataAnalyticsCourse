@@ -636,6 +636,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  We’re Finally Starting to Understand How AI Works, https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61
 -  AI Slop: The Future of Software Engineering, https://medium.com/@davidkcaudill/ai-slop-the-future-of-software-engineering-0eb0d2570a7a
 -  Claude 4 Just Changed Everything, Here’s What It Can Do That ChatGPT and Gemini Can’t, https://ai.plainenglish.io/claude-4-just-changed-everything-heres-what-it-can-do-that-chatgpt-and-gemini-can-t-8d60e45d0872
+-  STOP Taking Random AI Courses — Read These Books Instead, https://medium.com/data-science-collective/stop-taking-random-ai-courses-read-these-books-instead-352bca9fa303
+-  
 
 # Python
 
@@ -651,6 +653,24 @@ print(bmi)  # Виведе: 23.157829031553323
 - Best Jupyter Notebook Alternatives in 2025, https://medium.com/pathway-to-data-analysis/best-jupyter-notebook-alternatives-in-2025-4086532c8a46
 - 
 
+
+
+# STATISTICS
+- Statistics Interview Question: What is the mean and standard deviation of the binomial distribution?, https://medium.com/@tracyrenee61/statistics-interview-question-what-is-the-mean-and-standard-deviation-of-the-binomial-distribution-97ba235f5094
+- How to identify outliers of your data? (With Python codes), https://medium.com/top-python-libraries/how-to-identify-outliers-of-your-data-with-python-codes-d7e6e58f301d
+- The Ultimate Guide to Seaborn Plots: A Step-by-Step Tutorial with Examples, https://medium.com/stackademic/the-ultimate-guide-to-seaborn-plots-a-step-by-step-tutorial-with-examples-527350003e1d
+- D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
+- How to Find the Best Theoretical Distribution for Your Data, https://medium.com/@erdogant/how-to-find-the-best-theoretical-distribution-for-your-data-a26e5673b4bd
+- What Python Can Do With Sentinel-2: A Beginner’s Guide, https://medium.com/tierra-insights/what-python-can-do-with-sentinel-2-a-beginners-guide-da1721115ff0
+- 
+
+
+# ML
+- How to Learn the Math Needed for Machine Learning, https://medium.com/data-science-collective/how-to-learn-the-math-needed-for-machine-learning-7ad84e88c216
+- Best Practices in Feature Engineering for Machine Learning, https://medium.com/ai-advances/best-practices-in-feature-engineering-for-machine-learning-aa9ff3c46982
+- Lessons from the Titanic Kaggle Dataset (Part 2): Which Features Matter Most in Predicting Survival?, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-2-which-features-matter-most-in-predicting-survival-a4008154e290
+- Lessons from the Titanic Kaggle Dataset (Part 1): Aggresive Data Cleaning Isn’t Always Improve Model Accuracy, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-1-aggresive-data-cleaning-isnt-always-improve-d41078311db2
+- 
 
 
 # Insights
