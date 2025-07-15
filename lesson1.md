@@ -684,4 +684,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - Design Patterns: Practical Tools for Everyday Coding, https://python.plainenglish.io/design-patterns-practical-tools-for-everyday-coding-f593cf1076a8
 - 
 
+# DASHBOARD
 
+- Building a Dashboard in Python, https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777
+- From Boring to Brilliant: Transforming Bar Charts in Power BI: Chap -5, https://medium.com/microsoft-power-bi/from-boring-to-brilliant-transforming-bar-charts-in-power-bi-chap-5-d0dc90d1ab46
+- 
