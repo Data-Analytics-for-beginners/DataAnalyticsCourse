@@ -8,4 +8,7 @@
 - Next-Level Dashboard Design With Power BI’s New Card Visual With Reference Labels, https://medium.com/microsoft-power-bi/next-level-dashboard-design-with-power-bis-new-card-visual-with-reference-labels-b84d75078c4b
 - Transforming Power BI Tables: 6 Expert Tips for Smarter Data Visualization, https://medium.com/the-bi-corner/transforming-power-bi-tables-6-expert-tips-for-smarter-data-visualization-7dc7068870ff
 - Dynamic Legends & Categories in Power BI, https://medium.com/@duggangerard/dynamic-legends-categories-in-power-bi-8debd1b06b51
+- Inside the Dashboard: Building Interactive KPI Cards with Native Power BI Slicers, https://medium.datadriveninvestor.com/inside-the-dashboard-building-interactive-kpi-cards-with-native-power-bi-slicers-a1a48a6c5c72
+- Inside the Dashboard: Highlighting Filtered Values Without Losing Context, https://medium.datadriveninvestor.com/inside-the-dashboard-highlighting-filtered-values-without-losing-context-f52611abfe4e
+- Before you build a dashboard…, https://medium.com/write-a-catalyst/before-you-build-a-dashboard-cd0f03b14b0c
 - 
