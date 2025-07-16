@@ -684,13 +684,39 @@ print(bmi)  # Виведе: 23.157829031553323
 - Design Patterns: Practical Tools for Everyday Coding, https://python.plainenglish.io/design-patterns-practical-tools-for-everyday-coding-f593cf1076a8
 - 
 
+# Data Teams
+- What’s Wrong With Data Teams, https://medium.com/@svenbalnojan/whats-wrong-with-data-teams-d67c808ea020
+
+# Database Schema & Datamodeling
+- Your Data’s Secret Blueprint: Database Schemas Explained Simply (Star vs. Snowflake Demystified!), https://medium.com/@harsh1995hg/youre-absolutely-right-04f863e74426
+- Using AI for Data Modeling in dbt, https://medium.com/@mikldd/using-ai-for-data-modeling-in-dbt-975838054cb1
+
+
 # DASHBOARD
 
 - Building a Dashboard in Python, https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777
 - From Boring to Brilliant: Transforming Bar Charts in Power BI: Chap -5, https://medium.com/microsoft-power-bi/from-boring-to-brilliant-transforming-bar-charts-in-power-bi-chap-5-d0dc90d1ab46
+- Dashboard That Works: A Step-by-Step Guide for Startups in 2025, https://uxplanet.org/dashboard-that-works-a-step-by-step-guide-for-startups-in-2025-1cec1bfe7f9c
+- The Dashboard That Nearly Fired Our Sales Manager: A Power BI Lesson You Can’t Miss, https://medium.com/@harsh1995hg/the-dashboard-that-nearly-fired-our-sales-manager-a-power-bi-lesson-you-cant-miss-b6950ba50f61
+- Beyond the Charts: The Art of Data Storytelling for Business Impact, https://medium.com/@harsh1995hg/beyond-the-charts-the-art-of-data-storytelling-for-business-impact-3f6532df92e6
+- From Dashboards to Decisions: The Data Analyst’s Guide to Mastering Business Metrics & KPIs, https://medium.com/@harsh1995hg/from-dashboards-to-decisions-the-data-analysts-guide-to-mastering-business-metrics-kpis-f9f4bddf680d
 - 
 
 
+
+# Unsupervised Learning
+- UML Part 2 — K Means Clustering, https://medium.com/@abhishekjainindore24/uml-part-2-k-means-clustering-d01be39b1a7f
+- UML Part 4 — DBSCAN Clustering, https://medium.com/@abhishekjainindore24/uml-part-4-dbscan-clustering-4a4c68693401
+- K-Means Clustering: A Deep Dive into Unsupervised Learning, https://medium.com/@abhaysingh71711/k-means-clustering-a-deep-dive-into-unsupervised-learning-81213f56cfc9
+- 
+
+
+
+# A/B Testing
+
+- Mastering A/B Testing: From Basics to Advanced with a Real Streaming App Example, https://medium.com/@gayatrigattani2001/mastering-a-b-testing-from-basics-to-advanced-with-a-real-streaming-app-example-66dfb4428108
+- You can have it all: Parallel Testing in A/B Testing, https://medium.com/data-science-collective/you-can-have-it-all-parallel-testing-in-a-b-testing-555f11109252
+- 
 
 
 # Micosoft Fabric
