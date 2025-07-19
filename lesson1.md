@@ -700,9 +700,30 @@ print(bmi)  # Виведе: 23.157829031553323
 - The Dashboard That Nearly Fired Our Sales Manager: A Power BI Lesson You Can’t Miss, https://medium.com/@harsh1995hg/the-dashboard-that-nearly-fired-our-sales-manager-a-power-bi-lesson-you-cant-miss-b6950ba50f61
 - Beyond the Charts: The Art of Data Storytelling for Business Impact, https://medium.com/@harsh1995hg/beyond-the-charts-the-art-of-data-storytelling-for-business-impact-3f6532df92e6
 - From Dashboards to Decisions: The Data Analyst’s Guide to Mastering Business Metrics & KPIs, https://medium.com/@harsh1995hg/from-dashboards-to-decisions-the-data-analysts-guide-to-mastering-business-metrics-kpis-f9f4bddf680d
+- Building a modern data dashboard, https://medium.com/gitconnected/building-a-modern-data-dashboard-579253a35ec1
+- D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
+
+
+# Streamlit
+- A How To On Rapid Prototyping With Streamlit: Olympic Medal Trends Made Remarkably Simple, https://medium.com/data-storytelling-corner/a-how-to-on-rapid-prototyping-with-streamlit-olympic-medal-trends-made-remarkably-simple-744c3341ddd8
 - 
 
 
+# Data Platform
+
+- How to Prepare for the Head of Data Platform Role (AI, Analytics & Data Engineering) at a Top Quant Investment Firm at Singapore, https://medium.com/dataempire-ai/how-to-prepare-for-the-head-of-data-platform-role-ai-analytics-data-engineering-at-a-top-quant-dfb45fa7a4c3
+- Enterprise Architecture vs Solution Architecture: Complete Guide, https://medium.com/endtoenddata/enterprise-architecture-vs-solution-architecture-complete-guide-6698c474ed51
+- Azure Data Architect Interview Experience, https://medium.com/dataempire-ai/azure-data-architect-interview-experience-13694ecae673
+- 
+
+
+
+
+# Python Dashboard
+- Five Hat Racks: The Secret To Better Python Data Storytelling, https://medium.com/data-storytelling-corner/five-hat-racks-the-secret-to-better-python-data-storytelling-fe0e628b7a88
+- Python How-To: Better Data Storytelling In A Flash With PyNarrative, https://medium.com/data-storytelling-corner/python-how-to-better-data-storytelling-in-a-flash-with-pynarrative-feef0babff48
+- Practical Python Dashboards: The Best 5 Frameworks For Interactive Maps, https://medium.com/data-science-collective/practical-python-dashboards-the-best-5-frameworks-for-interactive-maps-0834ca7f0637
+- 
 
 # Unsupervised Learning
 - UML Part 2 — K Means Clustering, https://medium.com/@abhishekjainindore24/uml-part-2-k-means-clustering-d01be39b1a7f
