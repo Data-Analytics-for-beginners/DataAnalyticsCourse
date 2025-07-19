@@ -662,6 +662,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
 - How to Find the Best Theoretical Distribution for Your Data, https://medium.com/@erdogant/how-to-find-the-best-theoretical-distribution-for-your-data-a26e5673b4bd
 - What Python Can Do With Sentinel-2: A Beginner’s Guide, https://medium.com/tierra-insights/what-python-can-do-with-sentinel-2-a-beginners-guide-da1721115ff0
+- How to Handle Skewed Data: A Guide for Data Scientists, https://medium.com/gopenai/how-to-handle-skewed-data-a-guide-for-data-scientists-84187ba7f805
 - 
 
 
