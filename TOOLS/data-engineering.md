@@ -8,3 +8,8 @@
  - ✅ 50 Data Engineering Tips, Tricks & Traps for 2025 (That Every Engineer Should Know), https://medium.com/tech-with-abhishek/50-data-engineering-tips-tricks-traps-for-2025-that-every-engineer-should-know-ac9bc8989c29
  - 8 Awesome Docker Images Every Data Engineer Needs on Their Radar in 2025, https://medium.com/data-engineer-things/game-changing-docker-images-every-data-engineer-needs-on-their-radar-f79e985b75cc
  - 
+
+
+- The Best GitHub Repos for Data Engineers (Updated 2025)!, https://medium.com/@shenoy.shashwath/the-best-github-repos-for-data-engineers-updated-2025-d00fb4ad81d3
+- Top 25 Data Engineering Architecture Questions, https://medium.com/ai-ml-interview-playbook/25-data-engineering-architecture-questions-730f51a9dc69
+- 
