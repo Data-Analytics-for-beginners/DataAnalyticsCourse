@@ -12,4 +12,7 @@
 
 - The Best GitHub Repos for Data Engineers (Updated 2025)!, https://medium.com/@shenoy.shashwath/the-best-github-repos-for-data-engineers-updated-2025-d00fb4ad81d3
 - Top 25 Data Engineering Architecture Questions, https://medium.com/ai-ml-interview-playbook/25-data-engineering-architecture-questions-730f51a9dc69
+- Data Engineering Roadmap: Master the Skills in 4 Months with Hands‑On Projects, https://medium.com/@vijaygadhave2014/data-engineering-roadmap-master-the-skills-in-4-months-with-hands-on-projects-1a822bd48bd4
+- How to Become a Data Engineer in 3 Months: Actionable Steps & Projects, https://medium.com/@vijaygadhave2014/how-to-become-a-data-engineer-in-3-months-actionable-steps-projects-0080f09241dc
+- Data Engineer Toolkit in 2025:Must‑Have Skills, Tools & Resources, https://medium.com/@vijaygadhave2014/data-engineer-toolkit-in-2025-must-have-skills-tools-resources-4ae3b8997a3c
 - 
