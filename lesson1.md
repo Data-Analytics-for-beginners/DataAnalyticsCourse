@@ -646,6 +646,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  AI Slop: The Future of Software Engineering, https://medium.com/@davidkcaudill/ai-slop-the-future-of-software-engineering-0eb0d2570a7a
 -  Claude 4 Just Changed Everything, Here’s What It Can Do That ChatGPT and Gemini Can’t, https://ai.plainenglish.io/claude-4-just-changed-everything-heres-what-it-can-do-that-chatgpt-and-gemini-can-t-8d60e45d0872
 -  STOP Taking Random AI Courses — Read These Books Instead, https://medium.com/data-science-collective/stop-taking-random-ai-courses-read-these-books-instead-352bca9fa303
+-  5 AI Tools for UI that Product Managers Should Learn Immediately, https://medium.com/@pmclub/5-ai-tools-for-ui-that-product-managers-should-learn-immediately-f4541ace759c
 -  
 
 # Python
