@@ -565,6 +565,14 @@ print(bmi)  # Виведе: 23.157829031553323
 1) How to Become an Expert in ANYTHING with Deep Research, https://medium.com/@datasciencedisciple/how-to-become-an-expert-in-anything-with-deep-research-a652aecd874a
 
 
+
+# METRICS
+
+
+-  10 Metrics Every Data Platform Team Should Track, https://medium.com/endtoenddata/10-metrics-every-data-platform-team-should-track-d3671f37f111
+-  
+
+
 -  Top 10 Programming Languages & Frameworks to Master in 2025 (Based on Real-World Demand), https://medium.com/readers-club/top-10-programming-languages-frameworks-to-master-in-2025-based-on-real-world-demand-ad8089208db7
 -  9 Modern Python Libraries You Must Know in 2025!, https://medium.com/@Aashish..kumar/9-modern-python-libraries-you-must-know-in-2025-4b213b21a4f5
 -  Jupyter Notebook Intelligence, https://medium.com/codefile/jupyter-notebook-intelligence-5f404d2cba6b
@@ -629,6 +637,7 @@ print(bmi)  # Виведе: 23.157829031553323
  
 - AI Tools I Use Daily as a Data Analyst, https://analystuttam.medium.com/ai-tools-for-data-analysts-2025-bed154a9f587
 - AI Tools I Use Daily as a Data Analyst, https://medium.com/ai-analytics-diaries/ai-tools-for-data-analysts-2025-bed154a9f587
+- The 7 AI Tools I Use Daily as a Data Team Lead, https://medium.com/nextgenllm/the-7-ai-tools-i-use-daily-as-a-data-team-lead-fb403140df22
 - Auto-Analyst 3.0 — AI Data Scientist. New Web UI and more reliable system, https://medium.com/firebird-technologies/auto-analyst-3-0-ai-data-scientist-new-web-ui-and-more-reliable-system-c194cced2e93
 - Deep Analysis — the analytics analogue to deep research, https://www.firebird-technologies.com/p/deep-analysis-the-analytics-analogue?source=post_page-----c194cced2e93---------------------------------------
 -  Building Production-Ready AI Agents & LLM programs with DSPy: Tips and Code Snippets, https://www.firebird-technologies.com/p/building-production-ready-ai-agents
