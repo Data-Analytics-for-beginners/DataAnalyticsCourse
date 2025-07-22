@@ -566,6 +566,14 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+
+
+# DATA TRENDS
+- 7 Data Trends That Will Transform Businesses in 2025, https://medium.com/@community_md101/7-data-trends-that-will-transform-businesses-in-2025-8391b71ae89e
+- 
+
+
+
 # METRICS
 
 
