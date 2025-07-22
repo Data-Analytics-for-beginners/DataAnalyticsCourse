@@ -11,4 +11,5 @@
 - Inside the Dashboard: Building Interactive KPI Cards with Native Power BI Slicers, https://medium.datadriveninvestor.com/inside-the-dashboard-building-interactive-kpi-cards-with-native-power-bi-slicers-a1a48a6c5c72
 - Inside the Dashboard: Highlighting Filtered Values Without Losing Context, https://medium.datadriveninvestor.com/inside-the-dashboard-highlighting-filtered-values-without-losing-context-f52611abfe4e
 - Before you build a dashboard…, https://medium.com/write-a-catalyst/before-you-build-a-dashboard-cd0f03b14b0c
-- 
+- Building a Dynamic Customer Pareto Dashboard in Power BI (PBIX included), https://medium.com/microsoft-power-bi/building-a-dynamic-customer-pareto-dashboard-in-power-bi-pbix-included-d3e76ad237ac
+-  
