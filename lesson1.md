@@ -574,6 +574,14 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+# Analytic Hierarchy Process
+
+- A Step-by-Step Guide to AHP, https://medium.com/operations-research-bit/a-step-by-step-guide-to-ahp-24c26fc1850b
+- Introduction to Multi-criteria Decision Analysis, https://medium.com/operations-research-bit/introduction-to-multi-criteria-decision-analysis-2359f058b0ff
+- A Deep Dive into PROMETHEE I & II: How to Choose the Best Job Offer, https://medium.com/operations-research-bit/a-deep-dive-into-promethee-i-ii-how-to-choose-the-best-job-offer-2d0e21020146
+- 
+
+
 # METRICS
 
 
@@ -664,7 +672,10 @@ print(bmi)  # Виведе: 23.157829031553323
 -  A Free 17-Hour Course to Learn Python for Data Science (for Beginners), https://thepycoach.com/a-free-17-hour-course-to-learn-python-for-data-science-for-beginners-29112d5705ca
 -  How I’d Learn Python Faster Using AI, https://medium.com/artificial-corner/how-id-learn-python-faster-using-ai-584b385f3fbf
 -  🤯 The Best Programming Languages to Learn in 2025 (No, It’s Not Just Python… Again 🙄), https://medium.com/javarevisited/the-best-programming-languages-to-learn-in-2025-no-its-not-just-python-again-4f827eecd0bb
--  
+-  Learn Python Programming with Examples — Post#5, https://medium.com/operations-research-bit/learn-python-programming-with-examples-post-5-00dc6dfb6245
+-  Learn Python Programming with Examples — Post#8, https://medium.com/operations-research-bit/learn-python-programming-with-examples-post-8-e62a04a9bd85
+-  8 OOP Concepts Every Python Dev Should Master, https://medium.com/python-in-plain-english/8-oop-concepts-every-python-dev-should-master-f1e8b033f026
+-  Analyze Data Like A Python Pro, https://medium.com/towards-artificial-intelligence/analyze-data-like-a-python-pro-b24e73b943ab
 
 
 # Jupyter Notebook
