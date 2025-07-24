@@ -691,6 +691,7 @@ print(bmi)  # Виведе: 23.157829031553323
 
 # Python
 
+-  🔥 Python’s 2025 Web Stack: FastAPI, SQLModel, and HTMX Changed Everything, https://medium.com/@hadiyolworld007/pythons-2025-web-stack-fastapi-sqlmodel-and-htmx-changed-everything-34ff7ee449d7
 -  Visual Studio Code Settings for Python Development, https://medium.com/towardsdev/visual-studio-code-settings-for-python-development-025b3d5ff4fe
 -  Why Python Shiny Is Your New Killer Data Storytelling Tool, https://medium.com/data-storytelling-corner/why-python-shiny-is-your-new-killer-data-storytelling-tool-a4c24f0e376b
 -  A Free 17-Hour Course to Learn Python for Data Science (for Beginners), https://thepycoach.com/a-free-17-hour-course-to-learn-python-for-data-science-for-beginners-29112d5705ca
@@ -700,6 +701,12 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Learn Python Programming with Examples — Post#8, https://medium.com/operations-research-bit/learn-python-programming-with-examples-post-8-e62a04a9bd85
 -  8 OOP Concepts Every Python Dev Should Master, https://medium.com/python-in-plain-english/8-oop-concepts-every-python-dev-should-master-f1e8b033f026
 -  Analyze Data Like A Python Pro, https://medium.com/towards-artificial-intelligence/analyze-data-like-a-python-pro-b24e73b943ab
+
+
+# Pandas
+- 🐼 10 Pandas Patterns I Wish I Knew When I Started, https://medium.com/@hadiyolworld007/10-pandas-patterns-i-wish-i-knew-when-i-started-473e1cbe06f1
+- 🐼 Pandas Made Easy: The Data Workflow I Wish I Knew Earlier, https://medium.com/@hadiyolworld007/pandas-made-easy-the-data-workflow-i-wish-i-knew-earlier-5754064eb6b6
+
 
 
 # Jupyter Notebook
