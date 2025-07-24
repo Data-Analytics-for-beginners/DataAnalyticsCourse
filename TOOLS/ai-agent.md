@@ -1,5 +1,9 @@
 
 
+- Designing a Scalable Multi-Agent AI System for Operational Intelligence, https://pub.towardsai.net/designing-a-scalable-multi-agent-ai-system-for-operational-intelligence-ab6c4a7f331a
+- Build an Agent Orchestrator in Python with Semantic Kernel, https://medium.com/@speaktoharisudhan/build-an-agent-orchestrator-in-python-with-semantic-kernel-bb271d8f32e1
+- Using GitHub Models with Semantic Kernel, https://medium.com/@willvelida/using-github-models-with-semantic-kernel-4629287a50cb
+- AI Agent vs Agentic AI: Understand The Actual Difference, https://medium.com/@speaktoharisudhan/ai-agent-vs-agentic-ai-understand-the-actual-difference-4580a4b01dd4
 - ИИ-агенты за 7 минут: как это работает, https://www.youtube.com/watch?v=PiW9UDTKDx8
 - The 5 AI Agent Frameworks Developers Should Watch in 2025, https://medium.com/lets-code-future/the-5-ai-agent-frameworks-developers-should-watch-in-2025-d3afdf92adde
 - Ranking Matters: An Experimental Dive into Advanced RAG with Re-Rankers using LlamaIndex & Qdrant, https://medium.com/@manthapavankumar11/ranking-matters-an-experimental-dive-into-advanced-rag-with-re-rankers-using-llamaindex-qdrant-1a8c16625813
@@ -52,6 +56,7 @@ Fig. 1: Agentic AI evolution (Image by Author)
 - Agentic GraphRAG for Commercial Contracts, https://medium.com/neo4j/agentic-graphrag-for-commercial-contracts-7c7adb5dfafe
 - How GraphRAG Works Step-by-Step, https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
 - Top 10 Open-Source Tools To Build Powerful AI Agents (It’s Crazy), https://generativeai.pub/top-10-open-source-tools-to-build-powerful-ai-agents-its-crazy-4acd9378bb64
+- AI Agents vs Agentic AI: The Mind-Blowing Difference That Will Change Everything, https://pub.towardsai.net/ai-agents-vs-agentic-ai-the-mind-blowing-difference-that-will-change-everything-6fc9b37c6534
 - 
 
 
