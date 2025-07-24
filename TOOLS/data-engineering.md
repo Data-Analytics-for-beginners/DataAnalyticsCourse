@@ -16,3 +16,9 @@
 - How to Become a Data Engineer in 3 Months: Actionable Steps & Projects, https://medium.com/@vijaygadhave2014/how-to-become-a-data-engineer-in-3-months-actionable-steps-projects-0080f09241dc
 - Data Engineer Toolkit in 2025:Must‑Have Skills, Tools & Resources, https://medium.com/@vijaygadhave2014/data-engineer-toolkit-in-2025-must-have-skills-tools-resources-4ae3b8997a3c
 - 
+
+
+------------------------
+
+- Demystifying Data Engineering: A Beginner’s Guide to Core Concepts, https://medium.com/code-applied/demystifying-data-engineering-a-beginners-guide-to-core-concepts-492b344314c7
+- 
