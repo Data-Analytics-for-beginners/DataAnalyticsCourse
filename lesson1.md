@@ -635,6 +635,13 @@ print(bmi)  # Виведе: 23.157829031553323
 - 
 
 
+# Time Series Analysis
+
+- Using Multiple Libraries in Time Series Analysis, https://medium.com/@kyle-t-jones/using-multiple-libraries-in-time-series-analysis-0c297f26f91f
+- Feature Engineering for Time Series: Teaching Your Model the Rhythm of Time, https://medium.com/@ML_learnerr/feature-engineering-for-time-series-teaching-your-model-the-rhythm-of-time-7d7d53c398ba
+- How to Work with Time Series Data: From Raw Signals to Forecast-Ready, https://medium.com/@ML_learnerr/how-to-work-with-time-series-data-from-raw-signals-to-forecast-ready-72f0c6310355
+- Time Series Foundation Models for Forecasting Task, https://medium.com/@mychen76/time-series-foundation-models-for-forecasting-task-c9076cae9a84
+- 
 
 # DATA PROFILING
 
