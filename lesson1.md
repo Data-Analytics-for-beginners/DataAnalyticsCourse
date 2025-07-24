@@ -628,6 +628,23 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+#  Fourier Transform
+
+- How Fourier Transforms Can Enhance Your Data Analysis, https://medium.com/code-applied/how-fourier-transforms-can-enhance-your-data-analysis-92f97880ff13
+- Finding the Best Distribution for Your Data with distfit, https://medium.com/code-applied/finding-the-best-distribution-for-your-data-with-distfit-543db94ed56a
+- 
+
+
+
+# DATA PROFILING
+
+- Data Cleansing in Python: common ways to clean your data, https://blog.devgenius.io/data-cleansing-in-python-common-ways-to-clean-your-data-3459a256dd85
+- Data Profiling in Python: common ways to explore your data (part 1), https://blog.devgenius.io/data-profiling-in-python-common-ways-to-explore-your-data-part-1-0efd0dedff75
+- Data Profiling in Python: common ways to explore your data (part 2), https://blog.devgenius.io/data-profiling-in-python-common-ways-to-explore-your-data-part-2-396384522e91
+- 
+
+
+
 # Microsoft Fabric
 - Data Architecture — Exploring the Interior Walls of Modern Data Platforms: Episode I (Fabric Case Study), https://medium.com/@karetech/data-architecture-the-interior-walls-of-modern-data-platforms-episode-i-fabric-mini-case-study-fbffb8a63f06
 - Data Architecture — The Interior Walls of Modern Data Platforms Episode V: Green Architectures, https://medium.com/@karetech/data-architecture-the-interior-walls-of-modern-data-platforms-episode-v-green-architectures-5c1504e33d25  
