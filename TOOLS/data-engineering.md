@@ -21,4 +21,13 @@
 ------------------------
 
 - Demystifying Data Engineering: A Beginner’s Guide to Core Concepts, https://medium.com/code-applied/demystifying-data-engineering-a-beginners-guide-to-core-concepts-492b344314c7
-- 
+
+
+- Logical Architecture in Data Engineering, https://medium.com/data-engineering-technical-standards-and-best/logical-architecture-in-data-engineering-17dfe9266f69
+- Data Quality Rules & Contracts in Data Engineering, https://medium.com/data-engineering-technical-standards-and-best/data-quality-rules-contracts-in-data-engineering-b146e07160bf
+- Data Engineering Data Pipeline Standards, https://medium.com/data-engineering-technical-standards-and-best/data-engineering-data-pipeline-standards-226e420da943
+- Data Strategy vs Data Management, https://medium.com/i-am-datapedia/data-strategy-vs-data-management-215eb4057bce
+- Data Taxonomies & Ontologies, https://medium.com/i-am-datapedia/data-taxonomies-ontologies-276a4c623067
+
+
+  
