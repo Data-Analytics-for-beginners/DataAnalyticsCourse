@@ -570,9 +570,9 @@ print(bmi)  # Виведе: 23.157829031553323
 
 # DATA TRENDS
 - 7 Data Trends That Will Transform Businesses in 2025, https://medium.com/@community_md101/7-data-trends-that-will-transform-businesses-in-2025-8391b71ae89e
+- 10 Red Flags🚩of Data Analyst, https://medium.com/ai-analytics-diaries/10-red-flags-of-data-analyst-e433953edc94
+- 10 Jobs AI Will Replace by 2026, https://medium.com/@analystuttam/10-jobs-ai-will-replace-by-2026-c62ea5213e1f
 - 
-
-
 
 # Analytic Hierarchy Process
 
@@ -652,6 +652,12 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+
+
+# ETL
+- Using Python and DuckDB for Zero ETL Analytics with Local LLMs, https://medium.com/h7w/using-python-and-duckdb-for-zero-etl-analytics-with-local-llms-941317a0307f
+- 
+
 # Microsoft Fabric
 - Data Architecture — Exploring the Interior Walls of Modern Data Platforms: Episode I (Fabric Case Study), https://medium.com/@karetech/data-architecture-the-interior-walls-of-modern-data-platforms-episode-i-fabric-mini-case-study-fbffb8a63f06
 - Data Architecture — The Interior Walls of Modern Data Platforms Episode V: Green Architectures, https://medium.com/@karetech/data-architecture-the-interior-walls-of-modern-data-platforms-episode-v-green-architectures-5c1504e33d25  
@@ -701,6 +707,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Learn Python Programming with Examples — Post#8, https://medium.com/operations-research-bit/learn-python-programming-with-examples-post-8-e62a04a9bd85
 -  8 OOP Concepts Every Python Dev Should Master, https://medium.com/python-in-plain-english/8-oop-concepts-every-python-dev-should-master-f1e8b033f026
 -  Analyze Data Like A Python Pro, https://medium.com/towards-artificial-intelligence/analyze-data-like-a-python-pro-b24e73b943ab
+-  Folder Structure Matters: My Python Project Template Explained, https://medium.com/the-pythonworld/folder-structure-matters-my-python-project-template-explained-33b7248c5e83
+- 
 
 
 # Pandas
@@ -763,6 +771,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - From Dashboards to Decisions: The Data Analyst’s Guide to Mastering Business Metrics & KPIs, https://medium.com/@harsh1995hg/from-dashboards-to-decisions-the-data-analysts-guide-to-mastering-business-metrics-kpis-f9f4bddf680d
 - Building a modern data dashboard, https://medium.com/gitconnected/building-a-modern-data-dashboard-579253a35ec1
 - D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
+- Ditch Jupyter — This Python Dashboard Stack Is the Future of Data Analysis, https://medium.com/@hadiyolworld007/ditch-jupyter-this-python-dashboard-stack-is-the-future-of-data-analysis-db8849ce2a4e
+- 
 
 
 # Streamlit
