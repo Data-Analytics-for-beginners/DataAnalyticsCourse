@@ -28,6 +28,24 @@
 - Data Engineering Data Pipeline Standards, https://medium.com/data-engineering-technical-standards-and-best/data-engineering-data-pipeline-standards-226e420da943
 - Data Strategy vs Data Management, https://medium.com/i-am-datapedia/data-strategy-vs-data-management-215eb4057bce
 - Data Taxonomies & Ontologies, https://medium.com/i-am-datapedia/data-taxonomies-ontologies-276a4c623067
+- The Future of Data is a rude awakening for the Modern Data Stack, https://medium.com/@hugolu87/the-future-of-data-is-a-rude-awakening-for-the-modern-data-stack-7732a4fd11c6
+- How I use Gen AI as a Data Engineer, https://medium.com/data-science/how-i-use-gen-ai-as-a-data-engineer-6a686a921c7b
+- Top 10 YouTube Channels Every Data Engineer Must Follow in 2025: Your Complete Zero-to-Hero Roadmap, https://medium.com/@mayursurani/top-10-youtube-channels-every-data-engineer-must-follow-in-2025-your-complete-zero-to-hero-roadmap-ab3a590df143
+- Leetcode for Data Engineers, https://medium.com/datavidhya/leetcode-for-data-engineers-180b5cafc1d1
+- Industry-Standard Architecture for Data Engineering Projects, https://medium.com/towardsdev/industry-standard-architecture-for-data-engineering-projects-b79bb358f51c
+- Building a Real-Time Stock Price Data Pipeline with Kafka, Spark, and Airflow, https://medium.com/@yunusgurguz11/building-a-real-time-stock-price-data-pipeline-with-kafka-spark-and-airflow-798d3e4b9a61
+- Build a Data Lakehouse with Apache Iceberg, Polaris, Trino & MinIO, https://medium.com/@gilles.philippart/build-a-data-lakehouse-with-apache-iceberg-polaris-trino-minio-349c534ecd98
+- LAKEHOUSE: How to Create with Spark, Nessie, Minio and Airflow, https://medium.com/towards-data-engineering/lakehouse-create-with-spark-nessie-minio-airflow-55595d36055f
+- Building a Modern Data Lakehouse Architecture with Apache Iceberg, Spark, Flink, ClickHouse, and Superset, https://medium.com/@wasiualhasib/building-a-modern-data-lakehouse-architecture-with-apache-iceberg-spark-flink-clickhouse-and-822d04f28718
+- Building an End-to-End Data Lake ELT Pipeline using Modern Data Stack, https://medium.com/dev-genius/building-an-end-to-end-data-lake-elt-pipeline-using-modern-data-stack-9588d9e51b0e
+- 
+
+------------------------------------------------------------------------------------------------------
+
+- From Data Chaos to Real-Time Insights: Building a Data Lakehouse with Spark, Kafka, and Iceberg, https://medium.com/@elkoumy/from-data-chaos-to-real-time-insights-building-a-data-lakehouse-with-spark-kafka-and-iceberg-0b3aee4b75e9
+- Engineer: MinIO Storage, https://medium.com/towards-data-engineering/engineer-minio-storage-9bc1bd9cc7b1
+- 
+
 
 
   
