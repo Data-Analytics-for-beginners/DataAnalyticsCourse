@@ -51,6 +51,9 @@
 - Engineer: MinIO Storage, https://medium.com/towards-data-engineering/engineer-minio-storage-9bc1bd9cc7b1
 - 
 
+---------------------------------------------------------------------------------------------------------------------------
 
+- Top 10 Production-Grade Reusable PySpark Scripts for Data Engineers, https://mayursurani.medium.com/top-10-production-grade-reusable-pyspark-scripts-for-data-engineers-e734dc01372f
+- 
 
   
