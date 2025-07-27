@@ -572,7 +572,9 @@ print(bmi)  # Виведе: 23.157829031553323
 - 7 Data Trends That Will Transform Businesses in 2025, https://medium.com/@community_md101/7-data-trends-that-will-transform-businesses-in-2025-8391b71ae89e
 - 10 Red Flags🚩of Data Analyst, https://medium.com/ai-analytics-diaries/10-red-flags-of-data-analyst-e433953edc94
 - 10 Jobs AI Will Replace by 2026, https://medium.com/@analystuttam/10-jobs-ai-will-replace-by-2026-c62ea5213e1f
-- 
+- 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst, https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175
+- 25 ChatGPT Prompts for Data Analysts, https://analystuttam.gumroad.com/l/25-chatgpt-prompts-for-data-analyst
+  
 
 # Analytic Hierarchy Process
 
