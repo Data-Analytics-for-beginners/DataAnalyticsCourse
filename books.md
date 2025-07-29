@@ -25,4 +25,5 @@
 8. *G. Jogesh Babu, Eric D. Feigelson, Astrostatistics: Goodness-of-Fit and All That!, ASP Conference Series, Vol. 351, 2006*
 9. *E. Taskesen, How to Generate Synthetic Data: A Comprehensive Guide Using Bayesian Sampling and Univariate Distributions. Towards Data Science (TDS), May 2025.*
 10. *E. Taskesen, What are PCA loadings and how to effectively use Biplots?, Data Science Collective (DSC), July 2025*
-
+11. E. Taskesen, K-Nearest-Rank Scores: A Tool for Local Structure Analysis in Embeddings, Medium, Data Science Collection, July 2025
+12. E. Taskesen, D3Blocks: The Python Library to Create Interactive and Standalone D3js Charts, Medium, Data Science Collection, June 2025
