@@ -821,4 +821,11 @@ print(bmi)  # Виведе: 23.157829031553323
 # Micosoft Fabric
 
 - Scaling Microsoft Fabric: A Guide for Small, Medium, and Large Data Volume Projects, https://medium.com/codex/scaling-microsoft-fabric-a-guide-for-small-medium-and-large-data-volume-projects-4ff9722897fb
+
+
+
+
+# DATA SCIENCE WORKFLOW
+
+- The tools I use to automate my entire data science workflow, https://medium.com/data-science-collective/the-tools-i-use-to-automate-my-entire-data-science-workflow-28026b48b221
 - 
