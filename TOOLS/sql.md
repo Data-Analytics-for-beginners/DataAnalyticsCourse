@@ -10,5 +10,10 @@
 - Advanced SQL: How CTEs Can Increase Your Business Sales, https://medium.com/data-science-collective/advanced-sql-how-ctes-can-increase-your-business-sales-4ac765c66ca5
 - Dynamic SQL and the Art of Writing Code That Writes Code, https://medium.com/@CodeWithHannan/dynamic-sql-and-the-art-of-writing-code-that-writes-code-e45dd93ec08e
 - Recursive SQL Is Way More Powerful Than You Think, https://medium.com/@harishsingh8529/recursive-sql-is-way-more-powerful-than-you-think-00043def99e5
-- 
+
+  ---------------------------------------------------------------------------------------------------------
+
+  - Nested vs. Normalized vs. Denormalized in BigQuery, https://medium.com/@vijaygadhave2014/nested-vs-normalized-vs-denormalized-in-bigquery-66ef334a749e
+  - Mastering Pivot Tables in SQL: A Practical Guide, https://medium.com/@vijaygadhave2014/mastering-pivot-tables-in-sql-a-practical-guide-1518ea0b92e4
+  - 
  
