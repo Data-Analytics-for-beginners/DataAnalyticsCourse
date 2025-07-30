@@ -1,6 +1,7 @@
 
 
 
+ - EY : Senior Data Engineer Interview, https://medium.com/@skyescribbles/ey-senior-data-engineer-interview-1405e0d587cc
  - Data Engineering Interview Questions and Answers, https://medium.com/@skphd/data-engineering-interview-questions-and-answers-0261f7763ff8
  - Becoming a Data Engineer in 90 Days, https://analystuttam.medium.com/becoming-a-data-engineer-in-90-days-cb23f6d15f37
  - Apache Airflow for Data Engineering: The Ultimate Guide, https://medium.com/@vijaygadhave2014/apache-airflow-for-data-engineering-the-ultimate-guide-b7125f3e8834
