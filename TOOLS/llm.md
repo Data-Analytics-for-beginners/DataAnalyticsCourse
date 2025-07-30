@@ -5,4 +5,5 @@
 2) Shrink, Speed, Repeat — A Gentle-to-Pro Guide to Model Quantization, https://medium.com/data-science-collective/shrink-speed-repeat-a-gentle-to-pro-guide-to-model-quantization-c65246a3fe77
 3) Local LLMs : A Comprehensive Guide, https://pub.towardsai.net/local-llms-a-comprehensive-guide-cedaa979dfaa
 4) Top 25 Large Language Model (LLM) Interview Questions and Answers, https://medium.com/@skphd/top-25-large-language-model-llm-interview-questions-and-answers-0fd12af3db71
-5) 
+5) LLMs explained (Part 6): Smarter AI through Reinforcement Learning, https://medium.com/data-science-collective/llms-explained-part-6-smarter-ai-through-reinforcement-learning-97d19789c0ec
+6) 
