@@ -4,5 +4,11 @@
  - 20 SQL Queries Every Data Analyst Should Know (With Real-World Use Cases)”, https://analystuttam.medium.com/20-sql-queries-every-data-analyst-should-know-with-real-world-use-cases-cb78674bf069
  - Advanced SQL Interview Questions and Answers, https://medium.com/@skphd/advanced-sql-interview-questions-and-answers-307a5333d02e
  - Top 15 Advanced SQL Window Functions with Real Use Cases, https://medium.com/@CodeWithHannan/top-15-advanced-sql-window-functions-with-real-use-cases-5cea87060d72
- - 
+
+-----------------------------------------------------------------------------------------------------
+
+- Advanced SQL: How CTEs Can Increase Your Business Sales, https://medium.com/data-science-collective/advanced-sql-how-ctes-can-increase-your-business-sales-4ac765c66ca5
+- Dynamic SQL and the Art of Writing Code That Writes Code, https://medium.com/@CodeWithHannan/dynamic-sql-and-the-art-of-writing-code-that-writes-code-e45dd93ec08e
+- Recursive SQL Is Way More Powerful Than You Think, https://medium.com/@harishsingh8529/recursive-sql-is-way-more-powerful-than-you-think-00043def99e5
+- 
  
