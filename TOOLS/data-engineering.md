@@ -57,4 +57,7 @@
 - Top 10 Production-Grade Reusable PySpark Scripts for Data Engineers, https://mayursurani.medium.com/top-10-production-grade-reusable-pyspark-scripts-for-data-engineers-e734dc01372f
 - 
 
-  
+---------------------------------
+
+- Data Lineage: The Hidden Backbone of Data Engineering (And How to Get It Right), https://medium.com/ai-ml-interview-playbook/the-hidden-backbone-of-data-engineering-why-data-lineage-matters-and-how-to-get-it-right-f003673af4cb
+- 
