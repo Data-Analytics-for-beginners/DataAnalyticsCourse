@@ -57,6 +57,10 @@ Fig. 1: Agentic AI evolution (Image by Author)
 - How GraphRAG Works Step-by-Step, https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
 - Top 10 Open-Source Tools To Build Powerful AI Agents (It’s Crazy), https://generativeai.pub/top-10-open-source-tools-to-build-powerful-ai-agents-its-crazy-4acd9378bb64
 - AI Agents vs Agentic AI: The Mind-Blowing Difference That Will Change Everything, https://pub.towardsai.net/ai-agents-vs-agentic-ai-the-mind-blowing-difference-that-will-change-everything-6fc9b37c6534
-- 
+
+  --------------------------------------------------------------------------------------------------------------
+
+  - Agentic Architecture Deep Dive: How AI Systems Think, Plan, and Act on Their Own, https://medium.com/tech-with-abhishek/agentic-architecture-deep-dive-how-ai-systems-think-plan-and-act-on-their-own-c49f87746944
+  - 
 
 
