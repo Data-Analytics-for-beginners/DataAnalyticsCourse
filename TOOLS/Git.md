@@ -91,6 +91,11 @@
 
 - Scrum with GitHub No Jira Required!, https://www.youtube.com/watch?v=Is9KZFkHmpk
 - Creating a Product Backlog of User Stories for Agile Development using GitHub, https://www.youtube.com/watch?v=m8ZxTHSKSKE
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+- The Ultimate Guide to Git Branching Strategies, https://medium.com/@prateekjain.dev/the-ultimate-guide-to-git-branching-strategies-6324f1aceac2
 - 
 
 
