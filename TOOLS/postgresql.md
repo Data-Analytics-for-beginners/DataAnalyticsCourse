@@ -110,3 +110,11 @@
 
 Setting up PostgreSQL Database on a AWS RDS instance and troubleshooting steps, https://medium.com/@nivethithagv/setting-up-postgresql-database-on-a-aws-rds-instance-and-troubleshooting-78df050ee2a0
 
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+- Postgres CDC to Iceberg: Lessons from Real-World Data Pipelines, https://medium.com/@yingjunwu/postgres-cdc-to-iceberg-lessons-from-real-world-data-pipelines-08e9be768b46
+- 
