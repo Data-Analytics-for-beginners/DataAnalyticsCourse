@@ -117,4 +117,7 @@ Setting up PostgreSQL Database on a AWS RDS instance and troubleshooting steps, 
 
 
 - Postgres CDC to Iceberg: Lessons from Real-World Data Pipelines, https://medium.com/@yingjunwu/postgres-cdc-to-iceberg-lessons-from-real-world-data-pipelines-08e9be768b46
+- I Rewrote Our SQL Schema in 2 Days , Here’s Why Our Queries Now Run 10x Faster, https://medium.com/@harishsingh8529/i-rewrote-our-sql-schema-in-2-days-heres-why-our-queries-now-run-10x-faster-ccfd6b65f3c9
+- PostgreSQL 18 in Microservices: You Don’t Need a Separate DB for Everything, https://medium.com/@harishsingh8529/postgresql-18-in-microservices-you-dont-need-a-separate-db-for-everything-07b9dc670e1c
+- Kafka + PostgreSQL: Real-Time CDC Done Right, https://medium.com/@harishsingh8529/kafka-postgresql-real-time-cdc-done-right-04caa85c8887
 - 
