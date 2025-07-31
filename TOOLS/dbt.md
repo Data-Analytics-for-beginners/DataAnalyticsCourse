@@ -6,4 +6,5 @@
  - From Raw Data to Citywide Insights: How Snowflake, dbt, and Airflow Work Together, https://medium.com/data-science-collective/end-to-end-urban-data-pipeline-crisp-dm-with-snowflake-dbt-and-airflow-61c60159c3ee
  - Best Practices for dbt Materializations in Snowflake (with Pros & Cons), https://medium.com/tech-with-abhishek/best-practices-for-dbt-materializations-in-snowflake-with-pros-cons-4581ef894c6f
  - Building Self-Healing Data Pipelines with GenAI + dbt, https://medium.com/tech-with-abhishek/%EF%B8%8F-building-self-healing-data-pipelines-with-genai-dbt-79f9a4456156
+ - Using dbt Fusion Engine for Next-Gen Data Transformation, https://medium.com/tech-with-abhishek/using-dbt-fusion-engine-for-next-gen-data-transformation-eb198ca8c192
  - 
