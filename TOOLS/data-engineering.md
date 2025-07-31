@@ -67,3 +67,10 @@
 
 - Data Lineage: The Hidden Backbone of Data Engineering (And How to Get It Right), https://medium.com/ai-ml-interview-playbook/the-hidden-backbone-of-data-engineering-why-data-lineage-matters-and-how-to-get-it-right-f003673af4cb
 - 
+
+
+
+------------------------------------------------------------------------
+
+- Top 10 YouTube Channels Every Data Engineer Must Follow in 2025: Your Complete Zero-to-Hero Roadmap, https://mayursurani.medium.com/top-10-youtube-channels-every-data-engineer-must-follow-in-2025-your-complete-zero-to-hero-roadmap-ab3a590df143
+- 
