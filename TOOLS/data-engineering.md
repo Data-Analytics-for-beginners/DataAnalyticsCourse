@@ -1,5 +1,8 @@
 
 
+- AI Data Engineering Roadmap 2025–26, https://medium.com/brilliant-programmer/ai-data-engineering-roadmap-2025-26-60a26c108797
+- 
+
 
  - EY : Senior Data Engineer Interview, https://medium.com/@skyescribbles/ey-senior-data-engineer-interview-1405e0d587cc
  - Data Engineer Interview : Deloitte, https://medium.com/@skyescribbles/data-engineer-interview-deloitte-c590ebaf628e
