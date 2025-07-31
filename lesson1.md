@@ -637,12 +637,18 @@ print(bmi)  # Виведе: 23.157829031553323
 - 
 
 
+
+# AUDIO
+- Vosk with Python: Future of Audio Processing with OpenSource Tools, https://medium.com/@pysquad/vosk-with-python-future-of-audio-processing-with-opensource-tools-4868ef8c0f12
+- 
+
 # Time Series Analysis
 
 - Using Multiple Libraries in Time Series Analysis, https://medium.com/@kyle-t-jones/using-multiple-libraries-in-time-series-analysis-0c297f26f91f
 - Feature Engineering for Time Series: Teaching Your Model the Rhythm of Time, https://medium.com/@ML_learnerr/feature-engineering-for-time-series-teaching-your-model-the-rhythm-of-time-7d7d53c398ba
 - How to Work with Time Series Data: From Raw Signals to Forecast-Ready, https://medium.com/@ML_learnerr/how-to-work-with-time-series-data-from-raw-signals-to-forecast-ready-72f0c6310355
 - Time Series Foundation Models for Forecasting Task, https://medium.com/@mychen76/time-series-foundation-models-for-forecasting-task-c9076cae9a84
+- Time Series Anomaly Detection with PyCaret, https://medium.com/@pysquad/time-series-anomaly-detection-with-pycaret-e1cf6fda5216
 - 
 
 # DATA PROFILING
@@ -747,6 +753,14 @@ print(bmi)  # Виведе: 23.157829031553323
 - Lessons from the Titanic Kaggle Dataset (Part 2): Which Features Matter Most in Predicting Survival?, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-2-which-features-matter-most-in-predicting-survival-a4008154e290
 - Lessons from the Titanic Kaggle Dataset (Part 1): Aggresive Data Cleaning Isn’t Always Improve Model Accuracy, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-1-aggresive-data-cleaning-isnt-always-improve-d41078311db2
 - 
+
+
+
+# Outliers
+
+- Outlier Detection Using Principal Component Analysis with Hotelling’s T2 and SPE/DmodX Methods, https://medium.com/data-science-collective/outlier-detection-using-principal-component-analysis-with-hotellings-t2-and-spe-dmodx-methods-c9c0c76cc6c7
+- 
+
 
 
 # Insights
