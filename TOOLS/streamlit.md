@@ -11,5 +11,7 @@
 
 - From Excel Hell to Streamlit Heaven: My Python Visualization Upgrade, https://medium.com/@hadiyolworld007/from-excel-hell-to-streamlit-heaven-my-python-visualization-upgrade-1cd78422e0eb
 - 📊 Python + Streamlit: The Data Dashboard That Took Me from Boring to Brag-Worthy, https://medium.com/@hadiyolworld007/python-streamlit-the-data-dashboard-that-took-me-from-boring-to-brag-worthy-25f201d2fb67
+- Building Real-Time Dashboards with Pandas and Streamlit at Scale, https://medium.com/@hadiyolworld007/building-real-time-dashboards-with-pandas-and-streamlit-at-scale-479734a7e2b2
+- 
 
   
