@@ -3,7 +3,12 @@
 
 
  - 10 Best Books on Data Analytics with AI Agents—Read Before You Build!, https://medium.com/data-engineering-space/10-best-books-on-data-analytics-with-ai-agents-read-before-you-build-874ad869b654
- - 
+ - The Best GitHub Repos for Data Engineers (Updated 2025)!, https://medium.com/@shenoy.shashwath/the-best-github-repos-for-data-engineers-updated-2025-d00fb4ad81d3
+ - Data Engineering, DWH, and ETL Interview Questions - Part 2, https://medium.com/brilliant-programmer/data-engineering-dwh-and-etl-interview-questions-part-2-e7f4c490e6a1
+ - Complete Tutorial: Set-up PostgreSQL Database with Django Application, https://medium.com/django-unleashed/complete-tutorial-set-up-postgresql-database-with-django-application-d9e789ffa384
+ - Deploy Django App for Free — Latest Hacks (2025 Edition), https://medium.com/pyzilla/deploy-django-app-for-free-latest-hacks-2025-edition-c0522ea7ba84
+ - Complete Tutorial: Set-up PostgreSQL Database with Django Application, https://medium.com/django-unleashed/complete-tutorial-set-up-postgresql-database-with-django-application-d9e789ffa384
+   
 
 
 
@@ -27,3 +32,10 @@
 10. *E. Taskesen, What are PCA loadings and how to effectively use Biplots?, Data Science Collective (DSC), July 2025*
 11. E. Taskesen, K-Nearest-Rank Scores: A Tool for Local Structure Analysis in Embeddings, Medium, Data Science Collection, July 2025
 12. E. Taskesen, D3Blocks: The Python Library to Create Interactive and Standalone D3js Charts, Medium, Data Science Collection, June 2025
+13. “Storytelling with Data” by Cole Nussbaumer Knaflic — Teaches how to present data in a way that drives decisions.
+14. “The Personal MBA” by Josh Kaufman — A fantastic overview of core business concepts.
+
+
+
+ - https://hbr.org/
+ - MIT Technology Review, https://www.technologyreview.com/
