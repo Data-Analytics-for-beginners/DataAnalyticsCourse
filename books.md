@@ -35,7 +35,12 @@
 13. “Storytelling with Data” by Cole Nussbaumer Knaflic — Teaches how to present data in a way that drives decisions.
 14. “The Personal MBA” by Josh Kaufman — A fantastic overview of core business concepts.
 
-
+References
+E. Taskesen, What are PCA loadings and how to effectively use Biplots?, Data Science Collective (DSC), July 2025
+Scikit-Learn, Outlier Detection.
+E. Taskesen, How to Find the Best Theoretical Distribution for Your Data, Medium, June 2025
+Wine Data set, https://archive-beta.ics.uci.edu/dataset/109/wine
+P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance, ISBN 978–9077381–39–7
 
  - https://hbr.org/
  - MIT Technology Review, https://www.technologyreview.com/
