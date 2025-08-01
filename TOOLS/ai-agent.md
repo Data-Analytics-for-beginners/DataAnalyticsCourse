@@ -1,4 +1,18 @@
+ #  Agentic AI with Streamlit
 
+- Explainable AI in Action: Health Risk Prediction with LangGraph, MCP, and SHAP, https://medium.com/towards-artificial-intelligence/how-to-build-an-explainable-diabetes-risk-predictor-with-langgraph-mcp-and-ollama-ceeb02a7b6b3
+- AI-Powered Resume Matcher: Multi-Agent System with Streamlit and CrewAI, https://medium.com/ai-advances/ai-powered-resume-matcher-multi-agent-system-with-streamlit-and-crewai-bf35a2481d84
+- Building an AI-Powered Smart Travel Planner with Multi-Agent AI and LangGraph, https://medium.com/towards-artificial-intelligence/building-an-ai-powered-smart-travel-planner-with-multi-agent-ai-and-langgraph-e5994e745733
+- Building an End2End Advanced RAG Agent, https://medium.com/@piyushagni5/building-an-end2end-advanced-rag-agent-5d7eda013c44
+- Building Agentic Adaptive RAG with LangGraph for Production,
+- Agentic-Doc: Extract Structured Data from Complex Documents with Ease, https://medium.com/@pankaj_pandey/agentic-doc-extract-structured-data-from-complex-documents-with-ease-9b18d12b1f9f
+- 
+
+-------------------------------------------------------------------------------------------------------------------
+
+- How This Open-Source Trillion-Parameter AI Model Is Destroying Industry Giants and Changing AI Forever, https://medium.com/ai-in-plain-english/the-breakthrough-ai-model-thats-changing-the-game-meet-kimi-k2-642d71b311dd
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Leave Agentic AI Frameworks And Build Agents From Scratch, https://medium.com/aiguys/leave-agentic-ai-frameworks-and-build-agents-from-scratch-0a45d1656513
 - Agentic AI Workflows Are Seriously Broken, https://medium.com/aiguys/agentic-ai-workflows-are-seriously-broken-6da9c64f8c70
