@@ -1,5 +1,8 @@
 
 
+- Leave Agentic AI Frameworks And Build Agents From Scratch, https://medium.com/aiguys/leave-agentic-ai-frameworks-and-build-agents-from-scratch-0a45d1656513
+- Agentic AI Workflows Are Seriously Broken, https://medium.com/aiguys/agentic-ai-workflows-are-seriously-broken-6da9c64f8c70
+- How to Build an AI Agent: A Practical Step-by-Step Guide, https://skphd.medium.com/how-to-build-an-ai-agent-a-practical-step-by-step-guide-e535b37602a2
 - Designing a Scalable Multi-Agent AI System for Operational Intelligence, https://pub.towardsai.net/designing-a-scalable-multi-agent-ai-system-for-operational-intelligence-ab6c4a7f331a
 - Build an Agent Orchestrator in Python with Semantic Kernel, https://medium.com/@speaktoharisudhan/build-an-agent-orchestrator-in-python-with-semantic-kernel-bb271d8f32e1
 - Using GitHub Models with Semantic Kernel, https://medium.com/@willvelida/using-github-models-with-semantic-kernel-4629287a50cb
