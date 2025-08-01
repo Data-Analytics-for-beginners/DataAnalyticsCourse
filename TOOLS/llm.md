@@ -6,4 +6,9 @@
 3) Local LLMs : A Comprehensive Guide, https://pub.towardsai.net/local-llms-a-comprehensive-guide-cedaa979dfaa
 4) Top 25 Large Language Model (LLM) Interview Questions and Answers, https://medium.com/@skphd/top-25-large-language-model-llm-interview-questions-and-answers-0fd12af3db71
 5) LLMs explained (Part 6): Smarter AI through Reinforcement Learning, https://medium.com/data-science-collective/llms-explained-part-6-smarter-ai-through-reinforcement-learning-97d19789c0ec
-6) 
+
+------------------------------------------------------------
+
+- A Brief History of LLMs, https://medium.com/@lmpo/a-brief-history-of-lmms-from-transformers-2017-to-deepseek-r1-2025-dae75dd3f59a
+- A Brief History of AI with Deep Learning, https://medium.com/@lmpo/a-brief-history-of-ai-with-deep-learning-26f7948bc87b
+- 
