@@ -14,6 +14,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- Agentic AI Engineering: The Blueprint for Production-Grade AI Agents, https://medium.com/generative-ai-revolution-ai-native-transformation/agentic-ai-engineering-the-blueprint-for-production-grade-ai-agents-20358468b0b1
+- 
 - Leave Agentic AI Frameworks And Build Agents From Scratch, https://medium.com/aiguys/leave-agentic-ai-frameworks-and-build-agents-from-scratch-0a45d1656513
 - Agentic AI Workflows Are Seriously Broken, https://medium.com/aiguys/agentic-ai-workflows-are-seriously-broken-6da9c64f8c70
 - How to Build an AI Agent: A Practical Step-by-Step Guide, https://skphd.medium.com/how-to-build-an-ai-agent-a-practical-step-by-step-guide-e535b37602a2
