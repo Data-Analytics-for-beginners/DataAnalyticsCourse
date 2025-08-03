@@ -793,6 +793,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - Building a modern data dashboard, https://medium.com/gitconnected/building-a-modern-data-dashboard-579253a35ec1
 - D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
 - Ditch Jupyter — This Python Dashboard Stack Is the Future of Data Analysis, https://medium.com/@hadiyolworld007/ditch-jupyter-this-python-dashboard-stack-is-the-future-of-data-analysis-db8849ce2a4e
+- Building a data dashboard with Python and Taipy, https://medium.com/data-science-collective/building-a-data-dashboard-with-python-and-taipy-8e4288713d33
+- Dashboard with Streamlit and Python, https://medium.com/data-science-collective/how-to-build-an-interactive-dashboard-with-streamlit-and-python-fcd03cb63ad0
 - 
 
 
@@ -842,4 +844,13 @@ print(bmi)  # Виведе: 23.157829031553323
 # DATA SCIENCE WORKFLOW
 
 - The tools I use to automate my entire data science workflow, https://medium.com/data-science-collective/the-tools-i-use-to-automate-my-entire-data-science-workflow-28026b48b221
+- 
+
+
+
+
+# DATA STORYTELLING
+
+- Here Are 4 Simple Exploratory Visual Techniques To Make Your Data Speak, https://medium.com/data-storytelling-corner/here-are-4-simple-exploratory-visual-techniques-to-make-your-data-speak-cf880671cfde
+- Flexibility vs. Usability For Better Data Visuals: How To Find The Killer Sweet Spot, https://medium.com/data-storytelling-corner/flexibility-vs-usability-for-better-data-visuals-how-to-find-the-killer-sweet-spot-84bcb8d5bbbe
 - 
