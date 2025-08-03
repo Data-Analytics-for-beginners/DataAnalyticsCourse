@@ -1,4 +1,17 @@
 
+
+
+
+
+
+- Creating a Knowledge Extraction AI Agent, https://medium.com/data-science-collective/creating-a-knowledge-extraction-ai-agent-697e94f44afb
+- Building a Generic Knowledge Extraction AI Agent that Allows the Creation of Flexible, Organization-Specific Use Cases, https://medium.com/data-science-collective/building-a-generic-knowledge-extraction-ai-agent-that-allows-the-creation-of-flexible-586d6a1b1499
+
+
+
+
+---------------------------------------------
+
  - The Executive’s Guide to Crafting a Winning AI Strategy, https://medium.com/generative-ai-revolution-ai-native-transformation/the-executives-guide-to-crafting-a-winning-ai-strategy-5eb0813fd888
  - New Frontiers of Agentic AI: Standardizing Development with MCP and A2A, https://medium.com/generative-ai-revolution-ai-native-transformation/new-frontiers-of-agentic-ai-standardizing-development-with-mcp-and-a2a-ee54c7d78e0a
  - Implementing 12 AI Agent Evaluation Techniques Using LangSmith, https://levelup.gitconnected.com/implementing-12-ai-agent-evaluation-techniques-using-langsmith-507d5bf5c0aa
