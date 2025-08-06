@@ -1,7 +1,7 @@
 
 
 
-
+ - 10 Statistics Books that you should download! (open access), https://medium.com/@vespinozag/10-statistics-books-that-you-should-download-open-access-1655780a73fc
  - 10 Best Books on Data Analytics with AI Agents—Read Before You Build!, https://medium.com/data-engineering-space/10-best-books-on-data-analytics-with-ai-agents-read-before-you-build-874ad869b654
  - The Best GitHub Repos for Data Engineers (Updated 2025)!, https://medium.com/@shenoy.shashwath/the-best-github-repos-for-data-engineers-updated-2025-d00fb4ad81d3
  - Data Engineering, DWH, and ETL Interview Questions - Part 2, https://medium.com/brilliant-programmer/data-engineering-dwh-and-etl-interview-questions-part-2-e7f4c490e6a1
