@@ -865,3 +865,12 @@ print(bmi)  # Виведе: 23.157829031553323
 
 - Plotly vs Matplotlib vs Seaborn: The 2025 Python Visual Battle, https://medium.com/@connect.hashblock/my-end-to-end-ml-pipeline-using-scikit-learn-pandas-and-mlflow-41bdfa7e8e96
 - 
+
+
+
+# Network Visualizations
+
+-  Retina: A free open source web application to share network visualizations online, https://medium.com/@vespinozag/retina-a-free-open-source-web-application-to-share-network-visualizations-online-9fe11454ddc1
+-  16 network visualization tools that you should know!, https://medium.com/@vespinozag/16-network-visualization-tools-that-you-should-know-2c26957b707e
+-  Learn how to make a quick network visualization in Excel with GIGRAPH, https://medium.com/@vespinozag/learn-how-to-make-a-quick-network-visualization-in-excel-with-gigraph-eeeaf55d3823
+-  
