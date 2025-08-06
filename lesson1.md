@@ -752,6 +752,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Best Practices in Feature Engineering for Machine Learning, https://medium.com/ai-advances/best-practices-in-feature-engineering-for-machine-learning-aa9ff3c46982
 - Lessons from the Titanic Kaggle Dataset (Part 2): Which Features Matter Most in Predicting Survival?, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-2-which-features-matter-most-in-predicting-survival-a4008154e290
 - Lessons from the Titanic Kaggle Dataset (Part 1): Aggresive Data Cleaning Isn’t Always Improve Model Accuracy, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-1-aggresive-data-cleaning-isnt-always-improve-d41078311db2
+- My End-to-End ML Pipeline Using Scikit-Learn, Pandas, and MLflow, https://medium.com/@connect.hashblock/my-end-to-end-ml-pipeline-using-scikit-learn-pandas-and-mlflow-41bdfa7e8e96
 - 
 
 
@@ -759,6 +760,7 @@ print(bmi)  # Виведе: 23.157829031553323
 # Outliers
 
 - Outlier Detection Using Principal Component Analysis with Hotelling’s T2 and SPE/DmodX Methods, https://medium.com/data-science-collective/outlier-detection-using-principal-component-analysis-with-hotellings-t2-and-spe-dmodx-methods-c9c0c76cc6c7
+- Detect Outliers with Pandas in 3 Steps, https://medium.com/@connect.hashblock/detect-outliers-with-pandas-in-3-steps-50de29ffaab7
 - 
 
 
@@ -795,11 +797,13 @@ print(bmi)  # Виведе: 23.157829031553323
 - Ditch Jupyter — This Python Dashboard Stack Is the Future of Data Analysis, https://medium.com/@hadiyolworld007/ditch-jupyter-this-python-dashboard-stack-is-the-future-of-data-analysis-db8849ce2a4e
 - Building a data dashboard with Python and Taipy, https://medium.com/data-science-collective/building-a-data-dashboard-with-python-and-taipy-8e4288713d33
 - Dashboard with Streamlit and Python, https://medium.com/data-science-collective/how-to-build-an-interactive-dashboard-with-streamlit-and-python-fcd03cb63ad0
-- 
+- How to Structure your Dashboard So Users Find What They Need Without Thinking?, https://medium.com/@Santhanalakshmip/how-to-structure-your-dashboard-so-users-find-what-they-need-without-thinking-b971e9dc6c45
+- D3.js vs Plotly: Which JavaScript Visualization Library Should You Choose?, https://medium.com/@ebojacky/d3-js-vs-plotly-which-javascript-visualization-library-should-you-choose-dbf8ad67321f
 
 
 # Streamlit
 - A How To On Rapid Prototyping With Streamlit: Olympic Medal Trends Made Remarkably Simple, https://medium.com/data-storytelling-corner/a-how-to-on-rapid-prototyping-with-streamlit-olympic-medal-trends-made-remarkably-simple-744c3341ddd8
+- Streamlit + DuckDB: My Favorite Way to Build Dashboards That Don’t Lag, https://medium.com/@hadiyolworld007/streamlit-duckdb-my-favorite-way-to-build-dashboards-that-dont-lag-d83a5432f855
 - 
 
 
@@ -853,4 +857,11 @@ print(bmi)  # Виведе: 23.157829031553323
 
 - Here Are 4 Simple Exploratory Visual Techniques To Make Your Data Speak, https://medium.com/data-storytelling-corner/here-are-4-simple-exploratory-visual-techniques-to-make-your-data-speak-cf880671cfde
 - Flexibility vs. Usability For Better Data Visuals: How To Find The Killer Sweet Spot, https://medium.com/data-storytelling-corner/flexibility-vs-usability-for-better-data-visuals-how-to-find-the-killer-sweet-spot-84bcb8d5bbbe
+- 
+
+
+
+# Visualizations
+
+- Plotly vs Matplotlib vs Seaborn: The 2025 Python Visual Battle, https://medium.com/@connect.hashblock/my-end-to-end-ml-pipeline-using-scikit-learn-pandas-and-mlflow-41bdfa7e8e96
 - 
