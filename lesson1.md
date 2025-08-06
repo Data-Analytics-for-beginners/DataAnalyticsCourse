@@ -716,7 +716,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  8 OOP Concepts Every Python Dev Should Master, https://medium.com/python-in-plain-english/8-oop-concepts-every-python-dev-should-master-f1e8b033f026
 -  Analyze Data Like A Python Pro, https://medium.com/towards-artificial-intelligence/analyze-data-like-a-python-pro-b24e73b943ab
 -  Folder Structure Matters: My Python Project Template Explained, https://medium.com/the-pythonworld/folder-structure-matters-my-python-project-template-explained-33b7248c5e83
-- 
+-  Python: Key Concepts Explained with Data Science Examples, https://medium.com/@ryassminh/python-key-concepts-explained-with-data-science-examples-5c132cd645a2
+-  
 
 
 # Pandas
@@ -727,6 +728,12 @@ print(bmi)  # Виведе: 23.157829031553323
 - 
 
 
+
+# Web Scraping
+- How to Parse JSON Data With Python, https://medium.com/@datajournal/how-to-parse-json-data-with-python-99069a405e2b
+- Web Scraping with Selenium: Step-By-Step Guide, https://medium.com/@datajournal/web-scraping-with-selenium-955fbaae3421
+- Best Python Libraries for Web Scraping in 2025 (Compared), https://medium.com/the-modern-scientist/best-python-libraries-for-web-scraping-in-2025-compared-21efa4b5ee49
+- 
 
 # Jupyter Notebook
 - Best Jupyter Notebook Alternatives in 2025, https://medium.com/pathway-to-data-analysis/best-jupyter-notebook-alternatives-in-2025-4086532c8a46
