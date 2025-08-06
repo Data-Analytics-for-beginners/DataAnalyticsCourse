@@ -11,4 +11,9 @@
 
 - A Brief History of LLMs, https://medium.com/@lmpo/a-brief-history-of-lmms-from-transformers-2017-to-deepseek-r1-2025-dae75dd3f59a
 - A Brief History of AI with Deep Learning, https://medium.com/@lmpo/a-brief-history-of-ai-with-deep-learning-26f7948bc87b
-- 
+
+--------------------------------------------------------------------------------
+
+-  Fine-Tuning DeepSeek R1 Reasoning on Medical Chain of Thought Dataset, https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2
+-  Hugging Face: Building Custom Language Models: From Raw Data to Production AI, https://medium.com/@richardhightower/hugging-face-building-custom-language-models-from-raw-data-to-production-ai-a2b941d9b063
+-  
