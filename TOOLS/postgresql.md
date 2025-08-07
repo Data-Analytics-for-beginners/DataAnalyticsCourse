@@ -120,4 +120,7 @@ Setting up PostgreSQL Database on a AWS RDS instance and troubleshooting steps, 
 - I Rewrote Our SQL Schema in 2 Days , Here’s Why Our Queries Now Run 10x Faster, https://medium.com/@harishsingh8529/i-rewrote-our-sql-schema-in-2-days-heres-why-our-queries-now-run-10x-faster-ccfd6b65f3c9
 - PostgreSQL 18 in Microservices: You Don’t Need a Separate DB for Everything, https://medium.com/@harishsingh8529/postgresql-18-in-microservices-you-dont-need-a-separate-db-for-everything-07b9dc670e1c
 - Kafka + PostgreSQL: Real-Time CDC Done Right, https://medium.com/@harishsingh8529/kafka-postgresql-real-time-cdc-done-right-04caa85c8887
+- You don’t need 20 tools. Just use Postgres (seriously!), https://medium.com/@dev_tips/you-dont-need-20-tools-just-use-postgres-seriously-356043a21f98
+- Git Interview Questions and Answers, https://skphd.medium.com/git-interview-questions-and-answers-a99edb93297c
+- Mastering CI/CD with GitHub Actions: 20 Interview Questions to Make You Job-Ready, https://medium.com/interview-ready/mastering-ci-cd-with-github-actions-20-interview-questions-to-make-you-job-ready-0532fdfd3c54
 - 
