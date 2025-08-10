@@ -717,6 +717,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Analyze Data Like A Python Pro, https://medium.com/towards-artificial-intelligence/analyze-data-like-a-python-pro-b24e73b943ab
 -  Folder Structure Matters: My Python Project Template Explained, https://medium.com/the-pythonworld/folder-structure-matters-my-python-project-template-explained-33b7248c5e83
 -  Python: Key Concepts Explained with Data Science Examples, https://medium.com/@ryassminh/python-key-concepts-explained-with-data-science-examples-5c132cd645a2
+-  Top Python Libraries for Data Analysis and Visualization in 2025, https://medium.com/@shouke.wei/top-python-libraries-for-data-analysis-and-visualization-in-2025-bebfd95c36b1
 -  
 
 
@@ -737,6 +738,7 @@ print(bmi)  # Виведе: 23.157829031553323
 
 # Jupyter Notebook
 - Best Jupyter Notebook Alternatives in 2025, https://medium.com/pathway-to-data-analysis/best-jupyter-notebook-alternatives-in-2025-4086532c8a46
+- A Cursor Jupyter Notebooks Python Git Workflow, https://medium.com/@john-tucker/a-cursor-jupyter-notebooks-python-git-workflow-84e1846be904
 - 
 
 
@@ -749,6 +751,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - How to Find the Best Theoretical Distribution for Your Data, https://medium.com/@erdogant/how-to-find-the-best-theoretical-distribution-for-your-data-a26e5673b4bd
 - What Python Can Do With Sentinel-2: A Beginner’s Guide, https://medium.com/tierra-insights/what-python-can-do-with-sentinel-2-a-beginners-guide-da1721115ff0
 - How to Handle Skewed Data: A Guide for Data Scientists, https://medium.com/gopenai/how-to-handle-skewed-data-a-guide-for-data-scientists-84187ba7f805
+- Python Statistical Analysis: A Comprehensive Comparison, https://medium.com/@shouke.wei/python-statistical-analysis-a-comprehensive-comparison-ab6286693219
+- 
 
 # PCA
 - What are PCA Loadings, and How To Effectively Use Biplots?, https://medium.com/data-science-collective/pca-fb6ea1208bda
