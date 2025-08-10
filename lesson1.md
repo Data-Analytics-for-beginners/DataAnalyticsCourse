@@ -828,6 +828,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Five Hat Racks: The Secret To Better Python Data Storytelling, https://medium.com/data-storytelling-corner/five-hat-racks-the-secret-to-better-python-data-storytelling-fe0e628b7a88
 - Python How-To: Better Data Storytelling In A Flash With PyNarrative, https://medium.com/data-storytelling-corner/python-how-to-better-data-storytelling-in-a-flash-with-pynarrative-feef0babff48
 - Practical Python Dashboards: The Best 5 Frameworks For Interactive Maps, https://medium.com/data-science-collective/practical-python-dashboards-the-best-5-frameworks-for-interactive-maps-0834ca7f0637
+- Deploy a Python Dashboard to GitHub Pages with Marimo — No Backend, All Free, https://bury-thomas.medium.com/deploy-a-python-dashboard-to-github-pages-with-marimo-no-backend-all-free-7bda3acee3ef
 - 
 
 # Unsupervised Learning
