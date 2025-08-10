@@ -96,7 +96,7 @@ Fig. 1: Agentic AI evolution (Image by Author)
 
 
 - Multi Agent Solution for Marketing Analytics, https://medium.com/@nayan.j.paul/building-a-multi-agent-marketing-analytics-agentic-solution-71a76df16de3
-- Agentic GraphRAG for Commercial Contracts, https://medium.com/neo4j/agentic-graphrag-for-commercial-contracts-7c7adb5dfafe
+- Agentic GraphRAG for Commercial Contracts, https://medium.com/neo4j/agentic-graphrag-for-commercial-contracts-7c7adb5dfafeBuilding AI Workflows with FastAPI and LangGraph (Step-by-Step Guide)
 - How GraphRAG Works Step-by-Step, https://pub.towardsai.net/how-microsofts-graphrag-works-step-by-step-b15cada5c209
 - Top 10 Open-Source Tools To Build Powerful AI Agents (It’s Crazy), https://generativeai.pub/top-10-open-source-tools-to-build-powerful-ai-agents-its-crazy-4acd9378bb64
 - AI Agents vs Agentic AI: The Mind-Blowing Difference That Will Change Everything, https://pub.towardsai.net/ai-agents-vs-agentic-ai-the-mind-blowing-difference-that-will-change-everything-6fc9b37c6534
@@ -107,6 +107,17 @@ Fig. 1: Agentic AI evolution (Image by Author)
   - 
 
 
-
+Guardrails for AI Agents, https://medium.com/data-science-collective/guardrails-for-ai-agents-8913f6b67b51
 
 ![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*xbBzzMy3O1m68oLJ)
+
+Fig. 2: Agentic AI lifecycle (Image by Author)
+
+
+
+- Agentic AI: On Evaluations, https://medium.com/data-science-collective/agentic-ai-working-with-evals-b0dcedbe97f8
+- Building AI Workflows with FastAPI and LangGraph (Step-by-Step Guide), https://medium.com/towards-artificial-intelligence/building-ai-workflows-with-fastapi-and-langgraph-step-by-step-guide-599937ab84f3
+
+- Building Production-Ready RAG Systems: Best Practices and Proven Strategies, https://skphd.medium.com/building-production-ready-rag-systems-best-practices-and-proven-strategies-6a4f3565c2ce
+- 
+  
