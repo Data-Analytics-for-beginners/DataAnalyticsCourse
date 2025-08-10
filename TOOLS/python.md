@@ -200,3 +200,14 @@ source environment_name/bin/activate
 2) I Tried Writing Python in VS Code and PyCharm — Here’s What I Found, https://medium.com/pythonic-af/i-tried-writing-python-in-vs-code-and-pycharm-heres-what-i-found-e041becf6900
 3) VS Code’s New AI Did My Job for 30 Minutes. The Results? Honestly Shocking!, https://medium.com/mr-plan-publication/vs-codes-new-ai-did-my-job-for-30-minutes-the-results-honestly-shocking-33b490a5afde
 4) 
+
+
+
+
+
+- Mastering Python Project Management with uv Part 1: It’s Time to Ditch Poetry!, https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part1-its-time-to-ditch-poetry-c2590091d90a
+- Mastering Python Project Management with uv: Part 2 — Deep Dives and Advanced Use, https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part-2-deep-dives-and-advanced-use-1e2540e6f4a6
+- Mastering Python Project Management with uv: Part 5 — advanced CI/CD Nox and uv.cli, https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part-5-advanced-ci-cd-nox-and-uv-cli-da855782af3f
+- uv Package Manager for Python, https://medium.com/@nimritakoul01/uv-package-manager-for-python-f92c5a760a1c
+- Build and Publish a Python Package with uv, https://medium.com/@shouke.wei/build-and-publish-a-python-package-with-uv-50a5225616c4
+- 
