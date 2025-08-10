@@ -6,4 +6,5 @@
 3) DETR (DEtection TRansformer) implementation from scratch using PyTorch, https://medium.com/@bskkim2022/detr-implementation-from-scratch-using-pytorch-0f783fe06363
 4) Fundamentals of Image Processing and Computer Vision, https://medium.com/imagecraft/fundamentals-of-image-processing-and-computer-vision-6ba4bc8cc4b4
 5) Interpreting ML Models: How Permutation Feature Importance Builds Real Trust, https://medium.com/@connect.hashblock/interpreting-ml-models-how-permutation-feature-importance-builds-real-trust-8f663a643ffa
-6) 
+6) Building Scalable Machine Learning APIs with FastAPI and MLflow, https://medium.com/@taidalalakshmikanth127/building-scalable-machine-learning-apis-with-fastapi-and-mlflow-1d01ec6b5979
+7) 
