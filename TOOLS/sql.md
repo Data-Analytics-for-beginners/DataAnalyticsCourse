@@ -15,5 +15,7 @@
 
   - Nested vs. Normalized vs. Denormalized in BigQuery, https://medium.com/@vijaygadhave2014/nested-vs-normalized-vs-denormalized-in-bigquery-66ef334a749e
   - Mastering Pivot Tables in SQL: A Practical Guide, https://medium.com/@vijaygadhave2014/mastering-pivot-tables-in-sql-a-practical-guide-1518ea0b92e4
+  - Top 20 SQL Queries Interview Questions with Answers, https://skphd.medium.com/top-20-sql-queries-interview-questions-with-answers-56e70e4878d2
+  - KPMG (Medium— Level) SQL Interview Question, https://medium.com/meanlifestudies/kpmg-medium-level-sql-interview-question-238be1b9a7f0
   - 
  
