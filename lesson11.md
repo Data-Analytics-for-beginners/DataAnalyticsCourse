@@ -317,6 +317,8 @@ GROUP BY
 13) How Kafka, Flink, Databricks, and Neon Power the Modern Data Stack for AI Agents, https://seanfalconer.medium.com/how-kafka-flink-databricks-and-neon-power-the-modern-stack-for-ai-agents-6c7e4599567f
 14) Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, 
 https://seanfalconer.medium.com/wiring-the-ai-nervous-system-agents-flink-jobs-and-stream-processing-aaadf7bf0138
+15) Mastering Event-Driven Architecture in Python with AsyncIO and Pub/Sub Patterns, https://medium.com/data-science-collective/mastering-event-driven-architecture-in-python-with-asyncio-and-pub-sub-patterns-2b26db3f11c9
+16) 
 
 
 
