@@ -210,4 +210,5 @@ source environment_name/bin/activate
 - Mastering Python Project Management with uv: Part 5 — advanced CI/CD Nox and uv.cli, https://bury-thomas.medium.com/mastering-python-project-management-with-uv-part-5-advanced-ci-cd-nox-and-uv-cli-da855782af3f
 - uv Package Manager for Python, https://medium.com/@nimritakoul01/uv-package-manager-for-python-f92c5a760a1c
 - Build and Publish a Python Package with uv, https://medium.com/@shouke.wei/build-and-publish-a-python-package-with-uv-50a5225616c4
+- Using UV and Conda Together Effectively: A Fast, Flexible Workflow, https://medium.com/@datagumshoe/using-uv-and-conda-together-effectively-a-fast-flexible-workflow-d046aff622f0
 - 
