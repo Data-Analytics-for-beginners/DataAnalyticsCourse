@@ -318,7 +318,8 @@ GROUP BY
 14) Wiring the AI Nervous System: Agents, Flink Jobs, and Stream Processing, 
 https://seanfalconer.medium.com/wiring-the-ai-nervous-system-agents-flink-jobs-and-stream-processing-aaadf7bf0138
 15) Mastering Event-Driven Architecture in Python with AsyncIO and Pub/Sub Patterns, https://medium.com/data-science-collective/mastering-event-driven-architecture-in-python-with-asyncio-and-pub-sub-patterns-2b26db3f11c9
-16) 
+16) Mastering Event-Driven Automation in Python, https://medium.com/javascript-in-plain-english/mastering-event-driven-automation-in-python-e8c79a76c675
+17) 
 
 
 
