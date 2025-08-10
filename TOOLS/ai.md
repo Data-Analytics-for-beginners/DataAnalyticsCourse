@@ -822,4 +822,5 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - An LLM Evaluation Framework for AI Systems Performance, https://medium.com/leading-edje/an-llm-evaluation-framework-for-ai-systems-performance-766f769c10fa
 - 
 
-
+- Generative AI with LangChain: Introduction (Part 1), https://medium.com/the-advanced-school-of-ai/generative-ai-with-langchain-introduction-part-1-881a872a7644
+- 
