@@ -107,3 +107,6 @@ Fig. 1: Agentic AI evolution (Image by Author)
   - 
 
 
+
+
+![](https://miro.medium.com/v2/resize:fit:2000/format:webp/0*xbBzzMy3O1m68oLJ)
