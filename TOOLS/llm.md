@@ -1,6 +1,7 @@
 
 
 
+
 1) A Simple Principle From Noise-Cancelling Headphones Supercharges Transformers Like Never Before, https://ai.gopubby.com/a-simple-principle-from-noise-cancelling-headphones-supercharges-transformers-like-never-before-c305dda47b5e
 2) Shrink, Speed, Repeat — A Gentle-to-Pro Guide to Model Quantization, https://medium.com/data-science-collective/shrink-speed-repeat-a-gentle-to-pro-guide-to-model-quantization-c65246a3fe77
 3) Local LLMs : A Comprehensive Guide, https://pub.towardsai.net/local-llms-a-comprehensive-guide-cedaa979dfaa
@@ -16,4 +17,9 @@
 
 -  Fine-Tuning DeepSeek R1 Reasoning on Medical Chain of Thought Dataset, https://medium.com/@anicomanesh/fine-tuning-deepseek-r1-reasoning-on-the-medical-chain-of-thought-dataset-922407121cc2
 -  Hugging Face: Building Custom Language Models: From Raw Data to Production AI, https://medium.com/@richardhightower/hugging-face-building-custom-language-models-from-raw-data-to-production-ai-a2b941d9b063
+-  Build a Small Language Model (SLM) From Scratch, https://medium.com/@shravankoninti/build-a-small-language-model-slm-from-scratch-3ddd13fa6470
+-  Top 10 LLM & RAG Projects for Your AI Portfolio (2025–26),https://medium.com/@techwithram/top-10-llm-rag-projects-for-your-ai-portfolio-2025-26-582cc7ab6507
+-  Top AI Tools & Frameworks Every Senior IT Pro Must Master by 2026, https://medium.com/@techwithram/top-ai-tools-frameworks-every-senior-it-pro-must-master-by-2026-3288a4c9c9f7
+-  Production-Ready GitHub Repos to Master ML, MLOps, LLMs, RAG & AI Agents, https://medium.com/@techwithram/production-ready-github-repos-to-master-ml-mlops-llms-rag-ai-agents-12ceaaa5ad22
 -  
+  
