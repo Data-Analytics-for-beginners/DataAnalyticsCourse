@@ -211,4 +211,5 @@ source environment_name/bin/activate
 - uv Package Manager for Python, https://medium.com/@nimritakoul01/uv-package-manager-for-python-f92c5a760a1c
 - Build and Publish a Python Package with uv, https://medium.com/@shouke.wei/build-and-publish-a-python-package-with-uv-50a5225616c4
 - Using UV and Conda Together Effectively: A Fast, Flexible Workflow, https://medium.com/@datagumshoe/using-uv-and-conda-together-effectively-a-fast-flexible-workflow-d046aff622f0
+- Python UV + pyproject.toml: The Fastest Way to Run Python Apps, https://medium.com/@philip.mutua/python-uv-pyproject-toml-the-fastest-way-to-run-python-apps-913d6213c111
 - 
