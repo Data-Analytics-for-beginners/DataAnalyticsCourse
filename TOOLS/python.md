@@ -212,4 +212,5 @@ source environment_name/bin/activate
 - Build and Publish a Python Package with uv, https://medium.com/@shouke.wei/build-and-publish-a-python-package-with-uv-50a5225616c4
 - Using UV and Conda Together Effectively: A Fast, Flexible Workflow, https://medium.com/@datagumshoe/using-uv-and-conda-together-effectively-a-fast-flexible-workflow-d046aff622f0
 - Python UV + pyproject.toml: The Fastest Way to Run Python Apps, https://medium.com/@philip.mutua/python-uv-pyproject-toml-the-fastest-way-to-run-python-apps-913d6213c111
+- Python: Monorepo with UV, https://medium.com/@life-is-short-so-enjoy-it/python-monorepo-with-uv-f4ced6f1f425
 - 
