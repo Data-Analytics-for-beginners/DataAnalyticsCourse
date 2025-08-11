@@ -574,6 +574,9 @@ print(bmi)  # Виведе: 23.157829031553323
 - 10 Jobs AI Will Replace by 2026, https://medium.com/@analystuttam/10-jobs-ai-will-replace-by-2026-c62ea5213e1f
 - 25 ChatGPT Prompts to Replace Hours of Work as a Data Analyst, https://medium.com/ai-analytics-diaries/25-chatgpt-prompts-to-replace-hours-of-work-as-a-data-analyst-e5b206c3e175
 - 25 ChatGPT Prompts for Data Analysts, https://analystuttam.gumroad.com/l/25-chatgpt-prompts-for-data-analyst
+- Future-Proof Careers in the Age of AI: What You Should Learn in 2026, https://medium.com/predict/future-proof-careers-in-the-age-of-ai-what-you-should-learn-in-2026-e4ddd321347c
+- 5 Future-Proof Tech Skills You Should Start Learning Now (Before 2030), https://medium.com/predict/5-future-proof-tech-skills-you-should-start-learning-now-before-2030-00bfb2e849ab
+- The Truth About the Software Engineering Job Market in 2026, https://medium.com/predict/the-truth-about-the-software-engineering-job-market-in-2026-19ec5d10c670
   
 
 # Analytic Hierarchy Process
