@@ -5,6 +5,7 @@
 
 
 - Creating a Knowledge Extraction AI Agent, https://medium.com/data-science-collective/creating-a-knowledge-extraction-ai-agent-697e94f44afb
+- Building Self-Evolving Knowledge Graphs Using Agentic Systems, https://medium.com/@community_md101/building-self-evolving-knowledge-graphs-using-agentic-systems-48183533592c
 - Building a Generic Knowledge Extraction AI Agent that Allows the Creation of Flexible, Organization-Specific Use Cases, https://medium.com/data-science-collective/building-a-generic-knowledge-extraction-ai-agent-that-allows-the-creation-of-flexible-586d6a1b1499
 
 
