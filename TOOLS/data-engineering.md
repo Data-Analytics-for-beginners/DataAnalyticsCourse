@@ -68,7 +68,7 @@
 - Data Lineage: The Hidden Backbone of Data Engineering (And How to Get It Right), https://medium.com/ai-ml-interview-playbook/the-hidden-backbone-of-data-engineering-why-data-lineage-matters-and-how-to-get-it-right-f003673af4cb
 - 
 
-
+- The Fundamentals of Infrastructure as Code in Data Engineering, https://medium.com/@community_md101/the-fundamentals-of-infrastructure-as-code-in-data-engineering-5e2fd4ade6f7
 
 ------------------------------------------------------------------------
 
