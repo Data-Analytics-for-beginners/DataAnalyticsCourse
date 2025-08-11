@@ -578,6 +578,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - 5 Future-Proof Tech Skills You Should Start Learning Now (Before 2030), https://medium.com/predict/5-future-proof-tech-skills-you-should-start-learning-now-before-2030-00bfb2e849ab
 - The Truth About the Software Engineering Job Market in 2026, https://medium.com/predict/the-truth-about-the-software-engineering-job-market-in-2026-19ec5d10c670
 - 7 Data Trends That Will Transform Businesses in 2025, https://medium.com/@community_md101/7-data-trends-that-will-transform-businesses-in-2025-8391b71ae89e
+- Evolution of Data Analysts in the Age of AI, https://medium.com/@emrecanokten/evolution-of-data-analysts-in-the-age-of-ai-8367b902a601
   
 
 # Analytic Hierarchy Process
