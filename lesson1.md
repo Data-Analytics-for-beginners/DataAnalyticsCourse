@@ -577,6 +577,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Future-Proof Careers in the Age of AI: What You Should Learn in 2026, https://medium.com/predict/future-proof-careers-in-the-age-of-ai-what-you-should-learn-in-2026-e4ddd321347c
 - 5 Future-Proof Tech Skills You Should Start Learning Now (Before 2030), https://medium.com/predict/5-future-proof-tech-skills-you-should-start-learning-now-before-2030-00bfb2e849ab
 - The Truth About the Software Engineering Job Market in 2026, https://medium.com/predict/the-truth-about-the-software-engineering-job-market-in-2026-19ec5d10c670
+- 7 Data Trends That Will Transform Businesses in 2025, https://medium.com/@community_md101/7-data-trends-that-will-transform-businesses-in-2025-8391b71ae89e
   
 
 # Analytic Hierarchy Process
@@ -639,6 +640,12 @@ print(bmi)  # Виведе: 23.157829031553323
 - Finding the Best Distribution for Your Data with distfit, https://medium.com/code-applied/finding-the-best-distribution-for-your-data-with-distfit-543db94ed56a
 - 
 
+
+
+
+# DATA ARCHITECTURE
+- Modern Data Architectures: A Friendly Guide to Key Patterns, https://medium.com/@vijaygadhave2014/modern-data-architectures-a-friendly-guide-to-key-patterns-0703ca38a697
+- 
 
 
 # AUDIO
