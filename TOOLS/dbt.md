@@ -7,4 +7,5 @@
  - Best Practices for dbt Materializations in Snowflake (with Pros & Cons), https://medium.com/tech-with-abhishek/best-practices-for-dbt-materializations-in-snowflake-with-pros-cons-4581ef894c6f
  - Building Self-Healing Data Pipelines with GenAI + dbt, https://medium.com/tech-with-abhishek/%EF%B8%8F-building-self-healing-data-pipelines-with-genai-dbt-79f9a4456156
  - Using dbt Fusion Engine for Next-Gen Data Transformation, https://medium.com/tech-with-abhishek/using-dbt-fusion-engine-for-next-gen-data-transformation-eb198ca8c192
+ - Mastering Databricks & DBT: An End-to-End Production-Grade Data Engineering Project, https://medium.com/@mayursurani/mastering-databricks-dbt-an-end-to-end-production-grade-data-engineering-project-65cdad6984b5
  - 
