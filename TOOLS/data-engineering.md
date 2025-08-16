@@ -74,3 +74,9 @@
 
 - Top 10 YouTube Channels Every Data Engineer Must Follow in 2025: Your Complete Zero-to-Hero Roadmap, https://mayursurani.medium.com/top-10-youtube-channels-every-data-engineer-must-follow-in-2025-your-complete-zero-to-hero-roadmap-ab3a590df143
 - 
+
+
+- 10 Essential SQL Patterns Every Data Engineer Must Master in 2025, https://medium.com/@vijaygadhave2014/10-essential-sql-patterns-every-data-engineer-must-master-in-2025-d14ac0592cee
+- How to Become a Data Engineer in 3 Months: Actionable Steps & Projects, https://medium.com/@vijaygadhave2014/how-to-become-a-data-engineer-in-3-months-actionable-steps-projects-0080f09241dc
+- How I Transitioned from Data Analyst to Data Engineer, https://medium.com/@jha-avinash/how-i-transitioned-from-data-analyst-to-data-engineer-e23adea02532
+- 
