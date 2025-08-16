@@ -213,4 +213,5 @@ source environment_name/bin/activate
 - Using UV and Conda Together Effectively: A Fast, Flexible Workflow, https://medium.com/@datagumshoe/using-uv-and-conda-together-effectively-a-fast-flexible-workflow-d046aff622f0
 - Python UV + pyproject.toml: The Fastest Way to Run Python Apps, https://medium.com/@philip.mutua/python-uv-pyproject-toml-the-fastest-way-to-run-python-apps-913d6213c111
 - Python: Monorepo with UV, https://medium.com/@life-is-short-so-enjoy-it/python-monorepo-with-uv-f4ced6f1f425
+- How to Structure Python Projects Like a Professional Engineer, https://thepythonworld.in/how-to-structure-python-projects-like-a-professional-engineer-210a949834cb
 - 
