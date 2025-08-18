@@ -777,9 +777,14 @@ print(bmi)  # Виведе: 23.157829031553323
 - Lessons from the Titanic Kaggle Dataset (Part 2): Which Features Matter Most in Predicting Survival?, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-2-which-features-matter-most-in-predicting-survival-a4008154e290
 - Lessons from the Titanic Kaggle Dataset (Part 1): Aggresive Data Cleaning Isn’t Always Improve Model Accuracy, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-1-aggresive-data-cleaning-isnt-always-improve-d41078311db2
 - My End-to-End ML Pipeline Using Scikit-Learn, Pandas, and MLflow, https://medium.com/@connect.hashblock/my-end-to-end-ml-pipeline-using-scikit-learn-pandas-and-mlflow-41bdfa7e8e96
+- The Full Picture: A Guide to Loss Functions and Evaluation Metrics for Classification, https://medium.com/@inkollusrivarsha0287/the-full-picture-a-guide-to-loss-functions-and-evaluation-metrics-for-classification-c0ecbe44d35f
 - 
 
 
+# K-MEANS
+- K-Means Clustering: Your Friendly Guide to Unlocking Hidden Patterns in Data!, https://medium.com/@inkollusrivarsha0287/k-means-clustering-your-friendly-guide-to-unlocking-hidden-patterns-in-data-aad4b8eb9814
+- Clustering Technique: A Comprehensive Overview, https://medium.com/@tarangds/clustering-technique-a-comprehensive-overview-0162cfee1cec
+- 
 
 # Outliers
 
@@ -787,7 +792,25 @@ print(bmi)  # Виведе: 23.157829031553323
 - Detect Outliers with Pandas in 3 Steps, https://medium.com/@connect.hashblock/detect-outliers-with-pandas-in-3-steps-50de29ffaab7
 - Outlier Detection Using Distribution Fitting in Univariate Datasets, https://medium.com/data-science-collective/outlier-detection-using-distribution-fitting-in-univariate-datasets-4b16517a91e6
 - A Practical Guide to Outlier Detection and Treatment in Data Science, https://medium.com/@inkollusrivarsha0287/a-practical-guide-to-outlier-detection-and-treatment-in-data-science-43e853614fe8
-- A Data Scientist’s Guide to Conquering Missing Values, https://medium.com/@inkollusrivarsha0287/a-data-scientists-guide-to-conquering-missing-values-fffd0416f7f0
+- A Data Scientist’s Guide to Conquering Missing Values, https://medium.com/@inkollusriva-rsha0287/a-data-scientists-guide-to-conquering-missing-values-fffd0416f7f0
+- Outlier Detection: A Comprehensive Guide, https://medium.com/@DS_Rohan/outlier-detection-a-comprehensive-guide-a2044e7e0f10
+- 
+
+# EDA
+- A Beginner’s EDA with Python, https://medium.com/@DS_Rohan/a-beginners-eda-with-python-4fa64eb86ced
+- EDA in Python: Your Step-by-Step Playbook to Understand Any Dataset, https://medium.com/python-in-plain-english/eda-in-python-your-step-by-step-playbook-to-understand-any-dataset-9e5433b781c7
+- Titanic Survival Prediction: A Complete Data Analysis in Python, https://medium.com/@razakazim010/titanic-survival-prediction-a-complete-data-analysis-in-python-b488aa66070b
+- 
+
+
+# 
+- A Common Misconception About Log Transformation, https://medium.com/@datamantra/a-common-misconception-about-log-transformation-7a0f2a678986
+
+
+ # Categorical Data
+ 
+- Mastering Categorical Data: Essential Techniques for Machine Learning and Deep Learning, https://medium.com/@inkollusrivarsha0287/mastering-categorical-data-essential-techniques-for-machine-learning-and-deep-learning-ef568332b27c
+- 
 
 
 
