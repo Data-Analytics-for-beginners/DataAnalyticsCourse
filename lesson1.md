@@ -785,7 +785,9 @@ print(bmi)  # Виведе: 23.157829031553323
 
 - Outlier Detection Using Principal Component Analysis with Hotelling’s T2 and SPE/DmodX Methods, https://medium.com/data-science-collective/outlier-detection-using-principal-component-analysis-with-hotellings-t2-and-spe-dmodx-methods-c9c0c76cc6c7
 - Detect Outliers with Pandas in 3 Steps, https://medium.com/@connect.hashblock/detect-outliers-with-pandas-in-3-steps-50de29ffaab7
-- 
+- Outlier Detection Using Distribution Fitting in Univariate Datasets, https://medium.com/data-science-collective/outlier-detection-using-distribution-fitting-in-univariate-datasets-4b16517a91e6
+- A Practical Guide to Outlier Detection and Treatment in Data Science, https://medium.com/@inkollusrivarsha0287/a-practical-guide-to-outlier-detection-and-treatment-in-data-science-43e853614fe8
+- A Data Scientist’s Guide to Conquering Missing Values, https://medium.com/@inkollusrivarsha0287/a-data-scientists-guide-to-conquering-missing-values-fffd0416f7f0
 
 
 
