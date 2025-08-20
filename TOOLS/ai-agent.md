@@ -8,6 +8,13 @@
 
 
 
+- Human-in-the-Loop Strategy for Agentic AI, https://ai.gopubby.com/human-in-the-loop-strategy-for-agentic-ai-d9daa22c3204
+- Agentic AI Lifecycle for Enterprise Processes, https://ai.gopubby.com/agentification-of-enterprise-processes-0f173554f7b4
+- Risk Management for the Agentic AI Lifecycle, https://ai.gopubby.com/risk-management-for-the-agentic-ai-lifecycle-181e9a88b84a
+- Long-term Memory for AI Agents, 
+
+
+--------------------------------------------------------------------
 
 - Your First AI Agent: A Complete Beginner’s Guide to AI Agents, https://techwithram.medium.com/your-first-ai-agent-a-complete-beginners-guide-to-ai-agents-a3609d64e1da
 - Multi-Agent AI Architecture Explained: Patterns & Real-World Use Case, https://pub.towardsai.net/multi-ai-agent-architectures-and-patterns-a-complete-guide-to-learn-and-build-projects-4f1e9a0367e1
