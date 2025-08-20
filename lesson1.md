@@ -580,6 +580,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - 7 Data Trends That Will Transform Businesses in 2025, https://medium.com/@community_md101/7-data-trends-that-will-transform-businesses-in-2025-8391b71ae89e
 - Evolution of Data Analysts in the Age of AI, https://medium.com/@emrecanokten/evolution-of-data-analysts-in-the-age-of-ai-8367b902a601
 - 15 Open-Source Data Tools That Will Dominate 2025, https://medium.com/@aminsiddique95/15-open-source-data-tools-that-will-dominate-2025-189c10d5df18
+- The Data Analyst Playbook: From SQL Queries to C-Suite Storytelling, https://medium.com/@hmnshudhmn24/the-data-analyst-playbook-from-sql-queries-to-c-suite-storytelling-6a1a8a48f4fd
+- 
   
   
 
