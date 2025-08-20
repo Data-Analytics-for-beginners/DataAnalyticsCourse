@@ -797,7 +797,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - A Practical Guide to Outlier Detection and Treatment in Data Science, https://medium.com/@inkollusrivarsha0287/a-practical-guide-to-outlier-detection-and-treatment-in-data-science-43e853614fe8
 - A Data Scientist’s Guide to Conquering Missing Values, https://medium.com/@inkollusriva-rsha0287/a-data-scientists-guide-to-conquering-missing-values-fffd0416f7f0
 - Outlier Detection: A Comprehensive Guide, https://medium.com/@DS_Rohan/outlier-detection-a-comprehensive-guide-a2044e7e0f10
-- 
+- Anomaly Detection in Bitcoin Prices Using Z-Score and Python, https://medium.com/@ecemgunay.02/anomaly-detection-in-bitcoin-prices-using-z-score-and-python-4cf22989112a
 
 # EDA
 - A Beginner’s EDA with Python, https://medium.com/@DS_Rohan/a-beginners-eda-with-python-4fa64eb86ced
