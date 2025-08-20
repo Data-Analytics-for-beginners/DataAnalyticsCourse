@@ -714,6 +714,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Claude 4 Just Changed Everything, Here’s What It Can Do That ChatGPT and Gemini Can’t, https://ai.plainenglish.io/claude-4-just-changed-everything-heres-what-it-can-do-that-chatgpt-and-gemini-can-t-8d60e45d0872
 -  STOP Taking Random AI Courses — Read These Books Instead, https://medium.com/data-science-collective/stop-taking-random-ai-courses-read-these-books-instead-352bca9fa303
 -  5 AI Tools for UI that Product Managers Should Learn Immediately, https://medium.com/@pmclub/5-ai-tools-for-ui-that-product-managers-should-learn-immediately-f4541ace759c
+-  MedGemma: Google’s Open-Source AI Model for Healthcare, https://medium.com/@romina.elena.mendez/medgemma-googles-open-source-ai-model-for-healthcare-cc81ab90f75b
 -  
 
 # Python
@@ -928,4 +929,17 @@ print(bmi)  # Виведе: 23.157829031553323
 # Diagram-as-Code
 
 - Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content, https://medium.com/@romina.elena.mendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-c0795fcff2e4
-- 
+- You Asked, I Coded: How I Turned AWS Architecture into a Diagram Using Code, https://medium.com/@romina.elena.mendez/you-asked-i-coded-how-i-turned-aws-architecture-into-a-diagram-using-code-dd902f204a4d
+- Deploying Docs-as-Code on AWS: Building Dynamic Documentation Sites in MkDocs and Docusaurus, https://medium.com/@romina.elena.mendez/deploying-docs-as-code-on-aws-building-dynamic-documentation-sites-in-mkdocs-and-docusaurus-648538d61573
+
+
+ # PROJECTS:
+
+ - SQL Assistant: Text-to-SQL Application in Streamlit, https://medium.com/@romina.elena.mendez/sql-assistant-text-to-sql-application-in-streamlit-b54f65d06b97
+ - Automating EDA with Agentic AI: From Raw Data to Insightful Reports, https://medium.com/@bh3r1th/automating-eda-with-agentic-ai-from-raw-data-to-insightful-reports-6544598b5e9c
+ - Build Data Analysis AI-Agent using smolagents, https://medium.com/@hafizhan.aliady/build-data-analysis-ai-agent-using-smolagents-8c6678685fc3
+ - Building Data Analyst with AI Agent using LangChain and Opensource LLM, https://medium.com/ai-advances/building-data-analyst-with-ai-agent-using-langchain-and-opensource-llm-37f160939b84
+ - Build a Data Analyst AI Agent from Scratch with dbt Catalog Metadata, https://medium.com/@DanielH_Takes/build-a-data-analyst-ai-agent-from-scratch-with-dbt-catalog-metadata-7be719990d63
+ - Can a Data Analyst AI Agent be tricked into dropping a table?, https://medium.com/@DanielH_Takes/can-you-retrieve-the-system-prompt-of-your-favorite-chatbot-67cef1d62fe6
+ - I Built a PRD Generator Using AI Agents — And Vibe Coded the Frontend, https://medium.com/ai-ml-and-beyond/i-built-a-prd-generator-using-ai-agents-and-vibe-coded-the-frontend-6e6aa4febdbc
+   
