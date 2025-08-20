@@ -4,6 +4,19 @@
 
 
 
+
+
+
+
+
+- Your First AI Agent: A Complete Beginner’s Guide to AI Agents, https://techwithram.medium.com/your-first-ai-agent-a-complete-beginners-guide-to-ai-agents-a3609d64e1da
+- Multi-Agent AI Architecture Explained: Patterns & Real-World Use Case, https://pub.towardsai.net/multi-ai-agent-architectures-and-patterns-a-complete-guide-to-learn-and-build-projects-4f1e9a0367e1
+- Designing Multi AI Agent Architecture to Plan My Perfect Trip, And You Can Too…, https://ai.gopubby.com/i-built-a-team-of-ai-agents-to-plan-my-trips-heres-how-it-works-101a84e5436d
+
+
+----------------------------------------------------------------------------------------
+
+
 - Different Types of AI Agent Patterns, https://medium.com/fundamentals-of-artificial-intellegence/different-types-of-ai-agent-patterns-874e09fd4fa0
 - Creating a Knowledge Extraction AI Agent, https://medium.com/data-science-collective/creating-a-knowledge-extraction-ai-agent-697e94f44afb
 - Building Self-Evolving Knowledge Graphs Using Agentic Systems, https://medium.com/@community_md101/building-self-evolving-knowledge-graphs-using-agentic-systems-48183533592c
