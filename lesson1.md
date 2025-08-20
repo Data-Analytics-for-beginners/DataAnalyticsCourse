@@ -923,4 +923,9 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Retina: A free open source web application to share network visualizations online, https://medium.com/@vespinozag/retina-a-free-open-source-web-application-to-share-network-visualizations-online-9fe11454ddc1
 -  16 network visualization tools that you should know!, https://medium.com/@vespinozag/16-network-visualization-tools-that-you-should-know-2c26957b707e
 -  Learn how to make a quick network visualization in Excel with GIGRAPH, https://medium.com/@vespinozag/learn-how-to-make-a-quick-network-visualization-in-excel-with-gigraph-eeeaf55d3823
--  
+
+
+# Diagram-as-Code
+
+- Diagram-as-Code: Creating Dynamic and Interactive Documentation for Visual Content, https://medium.com/@romina.elena.mendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-c0795fcff2e4
+- 
