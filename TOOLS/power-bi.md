@@ -12,4 +12,7 @@
 - Inside the Dashboard: Highlighting Filtered Values Without Losing Context, https://medium.datadriveninvestor.com/inside-the-dashboard-highlighting-filtered-values-without-losing-context-f52611abfe4e
 - Before you build a dashboard…, https://medium.com/write-a-catalyst/before-you-build-a-dashboard-cd0f03b14b0c
 - Building a Dynamic Customer Pareto Dashboard in Power BI (PBIX included), https://medium.com/microsoft-power-bi/building-a-dynamic-customer-pareto-dashboard-in-power-bi-pbix-included-d3e76ad237ac
+- Power BI Project with Modern Design, https://medium.com/@alihanemretunc/power-bi-project-with-modern-design-5d65cbe8c313
+- Top Certifications for Power BI Analysts in 2025: Boost Your BI Career with the Best Credentials, https://medium.com/microsoft-power-bi/top-certifications-for-power-bi-analysts-in-2025-boost-your-bi-career-with-the-best-credentials-916cad8bcd9f
+- Power BI Project — HR Dashboard, https://medium.com/@alihanemretunc/power-bi-project-hr-dashboard-b3b5f264a604
 -  
