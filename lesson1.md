@@ -926,6 +926,13 @@ print(bmi)  # Виведе: 23.157829031553323
 -  
 
 
+# Django, Flask, FaspAPI
+- Choosing Between Django, Flask, and FastAPI: How I Build Scalable Web Apps, https://medium.com/@KingsleyOdume/choosing-between-django-flask-and-fastapi-how-i-build-scalable-web-apps-ddcfb66962e3
+- 
+
+
+
+
 
 # Network Visualizations
 
