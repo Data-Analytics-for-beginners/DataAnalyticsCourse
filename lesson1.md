@@ -734,7 +734,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Folder Structure Matters: My Python Project Template Explained, https://medium.com/the-pythonworld/folder-structure-matters-my-python-project-template-explained-33b7248c5e83
 -  Python: Key Concepts Explained with Data Science Examples, https://medium.com/@ryassminh/python-key-concepts-explained-with-data-science-examples-5c132cd645a2
 -  Top Python Libraries for Data Analysis and Visualization in 2025, https://medium.com/@shouke.wei/top-python-libraries-for-data-analysis-and-visualization-in-2025-bebfd95c36b1
--  
+-  Python Watchdog: Complete Guide and Advanced Use Cases, https://medium.com/@shouke.wei/python-watchdog-complete-guide-and-advanced-use-cases-56734e4a3ca6
 
 
 # Pandas
@@ -768,6 +768,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - What Python Can Do With Sentinel-2: A Beginner’s Guide, https://medium.com/tierra-insights/what-python-can-do-with-sentinel-2-a-beginners-guide-da1721115ff0
 - How to Handle Skewed Data: A Guide for Data Scientists, https://medium.com/gopenai/how-to-handle-skewed-data-a-guide-for-data-scientists-84187ba7f805
 - Python Statistical Analysis: A Comprehensive Comparison, https://medium.com/@shouke.wei/python-statistical-analysis-a-comprehensive-comparison-ab6286693219
+- A library in Python which helps you with hypothesis and statistical models, https://medium.com/top-python-libraries/a-library-in-python-which-helps-you-with-hypothesis-and-statistical-models-cb88b714830e
 - 
 
 # PCA
@@ -918,7 +919,11 @@ print(bmi)  # Виведе: 23.157829031553323
 # Visualizations
 
 - Plotly vs Matplotlib vs Seaborn: The 2025 Python Visual Battle, https://medium.com/@connect.hashblock/my-end-to-end-ml-pipeline-using-scikit-learn-pandas-and-mlflow-41bdfa7e8e96
-- 
+- 📊 Lets-Plot (II): Data Visualization Mastery with Lets-Plot and Pandas, https://medium.com/@shouke.wei/lets-plot-ii-data-visualization-mastery-with-lets-plot-and-pandas-2fd18535fd1a
+-  Lets-Plot (IV): Data Visualization with Lets-Plot and Polars: A Comprehensive Tutorial, https://medium.com/@shouke.wei/lets-plot-iv-data-visualization-with-lets-plot-and-polars-a-comprehensive-tutorial-cfe974322fe1
+-  How to identify outliers of your data? (With Python codes), https://medium.com/top-python-libraries/how-to-identify-outliers-of-your-data-with-python-codes-d7e6e58f301d
+-  9 Unique Data Visualization Charts with Plotly, https://medium.com/top-python-libraries/9-unique-data-visualization-charts-with-plotly-eb73704e2aad
+-  
 
 
 
