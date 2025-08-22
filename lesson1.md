@@ -928,7 +928,11 @@ print(bmi)  # Виведе: 23.157829031553323
 
 # Django, Flask, FaspAPI
 - Choosing Between Django, Flask, and FastAPI: How I Build Scalable Web Apps, https://medium.com/@KingsleyOdume/choosing-between-django-flask-and-fastapi-how-i-build-scalable-web-apps-ddcfb66962e3
-- 
+- Connect FastAPI to Any Database, https://medium.com/@connect.hashblock/connect-fastapi-to-any-database-38fb70bfe0ca
+- FastAPI Project Setup: From Coding to Engineering the Hard Way (Part I), https://medium.com/@nicolastkachenko/fastapi-project-setup-from-coding-to-engineering-the-hard-way-part-i-d29232eacaad
+- FastAPI Project Setup: From Coding to Engineering the Hard Way (Part II), https://medium.com/@nicolastkachenko/fastapi-project-setup-from-coding-to-engineering-the-hard-way-part-ii-8c14eb4f1b41
+
+  
 
 
 
