@@ -1,5 +1,14 @@
 
 
+
+
+
+- The Role of Knowledge Graphs in Healthcare, https://medium.com/@adnanmasood/the-role-of-knowledge-graphs-in-healthcare-7109a8c33122
+- 
+
+
+-------------------------------------------------------------------------------------
+
 - From Data to Decisions: How Knowledge Graphs Are Becoming the Brain of the Modern Enterprise, https://medium.com/@adnanmasood/from-data-to-decisions-how-knowledge-graphs-are-becoming-the-brain-of-the-modern-enterprise-1c3419375501
 - Converting Unstructured Data into a Knowledge Graph Using an End-to-End Pipeline, https://levelup.gitconnected.com/converting-unstructured-data-into-a-knowledge-graph-using-an-end-to-end-pipeline-552a508045f9
 - How To Build a Multi-Source Knowledge Graph Extractor from Scratch, https://medium.com/data-science-collective/how-to-build-a-multi-source-knowledge-graph-extractor-from-scratch-60f0a51e17b5
@@ -17,6 +26,24 @@
 - Top 8 LLM + RAG Projects for your AI Portfolio 2025, https://medium.com/ai-in-plain-english/top-8-llm-rag-projects-for-your-ai-portfolio-2025-c721a5e37b43
   
 -------------------------
+
+
+
+# CyberSecurity
+ - A survey on cybersecurity knowledge graph construction, https://www.sciencedirect.com/science/article/abs/pii/S0167404823004340
+ - A Practical Approach to Constructing a Knowledge Graph for Cybersecurity, https://www.researchgate.net/publication/323087865_A_Practical_Approach_to_Constructing_a_Knowledge_Graph_for_Cybersecurity
+ - A review of knowledge graph application scenarios in cyber security, https://arxiv.org/pdf/2204.04769
+ - Building a Cybersecurity Knowledge Graph with CyberGraph, https://dl.acm.org/doi/10.1145/3643662.3643962
+ - 
+
+
+
+# UDEMY
+- Knowledge Graph for Beginners, https://www.udemy.com/course/knowledge-graph-for-beginners/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.ROW-English_Subs&campaigntype=Search&portfolio=ROW-English&language=EN&product=Subs&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_185568238284_._ad_769543047588_._kw__._de_c_._dm__._pl__._ti_dsa-2436670172539_._li_9061017_._pd__._&matchtype=&gad_source=1&gad_campaignid=22894903173&gbraid=0AAAAADROdO3BbqwWrADNP-RU7oLixGwRv&gclid=Cj0KCQjwqqDFBhDhARIsAIHTlksBA09qoz_-HhIxo2y_ozZTuIAsSCqURDN4_IVpUAE1mKvf13P1lBcaAlKaEALw_wcB&couponCode=PMNVD2525
+- Mastering the Semantic Web: From RDF to Knowledge Graphs, https://www.udemy.com/course/knowledge-graph-for-beginners/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.ROW-English_Subs&campaigntype=Search&portfolio=ROW-English&language=EN&product=Subs&test=&audience=DSA&topic=&priority=Beta&utm_content=deal4584&utm_term=_._ag_185568238284_._ad_769543047588_._kw__._de_c_._dm__._pl__._ti_dsa-2436670172539_._li_9061017_._pd__._&matchtype=&gad_source=1&gad_campaignid=22894903173&gbraid=0AAAAADROdO3BbqwWrADNP-RU7oLixGwRv&gclid=Cj0KCQjwqqDFBhDhARIsAIHTlksBA09qoz_-HhIxo2y_ozZTuIAsSCqURDN4_IVpUAE1mKvf13P1lBcaAlKaEALw_wcB&couponCode=PMNVD2525
+- Ontologies for Business Analysis, https://www.udemy.com/course/ontologies-for-business-analysis/?couponCode=PMNVD2525
+- Practical Knowledge Modelling: Ontology Development 101, https://www.udemy.com/course/ontologies-for-business-analysis/?couponCode=PMNVD2525
+ 
 
 
 
