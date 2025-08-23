@@ -1,7 +1,9 @@
 
 
 - AI Data Engineering Roadmap 2025–26, https://medium.com/brilliant-programmer/ai-data-engineering-roadmap-2025-26-60a26c108797
-- 
+- Data Engineering Data Pipeline Standards, https://medium.com/data-engineering-technical-standards-and-best/data-engineering-data-pipeline-standards-226e420da943
+- Data Taxonomies & Ontologies, https://medium.com/i-am-datapedia/data-taxonomies-ontologies-276a4c623067
+
 
 
  - EY : Senior Data Engineer Interview, https://medium.com/@skyescribbles/ey-senior-data-engineer-interview-1405e0d587cc
