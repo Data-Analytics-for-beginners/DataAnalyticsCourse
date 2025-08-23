@@ -2,6 +2,10 @@
 
 
 
+
+
+- Architecture of AI-Driven Systems: What Every Technical Architect Should Know, https://python.plainenglish.io/architecture-of-ai-driven-systems-what-every-technical-architect-should-know-767f5a1fdcd0
+
 ---------------------------------------------------------
 
 - Designing an AI Data Visualization Agent: Key Considerations and System Design, https://medium.com/@cubode/designing-an-ai-data-visualization-agent-key-considerations-and-system-design-05b5ce3cd60f
