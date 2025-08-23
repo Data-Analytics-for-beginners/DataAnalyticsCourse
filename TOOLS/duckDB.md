@@ -7,4 +7,5 @@
  - Can DuckDB Replace Your ETL Pipeline?, https://medium.com/@connect.hashblock/can-duckdb-replace-your-etl-pipeline-adb704287586
  - Why I Ditched SQL Servers for DuckDB, https://medium.com/@ThinkingLoop/why-i-ditched-sql-servers-for-duckdb-7725cc22738f
  - DuckDB vs Postgres: My Analytics Awakening, https://medium.com/@ThinkingLoop/duckdb-vs-postgres-my-analytics-awakening-1a1282bb86c9
+ - 7 DuckDB Power Features That Replace Your ETL Pipeline, https://medium.com/@connect.hashblock/7-duckdb-power-features-that-replace-your-etl-pipeline-6d5b726806ce
  - 
