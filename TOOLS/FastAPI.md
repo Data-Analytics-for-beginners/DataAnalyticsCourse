@@ -9,3 +9,9 @@
 
 -  Why This One FastAPI Trick Made My Entire Codebase Click, https://medium.com/@hadiyolworld007/why-this-one-fastapi-trick-made-my-entire-codebase-click-a54a7571d037
 -  
+
+
+----------------------------------------
+
+- Why I Build Every New Side Project With FastAPI + SQLModel + HTMX, https://medium.com/@hadiyolworld007/why-i-build-every-new-side-project-with-fastapi-sqlmodel-htmx-41f9aaf0cfd9
+- 
