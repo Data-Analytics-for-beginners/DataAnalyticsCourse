@@ -4,7 +4,8 @@
 - Revolutionizing Software Development with Generative AI: Enhancing Efficiency and Productivity, https://medium.com/@genengineerAI/revolutionizing-software-development-with-generative-ai-enhancing-efficiency-and-productivity-04cfa1e52671
 - 
 
-
+- Leave Agentic AI Frameworks And Build Agents From Scratch, https://medium.com/aiguys/leave-agentic-ai-frameworks-and-build-agents-from-scratch-0a45d1656513
+- 
 
 - Building Next-Gen AI Agents Part 2: Enhancing LLM & RAG Intelligence with Dense Vector Embeddings, https://blog.stackademic.com/building-next-gen-ai-agents-part-2-enhancing-llm-rag-intelligence-with-dense-vectors-4e4c2bb8b281
 - Next-Gen AI Agents Part 4: The Unified AI Observability Stack That Redefines Monitoring, https://blog.stackademic.com/next-gen-ai-agents-part-4-the-unified-ai-observability-stack-that-redefines-monitoring-46e6322d0eb3
