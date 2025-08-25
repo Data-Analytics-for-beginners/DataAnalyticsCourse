@@ -15,3 +15,9 @@
 
 - Why I Build Every New Side Project With FastAPI + SQLModel + HTMX, https://medium.com/@hadiyolworld007/why-i-build-every-new-side-project-with-fastapi-sqlmodel-htmx-41f9aaf0cfd9
 - 
+
+
+----------------------
+
+- DIY JWT Authentication in FastAPI Using Only Python, https://leapcell.medium.com/diy-jwt-authentication-in-fastapi-using-only-python-5dd039c3cbee
+- 
