@@ -583,7 +583,13 @@ print(bmi)  # Виведе: 23.157829031553323
 - The Data Analyst Playbook: From SQL Queries to C-Suite Storytelling, https://medium.com/@hmnshudhmn24/the-data-analyst-playbook-from-sql-queries-to-c-suite-storytelling-6a1a8a48f4fd
 - 
   
-  
+
+# TRADE
+- How To ACTUALLY Day-Trade Profitably (For Beginners), https://medium.datadriveninvestor.com/how-to-actually-day-trade-profitably-for-beginners-b760f2ede3e1
+- 
+
+
+
 
 # Analytic Hierarchy Process
 
