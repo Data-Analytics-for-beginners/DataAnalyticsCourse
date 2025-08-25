@@ -156,5 +156,7 @@ data = fetch_and_cache("AAPL")
 
 # ПОСИЛАННЯ:
 - Learn FastAPI with a Full-Stack Project: Movie Recommendation, https://medium.com/data-science-collective/learn-fastapi-with-a-full-stack-project-movie-recommendation-71df04317bfd
+- API Protocols Explained: When to Use HTTP, WebSockets, gRPC & More, https://levelup.gitconnected.com/api-protocols-explained-when-to-use-http-websockets-grpc-more-bea2132741bb
+- 
 
 
