@@ -3,6 +3,8 @@
 - AI Data Engineering Roadmap 2025–26, https://medium.com/brilliant-programmer/ai-data-engineering-roadmap-2025-26-60a26c108797
 - Data Engineering Data Pipeline Standards, https://medium.com/data-engineering-technical-standards-and-best/data-engineering-data-pipeline-standards-226e420da943
 - Data Taxonomies & Ontologies, https://medium.com/i-am-datapedia/data-taxonomies-ontologies-276a4c623067
+- Data Engineering Was Hard Until I Learned These 15 System Design Concepts, https://medium.com/@akanksha_singh/data-engineering-was-hard-until-i-learned-these-15-system-design-concepts-8a56f21f1070
+- 
 
 
 
