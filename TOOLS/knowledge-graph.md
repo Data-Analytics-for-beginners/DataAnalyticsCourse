@@ -4,7 +4,7 @@
 
 
 - The Role of Knowledge Graphs in Healthcare, https://medium.com/@adnanmasood/the-role-of-knowledge-graphs-in-healthcare-7109a8c33122
-- 
+- From Legal Documents to Knowledge Graphs, https://medium.com/neo4j/from-legal-documents-to-knowledge-graphs-ccd9cb062320
 
 
 -------------------------------------------------------------------------------------
