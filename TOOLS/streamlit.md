@@ -3,6 +3,7 @@
 
 - Wait, This Was Built in Streamlit? — 10 Best Streamlit Design Tips for Dashboards,https://medium.com/data-science-collective/wait-this-was-built-in-streamlit-10-best-streamlit-design-tips-for-dashboards-2b0f50067622
 - From DataFrame to Dashboard in 15 Minutes Flat, https://medium.com/@hadiyolworld007/from-dataframe-to-dashboard-in-15-minutes-flat-a48e33b0ec4c
+- My Template for Streamlit Dashboards That Don’t Break Under Load, https://medium.com/@hadiyolworld007/my-template-for-streamlit-dashboards-that-dont-break-under-load-a6b9109445de
 - 
 
 ------------------------------------------------------------------------------------------------------------------------
