@@ -566,6 +566,13 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+# Economic Value
+ - Economic Value from Analytics, https://medium.com/@eric-sandosham/economic-value-from-analytics-9ee7159e86a7
+ - 
+
+# Data Literacy
+- Revisiting Data Literacy, https://medium.com/@eric-sandosham/revisiting-data-literacy-880c71c59cce
+- 
 
 
 # DATA TRENDS
@@ -780,6 +787,17 @@ print(bmi)  # Виведе: 23.157829031553323
 - Python Statistical Analysis: A Comprehensive Comparison, https://medium.com/@shouke.wei/python-statistical-analysis-a-comprehensive-comparison-ab6286693219
 - A library in Python which helps you with hypothesis and statistical models, https://medium.com/top-python-libraries/a-library-in-python-which-helps-you-with-hypothesis-and-statistical-models-cb88b714830e
 - Essential Statistics for Data and BI Analysts: A Comprehensive Guide to the Fundamentals That Drive Insightful Analytics, https://medium.com/microsoft-power-bi/essential-statistics-for-data-and-bi-analysts-a-comprehensive-guide-to-the-fundamentals-that-drive-5178520eda1a
+- Hypothesis Testing in Statistics, https://medium.com/@info.codetitan/hypothesis-testing-in-statistics-9b64db8266c0
+- Learn statistics with Python: Correlation and regression analysis, https://medium.com/@tracyrenee61/learn-statistics-with-python-correlation-and-regression-analysis-4d7ee4a9cb66
+- Learn statistics with Python: Time Series Analysis in Statistics, https://medium.com/@tracyrenee61/learn-statistics-with-python-time-series-analysis-in-statistics-53f2a7467f57
+- Learn statistics with Python: Distributions used in hypothesis testing, https://medium.com/@tracyrenee61/learn-statistics-with-python-distributions-used-in-hypothesis-testing-87ea3a426aba
+- Statistics interview question: How does the distribution of the mean depend on distribution of data?, https://medium.com/@tracyrenee61/statistics-interview-question-how-does-the-distribution-of-the-mean-depend-on-distribution-of-data-5b74cb786850
+- Learn statistics with Python: Estimation, https://medium.com/@tracyrenee61/learn-statistics-with-python-estimation-4b0f4561ba36
+- Learn statistics with Python: Non-parametric tests, https://medium.com/@tracyrenee61/learn-statistics-with-python-non-parametric-tests-73116b504590
+- Learn statistics with Python: A/B testing, https://medium.com/@tracyrenee61/learn-statistics-with-python-a-b-testing-9259037cacc4
+- Learn hypothesis testing with Python: Charts, https://medium.com/@tracyrenee61/learn-hypothesis-testing-with-python-charts-b3538f372814
+- Learn statistics with Python: Experimental design, https://medium.com/@tracyrenee61/learn-statistics-with-python-experimental-design-333a8bc070df
+- Learn statistics with Python: Hypothesis testing as it relates to distributions, https://medium.com/@tracyrenee61/learn-statisticsc-with-python-hypothesis-testing-as-it-relates-to-distributions-338fa804cc4d
   
 
 # PCA
