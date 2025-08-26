@@ -768,6 +768,11 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 
 # ПОСИЛАННЯ
 
+
+- Identifying and Prioritizing Artificial Intelligence Use Cases for Business Value Creation, https://medium.com/@adnanmasood/identifying-and-prioritizing-artificial-intelligence-use-cases-for-business-value-creation-1042af6c4f93
+- The Complete Guide to Becoming an AI Product Manager in 2025, https://medium.com/@aakashgupta/the-complete-guide-to-becoming-an-ai-product-manager-in-2025-a52d5aa5a386
+- 
+
 - Enterprise AI Strategy: AI Automation Playbook, https://ai.gopubby.com/enterprise-ai-strategy-ai-automation-playbook-d5d54efcbb77
 - Enterprise AI Strategy: AI Agents vs AI Models, https://ai.gopubby.com/enterprise-ai-strategy-ai-agents-vs-ai-models-f92fa1a22823
 - Enterprise AI Strategy: What the Industry Is Missing, https://ai.gopubby.com/enterprise-ai-strategy-what-the-industry-is-missing-25a17202e3b7
@@ -823,4 +828,5 @@ AI Coding DEVLOG: Claude Code has CHANGED Software Engineering, https://www.yout
 - 
 
 - Generative AI with LangChain: Introduction (Part 1), https://medium.com/the-advanced-school-of-ai/generative-ai-with-langchain-introduction-part-1-881a872a7644
+- The Hard-Earned Lessons from Building AI Data Systems That Actually Work, https://medium.com/@aminsiddique95/the-hard-earned-lessons-from-building-ai-data-systems-that-actually-work-fce444dbdbd3
 - 
