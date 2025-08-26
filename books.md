@@ -8,6 +8,7 @@
  - Complete Tutorial: Set-up PostgreSQL Database with Django Application, https://medium.com/django-unleashed/complete-tutorial-set-up-postgresql-database-with-django-application-d9e789ffa384
  - Deploy Django App for Free — Latest Hacks (2025 Edition), https://medium.com/pyzilla/deploy-django-app-for-free-latest-hacks-2025-edition-c0522ea7ba84
  - Complete Tutorial: Set-up PostgreSQL Database with Django Application, https://medium.com/django-unleashed/complete-tutorial-set-up-postgresql-database-with-django-application-d9e789ffa384
+ - Top-Rated Power BI Books And Materials Every Analyst Should Read in 2025, https://medium.com/microsoft-power-bi/top-rated-power-bi-books-and-materials-every-analyst-should-read-in-2025-02c3bc24f683
    
 
 
