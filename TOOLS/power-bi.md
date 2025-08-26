@@ -1,5 +1,6 @@
 
 
+- Top-Rated Power BI Books And Materials Every Analyst Should Read in 2025, https://medium.com/microsoft-power-bi/top-rated-power-bi-books-and-materials-every-analyst-should-read-in-2025-02c3bc24f683
 - New Power BI Style Presets, https://medium.com/the-bi-corner/new-power-bi-style-presets-75374036b5d9
 - 20 DAX Queries That Saved My Power BI (and Sanity), https://analystuttam.medium.com/20-dax-queries-that-saved-my-power-bi-and-sanity-247af3144a80
 - Create a Descriptive KPI Infographics in Power BI, https://medium.com/microsoft-power-bi/create-a-descriptive-kpi-infographics-in-power-bi-01a146aa25b6
