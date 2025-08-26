@@ -778,7 +778,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - How to Handle Skewed Data: A Guide for Data Scientists, https://medium.com/gopenai/how-to-handle-skewed-data-a-guide-for-data-scientists-84187ba7f805
 - Python Statistical Analysis: A Comprehensive Comparison, https://medium.com/@shouke.wei/python-statistical-analysis-a-comprehensive-comparison-ab6286693219
 - A library in Python which helps you with hypothesis and statistical models, https://medium.com/top-python-libraries/a-library-in-python-which-helps-you-with-hypothesis-and-statistical-models-cb88b714830e
-- 
+- Essential Statistics for Data and BI Analysts: A Comprehensive Guide to the Fundamentals That Drive Insightful Analytics, https://medium.com/microsoft-power-bi/essential-statistics-for-data-and-bi-analysts-a-comprehensive-guide-to-the-fundamentals-that-drive-5178520eda1a
+  
 
 # PCA
 - What are PCA Loadings, and How To Effectively Use Biplots?, https://medium.com/data-science-collective/pca-fb6ea1208bda
