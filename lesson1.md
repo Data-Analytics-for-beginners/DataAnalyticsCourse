@@ -750,6 +750,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - 🐼 Pandas Made Easy: The Data Workflow I Wish I Knew Earlier, https://medium.com/@hadiyolworld007/pandas-made-easy-the-data-workflow-i-wish-i-knew-earlier-5754064eb6b6
 - 10 Pandas Tricks Every Analyst Should Know, https://medium.com/@connect.hashblock/10-pandas-tricks-every-analyst-should-know-5cac9f544625
 - 10 Essential Statistics Every Data Scientist Needs, https://medium.com/data-science-collective/10-essential-statistics-every-data-scientist-needs-ffcd74d7448a
+- 7 Pandas Alternatives That Outperform in 2025, https://medium.com/@connect.hashblock/7-pandas-alternatives-that-outperform-in-2025-c3472a7fe3cd
 - 
 
 
