@@ -10,5 +10,6 @@
  7) Getting Started with Cursor AI, https://medium.com/@niall.mcnulty/getting-started-with-cursor-ai-86c1add6d701
  8) Vibe Coding, https://medium.com/@niall.mcnulty/vibe-coding-b79a6d3f0caa
  9) How to Use AI as a Writing Coach, https://medium.com/@niall.mcnulty/how-to-use-ai-to-write-better-a72d91ccba45
- 10) 
+ 10) Beyond the Vibe: A Deep Dive into the Dangers of Vibe Coding, Lessons from the Tea App Incident, and a Framework for Resilient Software Development, https://medium.com/@adnanmasood/beyond-the-vibe-a-deep-dive-into-the-dangers-of-vibe-coding-lessons-from-the-tea-app-incident-cea9fd2d1fa0
+ 11) 
  
