@@ -11,5 +11,7 @@
  8) Vibe Coding, https://medium.com/@niall.mcnulty/vibe-coding-b79a6d3f0caa
  9) How to Use AI as a Writing Coach, https://medium.com/@niall.mcnulty/how-to-use-ai-to-write-better-a72d91ccba45
  10) Beyond the Vibe: A Deep Dive into the Dangers of Vibe Coding, Lessons from the Tea App Incident, and a Framework for Resilient Software Development, https://medium.com/@adnanmasood/beyond-the-vibe-a-deep-dive-into-the-dangers-of-vibe-coding-lessons-from-the-tea-app-incident-cea9fd2d1fa0
- 11) 
+ 11) Vibe Coding (Agentic Coding) — My experiences (1/2), https://medium.com/@abvijaykumar/vibe-coding-agentic-coding-my-experiences-26135ce2c2f3
+ 12) Vibe Coding (Agentic Coding) — MCP powers the Vibe (2/2), https://medium.com/@abvijaykumar/vibe-coding-agentic-coding-mcp-powers-the-vibe-2-2-167bf65cad1d
+ 13) 
  
