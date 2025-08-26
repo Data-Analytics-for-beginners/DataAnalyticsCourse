@@ -18,4 +18,4 @@
 - Power BI Project — HR Dashboard, https://medium.com/@alihanemretunc/power-bi-project-hr-dashboard-b3b5f264a604
 - Building a Correlation Matrix in Power BI: When Native Solutions Don’t Exist, We Create Them, https://medium.com/@ankan.ab21/building-a-correlation-matrix-in-power-bi-when-native-solutions-dont-exist-we-create-them-6bcdd21ae0a6
 - My First Power BI Dashboard: Lessons Learned and Challenges Faced, https://medium.com/@ecemgunay.02/my-first-power-bi-dashboard-lessons-learned-and-challenges-faced-bae431af21e0
--  
+-  Power BI Magic: Turn Your KPI/Metric Cards into Interactive Slicers! (PBIX Included), https://medium.com/microsoft-power-bi/power-bi-magic-turn-your-kpi-metric-cards-into-interactive-slicers-pbix-included-b263f3442f5c
