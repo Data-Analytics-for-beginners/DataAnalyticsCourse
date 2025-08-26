@@ -10,6 +10,8 @@
  - Complete Tutorial: Set-up PostgreSQL Database with Django Application, https://medium.com/django-unleashed/complete-tutorial-set-up-postgresql-database-with-django-application-d9e789ffa384
  - Top-Rated Power BI Books And Materials Every Analyst Should Read in 2025, https://medium.com/microsoft-power-bi/top-rated-power-bi-books-and-materials-every-analyst-should-read-in-2025-02c3bc24f683
  - Stop Doing Random Data Courses — Read These Books Instead, https://medium.com/@aakash_7/stop-doing-random-data-courses-read-these-books-instead-3ccbebbada9a
+ - 9 Books Every AI Engineer Should Read (To Go Fully Professional), https://medium.com/@joe.njenga/9-books-every-ai-engineer-should-read-to-go-fully-professional-e69d7e55cd50
+ - 
    
 
 
