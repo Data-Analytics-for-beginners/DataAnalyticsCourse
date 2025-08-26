@@ -84,3 +84,7 @@
 - How to Become a Data Engineer in 3 Months: Actionable Steps & Projects, https://medium.com/@vijaygadhave2014/how-to-become-a-data-engineer-in-3-months-actionable-steps-projects-0080f09241dc
 - How I Transitioned from Data Analyst to Data Engineer, https://medium.com/@jha-avinash/how-i-transitioned-from-data-analyst-to-data-engineer-e23adea02532
 - 
+
+
+- The Complete Guide to Setting Up Azure Databricks: From Zero to Production-Ready in 2025, https://medium.com/endtoenddata/the-complete-guide-to-setting-up-azure-databricks-from-zero-to-production-ready-in-2025-49d382cf4ba7
+- 
