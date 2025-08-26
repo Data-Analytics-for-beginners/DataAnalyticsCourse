@@ -798,6 +798,11 @@ print(bmi)  # Виведе: 23.157829031553323
 - Learn hypothesis testing with Python: Charts, https://medium.com/@tracyrenee61/learn-hypothesis-testing-with-python-charts-b3538f372814
 - Learn statistics with Python: Experimental design, https://medium.com/@tracyrenee61/learn-statistics-with-python-experimental-design-333a8bc070df
 - Learn statistics with Python: Hypothesis testing as it relates to distributions, https://medium.com/@tracyrenee61/learn-statisticsc-with-python-hypothesis-testing-as-it-relates-to-distributions-338fa804cc4d
+- Learn statistics with Python: Probability, https://medium.com/@tracyrenee61/learn-statistics-with-python-probability-2b44617e58d2
+- Learn statistics with Python: Visualisation, https://medium.com/@tracyrenee61/learn-statistics-with-python-visualisation-7e5b44e3360f
+- 7 Practical Guidelines for Accurate Statistical Model Building, https://medium.com/@kgm_52135/7-practical-guidelines-for-accurate-statistical-model-building-634ba60e0083
+- Bootstrapping in Data Analysis: A Powerful Resampling Technique, https://medium.com/@data-overload/bootstrapping-in-data-analysis-a-powerful-resampling-technique-6f4c071912b5
+- 
   
 
 # PCA
