@@ -741,6 +741,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Python: Key Concepts Explained with Data Science Examples, https://medium.com/@ryassminh/python-key-concepts-explained-with-data-science-examples-5c132cd645a2
 -  Top Python Libraries for Data Analysis and Visualization in 2025, https://medium.com/@shouke.wei/top-python-libraries-for-data-analysis-and-visualization-in-2025-bebfd95c36b1
 -  Python Watchdog: Complete Guide and Advanced Use Cases, https://medium.com/@shouke.wei/python-watchdog-complete-guide-and-advanced-use-cases-56734e4a3ca6
+-  Anaconda vs. uv: Which Python Environment Tool Should You Use?, https://medium.com/algomart/anaconda-vs-uv-which-python-environment-tool-should-you-use-38b041215a06
+-  
 
 
 # Pandas
