@@ -3,6 +3,18 @@
 
 
 - Exploring 500+ Innovative AI Agent Use Cases That Will Transform Industries by 2025 and Beyond, https://medium.com/@anirbanmukherjee1311/exploring-500-innovative-ai-agent-use-cases-that-will-transform-industries-by-2025-and-beyond-994c8f33f799
+- Mastering Agentic RAG: A Practical Guide for AI Engineers, https://medium.com/@nomannayeem/mastering-agentic-rag-a-practical-guide-for-ai-engineers-dd27790a3432
+- Building an Agentic GraphRAG System with LangGraph and Neo4j, https://medium.com/ai-in-plain-english/building-a-graphrag-multi-agent-system-with-langgraph-and-neo4j-08fc2e2cb64c
+- You Can Build Better AI Agents in Java Than Python, https://medium.com/@springrod/you-can-build-better-ai-agents-in-java-than-python-868eaf008493
+- On Memory: Why AI Agents Risk Forgetting What Business Already Knows, https://medium.com/@springrod/on-memory-why-ai-agents-risk-forgetting-what-business-already-knows-51b2c902e91c
+- Building Reliable Agentic Systems: Part I, https://medium.com/@springrod/building-reliable-agentic-systems-part-i-b056d5b59392
+- Building Agents with Embabel: A Hands-On Introduction, https://medium.com/@jettro.coenradie/building-agents-with-embabel-a-hands-on-introduction-4f96d2edeac0
+- Secure Agents with Semantic Kernel, OAuth, and OpenAPI, https://medium.com/@jettro.coenradie/secure-agents-with-semantic-kernel-oauth-and-openapi-64a8f441d3e8
+- Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps!, https://medium.com/data-science-collective/create-multi-agent-system-with-microsofts-azure-ai-agent-service-and-semantic-kernel-framework-in-a6c68b123e54
+- Step by Step Guide on Building Agentic RAG with Microsoft Semantic Kernel and Azure AI Search, https://medium.com/data-science-collective/step-by-step-guide-on-building-agentic-rag-with-microsoft-semantic-kernel-and-azure-ai-search-3dcee5bf38ba
+- Introducing Azure AI Foundry — Everything you need for AI development, https://medium.com/@officegarageitpro/introducing-azure-ai-foundry-everything-you-need-for-ai-development-eb06944440bb
+- Build autonomous agents in Copilot Studio, https://medium.com/@officegarageitpro/build-autonomous-agents-in-copilot-studio-34b0a2c2861d
+- Using Azure AI Foundry SDK for your AI apps and agents, https://medium.com/@officegarageitpro/using-azure-ai-foundry-sdk-for-your-ai-apps-and-agents-1bc1b953edb9
 - 
 
 
