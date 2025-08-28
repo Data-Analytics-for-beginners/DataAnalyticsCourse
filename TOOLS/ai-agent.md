@@ -2,6 +2,10 @@
 
 
 
+- AI Agents with n8n: 10+ Automation Ideas Roadmap, https://techwithram.medium.com/ai-agents-with-n8n-10-automation-ideas-roadmap-8ed98e21a6b9
+- 5 GitHub Repositories to Master AI Engineering, https://techwithram.medium.com/5-github-repositories-to-master-ai-engineering-040aab0d29a5
+- Building a Team of AI Agents in n8n, https://pub.towardsai.net/building-a-team-of-ai-agents-in-n8n-a3b988500dd2
+- 
 - Exploring 500+ Innovative AI Agent Use Cases That Will Transform Industries by 2025 and Beyond, https://medium.com/@anirbanmukherjee1311/exploring-500-innovative-ai-agent-use-cases-that-will-transform-industries-by-2025-and-beyond-994c8f33f799
 - Mastering Agentic RAG: A Practical Guide for AI Engineers, https://medium.com/@nomannayeem/mastering-agentic-rag-a-practical-guide-for-ai-engineers-dd27790a3432
 - Building an Agentic GraphRAG System with LangGraph and Neo4j, https://medium.com/ai-in-plain-english/building-a-graphrag-multi-agent-system-with-langgraph-and-neo4j-08fc2e2cb64c
