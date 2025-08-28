@@ -28,4 +28,4 @@
 --------------------------------------------
 
 - Building Real-Time Dashboards with Pandas and Streamlit at Scale,  https://medium.com/@hadiyolworld007/building-real-time-dashboards-with-pandas-and-streamlit-at-scale-479734a7e2b2
-- 
+- I Built Everything in Streamlit Until It Broke Me, https://python.plainenglish.io/i-built-everything-in-streamlit-until-it-broke-me-d0f54fa43d62
