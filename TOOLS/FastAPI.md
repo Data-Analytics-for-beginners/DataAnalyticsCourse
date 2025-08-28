@@ -1,5 +1,6 @@
 
 
+- Flask vs Django vs FastAPI, https://python.plainenglish.io/flask-vs-django-vs-fastapi-61644d1860eb
 - Why FastAPI Is the Framework Every Python Developer Should Learn, https://medium.com/@hadiyolworld007/why-fastapi-is-the-framework-every-python-developer-should-learn-05de24115b5e
 - This FastAPI Pattern Finally Made My Backend Feel Clean, https://medium.com/@hadiyolworld007/this-fastapi-pattern-finally-made-my-backend-feel-clean-21114fc2e2a9
 - FastAPI Crash Course: Build and Deploy a Modern Python API in 30 Minutes, https://medium.com/@hadiyolworld007/fastapi-crash-course-build-and-deploy-a-modern-python-api-in-30-minutes-6359ac9d48ec
@@ -20,4 +21,5 @@
 ----------------------
 
 - DIY JWT Authentication in FastAPI Using Only Python, https://leapcell.medium.com/diy-jwt-authentication-in-fastapi-using-only-python-5dd039c3cbee
+- Real-Time Features in FastAPI: WebSockets, Event Streaming, and Push Notifications, https://python.plainenglish.io/real-time-features-in-fastapi-websockets-event-streaming-and-push-notifications-fec79a0a6812
 - 
