@@ -802,8 +802,20 @@ print(bmi)  # Виведе: 23.157829031553323
 - Learn statistics with Python: Visualisation, https://medium.com/@tracyrenee61/learn-statistics-with-python-visualisation-7e5b44e3360f
 - 7 Practical Guidelines for Accurate Statistical Model Building, https://medium.com/@kgm_52135/7-practical-guidelines-for-accurate-statistical-model-building-634ba60e0083
 - Bootstrapping in Data Analysis: A Powerful Resampling Technique, https://medium.com/@data-overload/bootstrapping-in-data-analysis-a-powerful-resampling-technique-6f4c071912b5
+- Linear Regression Explained: From Theory to Real-World Implementation, https://mohith-g.medium.com/linear-regression-explained-from-theory-to-real-world-implementation-45b43faed743
+- A Hands-On Look At Bayesian Inference, https://mohith-g.medium.com/a-hands-on-look-at-bayesian-inference-e169d6353ab1
+- Advanced Correlation Analysis Heatmap Plotting — Creating a Correlation Heatmap with Square Areas in Python, https://medium.com/top-python-libraries/advanced-correlation-analysis-heatmap-plotting-creating-a-correlation-heatmap-with-square-areas-c8b9e045d75a
 - 
   
+# MATHS
+- An Introduction to Combinatorics, https://maninbocss.medium.com/an-introduction-to-combinatorics-2e2d6f379611
+- The Fundamental Theorem of Calculus, https://maninbocss.medium.com/the-fundamental-theorem-of-calculus-30ac41807158
+- Calculus Cheat Sheet (Derivatives), https://maninbocss.medium.com/calculus-cheat-sheet-derivatives-1f59028529c4
+- Probability and Combinatorics, https://maninbocss.medium.com/probability-and-combinatorics-7df5efd33840
+- Algebra Cheat Sheet, https://maninbocss.medium.com/algebra-cheat-sheet-d675fa5a23e9
+- The Fundamental Theorem of Calculus, https://maninbocss.medium.com/the-fundamental-theorem-of-calculus-30ac41807158
+
+
 
 # PCA
 - What are PCA Loadings, and How To Effectively Use Biplots?, https://medium.com/data-science-collective/pca-fb6ea1208bda
