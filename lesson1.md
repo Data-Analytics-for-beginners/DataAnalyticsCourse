@@ -777,6 +777,9 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 # STATISTICS
+- Learn Statistics with Python: What is statistics?, https://tracyrenee61.medium.com/learn-statistics-with-python-what-is-statistics-99970b8b7056
+- Learn statistics with Python: Descriptive statistics, https://tracyrenee61.medium.com/learn-statistics-with-python-descriptive-statistics-cfde5b70e471
+  
 - Statistics Interview Question: What is the mean and standard deviation of the binomial distribution?, https://medium.com/@tracyrenee61/statistics-interview-question-what-is-the-mean-and-standard-deviation-of-the-binomial-distribution-97ba235f5094
 - How to identify outliers of your data? (With Python codes), https://medium.com/top-python-libraries/how-to-identify-outliers-of-your-data-with-python-codes-d7e6e58f301d
 - The Ultimate Guide to Seaborn Plots: A Step-by-Step Tutorial with Examples, https://medium.com/stackademic/the-ultimate-guide-to-seaborn-plots-a-step-by-step-tutorial-with-examples-527350003e1d
@@ -806,7 +809,28 @@ print(bmi)  # Виведе: 23.157829031553323
 - A Hands-On Look At Bayesian Inference, https://mohith-g.medium.com/a-hands-on-look-at-bayesian-inference-e169d6353ab1
 - Advanced Correlation Analysis Heatmap Plotting — Creating a Correlation Heatmap with Square Areas in Python, https://medium.com/top-python-libraries/advanced-correlation-analysis-heatmap-plotting-creating-a-correlation-heatmap-with-square-areas-c8b9e045d75a
 - 
+
+
+# Time Series Analysis in Statistics
+- Time Series Analysis in Statistics, https://tracyrenee61.medium.com/time-series-analysis-in-statistics-5a85eaf5a9a9
+
+# HYPOTHESIS TESTING
+
+- Learn hypothesis testing with Python: Measures of central tendency, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-measures-of-central-tendency-d417ba471384
+- Learn hypothesis testing with Python: Probability distributions, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-probability-distributions-e903bab3fe5f
+- Learn hypothesis testing with Python: Poisson distribution practice problems, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-poisson-distribution-practice-problems-2a817637ba59
+- Learn Statistics with Python: What is statistics?, https://tracyrenee61.medium.com/learn-statistics-with-python-what-is-statistics-99970b8b7056
+- Learn statistics with Python: Descriptive statistics, https://tracyrenee61.medium.com/learn-statistics-with-python-descriptive-statistics-cfde5b70e471
+- Learn hypothesis testing with Python: Central limit theorem, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-central-limit-theorem-d198525cf4c0
+- Learn hypothesis testing with Python: t distribution practice problems, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-t-distribution-practice-problems-0d9ecbb85aaa
+- Learn hypothesis testing with Python: Probability theory, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-probability-theory-b643b1114033
+- Learn hypothesis testing with Python: Confidence intervals, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-confidence-intervals-7b1f2bf1afaa
+- Learn hypothesis testing with Python: Hypothesis tests, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-hypothesis-tests-3af342f1f03f
+- 
   
+
+
+
 # MATHS
 - An Introduction to Combinatorics, https://maninbocss.medium.com/an-introduction-to-combinatorics-2e2d6f379611
 - The Fundamental Theorem of Calculus, https://maninbocss.medium.com/the-fundamental-theorem-of-calculus-30ac41807158
