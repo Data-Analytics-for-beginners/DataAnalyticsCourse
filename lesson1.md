@@ -759,6 +759,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - 10 Pandas Tricks Every Analyst Should Know, https://medium.com/@connect.hashblock/10-pandas-tricks-every-analyst-should-know-5cac9f544625
 - 10 Essential Statistics Every Data Scientist Needs, https://medium.com/data-science-collective/10-essential-statistics-every-data-scientist-needs-ffcd74d7448a
 - 7 Pandas Alternatives That Outperform in 2025, https://medium.com/@connect.hashblock/7-pandas-alternatives-that-outperform-in-2025-c3472a7fe3cd
+- Practical Techniques for Parsing and Extracting Complex Data with Python Pandas, https://medium.com/@tubelwj/practical-techniques-for-parsing-and-extracting-complex-data-with-python-pandas-0fcd36485fda
 - 
 
 
@@ -811,6 +812,14 @@ print(bmi)  # Виведе: 23.157829031553323
 - 
 
 
+# ANOMALY DTECTION
+- Anomaly Detection in Cybersecurity, https://infosecwriteups.com/anomaly-detection-for-cybersecurity-c0d6806395f7
+- A Beginner’s Guide to Anomaly Detection, https://medium.com/data-science-collective/a-beginners-guide-to-anomaly-detection-cdebe88fc985
+- Anomaly Detection: A Comprehensive Guide, https://medium.com/@alok05/anomaly-detection-a-comprehensive-guide-9d4d7e320242
+- Types of Anomalies in Data: Rule-Based, Value-Based, and Sequence-Based, https://medium.com/@injure21/anomaly-type-b09341ab9a5a
+- Time Series Anomaly Detection with ARIMA, https://medium.com/@injure21/time-series-anomaly-detection-with-arima-551a91d10fe4
+
+
 # Time Series Analysis in Statistics
 - Time Series Analysis in Statistics, https://tracyrenee61.medium.com/time-series-analysis-in-statistics-5a85eaf5a9a9
 
@@ -826,7 +835,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Learn hypothesis testing with Python: Probability theory, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-probability-theory-b643b1114033
 - Learn hypothesis testing with Python: Confidence intervals, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-confidence-intervals-7b1f2bf1afaa
 - Learn hypothesis testing with Python: Hypothesis tests, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-hypothesis-tests-3af342f1f03f
-- 
+- P-Values for Humans: The ‘Surprise Meter’ That Actually Makes Sense, https://medium.com/data-science-collective/p-values-for-humans-the-surprise-meter-that-actually-makes-sense-85ab4a60029f
   
 
 
@@ -854,7 +863,10 @@ print(bmi)  # Виведе: 23.157829031553323
 - Lessons from the Titanic Kaggle Dataset (Part 1): Aggresive Data Cleaning Isn’t Always Improve Model Accuracy, https://medium.com/@fcel2510/lessons-from-the-titanic-kaggle-dataset-part-1-aggresive-data-cleaning-isnt-always-improve-d41078311db2
 - My End-to-End ML Pipeline Using Scikit-Learn, Pandas, and MLflow, https://medium.com/@connect.hashblock/my-end-to-end-ml-pipeline-using-scikit-learn-pandas-and-mlflow-41bdfa7e8e96
 - The Full Picture: A Guide to Loss Functions and Evaluation Metrics for Classification, https://medium.com/@inkollusrivarsha0287/the-full-picture-a-guide-to-loss-functions-and-evaluation-metrics-for-classification-c0ecbe44d35f
-- 
+- Data Preprocessing in Machine Learning: Turning Messy Data into Magic, https://medium.com/@kilaparthidurgabhavani/data-preprocessing-in-machine-learning-turning-messy-data-into-magic-f69118043c2d
+- Understanding Confusion Matrix and Evaluation Metrics in Classification Problems, https://medium.com/@debisreer/understanding-confusion-matrix-and-evaluation-metrics-in-classification-problems-efbd1fb57ecf
+- Bias, Variance, Underfitting, and Overfitting: A Clear Guide with Intuition and Code, https://medium.com/@debisreer/bias-variance-underfitting-and-overfitting-a-clear-guide-with-intuition-and-code-d1c61829ef38
+- A Comprehensive Guide to All Classification Metrics, https://medium.com/data-science-collective/a-comprehensive-guide-to-all-classification-metrics-073610bbb8e6
 
 
 # K-MEANS
@@ -872,6 +884,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Outlier Detection: A Comprehensive Guide, https://medium.com/@DS_Rohan/outlier-detection-a-comprehensive-guide-a2044e7e0f10
 - Anomaly Detection in Bitcoin Prices Using Z-Score and Python, https://medium.com/@ecemgunay.02/anomaly-detection-in-bitcoin-prices-using-z-score-and-python-4cf22989112a
 - Machine Learning & Anomaly Detection, https://medium.com/@berkaykoseoglu833/machine-learning-anomaly-detection-0140bae02dd1
+- Python Outlier Detection: IQR Method and Z-score Implementation, https://medium.com/@tubelwj/python-outlier-detection-iqr-method-and-z-score-implementation-8e825edf4b32
 
 # EDA
 - A Beginner’s EDA with Python, https://medium.com/@DS_Rohan/a-beginners-eda-with-python-4fa64eb86ced
@@ -948,6 +961,12 @@ print(bmi)  # Виведе: 23.157829031553323
 - Python How-To: Better Data Storytelling In A Flash With PyNarrative, https://medium.com/data-storytelling-corner/python-how-to-better-data-storytelling-in-a-flash-with-pynarrative-feef0babff48
 - Practical Python Dashboards: The Best 5 Frameworks For Interactive Maps, https://medium.com/data-science-collective/practical-python-dashboards-the-best-5-frameworks-for-interactive-maps-0834ca7f0637
 - Deploy a Python Dashboard to GitHub Pages with Marimo — No Backend, All Free, https://bury-thomas.medium.com/deploy-a-python-dashboard-to-github-pages-with-marimo-no-backend-all-free-7bda3acee3ef
+- 
+
+
+# ML
+
+- How to Explain a Machine Learning Model Without the Math, https://medium.com/data-science-collective/how-to-explain-a-machine-learning-model-without-the-math-82d4d0fdd90d
 - 
 
 # Unsupervised Learning
