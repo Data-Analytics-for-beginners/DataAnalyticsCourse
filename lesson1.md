@@ -814,6 +814,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - Probability and Combinatorics, https://maninbocss.medium.com/probability-and-combinatorics-7df5efd33840
 - Algebra Cheat Sheet, https://maninbocss.medium.com/algebra-cheat-sheet-d675fa5a23e9
 - The Fundamental Theorem of Calculus, https://maninbocss.medium.com/the-fundamental-theorem-of-calculus-30ac41807158
+- Mathematics Education Is Mostly Marketing Of An Inferior Product, https://sunilsingh-42118.medium.com/mathematics-education-is-mostly-marketing-of-an-inferior-product-1e5c96861cf6
+- Entropy: A measure of information, https://medium.com/mathphye/entropy-a-measure-of-information-087dd174eed9
 
 
 
