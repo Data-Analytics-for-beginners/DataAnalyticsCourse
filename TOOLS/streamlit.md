@@ -1,5 +1,9 @@
 
 
+- Build Beautiful Web Apps in Minutes: The Complete Streamlit Guide, https://medium.com/@shouke.wei/build-beautiful-web-apps-in-minutes-the-complete-streamlit-guide-51f26d69be0f
+- 📊 Real-Time Dashboards with watchdog and streamlit_autorefresh, https://medium.com/@shouke.wei/real-time-dashboards-with-watchdog-and-streamlit-autorefresh-73f138581d75
+- 
+
 
 - Wait, This Was Built in Streamlit? — 10 Best Streamlit Design Tips for Dashboards,https://medium.com/data-science-collective/wait-this-was-built-in-streamlit-10-best-streamlit-design-tips-for-dashboards-2b0f50067622
 - From DataFrame to Dashboard in 15 Minutes Flat, https://medium.com/@hadiyolworld007/from-dataframe-to-dashboard-in-15-minutes-flat-a48e33b0ec4c
