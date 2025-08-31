@@ -1,6 +1,8 @@
 
 - How Agentic AI is Transforming Data Science: Use Cases, Important Skills & Future Prospects, https://medium.com/@byanalytixlabs/how-agentic-ai-is-transforming-data-science-use-cases-important-skills-future-prospects-3bbd3cb66345
-- 
+- Build a Data Analyst AI Agent from Scratch, https://medium.com/teradata/build-a-data-analyst-ai-agent-from-scratch-f613a1f5027c
+
+  ----------------------------------------------------------------------------------------------------------------------------------
 
  
 - Agentic AI: Building Multi-Agent Workflows with Real-World Applications, https://medium.com/@nadeemm/agentic-ai-building-multi-agent-workflows-with-real-world-applications-073bbfadbf76
