@@ -7,7 +7,8 @@
 
   ----------------------------------------------------------------------------------------------------------------------------------
 
- 
+- The AI Agent Landscape: What Data Scientists Should Know (And Expect), https://medium.com/data-science-collective/the-ai-agent-landscape-what-data-scientists-should-know-and-expect-5e46bfe00bf8
+- 
 - Agentic AI: Building Multi-Agent Workflows with Real-World Applications, https://medium.com/@nadeemm/agentic-ai-building-multi-agent-workflows-with-real-world-applications-073bbfadbf76
 - Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
 - Context Engineering Over Prompt Engineering, https://medium.com/aiguys/context-engineering-over-prompt-engineering-24469ccf2cb7
