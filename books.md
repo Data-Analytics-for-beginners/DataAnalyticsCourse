@@ -3,13 +3,33 @@
 
 
 
+# Mathematics
 
  - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, Second Edition, https://www.amazon.in/Practical-Statistics-Data-Scientists-Essential/dp/8194435005?crid=14NN8J2PGYM45&dib=eyJ2IjoiMSJ9.e-ARrpwktGw4lgtPUJTiezEsVbmSkMqxT-ZmdOsElGDlDZT-SntpTh55RAOU2uN5xTjxM9O3YbygS7ukUz1MdvDGMo6vvBN6nAy4ao15MoQhjojvfjAPxIyXczjtIynMm_HJ-2SmrUIgJVXnLr6Pip96w5IMeD8qu6r8i_yROxr62ekZZFm-8nNlvPyKnXFN653wuGGz7eM8vrGDqjWic_gt_u0uiRSVTin3zWmaIjA.Hv6-ASP-vobxZLOerLszSEINFKcyHUvqiAO0sAUgZ1I&dib_tag=se&keywords=practical+statistics+for+data+scientists&qid=1753892180&sprefix=practical+sta,aps,248&sr=8-1&linkCode=sl1&tag=prakashshar06-21&linkId=c18996c8dcf438239eab541fc7355260&language=en_IN&ref_=as_li_ss_tl
  - Mathematics for Machine Learning Hardcover – 23 April 2020 by Marc Peter Deisenroth (Author), A. Aldo Faisal (Author), Cheng Soon Ong (Author), https://www.amazon.in/Mathematics-Machine-Learning-Peter-Deisenroth/dp/1108470041?crid=3TDD3Z1J85ONO&dib=eyJ2IjoiMSJ9.7vJws33pXVyOzogS96kTCRxgkDkXgsddEhJ4CipRTJrslAwvHSuNIcznrnSYJuxtXF0KZlaGHDjgugorHaC7hkcRStAdmacwa6RoIVedKtymdg3n3GF08oTgVo2GJFGSmgfNdk5jwEIgrXYJoF6rxnIlv1lqd9SWGdb4eYknReg7VVt7PzrmdKBF-2tN71B1GZjK94yWcOr1Yrhrf0o8gspo6bpLaZQa23mWr0C6-KM.XjyyPqSWZrvc3nT3N2TJGMxmgldHEZMHMuyMnrQdSX4&dib_tag=se&keywords=mathematics+for+machine+learning&qid=1753892273&sprefix=Mathemat,aps,232&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=prakashshar06-21&linkId=ef4cba2e1c14cb8b2b8903085e4acd3b&language=en_IN&ref_=as_li_ss_tl
- - 
+ - Mathematics for Machine Learning and Data Science, https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?action=enroll&source=post_page-----919e3d05f970---------------------------------------
 
 
+# Programming and Software Engineering
 
+- Python for EveryBody, https://www.coursera.org/specializations/python?action=enroll&authMode=signup&source=post_page-----919e3d05f970---------------------------
+
+
+# Machine Learning Fundamentals
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, 2nd Edition (Full Colour) Paperback – 23 October 2019, https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9352139054?crid=2K76D3I14CXWL&dib=eyJ2IjoiMSJ9.1jeCaOlA12_lr0hbUvkaEM_xcztt7j8STw9I7kpjbUbGjHj071QN20LucGBJIEps.0o2MVLlSaapjXbMQrwLy5pyvmoVF_BCuzvHeYNCkw_A&dib_tag=se&keywords=Handon+ml+with+scikit+learn&qid=1753893790&sprefix=handon+ml+with+scikit+learn,aps,222&sr=8-1&linkCode=sl1&tag=prakashshar06-21&linkId=ab17f48eafbf13570dfeaa4be2d6379d&language=en_IN&ref_=as_li_ss_tl
+- The Hundred Page Machine Learning Book By Andriy Burkov (English), New Page Paperback – 1 January 2025, https://www.amazon.in/Hundred-Machine-Learning-Andriy-English/dp/B0FGDKL95W?crid=19WFB28FY81AW&dib=eyJ2IjoiMSJ9.Y1hvCIY7_ef3v7CnHNJ7HB_CAyxatKWiWs5WLks4vho38OCO1FaXZ4OAOSuJsgkZULR-PuyEE3aSabD8n04GqxkrvMcJVeXkWXmWVLeBn8ER17wec6tirfG0lPOk31UkmSfbBBaCeANUmW8kZHnENLuXuUwQGEhvxvzXzK2msDTQ66-Fm5ujC20in2bYvwjAQjjb4RzI9RMYyMWWnYvxWgkNmEc118vqOLTsWvVso3o.lrq14rWGIo0yllWi9vYR2FVK1wYWJvXumUWs6UrmmEM&dib_tag=se&keywords=100+page+machine+learning+book&qid=1753894053&sprefix=100+page+machin,aps,300&sr=8-3&linkCode=sl1&tag=prakashshar06-21&linkId=e2570870f28ae4ac9c293171818c3ac7&language=en_IN&ref_=as_li_ss_tl
+- Machine Learning, https://www.coursera.org/specializations/machine-learning-introduction?action=enroll&authMode=signup&source=post_page-----919e3d05f970---------------------------------------
+
+
+# Deep Learning
+- AI Engineering: Building Applications with Foundation Models (Full Colour Edition) Paperback – 19 December 2024, https://www.amazon.in/AI-Engineering-Building-Applications-Foundation/dp/9355426666?crid=3V47GJIP6SWXI&dib=eyJ2IjoiMSJ9.PTsazHtc3DvISpYFeWuQXdKhBwa-uFNJXeRjtj1lN-VA21rLo4pJvT5MR5fFPBDQ7QUtvXvL4kMXt-Nege9-ySMpvFCpy8c_bOmH4bXDu5hpO9PEmKcOU5LN1S0QIH76WFDws7RxKkJa8nzRfIzOEEq3FNRDJTTZvS4Fb72lglhCxYavm2VnbhD9PZjV2uLdtzbwktSZJVkF4ZOEKcgqZBtFMRYwhdF8wy3q42S79UM.p_ZNjMtT313EKjvqaY3UzBGbnbiIVLOvlh_wsGKmAtg&dib_tag=se&keywords=ai+engineering+chip+huyen&qid=1753896920&sprefix=AI+Engineer,aps,241&sr=8-1&linkCode=sl1&tag=prakashshar06-21&linkId=7d36cbda0894965d9808fbc47e7963ad&language=en_IN&ref_=as_li_ss_tl
+- https://github.com/chiphuyen/aie-book?tab=readme-ov-file
+- https://www.oreilly.com/library/view/ai-engineering/9781098166298/
+
+- Hands-On Large Language Models: Language Understanding and Generation (Full Colour Edition) Paperback – 9 October 2024, https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/935542552X?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.e7CAiB_3wvwQ0f6o2EuldBj-H7A6m1oHspTmYIjUk5PYPQ1Je-Kw-TsEIjmjBJ39irKXaKlsl8PDsl61_8aycsH-IKM_KLjDVnS40avBzZrOcpQ3pVmUKWdE2K7Us9QiflokeOVY69WYp2kHJxH0VzZfjAASRMfqMXnEaQKVu1JyaG50Y3qBycg6cbChQnQJ3YG9b3XrLeg5pXuCVzybpPShuaTtfWRpDNSzB_i6Px8.83Up7N0aJk5LNxuwjcqix6vA9OkVQU_nni9tcgDr9S4&qid=1753896731&sr=8-1&linkCode=sl1&tag=prakashshar06-21&linkId=cbbbcd3cf9fae24bb4e9b3cb9cbc176d&language=en_IN&ref_=as_li_ss_tl
+
+- Deep Learning, https://www.coursera.org/specializations/deep-learning?action=enroll&authMode=signup&source=post_page-----919e3d05f970---------------------------------------
 
 
 
