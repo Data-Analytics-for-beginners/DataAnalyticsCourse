@@ -981,7 +981,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - 15 Open-Source Data Tools That Will Dominate 2025, https://medium.com/@aminsiddique95/15-open-source-data-tools-that-will-dominate-2025-189c10d5df18
 - The Data Analyst Playbook: From SQL Queries to C-Suite Storytelling, https://medium.com/@hmnshudhmn24/the-data-analyst-playbook-from-sql-queries-to-c-suite-storytelling-6a1a8a48f4fd
 - 5 Secret Data Analyst Skills Nobody Talks About!, https://medium.com/@aakash_7/5-secret-data-analyst-skills-nobody-talks-about-be1e46529d04
-- 
+- From Junior to Senior Data Scientist: 5 Traits That Accelerated My Career Growth, https://medium.com/data-science-collective/from-junior-to-senior-data-scientist-5-traits-that-accelerated-my-career-growth-6d1c47d2b655
   
 
 # TRADE
