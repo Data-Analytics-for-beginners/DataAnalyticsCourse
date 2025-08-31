@@ -984,8 +984,18 @@ print(bmi)  # Виведе: 23.157829031553323
 - From Junior to Senior Data Scientist: 5 Traits That Accelerated My Career Growth, https://medium.com/data-science-collective/from-junior-to-senior-data-scientist-5-traits-that-accelerated-my-career-growth-6d1c47d2b655
   
 
-# TRADE
+# TRADING
 - How To ACTUALLY Day-Trade Profitably (For Beginners), https://medium.datadriveninvestor.com/how-to-actually-day-trade-profitably-for-beginners-b760f2ede3e1
+- Building Multi Agent Stock Trading System with Swarms, https://medium.com/@devangvashistha/building-multi-agent-stock-trading-system-with-swarms-988947d83589
+- Multi- Agents LLM Financial Trading Framework, https://medium.com/@devangvashistha/multi-agents-llm-financial-trading-framework-2034df3bd2dd
+- Stock Price Prediction using Machine Learning in Python, https://medium.com/data-science-collective/stock-price-prediction-using-machine-learning-in-python-4fb314565abd
+- Building a HedgeAgents-Inspired Multi-Agent Financial Trading System, https://medium.com/gitconnected/building-a-hedgeagents-inspired-multi-agent-financial-trading-system-222a710eb956
+- Stock Price Prediction Project using TensorFlow, https://medium.com/gitconnected/stock-price-prediction-project-using-tensorflow-a9fc754d676e
+- Heatmap For Trading Strategy Optimization (Full Backtest), https://medium.com/@ziad.francis/this-one-heatmap-unlocked-my-ichimoku-strategy-full-backtest-eab05544bc19
+- Grid Trading with Python: A Simple and Profitable Algorithmic Strategy, https://medium.com/@ziad.francis/grid-trading-with-python-a-simple-and-profitable-algorithmic-strategy-820410698516
+- Econometrics and Python for Algo Trading: From Data Science to the Market, https://medium.com/@bndermustafa/econometrics-and-python-for-algo-trading-from-data-science-to-the-market-51b3c9f3b6e3
+- Algorithmic Trading with Python, https://medium.com/@bndermustafa/algorithmic-trading-with-python-f9d1a9b544f3
+- Introduction to Algorithmic Trading: Where Financial Intelligence Meets Code, https://medium.com/@bndermustafa/introduction-to-algorithmic-trading-where-financial-intelligence-meets-code-f95d0b18db5e
 - 
 
 
