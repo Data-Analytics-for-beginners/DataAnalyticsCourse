@@ -6,7 +6,8 @@
 - Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
 - Context Engineering Over Prompt Engineering, https://medium.com/aiguys/context-engineering-over-prompt-engineering-24469ccf2cb7
 - How to Build Your First Research Agent with Pydantic AI,https://medium.com/data-science-collective/how-to-build-your-first-research-agent-using-tavily-and-pydantic-ai-c22d23ff6d6d
-- 
+- 5 Agent Workflows You Need to Master (And Exactly How to Use Them), https://medium.com/data-science-collective/5-agent-workflows-you-need-to-master-and-exactly-how-to-use-them-1b8726d17d4c
+- AI Agents in 5 Levels of Difficulty (With Full Code Implementation), https://medium.com/data-science-collective/ai-agents-in-5-levels-of-difficulty-with-full-code-implementation-15d794becfb8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 - AI Agents with n8n: 10+ Automation Ideas Roadmap, https://techwithram.medium.com/ai-agents-with-n8n-10-automation-ideas-roadmap-8ed98e21a6b9
