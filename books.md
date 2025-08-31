@@ -5,6 +5,7 @@
 
 
  - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, Second Edition, https://www.amazon.in/Practical-Statistics-Data-Scientists-Essential/dp/8194435005?crid=14NN8J2PGYM45&dib=eyJ2IjoiMSJ9.e-ARrpwktGw4lgtPUJTiezEsVbmSkMqxT-ZmdOsElGDlDZT-SntpTh55RAOU2uN5xTjxM9O3YbygS7ukUz1MdvDGMo6vvBN6nAy4ao15MoQhjojvfjAPxIyXczjtIynMm_HJ-2SmrUIgJVXnLr6Pip96w5IMeD8qu6r8i_yROxr62ekZZFm-8nNlvPyKnXFN653wuGGz7eM8vrGDqjWic_gt_u0uiRSVTin3zWmaIjA.Hv6-ASP-vobxZLOerLszSEINFKcyHUvqiAO0sAUgZ1I&dib_tag=se&keywords=practical+statistics+for+data+scientists&qid=1753892180&sprefix=practical+sta,aps,248&sr=8-1&linkCode=sl1&tag=prakashshar06-21&linkId=c18996c8dcf438239eab541fc7355260&language=en_IN&ref_=as_li_ss_tl
+ - Mathematics for Machine Learning Hardcover – 23 April 2020 by Marc Peter Deisenroth (Author), A. Aldo Faisal (Author), Cheng Soon Ong (Author), https://www.amazon.in/Mathematics-Machine-Learning-Peter-Deisenroth/dp/1108470041?crid=3TDD3Z1J85ONO&dib=eyJ2IjoiMSJ9.7vJws33pXVyOzogS96kTCRxgkDkXgsddEhJ4CipRTJrslAwvHSuNIcznrnSYJuxtXF0KZlaGHDjgugorHaC7hkcRStAdmacwa6RoIVedKtymdg3n3GF08oTgVo2GJFGSmgfNdk5jwEIgrXYJoF6rxnIlv1lqd9SWGdb4eYknReg7VVt7PzrmdKBF-2tN71B1GZjK94yWcOr1Yrhrf0o8gspo6bpLaZQa23mWr0C6-KM.XjyyPqSWZrvc3nT3N2TJGMxmgldHEZMHMuyMnrQdSX4&dib_tag=se&keywords=mathematics+for+machine+learning&qid=1753892273&sprefix=Mathemat,aps,232&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=sl1&tag=prakashshar06-21&linkId=ef4cba2e1c14cb8b2b8903085e4acd3b&language=en_IN&ref_=as_li_ss_tl
  - 
 
 
