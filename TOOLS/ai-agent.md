@@ -1,10 +1,14 @@
 
 
 
-
+ 
+- Agentic AI: Building Multi-Agent Workflows with Real-World Applications, https://medium.com/@nadeemm/agentic-ai-building-multi-agent-workflows-with-real-world-applications-073bbfadbf76
 - Agentic AI: Comparing New Open-Source Frameworks, https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df
 - Context Engineering Over Prompt Engineering, https://medium.com/aiguys/context-engineering-over-prompt-engineering-24469ccf2cb7
+- How to Build Your First Research Agent with Pydantic AI,https://medium.com/data-science-collective/how-to-build-your-first-research-agent-using-tavily-and-pydantic-ai-c22d23ff6d6d
 - 
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 - AI Agents with n8n: 10+ Automation Ideas Roadmap, https://techwithram.medium.com/ai-agents-with-n8n-10-automation-ideas-roadmap-8ed98e21a6b9
 - 5 GitHub Repositories to Master AI Engineering, https://techwithram.medium.com/5-github-repositories-to-master-ai-engineering-040aab0d29a5
 - Building a Team of AI Agents in n8n, https://pub.towardsai.net/building-a-team-of-ai-agents-in-n8n-a3b988500dd2
