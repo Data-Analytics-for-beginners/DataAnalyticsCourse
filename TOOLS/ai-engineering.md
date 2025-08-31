@@ -3,7 +3,7 @@
 - AI Engineer Learning Roadmap 2025 | How to Learn AI in 2025, https://medium.com/@vijaygadhave2014/ai-engineer-learning-roadmap-2025-how-to-learn-ai-in-2025-044b5641b310
 - Stop watching random AI courses: Complete Guide to AI Engineering, https://medium.com/android-alchemy/stop-watching-random-ai-courses-complete-guide-to-ai-engineering-919e3d05f970
 - AI Engineering: A REALISTIC Roadmap for Beginners, https://medium.com/data-science-collective/ai-engineering-a-realistic-roadmap-for-beginners-a2c8084c7c52
-- 
+- 9 Books Every AI Engineer Should Read (To Go Fully Professional), https://medium.com/@joe.njenga/9-books-every-ai-engineer-should-read-to-go-fully-professional-e69d7e55cd50
 
 
 ---------------------------------------
