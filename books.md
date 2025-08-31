@@ -1,6 +1,21 @@
 
 
 
+
+
+
+ - Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, Second Edition, https://www.amazon.in/Practical-Statistics-Data-Scientists-Essential/dp/8194435005?crid=14NN8J2PGYM45&dib=eyJ2IjoiMSJ9.e-ARrpwktGw4lgtPUJTiezEsVbmSkMqxT-ZmdOsElGDlDZT-SntpTh55RAOU2uN5xTjxM9O3YbygS7ukUz1MdvDGMo6vvBN6nAy4ao15MoQhjojvfjAPxIyXczjtIynMm_HJ-2SmrUIgJVXnLr6Pip96w5IMeD8qu6r8i_yROxr62ekZZFm-8nNlvPyKnXFN653wuGGz7eM8vrGDqjWic_gt_u0uiRSVTin3zWmaIjA.Hv6-ASP-vobxZLOerLszSEINFKcyHUvqiAO0sAUgZ1I&dib_tag=se&keywords=practical+statistics+for+data+scientists&qid=1753892180&sprefix=practical+sta,aps,248&sr=8-1&linkCode=sl1&tag=prakashshar06-21&linkId=c18996c8dcf438239eab541fc7355260&language=en_IN&ref_=as_li_ss_tl
+ - 
+
+
+
+
+
+
+
+------------------------------------------------
+
+
  - 10 Statistics Books that you should download! (open access), https://medium.com/@vespinozag/10-statistics-books-that-you-should-download-open-access-1655780a73fc
  - 10 Best Books on Data Analytics with AI Agents—Read Before You Build!, https://medium.com/data-engineering-space/10-best-books-on-data-analytics-with-ai-agents-read-before-you-build-874ad869b654
  - The Best GitHub Repos for Data Engineers (Updated 2025)!, https://medium.com/@shenoy.shashwath/the-best-github-repos-for-data-engineers-updated-2025-d00fb4ad81d3
