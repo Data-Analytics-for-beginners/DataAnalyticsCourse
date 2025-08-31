@@ -1,7 +1,9 @@
 
 
+- Building a Data Analyst Agent with Streamlit and Pydantic-AI, https://medium.com/data-science-collective/building-a-data-analyst-agent-with-streamlit-and-pydantic-ai-step-by-step-guide-part-1-6403fd2ec243
 - Build Beautiful Web Apps in Minutes: The Complete Streamlit Guide, https://medium.com/@shouke.wei/build-beautiful-web-apps-in-minutes-the-complete-streamlit-guide-51f26d69be0f
 - 📊 Real-Time Dashboards with watchdog and streamlit_autorefresh, https://medium.com/@shouke.wei/real-time-dashboards-with-watchdog-and-streamlit-autorefresh-73f138581d75
+- Develop GenAI Apps with Gemini and Streamlit: A Realistic Walkthrough of the Qwiklabs Lab, https://medium.com/@shivanisharma.apple/develop-genai-apps-with-gemini-and-streamlit-a-realistic-walkthrough-of-the-qwiklabs-lab-e27805c85f80
 - 
 
 
