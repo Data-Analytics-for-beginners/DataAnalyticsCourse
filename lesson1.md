@@ -996,6 +996,9 @@ print(bmi)  # Виведе: 23.157829031553323
 - Econometrics and Python for Algo Trading: From Data Science to the Market, https://medium.com/@bndermustafa/econometrics-and-python-for-algo-trading-from-data-science-to-the-market-51b3c9f3b6e3
 - Algorithmic Trading with Python, https://medium.com/@bndermustafa/algorithmic-trading-with-python-f9d1a9b544f3
 - Introduction to Algorithmic Trading: Where Financial Intelligence Meets Code, https://medium.com/@bndermustafa/introduction-to-algorithmic-trading-where-financial-intelligence-meets-code-f95d0b18db5e
+- The Best Data Sources for Algorithmic Trading: Free & Paid Guide, https://medium.com/@bndermustafa/the-best-data-sources-for-algorithmic-trading-free-paid-guide-eea56e895209
+- Behavioral Finance: How Psychology Shapes Our Money Decisions, https://medium.com/@bndermustafa/behavioral-finance-how-psychology-shapes-our-money-decisions-5d5f06ea02da
+- The Crypto Acquisition Era: Why Crypto’s Next Winter Will Spark a Feeding Frenzy, https://medium.com/datadriveninvestor/the-crypto-acquisition-era-why-the-next-bear-market-will-be-defined-by-consolidation-5b643f713eff
 - 
 
 
