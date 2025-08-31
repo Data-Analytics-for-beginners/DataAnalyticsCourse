@@ -3,6 +3,7 @@
 - Build a Data Analyst AI Agent from Scratch, https://medium.com/teradata/build-a-data-analyst-ai-agent-from-scratch-f613a1f5027c
 - AI Agents for Data Analytics: A Strategic Guide to Agentic AI in Enterprise, https://8allocate.com/blog/ai-agents-for-data-analytics-a-strategic-guide-to-agentic-ai-in-enterprise/
 - Build an AI Agent for Data Analysis with LLM Reasoning, https://www.youtube.com/watch?v=rw3dNMYONZA
+- AI Agents with n8n: 10+ Automation Ideas Roadmap, https://techwithram.medium.com/ai-agents-with-n8n-10-automation-ideas-roadmap-8ed98e21a6b9
 - 
 
   ----------------------------------------------------------------------------------------------------------------------------------
