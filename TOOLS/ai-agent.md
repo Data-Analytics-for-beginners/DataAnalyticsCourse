@@ -1,6 +1,9 @@
 
 - How Agentic AI is Transforming Data Science: Use Cases, Important Skills & Future Prospects, https://medium.com/@byanalytixlabs/how-agentic-ai-is-transforming-data-science-use-cases-important-skills-future-prospects-3bbd3cb66345
 - Build a Data Analyst AI Agent from Scratch, https://medium.com/teradata/build-a-data-analyst-ai-agent-from-scratch-f613a1f5027c
+- AI Agents for Data Analytics: A Strategic Guide to Agentic AI in Enterprise, https://8allocate.com/blog/ai-agents-for-data-analytics-a-strategic-guide-to-agentic-ai-in-enterprise/
+- Build an AI Agent for Data Analysis with LLM Reasoning, https://www.youtube.com/watch?v=rw3dNMYONZA
+- 
 
   ----------------------------------------------------------------------------------------------------------------------------------
 
