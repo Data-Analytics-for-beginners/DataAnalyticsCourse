@@ -25,4 +25,5 @@
 - DIY JWT Authentication in FastAPI Using Only Python, https://leapcell.medium.com/diy-jwt-authentication-in-fastapi-using-only-python-5dd039c3cbee
 - Real-Time Features in FastAPI: WebSockets, Event Streaming, and Push Notifications, https://python.plainenglish.io/real-time-features-in-fastapi-websockets-event-streaming-and-push-notifications-fec79a0a6812
 - The FastAPI Folder Structure That Finally Made Sense, https://medium.com/@hadiyolworld007/the-fastapi-folder-structure-that-finally-made-sense-eee3ed3de400
+- FastAPI: The Modern Toolkit for Machine Learning Deployment, https://medium.com/@reza.shokrzad/fastapi-the-modern-toolkit-for-machine-learning-deployment-af31d72b6589
 - 
