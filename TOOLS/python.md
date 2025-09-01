@@ -214,4 +214,5 @@ source environment_name/bin/activate
 - Python UV + pyproject.toml: The Fastest Way to Run Python Apps, https://medium.com/@philip.mutua/python-uv-pyproject-toml-the-fastest-way-to-run-python-apps-913d6213c111
 - Python: Monorepo with UV, https://medium.com/@life-is-short-so-enjoy-it/python-monorepo-with-uv-f4ced6f1f425
 - How to Structure Python Projects Like a Professional Engineer, https://thepythonworld.in/how-to-structure-python-projects-like-a-professional-engineer-210a949834cb
+- Python 3.14, https://python.plainenglish.io/python-3-14-e7ab21757418
 - 
