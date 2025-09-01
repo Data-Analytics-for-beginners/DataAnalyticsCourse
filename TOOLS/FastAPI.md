@@ -9,7 +9,7 @@
 - From Zero to Deployment: Building Your First ML Model with FastAPI and Docker, https://medium.com/@rohanmistry231/from-zero-to-deployment-building-your-first-ml-model-with-fastapi-and-docker-2d65621976df
 - How to develop your Machine Learning API for text sentiment analysis with Python FastAPI, How to develop your Machine Learning API for text sentiment analysis with Python FastAPI
 - Develop Your Machine Learning API for Image Object Detection(YOLOv8) with Python Flask API, https://python.plainenglish.io/develop-your-machine-learning-api-for-image-object-detection-yolov8-with-python-flask-api-f393cb7e1e43
-- 
+- FastAPI for Machine Learning, https://python.plainenglish.io/fastapi-for-machine-learning-f2358d701ca3
 
 ----------------------------
 
