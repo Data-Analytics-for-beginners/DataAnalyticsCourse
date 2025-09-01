@@ -8,6 +8,8 @@
 - Streamlit + Pandas = Dashboards Without the Pain, https://medium.com/@hadiyolworld007/streamlit-pandas-dashboards-without-the-pain-c1225f0ae95d
 - Building My Nutrition Dashboard with Streamlit, https://medium.com/python-in-plain-english/building-my-nutrition-dashboard-with-streamlit-bd9e258b347b
 - Build AI and Data-Driven Interactive Apps with Streamlit — Part 1 Intro and Project Walk-through, https://medium.com/python-in-plain-english/build-ai-and-data-driven-interactive-apps-with-streamlit-part-1-intro-and-project-walk-through-93b12bd9fe1c
+- Streamlit in 2025: From Toy Apps to Enterprise Frontends, https://medium.com/@hadiyolworld007/streamlit-in-2025-from-toy-apps-to-enterprise-frontends-3a14cc00139b
+- Streamlit vs. Tauri: Which Is the Future of Lightweight AI Dashboards?, https://medium.com/@hadiyolworld007/streamlit-vs-tauri-which-is-the-future-of-lightweight-ai-dashboards-6bb7a85927e8
 
 ------------------------------------------------------------
 
