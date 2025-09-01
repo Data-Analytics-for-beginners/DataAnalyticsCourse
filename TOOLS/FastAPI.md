@@ -1,5 +1,12 @@
 
 
+# UDEMY
+- ML Model Deployment with FastAPI and Streamlit, https://www.udemy.com/course/ml-model-deployment-with-fastapi-and-streamlit/?srsltid=AfmBOorV0_7jE68SHmOa8e3EtUEZc8UVxn2OF1pGr7r3T-7mUKWKVcb6&couponCode=LETSLEARNNOW
+- 
+
+
+
+-----------------------------------
 - Flask vs Django vs FastAPI, https://python.plainenglish.io/flask-vs-django-vs-fastapi-61644d1860eb
 - Why FastAPI Is the Framework Every Python Developer Should Learn, https://medium.com/@hadiyolworld007/why-fastapi-is-the-framework-every-python-developer-should-learn-05de24115b5e
 - This FastAPI Pattern Finally Made My Backend Feel Clean, https://medium.com/@hadiyolworld007/this-fastapi-pattern-finally-made-my-backend-feel-clean-21114fc2e2a9
@@ -10,6 +17,9 @@
 - How to develop your Machine Learning API for text sentiment analysis with Python FastAPI, How to develop your Machine Learning API for text sentiment analysis with Python FastAPI
 - Develop Your Machine Learning API for Image Object Detection(YOLOv8) with Python Flask API, https://python.plainenglish.io/develop-your-machine-learning-api-for-image-object-detection-yolov8-with-python-flask-api-f393cb7e1e43
 - FastAPI for Machine Learning, https://python.plainenglish.io/fastapi-for-machine-learning-f2358d701ca3
+- Running Deep Learning Models as Applications with FastAPI, https://revs.runtime-revolution.com/running-deep-learning-models-as-applications-with-fastapi-ecac57239e64
+- Step-by-step Approach to Build Your Machine Learning API Using Fast API, https://towardsdatascience.com/step-by-step-approach-to-build-your-machine-learning-api-using-fast-api-21bd32f2bbdb/
+- 
 
 ----------------------------
 
