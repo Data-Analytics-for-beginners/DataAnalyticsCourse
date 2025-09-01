@@ -10,6 +10,8 @@
 - Build AI and Data-Driven Interactive Apps with Streamlit — Part 1 Intro and Project Walk-through, https://medium.com/python-in-plain-english/build-ai-and-data-driven-interactive-apps-with-streamlit-part-1-intro-and-project-walk-through-93b12bd9fe1c
 - Streamlit in 2025: From Toy Apps to Enterprise Frontends, https://medium.com/@hadiyolworld007/streamlit-in-2025-from-toy-apps-to-enterprise-frontends-3a14cc00139b
 - Streamlit vs. Tauri: Which Is the Future of Lightweight AI Dashboards?, https://medium.com/@hadiyolworld007/streamlit-vs-tauri-which-is-the-future-of-lightweight-ai-dashboards-6bb7a85927e8
+- Streamlit After the LLM Wave: Is It Still the Easiest AI Frontend?, https://medium.com/@hadiyolworld007/streamlit-after-the-llm-wave-is-it-still-the-easiest-ai-frontend-8131d1a89efa
+- Why Streamlit + LLMs Is the “Excel Macro” of 2025, https://medium.com/@hadiyolworld007/why-streamlit-llms-is-the-excel-macro-of-2025-566ce9dad992
 
 ------------------------------------------------------------
 
