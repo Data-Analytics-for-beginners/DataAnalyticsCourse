@@ -5,6 +5,7 @@
 - Data Taxonomies & Ontologies, https://medium.com/i-am-datapedia/data-taxonomies-ontologies-276a4c623067
 - Data Engineering Was Hard Until I Learned These 15 System Design Concepts, https://medium.com/@akanksha_singh/data-engineering-was-hard-until-i-learned-these-15-system-design-concepts-8a56f21f1070
 - Future-Proof Data Engineering Skills You Need in 2025, https://medium.com/@vijaygadhave2014/future-proof-data-engineering-skills-you-need-in-2025-e697e98377e3
+- The 2025 Data Engineering Roadmap — Skills, Tools, and Trends You Need to Know, https://medium.com/@vijaygadhave2014/the-2025-data-engineering-roadmap-skills-tools-and-trends-you-need-to-know-558678cdfb00
 
 
 ----------------------------------------------------
