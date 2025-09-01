@@ -7,6 +7,9 @@
 - Forget Flask Blueprints. Use This FastAPI Folder Structure Instead, https://medium.com/@hadiyolworld007/%EF%B8%8F-forget-flask-blueprints-use-this-fastapi-folder-structure-instead-1a684597ea17
 - From Prototype to Production: FastAPI in the Era of AI-Native Apps, https://medium.com/@hadiyolworld007/from-prototype-to-production-fastapi-in-the-era-of-ai-native-apps-faf7b0b566f1
 - From Zero to Deployment: Building Your First ML Model with FastAPI and Docker, https://medium.com/@rohanmistry231/from-zero-to-deployment-building-your-first-ml-model-with-fastapi-and-docker-2d65621976df
+- How to develop your Machine Learning API for text sentiment analysis with Python FastAPI, How to develop your Machine Learning API for text sentiment analysis with Python FastAPI
+- Develop Your Machine Learning API for Image Object Detection(YOLOv8) with Python Flask API, https://python.plainenglish.io/develop-your-machine-learning-api-for-image-object-detection-yolov8-with-python-flask-api-f393cb7e1e43
+- 
 
 ----------------------------
 
