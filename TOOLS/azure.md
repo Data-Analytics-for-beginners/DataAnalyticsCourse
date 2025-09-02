@@ -1,6 +1,6 @@
 
 
-
+- The Real Deal on Azure Certifications Path that Actually Works, https://medium.com/@sridharcloud/the-real-deal-on-azure-certifications-path-that-actually-works-06591f889cef
 
 - Microsoft Fabric for Business Intelligence: A New Era of Data and BI, https://medium.com/microsoft-power-bi/microsoft-fabric-for-business-intelligence-a-new-era-of-data-and-bi-ad59629a07c7
 - Microsoft Azure Interview Questions and Answers, https://medium.com/@skphd/microsoft-azure-interview-questions-and-answers-80bc2bc0bce1
@@ -10,4 +10,13 @@
 - Azure Data Factory Tutorial: Ingest data from REST API to Azure SQL Server, https://medium.com/@tomstaite1/azure-data-factory-tutorial-ingest-data-from-rest-api-to-azure-sql-server-d31e5ceb84ae
 - API data extraction using Azure Data Factory, https://medium.com/@menezesnatalia/api-data-extraction-using-azure-data-factory-44be219f8f12
 - From Portal to VS Code: Setting Up Azure AI Foundry for Local Development, https://medium.com/@menezesnatalia/api-data-extraction-using-azure-data-factory-44be219f8f12
+- Getting start with Data Engineer on Azure (DP — 203) — Part 1, https://medium.com/@digital-lux/getting-start-with-data-engineer-on-azure-dp-203-8631d8f6252f
 - 
+
+
+- Getting start with Data Engineer on Azure (DP — 203) — Part 1, https://medium.com/@digital-lux/getting-start-with-data-engineer-on-azure-dp-203-8631d8f6252f
+- Data Engineer on Azure — (DP-203) [Part 2], https://medium.com/@digital-lux/data-engineer-on-azure-dp-203-part-2-475de3ab8ecc
+- The Real Deal on Azure Certifications Path that Actually Works, https://medium.com/@sridharcloud/the-real-deal-on-azure-certifications-path-that-actually-works-06591f889cef
+
+
+- Building the Azure AI Foundation: Enterprise-Grade Infrastructure That Scales, https://medium.com/@sridharcloud/building-the-azure-ai-foundation-enterprise-grade-infrastructure-f9f3f9c10781
