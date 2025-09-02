@@ -4,7 +4,9 @@
 - AI Agents for Data Analytics: A Strategic Guide to Agentic AI in Enterprise, https://8allocate.com/blog/ai-agents-for-data-analytics-a-strategic-guide-to-agentic-ai-in-enterprise/
 - Build an AI Agent for Data Analysis with LLM Reasoning, https://www.youtube.com/watch?v=rw3dNMYONZA
 - AI Agents with n8n: 10+ Automation Ideas Roadmap, https://techwithram.medium.com/ai-agents-with-n8n-10-automation-ideas-roadmap-8ed98e21a6b9
-- 
+- Bringing AI Agents into Production: Why LangGraph Is Becoming the Framework of Choice, https://medium.com/algomart/bringing-ai-agents-into-production-why-langgraph-is-becoming-the-framework-of-choice-d76799cdb2e2
+- Automating the Search for Optimal LangChain Agent Architectures with Quality-Diversity Algorithm, https://levelup.gitconnected.com/automating-the-search-for-optimal-langchain-agent-architectures-with-quality-diversity-algorithm-d25344a0f8e0
+  
 
   ----------------------------------------------------------------------------------------------------------------------------------
 
