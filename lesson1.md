@@ -1291,6 +1291,15 @@ print(bmi)  # Виведе: 23.157829031553323
 - Machine Learning & Anomaly Detection, https://medium.com/@berkaykoseoglu833/machine-learning-anomaly-detection-0140bae02dd1
 - Python Outlier Detection: IQR Method and Z-score Implementation, https://medium.com/@tubelwj/python-outlier-detection-iqr-method-and-z-score-implementation-8e825edf4b32
 
+
+
+# PEAK DETECTION
+
+- Detecting Peaks and Valleys: Learn The Essentials for Accurate Analysis, https://medium.com/data-science-collective/detecting-peaks-and-valleys-learn-the-essentials-for-accurate-analysis-295b2a002f62
+- 
+
+
+
 # EDA
 - A Beginner’s EDA with Python, https://medium.com/@DS_Rohan/a-beginners-eda-with-python-4fa64eb86ced
 - EDA in Python: Your Step-by-Step Playbook to Understand Any Dataset, https://medium.com/python-in-plain-english/eda-in-python-your-step-by-step-playbook-to-understand-any-dataset-9e5433b781c7
