@@ -219,4 +219,9 @@ Fig. 2: Agentic AI lifecycle (Image by Author)
 
 - Building Production-Ready RAG Systems: Best Practices and Proven Strategies, https://skphd.medium.com/building-production-ready-rag-systems-best-practices-and-proven-strategies-6a4f3565c2ce
 - 
-  
+
+
+--------------------------------------------------
+
+- How we built our multi-agent research system — Anthropic, https://medium.com/@kushalbanda/how-we-built-our-multi-agent-research-system-5f5e10b2a8d6
+- 
