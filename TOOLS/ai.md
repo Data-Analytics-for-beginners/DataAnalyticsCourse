@@ -1,5 +1,11 @@
 
 
+ - AI-Driven SDLC: The Future of Software Development, https://medium.com/beyond-the-code-by-typo/ai-driven-sdlc-the-future-of-software-development-3f1e6985deef
+u
+
+
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------
