@@ -39,4 +39,6 @@
 - Real-Time Features in FastAPI: WebSockets, Event Streaming, and Push Notifications, https://python.plainenglish.io/real-time-features-in-fastapi-websockets-event-streaming-and-push-notifications-fec79a0a6812
 - The FastAPI Folder Structure That Finally Made Sense, https://medium.com/@hadiyolworld007/the-fastapi-folder-structure-that-finally-made-sense-eee3ed3de400
 - FastAPI: The Modern Toolkit for Machine Learning Deployment, https://medium.com/@reza.shokrzad/fastapi-the-modern-toolkit-for-machine-learning-deployment-af31d72b6589
+- Serving ML Models with FastAPI: A Production-Ready API in Minutes, https://grigorkh.medium.com/serving-ml-models-with-fastapi-a-production-ready-api-in-minutes-b5f4839a33a9
+- Deploying Your AI Agent with FastAPI, Docker, and AWS ECS, https://medium.com/@kushalbanda/deploying-your-ai-agent-with-fastapi-docker-and-aws-ecs-8d138e3b81e9
 - 
