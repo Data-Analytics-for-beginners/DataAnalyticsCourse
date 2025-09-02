@@ -4,7 +4,10 @@
 3) Учебное пособие для экзамена DP-900: Основы данных Microsoft Azure, https://learn.microsoft.com/ru-ru/credentials/certifications/resources/study-guides/dp-900
 4) Навыки, измеряемые по состоянию на 1 ноября 2024 г.,
 5) Руководство по изучению экзамена DP-600: реализация решений аналитики с помощью Microsoft Fabric, https://learn.microsoft.com/ru-ru/credentials/certifications/resources/study-guides/dp-600
-6) 
+6) Intelligence in the Age of AI with new CTO of the CIA, https://www.youtube.com/watch?v=5uQm-qzQiI4
+7) The CIA and Early AI: Exploring the Foundations and Impact, https://www.researchgate.net/publication/380424895_The_CIA_and_Early_AI_Exploring_the_Foundations_and_Impact
+8) The Role of Artificial Intelligence in the U.S. Intelligence Community: Current Uses and Future Developments, https://www.aspeninstitute.org/wp-content/uploads/2024/10/Ewbank_Role-of-AI-in-USIC_Final.pdf
+9) 
 
 
 
