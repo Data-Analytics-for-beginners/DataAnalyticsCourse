@@ -6,7 +6,7 @@
 - The Role of Knowledge Graphs in Healthcare, https://medium.com/@adnanmasood/the-role-of-knowledge-graphs-in-healthcare-7109a8c33122
 - From Legal Documents to Knowledge Graphs, https://medium.com/neo4j/from-legal-documents-to-knowledge-graphs-ccd9cb062320
 - Knowledge Graphs, Context Engineering, and the Future of Data Products, https://medium.com/open-data-product-specification/knowledge-graphs-context-engineering-and-the-future-of-data-products-88759d540e11
-- 
+- Converting Unstructured Data into a Knowledge Graph Using an End-to-End Pipeline, https://levelup.gitconnected.com/converting-unstructured-data-into-a-knowledge-graph-using-an-end-to-end-pipeline-552a508045f9
 
 
 -------------------------------------------------------------------------------------
