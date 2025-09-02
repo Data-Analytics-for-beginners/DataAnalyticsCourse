@@ -303,3 +303,10 @@ predictions.label_ids == test_dataset['label']
 3) Tokenization in large language models, explained, https://medium.com/data-science-collective/modern-nlp-tokenization-embedding-and-text-classification-448826f489bf
 4) Fine-Tuning BERT for Text Classification, https://medium.com/data-science-collective/modern-nlp-tokenization-embedding-and-text-classification-448826f489bf
 5) 
+
+
+
+-----------------------------------------------------------------------------------
+
+- Named Entity Recognition with Python and Hugging Face Transformers, https://ai.plainenglish.io/named-entity-recognition-with-python-and-hugging-face-transformers-d50e88e06633
+- 
