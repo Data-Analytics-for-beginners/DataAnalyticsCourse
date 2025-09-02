@@ -1223,6 +1223,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Anomaly Detection: A Comprehensive Guide, https://medium.com/@alok05/anomaly-detection-a-comprehensive-guide-9d4d7e320242
 - Types of Anomalies in Data: Rule-Based, Value-Based, and Sequence-Based, https://medium.com/@injure21/anomaly-type-b09341ab9a5a
 - Time Series Anomaly Detection with ARIMA, https://medium.com/@injure21/time-series-anomaly-detection-with-arima-551a91d10fe4
+- Practical Anomaly Detection with Prometheus and PromQL, https://grigorkh.medium.com/practical-anomaly-detection-with-prometheus-and-promql-d3027b97da96
 
 
 # Time Series Analysis in Statistics
