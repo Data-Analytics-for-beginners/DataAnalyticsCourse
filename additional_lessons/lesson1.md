@@ -1285,6 +1285,17 @@ Jane Street, IMC, DRW, Hudson River
 
 - Problem → Insight → Action: A Storytelling Framework for Power BI Dashboards, https://medium.com/microsoft-power-bi/problem-insight-action-a-storytelling-framework-for-power-bi-dashboards-6e983bde8045
 - The Rise of Lightweight Frontends: Streamlit, Tauri, and the Future of AI UX, https://medium.com/@hadiyolworld007/the-rise-of-lightweight-frontends-streamlit-tauri-and-the-future-of-ai-ux-3c4c1442c7dc
+- Finding the Story in the Data: Exploratory Data Analysis for UX Research, https://medium.com/@luxfruitdesigns/finding-the-story-in-the-data-exploratory-data-analysis-for-ux-research-97ce82ae5631
+- 15 Free A/B Testing Tools That Actually Work (2025), https://medium.com/@andrew-chornyy/15-free-a-b-testing-tools-that-actually-work-2025-d7f4aba0ae1e
+- Find the story in the data, or find the data to tell the story?, https://nicolemark.medium.com/finding-the-story-in-the-data-or-find-the-data-to-tell-the-story-8e818bc1c3b9
+- How to turn data into stories, https://www.youtube.com/watch?v=Hfx1X9WSGYQ
+- Data Storytelling Example - How to Tell A Simple Story, https://www.youtube.com/watch?v=Hsd3TwWUNLg
+- Telling Stories with Data in 3 Steps (Quick Study), https://www.youtube.com/watch?v=r5_34YnCmMY
+- Data Storytelling 101 | Think Like a Data Analyst, https://www.youtube.com/watch?v=H79S8YDuYUU
+- How to find a Story in Data | Google Data Analytics Certificate, https://www.youtube.com/watch?v=OQUfnEJvMXk
+- Finding the Story in your Survey Data, https://www.youtube.com/watch?v=4wLq4Yk-9SE
+- Telling Stories with Data - What is Data Storytelling and How to implement as a Consultant, https://www.youtube.com/watch?v=WkzYyKwPuYo
+- The art of exploring and explaining data, https://www.youtube.com/watch?v=IfKlOC5HSHI
 - 
 
 
