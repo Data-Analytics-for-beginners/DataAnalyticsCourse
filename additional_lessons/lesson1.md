@@ -1360,3 +1360,13 @@ Jane Street, IMC, DRW, Hudson River
 - Econometrics and Python for Algo Trading: From Data Science to the Market, https://medium.com/@bndermustafa/econometrics-and-python-for-algo-trading-from-data-science-to-the-market-51b3c9f3b6e3
 - Algorithmic Trading with Python, https://medium.com/@bndermustafa/algorithmic-trading-with-python-f9d1a9b544f3
 - Introduction to Algorithmic Trading: Where Financial Intelligence Meets Code, https://medium.com/@bndermustafa/introduction-to-algorithmic-trading-where-financial-intelligence-meets-code-f95d0b18db5e
+
+
+
+
+
+
+# 
+- Minard's Famous "Napoleon's March" Chart – What It Shows, What It Doesn't, https://www.youtube.com/watch?v=hlb1uM_SOcE
+- The Epic Chart of Napoleon's 1812 Russian Campaign by Joseph Minard, https://www.youtube.com/watch?v=bsT4LXSsdLg&t=503s
+- Napoleon's Moscow campaign: as told by Charles Minard's chart, https://www.youtube.com/watch?v=HrEuJO3wz3k
