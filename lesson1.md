@@ -982,6 +982,8 @@ print(bmi)  # Виведе: 23.157829031553323
 - The Data Analyst Playbook: From SQL Queries to C-Suite Storytelling, https://medium.com/@hmnshudhmn24/the-data-analyst-playbook-from-sql-queries-to-c-suite-storytelling-6a1a8a48f4fd
 - 5 Secret Data Analyst Skills Nobody Talks About!, https://medium.com/@aakash_7/5-secret-data-analyst-skills-nobody-talks-about-be1e46529d04
 - From Junior to Senior Data Scientist: 5 Traits That Accelerated My Career Growth, https://medium.com/data-science-collective/from-junior-to-senior-data-scientist-5-traits-that-accelerated-my-career-growth-6d1c47d2b655
+- Final Python Cheat Sheet for Market Data Analysis in 2025, https://medium.com/coding-nexus/final-python-cheat-sheet-for-market-data-analysis-in-2025-with-automated-conditional-email-alerts-7f1e2ec94f14
+- 
   
 
 # TRADING
