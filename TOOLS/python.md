@@ -215,4 +215,6 @@ source environment_name/bin/activate
 - Python: Monorepo with UV, https://medium.com/@life-is-short-so-enjoy-it/python-monorepo-with-uv-f4ced6f1f425
 - How to Structure Python Projects Like a Professional Engineer, https://thepythonworld.in/how-to-structure-python-projects-like-a-professional-engineer-210a949834cb
 - Python 3.14, https://python.plainenglish.io/python-3-14-e7ab21757418
+- Mastering AI Automation with Python and Modern Tools, https://python.plainenglish.io/mastering-ai-automation-with-python-and-modern-tools-b208221606fb
+- The Python Automation System That Quietly Earns Me Money Every Month, https://python.plainenglish.io/the-python-automation-system-that-quietly-earns-me-money-every-month-1b5ce5280efa
 - 
