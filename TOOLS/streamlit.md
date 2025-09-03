@@ -14,6 +14,7 @@
 - Learning Streamlit — 1, https://medium.com/@priteshlathiya/learning-streamlit-1-9ae3bc9911b9
 - Learning Streamlit part — 4, https://medium.com/@priteshlathiya/learning-streamlit-part-4-404fd77a5b01
 - Plotly in Streamlit_1, https://medium.com/@priteshlathiya/plotly-in-streamlit-1-918fce563468
+- Level-Up Your Streamlit Visualisations with Bi-directional Components, https://medium.com/@tim.buchhorn/level-up-your-streamlit-visualisations-with-bi-directional-components-918c28c6e5a3
 - 
 
 --------------------------------
