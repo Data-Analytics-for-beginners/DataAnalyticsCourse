@@ -8,4 +8,10 @@
 - Mastering Data Products with ODPS 4.0 and GPT: The Fast Track to AI-Ready Data, https://medium.com/@dr.jarkko.moilanen/mastering-data-products-with-odps-4-0-and-gpt-the-fast-track-to-ai-ready-data-97c31e3cb68c
 - 5 Key Design Differences Between DPROD and ODPS — From Data Management to Value Creation, https://medium.com/open-data-product-specification/5-key-design-differences-between-dprod-and-odps-from-data-management-to-value-creation-ed40737d8f37
 - ODPS: The Missing Link Between Enterprise Architecture and Business Value, https://medium.com/@dr.jarkko.moilanen/odps-the-missing-link-between-enterprise-architecture-and-business-value-1b1946977227
-- 
+- The Data Documentation Playbook: What to Write, Where to Store It, and Who Owns It, https://medium.com/@deolesopan/the-data-documentation-playbook-what-to-write-where-to-store-it-and-who-owns-it-37d9afd0756f
+- Thinking Like a Data Product Manager: The Mindset Shift Every Data Team Needs, https://medium.com/@deolesopan/thinking-like-a-data-product-manager-the-mindset-shift-every-data-team-needs-46be3740b6fe
+- The Lifecycle of a Data Contract: From Design to Enforcement, https://medium.com/@deolesopan/the-lifecycle-of-a-data-contract-from-design-to-enforcement-9f4a7aaabc91
+- Playing with Data Products, https://medium.com/data-mesh-learning/playing-with-data-products-dbb70a125f2b
+- What Exactly is a Data Product?, https://medium.com/data-mesh-learning/what-exactly-is-a-data-product-7f6935a17912
+- Medallion Architecture in a Data Product World, https://medium.com/datafutures/medallion-architecture-in-a-data-product-world-3758d17b6cf6
+-   
