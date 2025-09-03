@@ -6,3 +6,5 @@
 - The Hidden Power of Change Data Capture (CDC) in Modern Data Engineering, https://medium.com/ai-ml-interview-playbook/the-hidden-power-of-change-data-capture-cdc-in-modern-data-engineering-a74d521ababa
 - Medallion Architecture vs Data Vault 2.0: Which Should You Choose and When?, https://medium.com/@valentin.loghin/medallion-architecture-vs-data-vault-2-0-which-should-you-choose-and-when-0c47765a148c
 - Materializations in dbt as Semantic Modeling Primitives, https://medium.com/@sendoamoronta/materializations-in-dbt-as-semantic-modeling-primitives-9f13191b5754
+- Data Modeling 101: Concepts, Examples, and Why It Matters, https://medium.com/@mostsignificant/data-modeling-101-concepts-examples-and-why-it-matters-e1a75c32dd1e
+- 
