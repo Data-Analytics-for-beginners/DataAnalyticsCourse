@@ -9,7 +9,10 @@
 8) The Role of Artificial Intelligence in the U.S. Intelligence Community: Current Uses and Future Developments, https://www.aspeninstitute.org/wp-content/uploads/2024/10/Ewbank_Role-of-AI-in-USIC_Final.pdf
 9) https://intellipaat.com/data-scientist-course-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting
 10) https://intellipaat.com/data-analytics-master-training-course/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting_ak
-11) 
+11) https://dhired.com/uk/course/data-science-fundamentals-13mx228
+
+
+    
 
 
 -----------------------------------------------
