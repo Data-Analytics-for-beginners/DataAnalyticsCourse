@@ -8,7 +8,8 @@
 7) The CIA and Early AI: Exploring the Foundations and Impact, https://www.researchgate.net/publication/380424895_The_CIA_and_Early_AI_Exploring_the_Foundations_and_Impact
 8) The Role of Artificial Intelligence in the U.S. Intelligence Community: Current Uses and Future Developments, https://www.aspeninstitute.org/wp-content/uploads/2024/10/Ewbank_Role-of-AI-in-USIC_Final.pdf
 9) https://intellipaat.com/data-scientist-course-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting
-10) 
+10) https://intellipaat.com/data-analytics-master-training-course/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting_ak
+11) 
 
 
 -----------------------------------------------
