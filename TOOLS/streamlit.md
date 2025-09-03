@@ -15,7 +15,10 @@
 - Learning Streamlit part — 4, https://medium.com/@priteshlathiya/learning-streamlit-part-4-404fd77a5b01
 - Plotly in Streamlit_1, https://medium.com/@priteshlathiya/plotly-in-streamlit-1-918fce563468
 - Level-Up Your Streamlit Visualisations with Bi-directional Components, https://medium.com/@tim.buchhorn/level-up-your-streamlit-visualisations-with-bi-directional-components-918c28c6e5a3
-- 
+- Export your Streamlit apps to HTML, https://medium.com/@serranocarlosd/export-your-streamlit-apps-to-html-f0ce13a29072
+- Creating repeatable items in Streamlit, https://medium.com/streamlit/creating-repeatable-items-in-streamlit-cb8b6264e1e6
+- OAuth Component for Streamlit, https://medium.com/streamlit/oauth-component-for-streamlit-e05f00874fbc
+- From Data to Dashboard: Building a Production-Ready App with Streamlit, FastAPI, Supabase, and Docker, https://medium.com/@jv.escorcio/from-data-to-dashboard-building-a-production-ready-app-with-streamlit-fastapi-supabase-and-65e1cf1a1673
 
 --------------------------------
 
