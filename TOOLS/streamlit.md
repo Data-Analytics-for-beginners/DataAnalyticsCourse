@@ -13,6 +13,7 @@
 - Learning Streamlit part — 5, https://medium.com/@priteshlathiya/learning-streamlit-part-5-fd89809655fc
 - Learning Streamlit — 1, https://medium.com/@priteshlathiya/learning-streamlit-1-9ae3bc9911b9
 - Learning Streamlit part — 4, https://medium.com/@priteshlathiya/learning-streamlit-part-4-404fd77a5b01
+- Plotly in Streamlit_1, https://medium.com/@priteshlathiya/plotly-in-streamlit-1-918fce563468
 - 
 
 --------------------------------
