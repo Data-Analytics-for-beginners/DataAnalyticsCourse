@@ -1,5 +1,7 @@
 
 
+- Building a Python Micro-SaaS That Monitors Prices & Stock Levels (and Actually Gets Paying Users), https://medium.com/python-in-plain-english/building-a-python-micro-saas-that-monitors-prices-stock-levels-and-actually-gets-paying-users-c068c8ff1ce1
+
 
 
 - The Architecture of a Modern Startup, https://medium.com/better-programming/architecture-of-modern-startup-abaec235c2eb
