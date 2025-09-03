@@ -14,4 +14,8 @@
 - Playing with Data Products, https://medium.com/data-mesh-learning/playing-with-data-products-dbb70a125f2b
 - What Exactly is a Data Product?, https://medium.com/data-mesh-learning/what-exactly-is-a-data-product-7f6935a17912
 - Medallion Architecture in a Data Product World, https://medium.com/datafutures/medallion-architecture-in-a-data-product-world-3758d17b6cf6
--   
+
+----------------------------------------
+
+- Minimum Lovable Governance: A New Model for Data Products, https://medium.com/@dr.jarkko.moilanen/minimum-lovable-governance-a-new-model-for-data-products-26244569ecd1
+- 
