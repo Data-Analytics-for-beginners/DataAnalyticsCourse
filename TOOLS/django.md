@@ -3,6 +3,7 @@
 
 
 - Build a Django Blog Project (With Full Code & Step-by-Step Guide), https://medium.com/pyzilla/django-blog-project-full-code-tutorial-3f8872b2b765
+- Database Design for Product Management, https://medium.com/@pesarakex/database-design-for-product-management-9280fd7c66fe
 - 
 
 ---------------------------------
