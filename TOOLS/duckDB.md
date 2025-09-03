@@ -8,4 +8,5 @@
  - Why I Ditched SQL Servers for DuckDB, https://medium.com/@ThinkingLoop/why-i-ditched-sql-servers-for-duckdb-7725cc22738f
  - DuckDB vs Postgres: My Analytics Awakening, https://medium.com/@ThinkingLoop/duckdb-vs-postgres-my-analytics-awakening-1a1282bb86c9
  - 7 DuckDB Power Features That Replace Your ETL Pipeline, https://medium.com/@connect.hashblock/7-duckdb-power-features-that-replace-your-etl-pipeline-6d5b726806ce
+ - We Replaced Our Cloud Warehouse with DuckDB and Saved 80%, https://medium.com/@connect.hashblock/we-replaced-our-cloud-warehouse-with-duckdb-and-saved-80-b46ef4a2f6a8
  - 
