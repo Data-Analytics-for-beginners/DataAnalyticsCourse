@@ -1,5 +1,8 @@
 
 
+# OSINT
+- A few Books to learn OSINT(OPEN SOURCE INTELLIGENCE), https://osintteam.blog/a-few-books-to-learn-osint-open-source-intelligence-508d7c4d983f
+- 
 
 
 
