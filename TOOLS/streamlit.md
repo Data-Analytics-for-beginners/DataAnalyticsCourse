@@ -20,7 +20,11 @@
 - OAuth Component for Streamlit, https://medium.com/streamlit/oauth-component-for-streamlit-e05f00874fbc
 - From Data to Dashboard: Building a Production-Ready App with Streamlit, FastAPI, Supabase, and Docker, https://medium.com/@jv.escorcio/from-data-to-dashboard-building-a-production-ready-app-with-streamlit-fastapi-supabase-and-65e1cf1a1673
 - Streamlit Dashboard That Looks Like a SaaS Product, https://medium.com/@hadiyolworld007/streamlit-dashboard-that-looks-like-a-saas-product-05646a72a242
-13) 
+13)
+ -  Streamlit Apps That Scale: Lessons From Real Projects, https://medium.com/@hadiyolworld007/streamlit-apps-that-scale-lessons-from-real-projects-8237f1ae6729
+ -  Building Smarter GenAI Apps with Streamlit (2025 Edition), https://medium.com/chat-gpt-now-writes-all-my-articles/building-smarter-genai-apps-with-streamlit-2025-edition-ed900149dd0b
+ -  Best Practices for Building GenAI Apps with Streamlit, https://medium.com/chat-gpt-now-writes-all-my-articles/building-smarter-genai-apps-with-streamlit-2025-edition-ed900149dd0b
+ -  
 
 --------------------------------
 
