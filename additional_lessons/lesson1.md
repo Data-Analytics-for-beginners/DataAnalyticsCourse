@@ -12,7 +12,26 @@
 11) https://dhired.com/uk/course/data-science-fundamentals-13mx228
 
 
-    
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*OHaAsCCWpOK0bAzo20q-eg.png)
+
+
+
+
+
+
 
 
 -----------------------------------------------
