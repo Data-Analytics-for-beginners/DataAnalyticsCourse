@@ -10,6 +10,8 @@
 9) https://intellipaat.com/data-scientist-course-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting
 10) https://intellipaat.com/data-analytics-master-training-course/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting_ak
 11) https://dhired.com/uk/course/data-science-fundamentals-13mx228
+12) Streamlit Dashboard That Looks Like a SaaS Product, https://medium.com/@hadiyolworld007/streamlit-dashboard-that-looks-like-a-saas-product-05646a72a242
+13) 
 
 
 
