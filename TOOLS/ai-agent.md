@@ -8,6 +8,7 @@
 - Automating the Search for Optimal LangChain Agent Architectures with Quality-Diversity Algorithm, https://levelup.gitconnected.com/automating-the-search-for-optimal-langchain-agent-architectures-with-quality-diversity-algorithm-d25344a0f8e0
 - How I Built a Smart AI Travel Agent with LangChain, Python, and Google Maps, https://medium.com/data-science-collective/how-i-built-a-smart-ai-travel-agent-with-langchain-python-and-google-maps-53bd01b3cfeb
 - Building a supply chain agent with CrewAI, https://pub.towardsai.net/building-a-supply-chain-agent-with-crewai-15d5b74bbb20
+- From Prototype to Production: How to Deploy AI Agents That Actually Work, https://medium.com/@Micheal-Lanham/from-prototype-to-production-how-to-deploy-ai-agents-that-actually-work-958290e6db4e
 - 
   
 
