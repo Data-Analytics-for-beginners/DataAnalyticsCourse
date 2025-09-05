@@ -217,4 +217,5 @@ source environment_name/bin/activate
 - Python 3.14, https://python.plainenglish.io/python-3-14-e7ab21757418
 - Mastering AI Automation with Python and Modern Tools, https://python.plainenglish.io/mastering-ai-automation-with-python-and-modern-tools-b208221606fb
 - The Python Automation System That Quietly Earns Me Money Every Month, https://python.plainenglish.io/the-python-automation-system-that-quietly-earns-me-money-every-month-1b5ce5280efa
+- Part 2: Building a Data Analysis and Visualization App with Flet, https://medium.com/@shouke.wei/part-2-building-a-data-analysis-and-visualization-app-with-flet-b6a0469b33f9
 - 
