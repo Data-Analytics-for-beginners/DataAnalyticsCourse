@@ -958,6 +958,13 @@ print(bmi)  # Виведе: 23.157829031553323
 
 
 
+
+
+# REQUIEMENTS GATHERING
+
+- How to Run Effective Requirement Gathering Workshops: A Guide for Business Analysts and Project Teams, https://medium.com/@preethithakur/how-to-run-effective-requirement-gathering-workshops-a-guide-for-business-analysts-and-project-d72030e4a3c8
+- 
+
 # Economic Value
  - Economic Value from Analytics, https://medium.com/@eric-sandosham/economic-value-from-analytics-9ee7159e86a7
  - 
@@ -1092,6 +1099,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Data Cleansing in Python: common ways to clean your data, https://blog.devgenius.io/data-cleansing-in-python-common-ways-to-clean-your-data-3459a256dd85
 - Data Profiling in Python: common ways to explore your data (part 1), https://blog.devgenius.io/data-profiling-in-python-common-ways-to-explore-your-data-part-1-0efd0dedff75
 - Data Profiling in Python: common ways to explore your data (part 2), https://blog.devgenius.io/data-profiling-in-python-common-ways-to-explore-your-data-part-2-396384522e91
+- Mastering Missing Data: A Comprehensive Guide to Handling Gaps in Your Dataset, https://medium.com/@preethithakur/mastering-missing-data-a-comprehensive-guide-to-handling-gaps-in-your-dataset-86af800fcbdd
 - 
 
 
