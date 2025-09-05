@@ -1,5 +1,10 @@
 
 
+
+
+- Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, https://www.oreilly.com/library/view/machine-learning-with/9781801819312/?source=post_page-----0be69a0b2d82---------------------------------------
+- 
+
 # OSINT
 - A few Books to learn OSINT(OPEN SOURCE INTELLIGENCE), https://osintteam.blog/a-few-books-to-learn-osint-open-source-intelligence-508d7c4d983f
 - 
