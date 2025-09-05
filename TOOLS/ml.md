@@ -19,7 +19,9 @@
 - Day 3 with Scikit-Learn and Matplotlib: From Visualizing Data to Evaluating Regression Models, https://medium.com/intern-elite/day-3-with-scikit-learn-and-matplotlib-from-visualizing-data-to-evaluating-regression-models-0f460b700357
 - Getting Started with Machine Learning: My Day 1 with scikit-learn, https://medium.com/intern-elite/getting-started-with-machine-learning-my-day-1-with-scikit-learn-0be69a0b2d82
 - From Data to Deployment: Mastering Preprocessing, Hyperparameter Tuning, and Pipelines in Scikit-Learn, https://medium.com/intern-elite/from-data-to-deployment-mastering-preprocessing-hyperparameter-tuning-and-pipelines-in-d13a5300478e
-
+- Day 2 with Scikit-Learn: Deep Dive into Regression, https://medium.com/intern-elite/day-2-with-scikit-learn-deep-dive-into-regression-05c73c659996
+- Machine Learning System Design — Part 7: Feature Engineering in ML Systems, https://medium.com/@akdemir_bahadir/ml-system-design-part-7-feature-engineering-in-ml-systems-4bce871232b7
+- 
 
 
 - PyTorch for Beginners: A Gentle Dive into Linear Regression, https://medium.com/@codegineer/pytorch-for-beginners-a-gentle-dive-into-linear-regression-2c79db413ff6
@@ -30,3 +32,5 @@
 
 - Support Vector Machine (SVM) classification model, https://medium.com/@dilipkumar/support-vector-machine-svm-classification-model-b5048923778a
 - 
+
+
