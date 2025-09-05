@@ -1,4 +1,10 @@
 
+
+- Building an AI Agent for Financial Analysis with Python, https://medium.com/@bravekjh/building-an-ai-agent-for-financial-analysis-with-python-22bd5177a36b
+- Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence using CrewAI, https://medium.com/@hayagriva99999/building-an-ai-powered-stock-analysis-platform-a-deep-dive-into-multi-agent-financial-intelligence-ae9fb045ce41
+- 
+
+-----------------------------
 - How Agentic AI is Transforming Data Science: Use Cases, Important Skills & Future Prospects, https://medium.com/@byanalytixlabs/how-agentic-ai-is-transforming-data-science-use-cases-important-skills-future-prospects-3bbd3cb66345
 - Build a Data Analyst AI Agent from Scratch, https://medium.com/teradata/build-a-data-analyst-ai-agent-from-scratch-f613a1f5027c
 - AI Agents for Data Analytics: A Strategic Guide to Agentic AI in Enterprise, https://8allocate.com/blog/ai-agents-for-data-analytics-a-strategic-guide-to-agentic-ai-in-enterprise/
