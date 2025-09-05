@@ -157,3 +157,21 @@ References
 
 
 
+
+# References
+
+Practical Guide to First Principles Thinking (2024) — Ayk Martirosyan, accessed on April 22, 2025, https://www.maray.ai/posts/first-principles-thinking
+First Principles: The Building blocks of True Knowledge — Shane Parrish, accessed on April 22, 2025, https://fs.blog/first-principles/
+Mental Models: Learn How to Think Better and Gain a Mental Edge — James Clear, accessed on April 22, 2025, https://jamesclear.com/mental-models
+First Principles: Elon Musk on the Power of Thinking for Yourself — James Clear, accessed on April 22, 2025, https://jamesclear.com/first-principles
+First Principles Thinking — Inquisitive Life, accessed on April 22, 2025, https://inquisitivelife.com/first-principles-thinking/
+First Principles — BJJ Mental Models, accessed on April 22, 2025, https://bjjmentalmodels.com/first-principles/
+How To Think From First Principles — Like Elon Musk — I Am Matt Holland, accessed on April 22, 2025, https://iammattholland.com/how-to-think-from-first-principles-like-elon-musk/
+First Principles for Software Engineers — AddyOsmani.com, accessed on April 22, 2025, https://addyosmani.com/blog/first-principles-thinking-software-engineers
+First Principles Thinking for Software Engineers | daily.dev, accessed on April 22, 2025, https://daily.dev/blog/first-principles-thinking-for-software-engineers
+The Power of Thinking Differently | The Curiosity Chronicle — Sahil Bloom, accessed on April 22, 2025, https://www.sahilbloom.com/newsletter/the-power-of-thinking-differently
+First Principles Thinking — by Sahil Bloom — The Curiosity Chronicle, accessed on April 22, 2025, https://sahilbloom.substack.com/p/first-principles-thinking
+Transition to Remote Work with The ‘Suck-First’ Principle — Crossover, accessed on April 22, 2025, https://www.crossover.com/blog/suck-first-principle
+First Principles Thinking — CIO Wiki, accessed on April 22, 2025, https://cio-wiki.org/wiki/First_Principles_Thinking
+First Principles: The Building Blocks of True Knowledge — Farnam Street, accessed on April 22, 2025, https://fs.blog/first-principles/
+
