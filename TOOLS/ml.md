@@ -12,3 +12,10 @@
 9) Unsupervised Machine Learning: A Complete Guide, https://medium.com/@alok05/unsupervised-machine-learning-a-complete-guide-693739809b66
 10) Word Embedding models, https://medium.com/@dilipkumar/word-embedding-models-38f667f752d9
 11) How to Detect Objects in Real-Time Using OpenCV and Python, https://medium.com/data-science-collective/how-to-detect-objects-in-real-time-using-opencv-and-python-c1ba0c2c69c0
+
+
+-----------------------------------
+
+- Day 3 with Scikit-Learn and Matplotlib: From Visualizing Data to Evaluating Regression Models, https://medium.com/intern-elite/day-3-with-scikit-learn-and-matplotlib-from-visualizing-data-to-evaluating-regression-models-0f460b700357
+- Getting Started with Machine Learning: My Day 1 with scikit-learn, https://medium.com/intern-elite/getting-started-with-machine-learning-my-day-1-with-scikit-learn-0be69a0b2d82
+- 
