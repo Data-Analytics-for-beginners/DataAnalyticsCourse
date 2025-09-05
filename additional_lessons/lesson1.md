@@ -12,6 +12,8 @@
 11) https://dhired.com/uk/course/data-science-fundamentals-13mx228
 12) Streamlit Dashboard That Looks Like a SaaS Product, https://medium.com/@hadiyolworld007/streamlit-dashboard-that-looks-like-a-saas-product-05646a72a242
 13) Building Smarter GenAI Apps with Streamlit (2025 Edition), https://medium.com/chat-gpt-now-writes-all-my-articles/building-smarter-genai-apps-with-streamlit-2025-edition-ed900149dd0b
+14) How I Built My Own AI Agent Ecosystem, https://code.likeagirl.io/how-i-built-my-own-ai-agent-ecosystem-bae7ed67e14d
+15) 
 
 
 
