@@ -9,6 +9,7 @@
 - How I Built a Smart AI Travel Agent with LangChain, Python, and Google Maps, https://medium.com/data-science-collective/how-i-built-a-smart-ai-travel-agent-with-langchain-python-and-google-maps-53bd01b3cfeb
 - Building a supply chain agent with CrewAI, https://pub.towardsai.net/building-a-supply-chain-agent-with-crewai-15d5b74bbb20
 - From Prototype to Production: How to Deploy AI Agents That Actually Work, https://medium.com/@Micheal-Lanham/from-prototype-to-production-how-to-deploy-ai-agents-that-actually-work-958290e6db4e
+- Microsoft AI Agent, https://medium.com/datafrens-sg/microsoft-ai-agent-6116c6316c03
 - 
   
 
@@ -23,6 +24,7 @@
 - 5 Agent Workflows You Need to Master (And Exactly How to Use Them), https://medium.com/data-science-collective/5-agent-workflows-you-need-to-master-and-exactly-how-to-use-them-1b8726d17d4c
 - AI Agents in 5 Levels of Difficulty (With Full Code Implementation), https://medium.com/data-science-collective/ai-agents-in-5-levels-of-difficulty-with-full-code-implementation-15d794becfb8
 - Agentic AI for Data Engineering, https://medium.com/data-science-collective/agentic-ai-for-data-engineering-4412d5e70189
+- Building Smarter AI Agents with Azure AI Foundry and Model Context Protocol, https://medium.com/next-token/building-smarter-ai-agents-with-azure-ai-foundry-and-the-model-context-protocol-755bb790b770
 
 
 -------------------------------------------------
