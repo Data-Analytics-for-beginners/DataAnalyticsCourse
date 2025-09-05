@@ -24,3 +24,9 @@
 
 - PyTorch for Beginners: A Gentle Dive into Linear Regression, https://medium.com/@codegineer/pytorch-for-beginners-a-gentle-dive-into-linear-regression-2c79db413ff6
 - 
+
+
+-----------------------------
+
+- Support Vector Machine (SVM) classification model, https://medium.com/@dilipkumar/support-vector-machine-svm-classification-model-b5048923778a
+- 
