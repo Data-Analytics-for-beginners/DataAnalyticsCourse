@@ -3,6 +3,9 @@
 
 
 - Python in 2025: Why It Still Dominates the Decade of AI, Automation, and Big Money, https://medium.com/stackademic/python-in-2025-why-it-still-dominates-the-decade-of-ai-automation-and-big-money-f8c0d1015e63
+- Python OOP : A Beginner’s Guide to Classes and Objects, https://medium.com/intern-elite/python-oop-a-beginners-guide-to-classes-and-objects-8272ee079210
+- Python Generators & Iterators — The Ultimate Guide, https://medium.com/@TheEnaModernCoder/python-generators-iterators-the-ultimate-guide-4f1ec3a511a0
+- Advanced Python Interview Questions & Answers — Master Your Next Interview, https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-master-your-next-interview-9d9d16c2fb88
 - 
 
 
