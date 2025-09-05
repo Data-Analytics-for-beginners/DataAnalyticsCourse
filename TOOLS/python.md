@@ -1,6 +1,11 @@
 
 
 
+
+- Python in 2025: Why It Still Dominates the Decade of AI, Automation, and Big Money, https://medium.com/stackademic/python-in-2025-why-it-still-dominates-the-decade-of-ai-automation-and-big-money-f8c0d1015e63
+- 
+
+
 # Організація робочого середовища Python з використанням віртуальних середовищ
 
 ## Розуміння віртуальних середовищ
