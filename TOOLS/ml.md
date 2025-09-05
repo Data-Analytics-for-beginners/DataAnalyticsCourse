@@ -18,4 +18,9 @@
 
 - Day 3 with Scikit-Learn and Matplotlib: From Visualizing Data to Evaluating Regression Models, https://medium.com/intern-elite/day-3-with-scikit-learn-and-matplotlib-from-visualizing-data-to-evaluating-regression-models-0f460b700357
 - Getting Started with Machine Learning: My Day 1 with scikit-learn, https://medium.com/intern-elite/getting-started-with-machine-learning-my-day-1-with-scikit-learn-0be69a0b2d82
+- From Data to Deployment: Mastering Preprocessing, Hyperparameter Tuning, and Pipelines in Scikit-Learn, https://medium.com/intern-elite/from-data-to-deployment-mastering-preprocessing-hyperparameter-tuning-and-pipelines-in-d13a5300478e
+
+
+
+- PyTorch for Beginners: A Gentle Dive into Linear Regression, https://medium.com/@codegineer/pytorch-for-beginners-a-gentle-dive-into-linear-regression-2c79db413ff6
 - 
