@@ -15,3 +15,16 @@
 # SaaS
 - 7 Micro-SaaS Ideas Weekend Solopreneurs Can Launch Fast to Earn $1K–$10K/Month, https://ai.plainenglish.io/7-micro-saas-ideas-weekend-solopreneurs-can-launch-fast-to-earn-1k-10k-month-d151eefd0197
 - 
+
+
+# MVP
+
+- How to craft a yearly technology strategy: A Head of Engineering’s guide, https://levelup.gitconnected.com/how-to-craft-a-yearly-technology-strategy-a-head-of-engineerings-guide-1190fb64ea93
+- Blueprint for MVPs: An opinionated approach to crafting technical proposals — Part 1, https://levelup.gitconnected.com/blueprint-for-mvps-an-opinionated-approach-to-crafting-technical-proposals-part-1-712cfd606029
+- How to Get Rich as a Solo Software Developer, https://blog.stackademic.com/how-to-get-rich-as-a-solo-software-developer-b2c86f008d30
+
+
+# Agile 
+- Agile ceremonies: A comprehensive guide for modern engineering teams, https://levelup.gitconnected.com/agile-ceremonies-a-comprehensive-guide-for-modern-engineering-teams-44f470acc177
+- Agile lesson #24: Retrospectives that don’t feel like therapy, my playbook for meaningful reflection, https://medium.com/design-bootcamp/agile-lesson-24-retrospectives-that-dont-feel-like-therapy-my-playbook-for-meaningful-d6a5c77d0c6a
+- 
