@@ -96,6 +96,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 - The Ultimate Guide to Git Branching Strategies, https://medium.com/@prateekjain.dev/the-ultimate-guide-to-git-branching-strategies-6324f1aceac2
+
+- Git fundamentals: A comprehensive guide to effective version control, https://medium.com/@orestis.meikopoulos/git-fundamentals-an-introductory-guide-to-effective-version-control-1ab81cceb5a9
 - 
 
 
