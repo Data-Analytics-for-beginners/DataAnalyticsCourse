@@ -31,6 +31,7 @@
 -----------------------------
 
 - Support Vector Machine (SVM) classification model, https://medium.com/@dilipkumar/support-vector-machine-svm-classification-model-b5048923778a
-- 
+- Linear Regression for Humans: Predicting the Future in Plain English, https://medium.com/data-science-collective/linear-regression-for-humans-predicting-the-future-in-plain-english-7a98b877cb04
+
 
 
