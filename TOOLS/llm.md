@@ -26,4 +26,5 @@
 
 
 - Understanding LLMs from Scratch Using Middle School Math, https://medium.com/data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
+- LLMs think in matrices and vectors, https://ai.gopubby.com/the-crucial-math-behind-ais-thoughts-2c0305b658b3
 - 
