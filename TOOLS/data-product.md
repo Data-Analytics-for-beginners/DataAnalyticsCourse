@@ -18,4 +18,5 @@
 ----------------------------------------
 
 - Minimum Lovable Governance: A New Model for Data Products, https://medium.com/@dr.jarkko.moilanen/minimum-lovable-governance-a-new-model-for-data-products-26244569ecd1
+- One Data Economy, Many Standards — But Are They Talking to Each Other?, https://medium.com/@dr.jarkko.moilanen/one-data-economy-many-standards-but-are-they-talking-to-each-other-d573c20d835a
 - 
