@@ -23,3 +23,7 @@
 -  Production-Ready GitHub Repos to Master ML, MLOps, LLMs, RAG & AI Agents, https://medium.com/@techwithram/production-ready-github-repos-to-master-ml-mlops-llms-rag-ai-agents-12ceaaa5ad22
 -  
   
+
+
+- Understanding LLMs from Scratch Using Middle School Math, https://medium.com/data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876
+- 
