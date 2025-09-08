@@ -995,7 +995,15 @@ print(bmi)  # Виведе: 23.157829031553323
 - From Junior to Senior Data Scientist: 5 Traits That Accelerated My Career Growth, https://medium.com/data-science-collective/from-junior-to-senior-data-scientist-5-traits-that-accelerated-my-career-growth-6d1c47d2b655
 - Final Python Cheat Sheet for Market Data Analysis in 2025, https://medium.com/coding-nexus/final-python-cheat-sheet-for-market-data-analysis-in-2025-with-automated-conditional-email-alerts-7f1e2ec94f14
 - 
-  
+
+
+
+# PROJECT PORTFOLIO
+
+ - Practical guide to stand out with your Data Analytics portfolio project, https://medium.com/@fnguyen/practical-guide-to-stand-out-with-your-portfolio-project-6356cf8cb98e
+
+
+
 
 # TRADING
 - How To ACTUALLY Day-Trade Profitably (For Beginners), https://medium.datadriveninvestor.com/how-to-actually-day-trade-profitably-for-beginners-b760f2ede3e1
@@ -1410,6 +1418,8 @@ print(bmi)  # Виведе: 23.157829031553323
 
 - Mastering A/B Testing: From Basics to Advanced with a Real Streaming App Example, https://medium.com/@gayatrigattani2001/mastering-a-b-testing-from-basics-to-advanced-with-a-real-streaming-app-example-66dfb4428108
 - You can have it all: Parallel Testing in A/B Testing, https://medium.com/data-science-collective/you-can-have-it-all-parallel-testing-in-a-b-testing-555f11109252
+- How to prioritise A/B tests in your organisation?, https://medium.com/@fnguyen/how-to-prioritise-a-b-tests-in-your-organisation-9970b06bfc07
+- A/B Testing, https://medium.com/design-bootcamp/a-b-testing-8789ea50810c
 - 
 
 
