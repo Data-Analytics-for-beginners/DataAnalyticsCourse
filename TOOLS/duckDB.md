@@ -10,4 +10,4 @@
  - 7 DuckDB Power Features That Replace Your ETL Pipeline, https://medium.com/@connect.hashblock/7-duckdb-power-features-that-replace-your-etl-pipeline-6d5b726806ce
  - We Replaced Our Cloud Warehouse with DuckDB and Saved 80%, https://medium.com/@connect.hashblock/we-replaced-our-cloud-warehouse-with-duckdb-and-saved-80-b46ef4a2f6a8
  - The Death of Pandas-as-a-Default: Why DuckDB Workflows Scale Better, https://medium.com/@hadiyolworld007/the-death-of-pandas-as-a-default-why-duckdb-workflows-scale-better-9afef9327995
- - 
+ - How I Built a Personal Market Database with DuckDB and Parquet (Step by Step), https://medium.com/data-science-collective/how-i-built-a-personal-market-database-with-duckdb-and-parquet-step-by-step-27b0d1bb7e2e
