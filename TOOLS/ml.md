@@ -3,6 +3,7 @@
 - Classification Metrics: Choosing the Right Metrics for Your Business Problem, https://medium.com/@duygujones/classification-metrics-choosing-the-right-metrics-for-your-ml-models-87bf996d7c93
 - Evaluation Metrics for Regression Models: A Practical Guide, https://medium.com/@duygujones/evaluation-metrics-for-regression-models-a-practical-guide-3e5d27ef628c
 - Step-by-Step Deploying a Machine Learning Model using FastAPI, Docker and Streamlit, https://medium.com/@duygujones/step-by-step-deploying-a-machine-learning-model-using-fastapi-docker-and-streamlit-a66bf9c85043
+- MLOps Unleashed: Part 3 — Building CI/CD Pipelines for Machine Learning, https://medium.com/ai-in-plain-english/mlops-unleashed-part-3-building-ci-cd-pipelines-for-machine-learning-0d737b543a51
 - 
 
 
