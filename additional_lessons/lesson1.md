@@ -23,6 +23,9 @@
 
 - Building an AI Agent for Financial Analysis with Python, https://medium.com/@bravekjh/building-an-ai-agent-for-financial-analysis-with-python-22bd5177a36b
 - Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence using CrewAI, https://medium.com/@hayagriva99999/building-an-ai-powered-stock-analysis-platform-a-deep-dive-into-multi-agent-financial-intelligence-ae9fb045ce41
+- Building a Data Analyst Agent with Streamlit and Pydantic-AI — Part 2,
+- Step-by-Step Deploying a Machine Learning Model using FastAPI, Docker and Streamlit, https://medium.com/@duygujones/step-by-step-deploying-a-machine-learning-model-using-fastapi-docker-and-streamlit-a66bf9c85043
+- 
 
 
 
