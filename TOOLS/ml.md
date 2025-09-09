@@ -2,8 +2,13 @@
 
 - Classification Metrics: Choosing the Right Metrics for Your Business Problem, https://medium.com/@duygujones/classification-metrics-choosing-the-right-metrics-for-your-ml-models-87bf996d7c93
 - Evaluation Metrics for Regression Models: A Practical Guide, https://medium.com/@duygujones/evaluation-metrics-for-regression-models-a-practical-guide-3e5d27ef628c
+- Step-by-Step Deploying a Machine Learning Model using FastAPI, Docker and Streamlit, https://medium.com/@duygujones/step-by-step-deploying-a-machine-learning-model-using-fastapi-docker-and-streamlit-a66bf9c85043
+- 
 
 
+
+
+--------------------------------------------------------------------
 
 1) Modeling Generative Learning Algorithms with LDA and QDA, https://kuriko-iwai.medium.com/modeling-gaussian-discriminant-analysis-with-lda-and-qda-21ce01d4a455
 2) Understanding Video Transformers for Object Recognition, Tracking and Detection, https://medium.com/ai-ml-interview-playbook/understanding-video-transformers-for-object-recognition-tracking-and-detection-54e31988731f
