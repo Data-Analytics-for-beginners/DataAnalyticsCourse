@@ -5,6 +5,7 @@
  - Recommendation System part-2, https://medium.com/@priteshlathiya/recommendation-system-part-2-f91953feaedb
  - Recommender Systems in Python: From Collaborative to Content-Based Filtering, https://medium.com/@rairavi001/recommender-systems-in-python-from-collaborative-to-content-based-filtering-0e5c3c321bcd
  - The 7 System Design Trends That Could End Your Career in 2025 — or Make You a Legend, https://medium.com/@samurai.stateless.coder/the-7-system-design-trends-that-could-end-your-career-in-2025-or-make-you-a-legend-f08eba465e36
+ - System Design Concepts Course and Interview Prep, https://www.youtube.com/watch?v=F2FmTdLtb_4
  - 
    
 --------------------------------------
