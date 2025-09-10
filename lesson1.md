@@ -1104,7 +1104,9 @@ print(bmi)  # Виведе: 23.157829031553323
 - How to Work with Time Series Data: From Raw Signals to Forecast-Ready, https://medium.com/@ML_learnerr/how-to-work-with-time-series-data-from-raw-signals-to-forecast-ready-72f0c6310355
 - Time Series Foundation Models for Forecasting Task, https://medium.com/@mychen76/time-series-foundation-models-for-forecasting-task-c9076cae9a84
 - Time Series Anomaly Detection with PyCaret, https://medium.com/@pysquad/time-series-anomaly-detection-with-pycaret-e1cf6fda5216
-- 
+- Evaluating Time Series Models for Real-World Forecasting: A Practical Comparison, https://medium.com/@karanbhutani477/evaluating-time-series-models-for-real-world-forecasting-a-practical-comparison-5c9622618715
+- Feature Engineering for Time-Series Data: A Deep Yet Intuitive Guide, https://medium.com/@karanbhutani477/feature-engineering-for-time-series-data-a-deep-yet-intuitive-guide-b544aeb26ec2
+- Cross-Validation in Time Series, https://medium.com/@pacosun/respect-the-order-cross-validation-in-time-series-7d12beab79a1
 
 # DATA PROFILING
 
@@ -1253,6 +1255,15 @@ print(bmi)  # Виведе: 23.157829031553323
 
 # Time Series Analysis in Statistics
 - Time Series Analysis in Statistics, https://tracyrenee61.medium.com/time-series-analysis-in-statistics-5a85eaf5a9a9
+- Cross-Validation in Time Series, https://medium.com/@pacosun/respect-the-order-cross-validation-in-time-series-7d12beab79a1
+- Essential Tools for Time Series Forecasting, https://medium.com/code-applied/essential-tools-for-time-series-forecasting-a759d676a219
+- Time Series Secrets: Analysing a Time Series with tsfeatures, https://medium.com/data-science-collective/time-series-secrets-analysing-a-time-series-with-tsfeatures-57e43d35b6ef
+- A Dive into Advanced Time Series Analysis, https://medium.com/@sandanisesanika/a-dive-into-advanced-time-series-analysis-20ec943f7a2b
+- Forecasting horizons, https://medium.com/@aeon.toolkit/forecasting-horizons-da426b7a6c24
+- Hybrid Time-Series Forecasting with LangGraph, Prophet & Large Language Models (LLMs), https://medium.com/towards-artificial-intelligence/hybrid-time-series-forecasting-with-langgraph-prophet-large-language-models-llms-892002a67cb7
+  
+
+  
 
 # HYPOTHESIS TESTING
 
@@ -1303,7 +1314,9 @@ print(bmi)  # Виведе: 23.157829031553323
 # K-MEANS
 - K-Means Clustering: Your Friendly Guide to Unlocking Hidden Patterns in Data!, https://medium.com/@inkollusrivarsha0287/k-means-clustering-your-friendly-guide-to-unlocking-hidden-patterns-in-data-aad4b8eb9814
 - Clustering Technique: A Comprehensive Overview, https://medium.com/@tarangds/clustering-technique-a-comprehensive-overview-0162cfee1cec
-- 
+- Detecting Market Regimes: K-Means, https://medium.com/@datadave1/detecting-market-regimes-k-means-57a5c55e17d9
+- K-Means Clustering to Diversify Your Stock Portfolio, https://medium.com/@datadave1/k-means-clustering-to-diversify-your-stock-portfolio-50d807e90835
+
 
 # Outliers
 
