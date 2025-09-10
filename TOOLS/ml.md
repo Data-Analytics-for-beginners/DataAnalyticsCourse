@@ -1,5 +1,7 @@
 
 
+- A Comprehensive Guide to Building a Machine Learning Model with Python, https://medium.com/@EnginDenizTangut/a-comprehensive-guide-to-building-a-machine-learning-model-with-python-b4165cffe8f7
+- 
 - Classification Metrics: Choosing the Right Metrics for Your Business Problem, https://medium.com/@duygujones/classification-metrics-choosing-the-right-metrics-for-your-ml-models-87bf996d7c93
 - Evaluation Metrics for Regression Models: A Practical Guide, https://medium.com/@duygujones/evaluation-metrics-for-regression-models-a-practical-guide-3e5d27ef628c
 - Step-by-Step Deploying a Machine Learning Model using FastAPI, Docker and Streamlit, https://medium.com/@duygujones/step-by-step-deploying-a-machine-learning-model-using-fastapi-docker-and-streamlit-a66bf9c85043
