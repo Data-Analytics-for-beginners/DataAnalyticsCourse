@@ -1241,6 +1241,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - A Hands-On Look At Bayesian Inference, https://mohith-g.medium.com/a-hands-on-look-at-bayesian-inference-e169d6353ab1
 - Advanced Correlation Analysis Heatmap Plotting — Creating a Correlation Heatmap with Square Areas in Python, https://medium.com/top-python-libraries/advanced-correlation-analysis-heatmap-plotting-creating-a-correlation-heatmap-with-square-areas-c8b9e045d75a
 - 6 Statistical Distributions Explained With Python, https://medium.com/gitconnected/6-statistical-distributions-explained-with-python-e87f8ef8022d
+- Statistics for Data Scientist Part I — Understanding Data Distributions: A Practical Guide, https://medium.com/data-science-collective/statistics-for-data-scientist-part-i-understanding-data-distributions-a-practical-guide-222d371f9533
 - 
 
 
