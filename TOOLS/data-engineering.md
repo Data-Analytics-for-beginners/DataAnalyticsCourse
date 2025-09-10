@@ -9,7 +9,7 @@
 - 9 Tools Software Architects Use Every Day, https://icepanel.medium.com/9-tools-software-architects-use-every-day-b76b3ed29c49
 
 - The Best GitHub Repos for Data Engineers in 2025!, https://medium.com/@aminsiddique95/the-best-github-repos-for-data-engineers-in-2025-b2f02d7c1833
-- 
+- Observability & Monitoring in Data Engineering, https://medium.com/data-engineering-technical-standards-and-best/observability-monitoring-in-data-engineering-5f73daa63c3a
 
 
 
