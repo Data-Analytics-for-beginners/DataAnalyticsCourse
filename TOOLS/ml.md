@@ -8,6 +8,9 @@
 - MLOps Unleashed: Part 3 — Building CI/CD Pipelines for Machine Learning, https://medium.com/ai-in-plain-english/mlops-unleashed-part-3-building-ci-cd-pipelines-for-machine-learning-0d737b543a51
 - CI/CD for Machine Learning: A Practical Guide, https://medium.com/python-in-plain-english/ci-cd-for-machine-learning-a-practical-guide-0da798b54c6e
 -  Deploying a Machine Learning Model on AWS SageMaker, https://medium.com/algomart/deploying-a-machine-learning-model-on-aws-sagemaker-afffdb279d89
+-  Model Tuning and Overfitting Explained: How to Optimize Machine Learning Models for Real-World Success, https://medium.com/nextgenllm/model-tuning-and-overfitting-explained-how-to-optimize-machine-learning-models-for-real-world-af96a4a6a6d4
+-  ML Project 1 : Predicting Insurance Costs With the Decision Tree Model, https://medium.com/@arnanbonny/ml-project-1-predicting-insurance-costs-with-the-decision-tree-model-9c9f07ceaa6e
+-  ML Project 2: Predicting Diabetes with The KNN Model, https://medium.com/@arnanbonny/ml-project-2-predicting-diabetes-with-the-knn-model-50db88ad9eee
 -  
 
 
