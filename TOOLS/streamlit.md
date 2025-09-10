@@ -4,6 +4,11 @@
 
 ---------------------------
 
+- Build Your Own Interactive Data Analysis Tool with Streamlit, https://medium.com/@EnginDenizTangut/build-your-own-interactive-data-analysis-tool-with-streamlit-11f0bae0aed8
+- Streamlit Auth & Role-Based Dashboards, Done Right, https://medium.com/@hadiyolworld007/streamlit-auth-role-based-dashboards-done-right-5fe8ec334743
+
+------------------------------------------------------------------------------
+  
 - Streamlit Session State — A look into stateful apps, https://pub.towardsai.net/designing-a-data-pipeline-architecture-for-machine-learning-models-a1b745b366c6
 - Real-time Weather Dashboard with requests + Streamlit, https://medium.com/top-python-libraries/real-time-weather-dashboard-with-requests-streamlit-445737670a59
 - Streamlit + Matplotlib: Visualization Dashboards, https://medium.com/@linkingtoc/streamlit-matplotlib-visualization-dashboards-51c10d1cb3d5
