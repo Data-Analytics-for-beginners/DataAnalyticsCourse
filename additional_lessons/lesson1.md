@@ -182,7 +182,8 @@
 16) Data and Technique: Reflections on Visualizing by Hand, https://nightingaledvs.com/data-and-technique-reflections-on-visualizing-by-hand/
 17) literate visualisation framework, https://drive.google.com/file/d/1-HOypTY3lKDLCn0OOkFCs1DIMvD4JWeW/view
 18) analysis scenario template, https://observablehq.com/collection/@litvisresearch/prototype-analysis-template
-19) 
+19) The 7 System Design Trends That Could End Your Career in 2025 — or Make You a Legend, https://medium.com/@samurai.stateless.coder/the-7-system-design-trends-that-could-end-your-career-in-2025-or-make-you-a-legend-f08eba465e36
+20) 
 
 
 
