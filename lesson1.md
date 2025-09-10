@@ -1177,6 +1177,7 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Top Python Libraries for Data Analysis and Visualization in 2025, https://medium.com/@shouke.wei/top-python-libraries-for-data-analysis-and-visualization-in-2025-bebfd95c36b1
 -  Python Watchdog: Complete Guide and Advanced Use Cases, https://medium.com/@shouke.wei/python-watchdog-complete-guide-and-advanced-use-cases-56734e4a3ca6
 -  Anaconda vs. uv: Which Python Environment Tool Should You Use?, https://medium.com/algomart/anaconda-vs-uv-which-python-environment-tool-should-you-use-38b041215a06
+-  12 VS Code Extensions Every Python Developer Should Be Using, https://medium.com/gitconnected/12-vs-code-extensions-every-python-developer-should-be-using-a8f8ac05bf86
 -  
 
 
@@ -1187,6 +1188,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - 10 Essential Statistics Every Data Scientist Needs, https://medium.com/data-science-collective/10-essential-statistics-every-data-scientist-needs-ffcd74d7448a
 - 7 Pandas Alternatives That Outperform in 2025, https://medium.com/@connect.hashblock/7-pandas-alternatives-that-outperform-in-2025-c3472a7fe3cd
 - Practical Techniques for Parsing and Extracting Complex Data with Python Pandas, https://medium.com/@tubelwj/practical-techniques-for-parsing-and-extracting-complex-data-with-python-pandas-0fcd36485fda
+- Top 10 Pandas Tricks I Stole from Kaggle Grandmasters, https://medium.com/@connect.hashblock/top-10-pandas-tricks-i-stole-from-kaggle-grandmasters-d27ef2b29f5f
 - 
 
 
@@ -1236,6 +1238,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Linear Regression Explained: From Theory to Real-World Implementation, https://mohith-g.medium.com/linear-regression-explained-from-theory-to-real-world-implementation-45b43faed743
 - A Hands-On Look At Bayesian Inference, https://mohith-g.medium.com/a-hands-on-look-at-bayesian-inference-e169d6353ab1
 - Advanced Correlation Analysis Heatmap Plotting — Creating a Correlation Heatmap with Square Areas in Python, https://medium.com/top-python-libraries/advanced-correlation-analysis-heatmap-plotting-creating-a-correlation-heatmap-with-square-areas-c8b9e045d75a
+- 6 Statistical Distributions Explained With Python, https://medium.com/gitconnected/6-statistical-distributions-explained-with-python-e87f8ef8022d
 - 
 
 
@@ -1453,6 +1456,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Lets-Plot (IV): Data Visualization with Lets-Plot and Polars: A Comprehensive Tutorial, https://medium.com/@shouke.wei/lets-plot-iv-data-visualization-with-lets-plot-and-polars-a-comprehensive-tutorial-cfe974322fe1
 -  How to identify outliers of your data? (With Python codes), https://medium.com/top-python-libraries/how-to-identify-outliers-of-your-data-with-python-codes-d7e6e58f301d
 -  9 Unique Data Visualization Charts with Plotly, https://medium.com/top-python-libraries/9-unique-data-visualization-charts-with-plotly-eb73704e2aad
+-  7 Stunning Scientific Charts I Created with Plotly That You Shouldn’t Miss, https://medium.com/top-python-libraries/7-stunning-scientific-charts-i-created-with-plotly-that-you-shouldnt-miss-a1ce21add0da
+-  7 Stunning Scientific Charts I Created with Matplotlib That You Shouldn’t Miss, https://medium.com/top-python-libraries/7-stunning-scientific-charts-i-created-with-matplotlib-that-you-shouldnt-miss-2de2ed91b164
 -  
 
 
