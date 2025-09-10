@@ -1180,7 +1180,8 @@ print(bmi)  # Виведе: 23.157829031553323
 -  Python Watchdog: Complete Guide and Advanced Use Cases, https://medium.com/@shouke.wei/python-watchdog-complete-guide-and-advanced-use-cases-56734e4a3ca6
 -  Anaconda vs. uv: Which Python Environment Tool Should You Use?, https://medium.com/algomart/anaconda-vs-uv-which-python-environment-tool-should-you-use-38b041215a06
 -  12 VS Code Extensions Every Python Developer Should Be Using, https://medium.com/gitconnected/12-vs-code-extensions-every-python-developer-should-be-using-a8f8ac05bf86
--  
+-  Building a Python Data Science Stack with VS Code, https://medium.com/towardsdev/building-a-python-data-science-stack-with-vs-code-1a6852ab3842
+-  The Python Libraries I Use to Build APIs, Dashboards, and Automation Tools — All Without a Backend Team, https://medium.com/codrift/the-python-libraries-i-use-to-build-apis-dashboards-and-automation-tools-all-without-a-backend-f9ea6d37b4a1
 
 
 # Pandas
