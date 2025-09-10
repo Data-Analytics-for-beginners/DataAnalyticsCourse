@@ -42,3 +42,9 @@
 - Serving ML Models with FastAPI: A Production-Ready API in Minutes, https://grigorkh.medium.com/serving-ml-models-with-fastapi-a-production-ready-api-in-minutes-b5f4839a33a9
 - Deploying Your AI Agent with FastAPI, Docker, and AWS ECS, https://medium.com/@kushalbanda/deploying-your-ai-agent-with-fastapi-docker-and-aws-ecs-8d138e3b81e9
 - 
+
+
+-------------------------------------------------------------------------------------
+
+- Top 10 FastAPI Weekend Projects, https://medium.com/@connect.hashblock/top-10-fastapi-weekend-projects-43a00bb30170
+- 
