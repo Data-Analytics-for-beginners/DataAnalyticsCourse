@@ -7,7 +7,12 @@
 - An Easy End-To-End Machine Learning Project In Python (Perfect For Beginners!) (2/2), https://medium.com/@tararasti/an-easy-end-to-end-machine-learning-project-in-python-perfect-for-beginners-2-2-308cd010780b
 - 
 - Scikit-Learn Design, https://medium.com/@vishycodes/scikit-learn-design-4bde25b38cc3
-- 
+- AI : What is Principal Component Analysis (PCA)? Part 39, https://medium.com/@angadi.saa/ai-what-is-principal-component-analysis-pca-part-39-1954399cfb3b
+- Customer Segmentation Using K-Means Clustering, https://medium.com/@janeajodo/customer-segmentation-using-k-means-clustering-71ddb55e6a9c
+- Credit Card Customer Segmentation: Unsupervised Machine Learning K-Means Clustering, https://medium.com/@muhamadsalimalwan10/credit-card-customer-segmentation-unsupervised-machine-learning-k-means-clustering-fb4677461408
+- K-Means Clustering on Customer Segmentation Applications, https://medium.com/@cnjoki72/k-means-clustering-on-customer-segmentation-applications-c1532a64e06f
+- Customer Segmentation Using K-Means Clustering on Wholesale Data, https://medium.com/@tanzilapervaiz525/customer-segmentation-using-k-means-clustering-on-wholesale-data-705e24d2eda2
+
 
 # 
 - Clustering Demystified: The Heart Of Unsupervised Learning, https://medium.com/python-in-plain-english/clustering-demystified-the-heart-of-unsupervised-learning-63ce8d08b248
