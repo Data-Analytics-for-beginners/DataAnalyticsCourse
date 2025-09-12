@@ -180,3 +180,22 @@ References
 - First Principles Thinking — CIO Wiki, accessed on April 22, 2025, https://cio-wiki.org/wiki/First_Principles_Thinking
 - First Principles: The Building Blocks of True Knowledge — Farnam Street, accessed on April 22, 2025, https://fs.blog/first-principles/
 
+
+------------------------------------------------------------------------------
+
+# References
+
+- Time Series Analysis by Box, Jenkins & Reinsel (2008) — A foundational, rigorous treatment of ARIMA and Box–Jenkins methodology — it’s the classic work on these topics.
+- Time Series Analysis and Its Applications: With R Examples by Shumway & Stoffer (2000)— More approachable and modern in style, this book covers ARIMA, state-space models, and includes practical R code.
+- Forecasting: Principles and Practice by Hyndman & Athanasopoulos (2013)— A very practical and freely available text (online) that emphasizes ARIMA, seasonal extensions, and real-world forecasting.
+- Machine Learning for Time-Series with Python by Ben Auffarth (2021) — Great for hands-on practitioners using Python; covers ARIMA, RNNs, LSTMs, CNNs, plus preprocessing and evaluation.
+- Time Series Analysis: New Insights by Rifaat M. Abdalla (2023) — Combines traditional statistical methods with machine learning approaches in a contemporary perspective
+- “Forecasting Economics and Financial Time Series: ARIMA vs. LSTM” (2018) — A seminal arXiv study showing LSTM dramatically reduces forecasting error (84–87%) compared to ARIMA. arXivAstrophysics Data System
+- “A Comparative Analysis… Using ARIMA, LSTM, and BiLSTM” (2019) — Finds that BiLSTM outperforms both LSTM and ARIMA models in financial time series contexts. arXiv
+- “Cellular Traffic Prediction… LSTM vs ARIMA” (2019) — Demonstrates LSTM’s superiority with rich training data, while ARIMA remains competitive when modeling simpler, smaller datasets. arXiv
+- Comparison on NASDAQ data (2022) — Reports that ARIMA may outperform LSTM when using only univariate historical data, especially for longer forecast horizons. ACM Digital Library
+- Oil-production forecasting (2022) — ARIMA and LSTM both outperform Prophet; ARIMA is noted for robustness in unconventional reservoir contexts. ScienceDirect
+- Renewable energy (wind forecasting) — In a study using multivariate inputs, LSTM significantly outperformed ARIMA/SARIMA, achieving outstanding R² (≈ 0.986) and lower error metrics. SpringerLink
+
+-------------------------
+
