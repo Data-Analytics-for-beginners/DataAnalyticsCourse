@@ -1,5 +1,17 @@
 
 
+- A Beginner’s Guide To Exploratory Data Analysis (EDA) With Real Examples, https://medium.com/@tararasti/a-beginners-guide-to-exploratory-data-analysis-eda-with-real-examples-535424f3dafc
+- Reinforcement Learning 101: Key Terminology Explained With Formula And Simple Examples, https://medium.com/python-in-plain-english/reinforcement-learning-101-key-terminology-explained-with-formula-and-simple-examples-92f1ddea4bcd
+- 
+
+
+
+
+
+
+--------------------------------------------------
+
+
 - A Comprehensive Guide to Building a Machine Learning Model with Python, https://medium.com/@EnginDenizTangut/a-comprehensive-guide-to-building-a-machine-learning-model-with-python-b4165cffe8f7
 - 
 - Classification Metrics: Choosing the Right Metrics for Your Business Problem, https://medium.com/@duygujones/classification-metrics-choosing-the-right-metrics-for-your-ml-models-87bf996d7c93
@@ -52,3 +64,8 @@
 
 
 
+- R-CNN, Fast R-CNN, Faster R-CNN, and Mask R-CNN, https://medium.com/towardsdev/r-cnn-fast-r-cnn-faster-r-cnn-and-mask-r-cnn-e7cd2e6f0a82
+- The MLOps Maturity Playbook: Practical Steps to Production-Ready ML, https://medium.com/devops-dev/the-mlops-maturity-playbook-practical-steps-to-production-ready-ml-204005b9b3a6
+- Confusion Matrix, Accuracy, Precision, Recall, F1 Score, https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+- Top 10 Common ML Algorithms Every Data Scientist Should Know (Part 2), https://medium.com/python-in-plain-english/top-10-common-ml-algorithms-every-data-scientist-should-know-part-2-fce7e588e8e1
+- 
