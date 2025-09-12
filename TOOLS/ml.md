@@ -1,7 +1,8 @@
 
 - Machine Learning System Design — Part 1: Introduction, https://medium.com/@akdemir_bahadir/machine-learning-system-design-part-1-introduction-f1472b7e771d
-- 
+- Machine Learning System Design — Part 2: Framing Problems, Design Documents, and Aligning with Business Needs, https://medium.com/@akdemir_bahadir/machine-learning-system-design-part-2-framing-problems-design-documents-and-aligning-with-3b417803e93c
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - An Easy End-To-End Machine Learning Project In Python (Perfect For Beginners!) (2/2), https://medium.com/@tararasti/an-easy-end-to-end-machine-learning-project-in-python-perfect-for-beginners-2-2-308cd010780b
 - 
