@@ -2,6 +2,19 @@
 
 
 
+
+
+
+
+# ML System Design
+----------------------
+
+- Machine Learning System Design With end-to-end examples 15 reviews Valerii Babushkin and Arseny Kravchenko, https://www.manning.com/books/machine-learning-system-design?source=post_page-----f1472b7e771d---------------------------------------
+- Designing Machine Learning Systems, 
+
+-----------------------------------------------------------------------------
+
+
 - Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili, https://www.oreilly.com/library/view/machine-learning-with/9781801819312/?source=post_page-----0be69a0b2d82---------------------------------------
 - 
 
