@@ -1,5 +1,8 @@
 
-
+- Power BI Projects, https://medium.com/@benjohnokezie/power-bi-projects-a2febffbe8e2
+- Ecommerce Analytics Dashboard, https://medium.com/@amit_55502/ecommerce-analytics-dashboard-58a0a5c0f6c1
+- B2B SaaS Pricing, https://medium.com/product-marketing-alliance/b2b-saas-pricing-5baf127f65a8
+- 
 - Top-Rated Power BI Books And Materials Every Analyst Should Read in 2025, https://medium.com/microsoft-power-bi/top-rated-power-bi-books-and-materials-every-analyst-should-read-in-2025-02c3bc24f683
 - New Power BI Style Presets, https://medium.com/the-bi-corner/new-power-bi-style-presets-75374036b5d9
 - 20 DAX Queries That Saved My Power BI (and Sanity), https://analystuttam.medium.com/20-dax-queries-that-saved-my-power-bi-and-sanity-247af3144a80
@@ -19,3 +22,12 @@
 - Building a Correlation Matrix in Power BI: When Native Solutions Don’t Exist, We Create Them, https://medium.com/@ankan.ab21/building-a-correlation-matrix-in-power-bi-when-native-solutions-dont-exist-we-create-them-6bcdd21ae0a6
 - My First Power BI Dashboard: Lessons Learned and Challenges Faced, https://medium.com/@ecemgunay.02/my-first-power-bi-dashboard-lessons-learned-and-challenges-faced-bae431af21e0
 -  Power BI Magic: Turn Your KPI/Metric Cards into Interactive Slicers! (PBIX Included), https://medium.com/microsoft-power-bi/power-bi-magic-turn-your-kpi-metric-cards-into-interactive-slicers-pbix-included-b263f3442f5c
+
+
+----------------------------------------------
+
+- E-Commerce Dashboard Project Using Power Bi, https://medium.com/@tanzilapervaiz525/e-commerce-dashboard-using-power-bi-c82ab635cc0b
+- E-Commerce Sales Analysis, https://medium.com/@tanzilapervaiz525/e-commerce-sales-analysis-2dcdd21d277f
+- BI Case Study: Automating Quarterly Financial Reporting for Contoso Ltd using Power BI and Power Automate, https://medium.com/@benjohnokezie/automating-quarterly-financial-reporting-for-using-power-bi-and-power-automate-22b07300a706
+- Customer Insights and Segmentation Analysis,https://medium.com/@benjohnokezie/customer-insights-and-segmentation-analysis-18fc3f2ea094
+- 
