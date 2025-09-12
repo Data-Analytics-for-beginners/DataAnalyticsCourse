@@ -1263,6 +1263,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - A Dive into Advanced Time Series Analysis, https://medium.com/@sandanisesanika/a-dive-into-advanced-time-series-analysis-20ec943f7a2b
 - Forecasting horizons, https://medium.com/@aeon.toolkit/forecasting-horizons-da426b7a6c24
 - Hybrid Time-Series Forecasting with LangGraph, Prophet & Large Language Models (LLMs), https://medium.com/towards-artificial-intelligence/hybrid-time-series-forecasting-with-langgraph-prophet-large-language-models-llms-892002a67cb7
+- Comparison of Models for Analyzing Historical Economic Time-Series, 
   
 
   
