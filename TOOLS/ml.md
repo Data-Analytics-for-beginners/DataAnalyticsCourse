@@ -1,6 +1,11 @@
 
+- Machine Learning System Design — Part 1: Introduction, https://medium.com/@akdemir_bahadir/machine-learning-system-design-part-1-introduction-f1472b7e771d
+- 
+
 
 - An Easy End-To-End Machine Learning Project In Python (Perfect For Beginners!) (2/2), https://medium.com/@tararasti/an-easy-end-to-end-machine-learning-project-in-python-perfect-for-beginners-2-2-308cd010780b
+- 
+- Scikit-Learn Design, https://medium.com/@vishycodes/scikit-learn-design-4bde25b38cc3
 - 
 
 # 
