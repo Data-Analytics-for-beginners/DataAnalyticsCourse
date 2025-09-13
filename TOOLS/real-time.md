@@ -14,3 +14,5 @@
 - Building a Real-Time E-Commerce Data Pipeline with Kafka, Flink, PostgreSQL, and Elasticsearch, https://medium.com/@jushijun/building-a-real-time-e-commerce-data-pipeline-with-kafka-flink-postgresql-and-elasticsearch-31b109d02f77
 - Building a Real-Time Voting Analytics Dashboard with Kafka, Spark, PostgreSQL, and Streamlit, https://medium.com/@jushijun/building-a-real-time-voting-analytics-dashboard-with-kafka-spark-postgresql-and-streamlit-6b28199e94ca
 - Building a Real-Time Anomaly Detection Pipeline for Stock Trading Data with Redpanda and Quix, https://medium.com/@jushijun/building-a-real-time-anomaly-detection-pipeline-for-stock-trading-data-with-redpanda-and-quix-83da5a013599
+- Data Engineering for Real-Time Analytics, https://medium.com/illumination/data-engineering-for-real-time-analytics-68b7f8cc3824
+- 
