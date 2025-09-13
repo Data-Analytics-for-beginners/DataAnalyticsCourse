@@ -3,6 +3,8 @@
 
 
 - Building Agentic Solutions using Vibe-Coding, https://medium.com/@mohan-venkataraman/building-agentic-solutions-using-vibe-coding-d7a226cde655
+- Build Research Agents for Tech Insights, https://medium.com/data-science-collective/building-research-agents-for-tech-insights-f175e3a5bcba
+- Agentic AI: Build a Tech Research Agent, https://medium.com/gitconnected/agentic-workflows-build-a-tech-research-agent-da5e8247e123
 - 
 
 -------------------------------------------------------------
