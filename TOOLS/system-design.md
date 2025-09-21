@@ -1,5 +1,7 @@
 
-
+- System Design Series — Design Dropbox Part 1, https://medium.com/back-2-basecs/system-design-series-design-dropbox-part-1-eb7b717f0ea5
+- System Design Series — Online Chess, https://medium.com/back-2-basecs/system-design-series-online-chess-341d76fd64f4
+- 
 
  - Recommendation System, https://medium.com/@priteshlathiya/recommendation-system-36a949395fd2
  - Recommendation System part-2, https://medium.com/@priteshlathiya/recommendation-system-part-2-f91953feaedb
