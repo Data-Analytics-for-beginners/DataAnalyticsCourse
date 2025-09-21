@@ -95,9 +95,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+- A Beginner’s Guide : GitHub, https://medium.com/@morepravin1989/a-beginners-guide-github-6473051f4a61
 - The Ultimate Guide to Git Branching Strategies, https://medium.com/@prateekjain.dev/the-ultimate-guide-to-git-branching-strategies-6324f1aceac2
+- Basic Beginner Guide - GitHub CLI, https://medium.com/@morepravin1989/basic-beginner-guide-github-cli-c8a3b16eb3df
 
 - Git fundamentals: A comprehensive guide to effective version control, https://medium.com/@orestis.meikopoulos/git-fundamentals-an-introductory-guide-to-effective-version-control-1ab81cceb5a9
+- GitHub Actions for Beginners: Build Your First CI/CD Workflow, https://medium.com/@morepravin1989/github-actions-for-beginners-build-your-first-ci-cd-workflow-489fa0baa861
+- GitHub Actions: Your First Workflow (Basic — step by step), https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/tree/main
+- GitHub Actions: Hello World for Beginners (For Simple Start), https://medium.com/@morepravin1989/github-actions-hello-world-for-beginners-for-simple-start-e2047d5cd263
+- Git vs GitHub vs GitHub Actions — A Beginner-Friendly Guide, https://medium.com/@morepravin1989/git-vs-github-vs-github-actions-a-beginner-friendly-guide-8f4f583c0a81
 - 
 
 
