@@ -98,13 +98,37 @@
 - A Beginner’s Guide : GitHub, https://medium.com/@morepravin1989/a-beginners-guide-github-6473051f4a61
 - The Ultimate Guide to Git Branching Strategies, https://medium.com/@prateekjain.dev/the-ultimate-guide-to-git-branching-strategies-6324f1aceac2
 - Basic Beginner Guide - GitHub CLI, https://medium.com/@morepravin1989/basic-beginner-guide-github-cli-c8a3b16eb3df
+- One Git Repo, Many Working Copies: Meet git worktree, https://medium.com/stackademic/one-git-repo-many-working-copies-meet-git-worktree-0bb650393248
+
+  
 
 - Git fundamentals: A comprehensive guide to effective version control, https://medium.com/@orestis.meikopoulos/git-fundamentals-an-introductory-guide-to-effective-version-control-1ab81cceb5a9
 - GitHub Actions for Beginners: Build Your First CI/CD Workflow, https://medium.com/@morepravin1989/github-actions-for-beginners-build-your-first-ci-cd-workflow-489fa0baa861
 - GitHub Actions: Your First Workflow (Basic — step by step), https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/tree/main
 - GitHub Actions: Hello World for Beginners (For Simple Start), https://medium.com/@morepravin1989/github-actions-hello-world-for-beginners-for-simple-start-e2047d5cd263
 - Git vs GitHub vs GitHub Actions — A Beginner-Friendly Guide, https://medium.com/@morepravin1989/git-vs-github-vs-github-actions-a-beginner-friendly-guide-8f4f583c0a81
-- 
+- GitHub Actions from 0 to Hero: Episode 1 — Introduction to GitHub Actions, https://medium.com/@flaviuscdinu93/github-actions-from-0-to-hero-episode-1-introduction-to-github-actions-72f1f501935Series Table of Contents
+
+
+
+
+Introduction to GitHub Actions [This article]
+Your first GitHub Actions workflow
+Workflow triggers and events deep dive
+Jobs, Steps, and Actions walkthrough
+Environment variables and secrets management
+Working with different programming languages
+Testing strategies for your GitHub Actions workflows
+Docker integration and container workflows
+Infrastructure as Code with Terraform/OpenTofu workflows
+Kubernetes deployments and GitOps
+Advanced DevOps patterns and tool integration
+Custom actions development
+Monitoring, debugging, and optimization
+Security best practices: OIDC, security scanning, and enterprise security
+Self-Hosted runners
+Enterprise patterns and governance
+Real-World project deep dive
 
 
 
