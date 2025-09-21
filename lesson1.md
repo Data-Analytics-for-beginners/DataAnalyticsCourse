@@ -1477,6 +1477,7 @@ print(bmi)  # Виведе: 23.157829031553323
 - Anomaly Detection in Bitcoin Prices Using Z-Score and Python, https://medium.com/@ecemgunay.02/anomaly-detection-in-bitcoin-prices-using-z-score-and-python-4cf22989112a
 - Machine Learning & Anomaly Detection, https://medium.com/@berkaykoseoglu833/machine-learning-anomaly-detection-0140bae02dd1
 - Python Outlier Detection: IQR Method and Z-score Implementation, https://medium.com/@tubelwj/python-outlier-detection-iqr-method-and-z-score-implementation-8e825edf4b32
+- How to Identify and Treat Outliers Using Python, https://medium.com/python-in-plain-english/how-to-identify-and-treat-outliers-using-python-779433addfe4
 
 
 
