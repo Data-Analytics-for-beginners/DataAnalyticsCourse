@@ -4378,6 +4378,14 @@ HAVING AVG(salary) > 55000
 
 # ПОСИЛАННЯ:
 
+- The Complete Guide to SQL Cohort Analysis: A Deep Dive for Product & Marketing, https://medium.com/@harsh1995hg/the-complete-guide-to-sql-cohort-analysis-a-deep-dive-for-product-marketing-4aef79e3ba5a
+- 10 SQL Queries Every Data Analyst Should Know, https://medium.com/towardsdev/10-sql-queries-every-data-analyst-should-know-fadb7d142383
+- SQL Case Studies from Top Fintech Companies (And What You Can Learn), https://medium.com/@sqlmentor/sql-case-studies-from-top-fintech-companies-and-what-you-can-learn-0e0e3eaa7842
+- Top 20 SQL One-Liners for Data Insights, https://medium.com/@sqlmentor/top-20-sql-one-liners-for-data-insights-4e18e989f4f2
+- SQL Window Functions Explained Visually, https://medium.com/@sqlmentor/sql-window-functions-explained-visually-b571c3726384
+- Common Table Expression (CTE) in SQL, https://medium.com/@martacasdelg/common-table-expression-cte-in-sql-c66403242ee0
+- The SQL Query Nobody Teaches You: Mastering Conditional Aggregation for Dynamic Reports, https://medium.com/@harsh1995hg/the-sql-query-nobody-teaches-you-mastering-conditional-aggregation-for-dynamic-reports-8bd3a054ba9c
+- 
 
 
 
