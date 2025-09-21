@@ -112,23 +112,23 @@
 
 
 
-Introduction to GitHub Actions [This article]
-Your first GitHub Actions workflow
-Workflow triggers and events deep dive
-Jobs, Steps, and Actions walkthrough
-Environment variables and secrets management
-Working with different programming languages
-Testing strategies for your GitHub Actions workflows
-Docker integration and container workflows
-Infrastructure as Code with Terraform/OpenTofu workflows
-Kubernetes deployments and GitOps
-Advanced DevOps patterns and tool integration
-Custom actions development
-Monitoring, debugging, and optimization
-Security best practices: OIDC, security scanning, and enterprise security
-Self-Hosted runners
-Enterprise patterns and governance
-Real-World project deep dive
+- Introduction to GitHub Actions [This article]
+- Your first GitHub Actions workflow
+- Workflow triggers and events deep dive
+- Jobs, Steps, and Actions walkthrough
+- Environment variables and secrets management
+- Working with different programming languages
+- Testing strategies for your GitHub Actions workflows
+- Docker integration and container workflows
+- Infrastructure as Code with Terraform/OpenTofu workflows
+- Kubernetes deployments and GitOps
+- Advanced DevOps patterns and tool integration
+- Custom actions development
+- Monitoring, debugging, and optimization
+- Security best practices: OIDC, security scanning, and enterprise security
+- Self-Hosted runners
+- Enterprise patterns and governance
+- Real-World project deep dive
 
 
 
