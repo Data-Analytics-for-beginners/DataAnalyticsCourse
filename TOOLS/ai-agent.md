@@ -1,6 +1,13 @@
 
 
 
+- Building Real Enterprise AI Agents with Apache Flink, https://seanfalconer.medium.com/building-real-enterprise-ai-agents-with-apache-flink-4d9e4aef6004
+- The Future of AI Agents is Event-Driven, https://seanfalconer.medium.com/the-future-of-ai-agents-is-event-driven-9e25124060d6
+- Kafka, A2A, MCP, and Flink: The New Stack for AI Agents, https://seanfalconer.medium.com/kafka-a2a-mcp-and-flink-the-new-stack-for-ai-agents-4b6cb8b85b72
+- Build an AI Agent That Turns SQL Databases into Dashboards — No Queries Needed, https://viveksinghpathania.medium.com/build-an-ai-agent-that-turns-sql-databases-into-dashboards-no-queries-needed-ea78571b2475
+
+-------------------------------------------------------------------------------------------
+   
 
 - Building Agentic Solutions using Vibe-Coding, https://medium.com/@mohan-venkataraman/building-agentic-solutions-using-vibe-coding-d7a226cde655
 - Build Research Agents for Tech Insights, https://medium.com/data-science-collective/building-research-agents-for-tech-insights-f175e3a5bcba
