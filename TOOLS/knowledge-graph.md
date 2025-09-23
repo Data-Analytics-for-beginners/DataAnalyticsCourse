@@ -2,6 +2,14 @@
 
 
 
+----------------------------------------------------------------
+
+- Understanding Knowledge graphs for Agentic AI, https://shilpathota.medium.com/understanding-knowledge-graphs-for-agentic-ai-7162d018387b
+- Agentic Knowledge Graph Construction with Neo4j, https://shilpathota.medium.com/agentic-knowledge-graph-construction-with-neo4j-aadda43b71d9
+
+
+
+-----------------------------------------------------------------------
 
 - The Role of Knowledge Graphs in Healthcare, https://medium.com/@adnanmasood/the-role-of-knowledge-graphs-in-healthcare-7109a8c33122
 - From Legal Documents to Knowledge Graphs, https://medium.com/neo4j/from-legal-documents-to-knowledge-graphs-ccd9cb062320
