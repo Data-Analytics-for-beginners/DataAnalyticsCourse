@@ -17,6 +17,10 @@
  - I Built a DuckDB-Powered Data Explorer with Streamlit — Here’s How, https://medium.com/@hadiyolworld007/i-built-a-duckdb-powered-data-explorer-with-streamlit-heres-how-e2ea6598dd1e
 
    -----------------------------------------------------------------------------------------------------------------------------------
+   
+ - 7 DuckDB Window Functions for Cohort Gold, https://medium.com/@connect.hashblock/7-duckdb-window-functions-for-cohort-gold-c62366e4e427
+ - 
+
 
    
 
