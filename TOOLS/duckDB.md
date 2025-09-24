@@ -19,3 +19,7 @@
    -----------------------------------------------------------------------------------------------------------------------------------
 
    
+
+
+- FastAPI + SQLAlchemy: Build Your First CRUD API Like a Boss, https://medium.com/@priyanshu011109/fastapi-sqlalchemy-build-your-first-crud-api-like-a-boss-c0d67bce5933
+- 
