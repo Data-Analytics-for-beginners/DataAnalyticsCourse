@@ -6,7 +6,11 @@
 - Python OOP : A Beginner’s Guide to Classes and Objects, https://medium.com/intern-elite/python-oop-a-beginners-guide-to-classes-and-objects-8272ee079210
 - Python Generators & Iterators — The Ultimate Guide, https://medium.com/@TheEnaModernCoder/python-generators-iterators-the-ultimate-guide-4f1ec3a511a0
 - Advanced Python Interview Questions & Answers — Master Your Next Interview, https://medium.com/@TheEnaModernCoder/advanced-python-interview-questions-answers-master-your-next-interview-9d9d16c2fb88
+- Python Libraries for Simulation Modeling, https://medium.com/@shouke.wei/python-libraries-for-simulation-modeling-e5e8dc0c13d4
 - 
+
+
+-----------------------------------------
 
 
 # Організація робочого середовища Python з використанням віртуальних середовищ
