@@ -2,11 +2,13 @@
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
 - Build a Django Blog Project (With Full Code & Step-by-Step Guide), https://medium.com/pyzilla/django-blog-project-full-code-tutorial-3f8872b2b765
 - Database Design for Product Management, https://medium.com/@pesarakex/database-design-for-product-management-9280fd7c66fe
-- 
+- 12 Django Admin Tweaks That Save Me 5 Hours Weekly, https://medium.com/@connect.hashblock/12-django-admin-tweaks-that-save-me-5-hours-weekly-9ad23b1ca346
 
----------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 - The Future of Django Engineers in the AI Era, https://medium.com/@Am_Issath/the-future-of-django-engineers-in-the-ai-era-5411c55fce9a
 - The Full-Stack Django Developer: The Return of the One-Person Web Team, https://medium.com/@priyanshu011109/the-full-stack-django-developer-the-return-of-the-one-person-web-team-6a810fef5b98
