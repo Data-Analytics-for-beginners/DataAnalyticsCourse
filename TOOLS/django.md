@@ -13,7 +13,24 @@
 - Django on Steroids: Async Views for 10x Request Handling, https://medium.com/@hadiyolworld007/django-on-steroids-async-views-for-10x-request-handling-ccb069fe9246
 - 
 
+--------------------------------
 
+- Building my own Task ToDo app With Django and HTMX. Part II, https://medium.com/@marcnealer/building-my-own-task-todo-app-with-django-and-htmx-part-ii-78b5ba7975bf
+- Building my own Task ToDo app With Django and HTMX. Part I, https://medium.com/@marcnealer/building-my-own-task-todo-app-with-django-and-htmx-part-i-6e19277ac84c
+- Django + HTMX = Simple modals, https://medium.com/@marcnealer/django-htmx-simple-modals-d76a4cdbe2c0
+- Use aio-pika instead of Celery for Django and FastAPI, https://medium.com/@marcnealer/use-aio-pika-instead-of-celery-for-django-and-fastapi-73d5e055adb0
+- 10 Libraries for Django projects, https://medium.com/@marcnealer/10-libraries-for-django-projects-04d6ea4c0370
+- Simple Django Background Task Management, https://medium.com/devops-dev/simple-django-background-task-management-a9da17da337d
+- Django Background Work Explained: From Threads to Celery, https://medium.com/@anas-issath/django-background-work-explained-from-threads-to-celery-1f7b6e04fd12
+- Securing Your API with Django Rest Framework: Token, Permissions, and Throttling, https://medium.com/@metehan480/securing-your-api-with-django-rest-framework-token-permissions-and-throttling-437b03c882f4
+- How I Built a Role-Based Access Control System with FastAPI and Pydantic, https://medium.com/@bhagyarana80/how-i-built-a-role-based-access-control-system-with-fastapi-and-pydantic-2c49e967efb0
+- Mastering Advanced Django ORM (Part 2), https://medium.com/python-in-plain-english/mastering-advanced-django-orm-part-2-7d484c800527
+- Every Django Engineer’s Security Settings Playbook, https://medium.com/@anas-issath/every-django-engineers-security-settings-playbook-0822d0f239a4
+- Mastering Advanced Django ORM (Part 1): Core Querying Power, https://medium.com/python-in-plain-english/mastering-advanced-django-orm-part-1-core-querying-power-fc1e1c8a77d4
+- Django Signals vs Celery: When to Use Which for Background Tasks?, https://medium.com/@metehan480/django-signals-vs-celery-when-to-use-which-for-background-tasks-272350ae3fb9
+- 
+
+  
 ---------------------------------
 
 #  The Future of Django Engineers in the AI Era, https://medium.com/@Am_Issath/the-future-of-django-engineers-in-the-ai-era-5411c55fce9a
