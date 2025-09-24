@@ -1,5 +1,14 @@
 
 
+
+
+
+- Mastering GitHub Actions: Deploy React App to GitHub Pages, Auto-Update README, and Automate Contributor Greetings, https://medium.com/@arafatDU/mastering-github-actions-deploy-react-app-to-github-pages-auto-update-readme-and-automate-9818dad18c5b
+- 
+
+
+
+
 # Встановлення Git на Windows
 
 Щоб встановити Git на Windows, виконайте наступні кроки:
