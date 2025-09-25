@@ -170,3 +170,26 @@ https://ua.udemy.com/course/data-analytics-projects-python/
 Аналітика даних зосереджена на розумінні того, що сталося в минулому та чому це сталося. Наука про дані використовує цю інформацію для створення моделей, які можуть передбачати майбутні події та тенденції, застосовуючи складні алгоритми машинного навчання та штучного інтелекту.
 
 -------------------------------------------------------------------------------------------------------
+
+
+
+
+flowchart TD
+    A[Understanding Use-case] --> B[Run ETL Pipeline]
+    B --> C[EDA]
+    B --> D[Extract Data]
+    B --> E[Transform Data into Acceptable Format]
+    B --> F[Load Data]
+    C --> G[Conclusion]
+    C --> H[Data Viz.]
+    G --> I[Dashboarding]
+    H --> I
+    
+    %% ETL Process details
+    E -.-> J[Remove Duplicate Rows<br/>Remove In-relevant Rows/Cols<br/>Fix Errors<br/>Fix Missing Values & Data Types<br/>Deal with Outliers]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style G fill:#fff3e0
+    style I fill:#fce4ec
