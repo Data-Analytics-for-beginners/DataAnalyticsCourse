@@ -1,5 +1,12 @@
 
 
+---------------------------------------------------------------
+
+- Knowledge Graph Generation, https://medium.com/neo4j/knowledge-graph-generation-057d91832462
+- Technocrats vs. Strategists, https://medium.com/@rogermartin/technocrats-vs-strategists-8462684297c3
+
+
+
 
 
 ----------------------------------------------------------------
