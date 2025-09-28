@@ -2,6 +2,9 @@
 
 
 
+- I Analyzed Salaries by Python Framework: The Results Will Enrage Django Developers, https://medium.com/@sohail_saifii/i-analyzed-salaries-by-python-framework-the-results-will-enrage-django-developers-559492d070c9
+- Stop Trusting Your Reverse Proxy: Secure Django the Right Way, https://medium.com/@anas-issath/stop-trusting-your-reverse-proxy-secure-django-the-right-way-ec45bad71c34
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 - Build a Django Blog Project (With Full Code & Step-by-Step Guide), https://medium.com/pyzilla/django-blog-project-full-code-tutorial-3f8872b2b765
