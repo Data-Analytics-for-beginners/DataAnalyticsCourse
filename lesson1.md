@@ -818,134 +818,6 @@ Real data analytics applications у cyber security focus на practical, measura
 *Примітка: Курс постійно оновлюється новими модулями та матеріалами відповідно до змін у галузі.*
 
 
-# Початок роботи з Python: Вибір середовища розробки
-
-## I. Вступ до інтегрованих середовищ розробки (IDE)
-- Курс записаний в Jupyter Notebook
-- Огляд доступних IDE для Python
-- Вибір середовища залежно від потреб
-
-## II. Google Colab як стартова платформа
-
-### 1. Переваги Google Colab:
-- Безкоштовні обчислювальні ресурси
-- Хмарне середовище
-- Доступ до Jupyter Notebook
-- Інтеграція з Google Drive
-
-### 2. Початок роботи:
-1. Відкриття нового ноутбука:
-   - Перехід на colab.google
-   - Створення нового ноутбука
-   - Підключення до середовища виконання
-
-2. Робочі ресурси:
-   - Безкоштовна версія: ~50-60 GB диску
-   - Pro версія: 225 GB диску
-
-## III. Основні функції Google Colab
-
-### 1. Робота з кодом:
-- Створення комірок коду
-- Виконання коду (Shift + Enter)
-- Додавання нових комірок
-
-### 2. Робота з файлами:
-- Завантаження датасетів
-- Підтримка CSV та Excel файлів
-- Збереження в форматі .ipynb
-
-### 3. Додаткові можливості:
-- Налаштування середовища
-- Клавіатурні скорочення
-- Command Palette
-- AI-асистент для написання коду
-
-## IV. Керування ноутбуком
-
-### 1. Основні операції:
-- Запуск/перезапуск ядра
-- Видалення комірок
-- Збереження роботи
-
-### 2. Інтерфейс:
-- Налаштування шрифтів
-- Зміна теми
-- Customization опції
-
-## V. Порівняння з VSCode
-
-### Переваги VSCode:
-- Розширені можливості
-- Підтримка терміналу
-- Можливості налагодження
-- Розширення для різних мов
-- Підготовка до ролі data scientist
-
-
-# Встановлення Anaconda та VS Code: Покрокова інструкція
-
-## I. Загальний огляд
-- VS Code як основне середовище розробки (IDE)
-- Підтримка форматів .ipynb та .py
-- Необхідність встановлення Anaconda
-
-## II. Встановлення Anaconda
-
-### 1. Що таке Anaconda?
-- Відкрите програмне забезпечення
-- Екосистема для data science та AI
-- Управління пакетами та середовищами Python
-
-### 2. Процес встановлення:
-1. Завантаження:
-   - Перехід на anaconda.com
-   - Вибір "Free download"
-   - Введення email
-   - Вибір версії відповідно до операційної системи
-
-2. Налаштування інсталяції:
-   - Вибір користувачів (всі або один)
-   - Вибір папки призначення
-   - Встановлення змінних середовища:
-     * Важливо: відмітити "Add Anaconda3 to PATH"
-     * Необхідно для роботи команд conda
-
-### 3. Anaconda Navigator:
-- Доступ до різних IDE
-- Jupyter Notebook
-- Управління середовищами
-
-## III. Встановлення VS Code
-
-### 1. Завантаження:
-- Перехід на офіційний сайт VS Code
-- Вибір версії для відповідної операційної системи
-- Запуск інсталятора
-
-### 2. Налаштування роботи:
-1. Створення робочої папки
-2. Відкриття через командний рядок:
-   - Перехід до потрібної папки
-   - Використання команди `code .`
-
-### 3. Альтернативні способи запуску:
-- Через контекстне меню ("Open with Code")
-- Через Anaconda Navigator
-
-## IV. Важливі примітки
-
-### 1. Змінні середовища:
-- Перевірка наявності шляхів Anaconda
-- Наявність необхідних папок (bin, Scripts)
-
-### 2. Перевірка встановлення:
-- Запуск Anaconda Navigator
-- Створення тестового .ipynb файлу в VS Code
-
-### 3. Альтернативи:
-- Можливість використання Google Colab
-- Звернення до форуму для вирішення проблем
 
 
 
@@ -1184,7 +1056,6 @@ print(bmi)  # Виведе: 23.157829031553323
 -  10 Metrics Every Data Platform Team Should Track, https://medium.com/endtoenddata/10-metrics-every-data-platform-team-should-track-d3671f37f111
 -  
 
-
 -  Top 10 Programming Languages & Frameworks to Master in 2025 (Based on Real-World Demand), https://medium.com/readers-club/top-10-programming-languages-frameworks-to-master-in-2025-based-on-real-world-demand-ad8089208db7
 -  9 Modern Python Libraries You Must Know in 2025!, https://medium.com/@Aashish..kumar/9-modern-python-libraries-you-must-know-in-2025-4b213b21a4f5
 -  Jupyter Notebook Intelligence, https://medium.com/codefile/jupyter-notebook-intelligence-5f404d2cba6b
@@ -1307,39 +1178,6 @@ print(bmi)  # Виведе: 23.157829031553323
 -  MedGemma: Google’s Open-Source AI Model for Healthcare, https://medium.com/@romina.elena.mendez/medgemma-googles-open-source-ai-model-for-healthcare-cc81ab90f75b
 -  
 
-# Python
-
--  🔥 Python’s 2025 Web Stack: FastAPI, SQLModel, and HTMX Changed Everything, https://medium.com/@hadiyolworld007/pythons-2025-web-stack-fastapi-sqlmodel-and-htmx-changed-everything-34ff7ee449d7
--  Visual Studio Code Settings for Python Development, https://medium.com/towardsdev/visual-studio-code-settings-for-python-development-025b3d5ff4fe
--  Why Python Shiny Is Your New Killer Data Storytelling Tool, https://medium.com/data-storytelling-corner/why-python-shiny-is-your-new-killer-data-storytelling-tool-a4c24f0e376b
--  A Free 17-Hour Course to Learn Python for Data Science (for Beginners), https://thepycoach.com/a-free-17-hour-course-to-learn-python-for-data-science-for-beginners-29112d5705ca
--  How I’d Learn Python Faster Using AI, https://medium.com/artificial-corner/how-id-learn-python-faster-using-ai-584b385f3fbf
--  🤯 The Best Programming Languages to Learn in 2025 (No, It’s Not Just Python… Again 🙄), https://medium.com/javarevisited/the-best-programming-languages-to-learn-in-2025-no-its-not-just-python-again-4f827eecd0bb
--  Learn Python Programming with Examples — Post#5, https://medium.com/operations-research-bit/learn-python-programming-with-examples-post-5-00dc6dfb6245
--  Learn Python Programming with Examples — Post#8, https://medium.com/operations-research-bit/learn-python-programming-with-examples-post-8-e62a04a9bd85
--  8 OOP Concepts Every Python Dev Should Master, https://medium.com/python-in-plain-english/8-oop-concepts-every-python-dev-should-master-f1e8b033f026
--  Analyze Data Like A Python Pro, https://medium.com/towards-artificial-intelligence/analyze-data-like-a-python-pro-b24e73b943ab
--  Folder Structure Matters: My Python Project Template Explained, https://medium.com/the-pythonworld/folder-structure-matters-my-python-project-template-explained-33b7248c5e83
--  Python: Key Concepts Explained with Data Science Examples, https://medium.com/@ryassminh/python-key-concepts-explained-with-data-science-examples-5c132cd645a2
--  Top Python Libraries for Data Analysis and Visualization in 2025, https://medium.com/@shouke.wei/top-python-libraries-for-data-analysis-and-visualization-in-2025-bebfd95c36b1
--  Python Watchdog: Complete Guide and Advanced Use Cases, https://medium.com/@shouke.wei/python-watchdog-complete-guide-and-advanced-use-cases-56734e4a3ca6
--  Anaconda vs. uv: Which Python Environment Tool Should You Use?, https://medium.com/algomart/anaconda-vs-uv-which-python-environment-tool-should-you-use-38b041215a06
--  12 VS Code Extensions Every Python Developer Should Be Using, https://medium.com/gitconnected/12-vs-code-extensions-every-python-developer-should-be-using-a8f8ac05bf86
--  Building a Python Data Science Stack with VS Code, https://medium.com/towardsdev/building-a-python-data-science-stack-with-vs-code-1a6852ab3842
--  The Python Libraries I Use to Build APIs, Dashboards, and Automation Tools — All Without a Backend Team, https://medium.com/codrift/the-python-libraries-i-use-to-build-apis-dashboards-and-automation-tools-all-without-a-backend-f9ea6d37b4a1
-
-
-# Pandas
-- 🐼 10 Pandas Patterns I Wish I Knew When I Started, https://medium.com/@hadiyolworld007/10-pandas-patterns-i-wish-i-knew-when-i-started-473e1cbe06f1
-- 🐼 Pandas Made Easy: The Data Workflow I Wish I Knew Earlier, https://medium.com/@hadiyolworld007/pandas-made-easy-the-data-workflow-i-wish-i-knew-earlier-5754064eb6b6
-- 10 Pandas Tricks Every Analyst Should Know, https://medium.com/@connect.hashblock/10-pandas-tricks-every-analyst-should-know-5cac9f544625
-- 10 Essential Statistics Every Data Scientist Needs, https://medium.com/data-science-collective/10-essential-statistics-every-data-scientist-needs-ffcd74d7448a
-- 7 Pandas Alternatives That Outperform in 2025, https://medium.com/@connect.hashblock/7-pandas-alternatives-that-outperform-in-2025-c3472a7fe3cd
-- Practical Techniques for Parsing and Extracting Complex Data with Python Pandas, https://medium.com/@tubelwj/practical-techniques-for-parsing-and-extracting-complex-data-with-python-pandas-0fcd36485fda
-- Top 10 Pandas Tricks I Stole from Kaggle Grandmasters, https://medium.com/@connect.hashblock/top-10-pandas-tricks-i-stole-from-kaggle-grandmasters-d27ef2b29f5f
-- 
-
-
 
 # Web Scraping
 - How to Parse JSON Data With Python, https://medium.com/@datajournal/how-to-parse-json-data-with-python-99069a405e2b
@@ -1350,44 +1188,6 @@ print(bmi)  # Виведе: 23.157829031553323
 # Jupyter Notebook
 - Best Jupyter Notebook Alternatives in 2025, https://medium.com/pathway-to-data-analysis/best-jupyter-notebook-alternatives-in-2025-4086532c8a46
 - A Cursor Jupyter Notebooks Python Git Workflow, https://medium.com/@john-tucker/a-cursor-jupyter-notebooks-python-git-workflow-84e1846be904
-- 
-
-
-
-# STATISTICS
-- Learn Statistics with Python: What is statistics?, https://tracyrenee61.medium.com/learn-statistics-with-python-what-is-statistics-99970b8b7056
-- Learn statistics with Python: Descriptive statistics, https://tracyrenee61.medium.com/learn-statistics-with-python-descriptive-statistics-cfde5b70e471
-  
-- Statistics Interview Question: What is the mean and standard deviation of the binomial distribution?, https://medium.com/@tracyrenee61/statistics-interview-question-what-is-the-mean-and-standard-deviation-of-the-binomial-distribution-97ba235f5094
-- How to identify outliers of your data? (With Python codes), https://medium.com/top-python-libraries/how-to-identify-outliers-of-your-data-with-python-codes-d7e6e58f301d
-- The Ultimate Guide to Seaborn Plots: A Step-by-Step Tutorial with Examples, https://medium.com/stackademic/the-ultimate-guide-to-seaborn-plots-a-step-by-step-tutorial-with-examples-527350003e1d
-- D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
-- How to Find the Best Theoretical Distribution for Your Data, https://medium.com/@erdogant/how-to-find-the-best-theoretical-distribution-for-your-data-a26e5673b4bd
-- What Python Can Do With Sentinel-2: A Beginner’s Guide, https://medium.com/tierra-insights/what-python-can-do-with-sentinel-2-a-beginners-guide-da1721115ff0
-- How to Handle Skewed Data: A Guide for Data Scientists, https://medium.com/gopenai/how-to-handle-skewed-data-a-guide-for-data-scientists-84187ba7f805
-- Python Statistical Analysis: A Comprehensive Comparison, https://medium.com/@shouke.wei/python-statistical-analysis-a-comprehensive-comparison-ab6286693219
-- A library in Python which helps you with hypothesis and statistical models, https://medium.com/top-python-libraries/a-library-in-python-which-helps-you-with-hypothesis-and-statistical-models-cb88b714830e
-- Essential Statistics for Data and BI Analysts: A Comprehensive Guide to the Fundamentals That Drive Insightful Analytics, https://medium.com/microsoft-power-bi/essential-statistics-for-data-and-bi-analysts-a-comprehensive-guide-to-the-fundamentals-that-drive-5178520eda1a
-- Hypothesis Testing in Statistics, https://medium.com/@info.codetitan/hypothesis-testing-in-statistics-9b64db8266c0
-- Learn statistics with Python: Correlation and regression analysis, https://medium.com/@tracyrenee61/learn-statistics-with-python-correlation-and-regression-analysis-4d7ee4a9cb66
-- Learn statistics with Python: Time Series Analysis in Statistics, https://medium.com/@tracyrenee61/learn-statistics-with-python-time-series-analysis-in-statistics-53f2a7467f57
-- Learn statistics with Python: Distributions used in hypothesis testing, https://medium.com/@tracyrenee61/learn-statistics-with-python-distributions-used-in-hypothesis-testing-87ea3a426aba
-- Statistics interview question: How does the distribution of the mean depend on distribution of data?, https://medium.com/@tracyrenee61/statistics-interview-question-how-does-the-distribution-of-the-mean-depend-on-distribution-of-data-5b74cb786850
-- Learn statistics with Python: Estimation, https://medium.com/@tracyrenee61/learn-statistics-with-python-estimation-4b0f4561ba36
-- Learn statistics with Python: Non-parametric tests, https://medium.com/@tracyrenee61/learn-statistics-with-python-non-parametric-tests-73116b504590
-- Learn statistics with Python: A/B testing, https://medium.com/@tracyrenee61/learn-statistics-with-python-a-b-testing-9259037cacc4
-- Learn hypothesis testing with Python: Charts, https://medium.com/@tracyrenee61/learn-hypothesis-testing-with-python-charts-b3538f372814
-- Learn statistics with Python: Experimental design, https://medium.com/@tracyrenee61/learn-statistics-with-python-experimental-design-333a8bc070df
-- Learn statistics with Python: Hypothesis testing as it relates to distributions, https://medium.com/@tracyrenee61/learn-statisticsc-with-python-hypothesis-testing-as-it-relates-to-distributions-338fa804cc4d
-- Learn statistics with Python: Probability, https://medium.com/@tracyrenee61/learn-statistics-with-python-probability-2b44617e58d2
-- Learn statistics with Python: Visualisation, https://medium.com/@tracyrenee61/learn-statistics-with-python-visualisation-7e5b44e3360f
-- 7 Practical Guidelines for Accurate Statistical Model Building, https://medium.com/@kgm_52135/7-practical-guidelines-for-accurate-statistical-model-building-634ba60e0083
-- Bootstrapping in Data Analysis: A Powerful Resampling Technique, https://medium.com/@data-overload/bootstrapping-in-data-analysis-a-powerful-resampling-technique-6f4c071912b5
-- Linear Regression Explained: From Theory to Real-World Implementation, https://mohith-g.medium.com/linear-regression-explained-from-theory-to-real-world-implementation-45b43faed743
-- A Hands-On Look At Bayesian Inference, https://mohith-g.medium.com/a-hands-on-look-at-bayesian-inference-e169d6353ab1
-- Advanced Correlation Analysis Heatmap Plotting — Creating a Correlation Heatmap with Square Areas in Python, https://medium.com/top-python-libraries/advanced-correlation-analysis-heatmap-plotting-creating-a-correlation-heatmap-with-square-areas-c8b9e045d75a
-- 6 Statistical Distributions Explained With Python, https://medium.com/gitconnected/6-statistical-distributions-explained-with-python-e87f8ef8022d
-- Statistics for Data Scientist Part I — Understanding Data Distributions: A Practical Guide, https://medium.com/data-science-collective/statistics-for-data-scientist-part-i-understanding-data-distributions-a-practical-guide-222d371f9533
 - 
 
 
@@ -1412,22 +1212,6 @@ print(bmi)  # Виведе: 23.157829031553323
   
 
   
-
-# HYPOTHESIS TESTING
-
-- Learn hypothesis testing with Python: Measures of central tendency, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-measures-of-central-tendency-d417ba471384
-- Learn hypothesis testing with Python: Probability distributions, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-probability-distributions-e903bab3fe5f
-- Learn hypothesis testing with Python: Poisson distribution practice problems, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-poisson-distribution-practice-problems-2a817637ba59
-- Learn Statistics with Python: What is statistics?, https://tracyrenee61.medium.com/learn-statistics-with-python-what-is-statistics-99970b8b7056
-- Learn statistics with Python: Descriptive statistics, https://tracyrenee61.medium.com/learn-statistics-with-python-descriptive-statistics-cfde5b70e471
-- Learn hypothesis testing with Python: Central limit theorem, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-central-limit-theorem-d198525cf4c0
-- Learn hypothesis testing with Python: t distribution practice problems, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-t-distribution-practice-problems-0d9ecbb85aaa
-- Learn hypothesis testing with Python: Probability theory, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-probability-theory-b643b1114033
-- Learn hypothesis testing with Python: Confidence intervals, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-confidence-intervals-7b1f2bf1afaa
-- Learn hypothesis testing with Python: Hypothesis tests, https://tracyrenee61.medium.com/learn-hypothesis-testing-with-python-hypothesis-tests-3af342f1f03f
-- P-Values for Humans: The ‘Surprise Meter’ That Actually Makes Sense, https://medium.com/data-science-collective/p-values-for-humans-the-surprise-meter-that-actually-makes-sense-85ab4a60029f
-  
-
 
 
 # MATHS
@@ -1525,22 +1309,6 @@ print(bmi)  # Виведе: 23.157829031553323
 - Using AI for Data Modeling in dbt, https://medium.com/@mikldd/using-ai-for-data-modeling-in-dbt-975838054cb1
 
 
-# DASHBOARD
-
-- Building a Dashboard in Python, https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777
-- From Boring to Brilliant: Transforming Bar Charts in Power BI: Chap -5, https://medium.com/microsoft-power-bi/from-boring-to-brilliant-transforming-bar-charts-in-power-bi-chap-5-d0dc90d1ab46
-- Dashboard That Works: A Step-by-Step Guide for Startups in 2025, https://uxplanet.org/dashboard-that-works-a-step-by-step-guide-for-startups-in-2025-1cec1bfe7f9c
-- The Dashboard That Nearly Fired Our Sales Manager: A Power BI Lesson You Can’t Miss, https://medium.com/@harsh1995hg/the-dashboard-that-nearly-fired-our-sales-manager-a-power-bi-lesson-you-cant-miss-b6950ba50f61
-- Beyond the Charts: The Art of Data Storytelling for Business Impact, https://medium.com/@harsh1995hg/beyond-the-charts-the-art-of-data-storytelling-for-business-impact-3f6532df92e6
-- From Dashboards to Decisions: The Data Analyst’s Guide to Mastering Business Metrics & KPIs, https://medium.com/@harsh1995hg/from-dashboards-to-decisions-the-data-analysts-guide-to-mastering-business-metrics-kpis-f9f4bddf680d
-- Building a modern data dashboard, https://medium.com/gitconnected/building-a-modern-data-dashboard-579253a35ec1
-- D3Blocks: The Python Library to Create Interactive, Standalone, and Beautiful D3.js Charts, https://medium.com/data-science-collective/d3blocks-the-python-library-to-create-interactive-standalone-and-beautiful-d3-js-charts-ef8c65286e86
-- Ditch Jupyter — This Python Dashboard Stack Is the Future of Data Analysis, https://medium.com/@hadiyolworld007/ditch-jupyter-this-python-dashboard-stack-is-the-future-of-data-analysis-db8849ce2a4e
-- Building a data dashboard with Python and Taipy, https://medium.com/data-science-collective/building-a-data-dashboard-with-python-and-taipy-8e4288713d33
-- Dashboard with Streamlit and Python, https://medium.com/data-science-collective/how-to-build-an-interactive-dashboard-with-streamlit-and-python-fcd03cb63ad0
-- How to Structure your Dashboard So Users Find What They Need Without Thinking?, https://medium.com/@Santhanalakshmip/how-to-structure-your-dashboard-so-users-find-what-they-need-without-thinking-b971e9dc6c45
-- D3.js vs Plotly: Which JavaScript Visualization Library Should You Choose?, https://medium.com/@ebojacky/d3-js-vs-plotly-which-javascript-visualization-library-should-you-choose-dbf8ad67321f
-
 
 # Streamlit
 - A How To On Rapid Prototyping With Streamlit: Olympic Medal Trends Made Remarkably Simple, https://medium.com/data-storytelling-corner/a-how-to-on-rapid-prototyping-with-streamlit-olympic-medal-trends-made-remarkably-simple-744c3341ddd8
@@ -1553,16 +1321,6 @@ print(bmi)  # Виведе: 23.157829031553323
 - How to Prepare for the Head of Data Platform Role (AI, Analytics & Data Engineering) at a Top Quant Investment Firm at Singapore, https://medium.com/dataempire-ai/how-to-prepare-for-the-head-of-data-platform-role-ai-analytics-data-engineering-at-a-top-quant-dfb45fa7a4c3
 - Enterprise Architecture vs Solution Architecture: Complete Guide, https://medium.com/endtoenddata/enterprise-architecture-vs-solution-architecture-complete-guide-6698c474ed51
 - Azure Data Architect Interview Experience, https://medium.com/dataempire-ai/azure-data-architect-interview-experience-13694ecae673
-- 
-
-
-
-
-# Python Dashboard
-- Five Hat Racks: The Secret To Better Python Data Storytelling, https://medium.com/data-storytelling-corner/five-hat-racks-the-secret-to-better-python-data-storytelling-fe0e628b7a88
-- Python How-To: Better Data Storytelling In A Flash With PyNarrative, https://medium.com/data-storytelling-corner/python-how-to-better-data-storytelling-in-a-flash-with-pynarrative-feef0babff48
-- Practical Python Dashboards: The Best 5 Frameworks For Interactive Maps, https://medium.com/data-science-collective/practical-python-dashboards-the-best-5-frameworks-for-interactive-maps-0834ca7f0637
-- Deploy a Python Dashboard to GitHub Pages with Marimo — No Backend, All Free, https://bury-thomas.medium.com/deploy-a-python-dashboard-to-github-pages-with-marimo-no-backend-all-free-7bda3acee3ef
 - 
 
 
